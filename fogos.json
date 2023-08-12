@@ -594,8 +594,8 @@
       "location": "Castelo Branco, Covilhã, Tortosendo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 60,
-      "terrain": 20,
+      "man": 57,
+      "terrain": 18,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Tortosendo",
@@ -636,7 +636,7 @@
         "sec": 1691768285
       },
       "updated": {
-        "sec": 1691880250
+        "sec": 1691881706
       }
     },
     {
@@ -718,8 +718,8 @@
       "location": "Castelo Branco, Penamacor, Pedrógão De São Pedro E Bemposta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Pedrógão De São Pedro E Bemposta",
@@ -760,7 +760,7 @@
         "sec": 1691812238
       },
       "updated": {
-        "sec": 1691874496
+        "sec": 1691880969
       }
     },
     {
@@ -859,8 +859,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 2.5,
+          "agricola": 0,
+          "mato": 0.05,
+          "total": 2.55
+        },
         "altitude": 95.1694,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "PV"
       },
       "detailLocation": "Junto a Barragem (RIO LIMA)",
@@ -878,7 +884,7 @@
         "sec": 1691849536
       },
       "updated": {
-        "sec": 1691879043
+        "sec": 1691881339
       }
     },
     {
@@ -895,8 +901,8 @@
       "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 12,
+      "man": 30,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
@@ -937,7 +943,7 @@
         "sec": 1691853132
       },
       "updated": {
-        "sec": 1691880250
+        "sec": 1691881705
       }
     },
     {
@@ -1040,7 +1046,7 @@
         "fogacho": true,
         "fontealerta": "Outros"
       },
-      "detailLocation": "Lamas (Senhora da Cabeça)",
+      "detailLocation": "Lamas. Quinta de Santo António (Senhora da Cabeça)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1055,7 +1061,7 @@
         "sec": 1691867264
       },
       "updated": {
-        "sec": 1691871604
+        "sec": 1691881388
       }
     },
     {
@@ -1094,8 +1100,12 @@
       "sharepointId": 22492999,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 647.989,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sabroso de Aguiar. Vila Pouca de Aguiar. Portugal (Ponte da Amieira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1110,62 +1120,7 @@
         "sec": 1691870169
       },
       "updated": {
-        "sec": 1691878445
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d7e4d4e45551780335d581"
-      },
-      "id": "20230988282",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691870160
-      },
-      "date": "12-08-2023",
-      "hour": "20:56",
-      "location": "Vila Real, Valpaços, Friões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Vila Real",
-      "concelho": "Valpaços",
-      "freguesia": "Friões",
-      "dico": "1712",
-      "lat": 41.683807,
-      "lng": -7.396507,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Quintela ",
-      "active": true,
-      "sadoId": "20230988282",
-      "sharepointId": 22493014,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1691870420
-      },
-      "updated": {
-        "sec": 1691880250
+        "sec": 1691881414
       }
     },
     {
@@ -1204,8 +1159,12 @@
       "sharepointId": 22493310,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 249.707,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Fornelos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1220,62 +1179,7 @@
         "sec": 1691874963
       },
       "updated": {
-        "sec": 1691878812
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d7fa5370df1569925db52c"
-      },
-      "id": "20230988641",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691875560
-      },
-      "date": "12-08-2023",
-      "hour": "22:26",
-      "location": "Viana Do Castelo, Valença, Gandra E Taião",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Valença",
-      "freguesia": "Gandra E Taião",
-      "dico": "1608",
-      "lat": 42.012395,
-      "lng": -8.59011,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Visões ",
-      "active": true,
-      "sadoId": "20230988641",
-      "sharepointId": 22493373,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1691875923
-      },
-      "updated": {
-        "sec": 1691880123
+        "sec": 1691881486
       }
     },
     {
@@ -1298,8 +1202,8 @@
       "concelho": "Mangualde",
       "freguesia": "Santiago De Cassurrães E Póvoa De Cervães",
       "dico": "1806",
-      "lat": 40.56127,
-      "lng": -7.68734,
+      "lat": 40.57265,
+      "lng": -7.64612,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1319,7 +1223,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Póvoa de Cervães. Mangualde. Portugal (PÓVOA DE CERVÃES)",
+      "detailLocation": "Abrunhosa a Velha (PÓVOA DE CERVÃES)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1334,62 +1238,7 @@
         "sec": 1691875923
       },
       "updated": {
-        "sec": 1691879890
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8015c70df1569925db59a"
-      },
-      "id": "20230988750",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691877060
-      },
-      "date": "12-08-2023",
-      "hour": "22:51",
-      "location": "Porto, Paredes, Paredes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Paredes",
-      "dico": "1310",
-      "lat": 41.211267,
-      "lng": -8.344885,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mouriz ",
-      "active": true,
-      "sadoId": "20230988750",
-      "sharepointId": 22493482,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1691877724
-      },
-      "updated": {
-        "sec": 1691880250
+        "sec": 1691881706
       }
     },
     {
@@ -1406,8 +1255,8 @@
       "location": "Porto, Trofa, Bougado (São Martinho E Santiago)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Bougado (São Martinho E Santiago)",
@@ -1428,8 +1277,12 @@
       "sharepointId": 22493518,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 63.0531,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg de Alto de Paradela (Vale de Eirigo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1444,7 +1297,7 @@
         "sec": 1691878445
       },
       "updated": {
-        "sec": 1691880365
+        "sec": 1691881706
       }
     },
     {
@@ -1461,8 +1314,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Rebordões (Santa Maria)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 26,
+      "terrain": 7,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Rebordões (Santa Maria)",
@@ -1483,8 +1336,12 @@
       "sharepointId": 22493498,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 98.65,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Junto Campo Futebol (Catesim)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1499,7 +1356,7 @@
         "sec": 1691878564
       },
       "updated": {
-        "sec": 1691880250
+        "sec": 1691881553
       }
     },
     {
@@ -1513,24 +1370,24 @@
       },
       "date": "12-08-2023",
       "hour": "23:21",
-      "location": "Viana Do Castelo, Ponte da Barca, Boivães",
+      "location": "Viana Do Castelo, Ponte da Barca, Vade (São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
-      "freguesia": "Boivães",
+      "freguesia": "Vade (São Pedro)",
       "dico": "1606",
-      "lat": 41.763282,
-      "lng": -8.44941,
+      "lat": 41.765,
+      "lng": -8.414573,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Boivães ",
       "active": true,
@@ -1538,8 +1395,12 @@
       "sharepointId": 22493552,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 350.247,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "BOIVÃES (Certal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1554,7 +1415,7 @@
         "sec": 1691879043
       },
       "updated": {
-        "sec": 1691879055
+        "sec": 1691881967
       }
     },
     {
@@ -1571,8 +1432,8 @@
       "location": "Setúbal, Almada, Almada, Cova Da Piedade, Pragal E Cacilhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 7,
+      "man": 32,
+      "terrain": 9,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
@@ -1583,9 +1444,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Almada, Cova Da Piedade, Pragal E Cacilhas ",
       "active": true,
@@ -1593,8 +1454,12 @@
       "sharepointId": 22493554,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 37.73,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Instituto Piaget - Campus Universitário de Almada. Bairro do Matadouro. SE. Portugal (Arreinela)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1609,7 +1474,7 @@
         "sec": 1691879162
       },
       "updated": {
-        "sec": 1691880122
+        "sec": 1691881705
       }
     },
     {
@@ -1626,8 +1491,8 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 125,
+      "terrain": 33,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Alcabideche",
@@ -1638,9 +1503,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Pisão ",
       "active": true,
@@ -1648,8 +1513,12 @@
       "sharepointId": 22493602,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 101.764,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN 247 Pisão (Pisão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1664,7 +1533,184 @@
         "sec": 1691880250
       },
       "updated": {
-        "sec": 1691880364
+        "sec": 1691881967
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d80e0aa066717d1f0e5506"
+      },
+      "id": "20230988898",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691880540
+      },
+      "date": "12-08-2023",
+      "hour": "23:49",
+      "location": "Viseu, Viseu, São João De Lourosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "São João De Lourosa",
+      "dico": "1823",
+      "lat": 40.611147,
+      "lng": -7.905849,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Termasalcafache ",
+      "active": true,
+      "sadoId": "20230988898",
+      "sharepointId": 22493630,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 418.18,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.60512080.-7.86782432) - Calçada Bairro da Romana 14. 3530-026 Mangualde. Portugal (SÃO JOÃO DE LOUROSA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1691880970
+      },
+      "updated": {
+        "sec": 1691881595
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d80e0aa066717d1f0e5507"
+      },
+      "id": "20230988907",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691880780
+      },
+      "date": "12-08-2023",
+      "hour": "23:53",
+      "location": "Aveiro, Mealhada, Casal Comba",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Aveiro",
+      "concelho": "Mealhada",
+      "freguesia": "Casal Comba",
+      "dico": "111",
+      "lat": 40.34572,
+      "lng": -8.48605,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Casal Comba ",
+      "active": true,
+      "sadoId": "20230988907",
+      "sharepointId": 22493639,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 95.7763,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Silvã. Mealhada. Portugal (Silvã)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1691880970
+      },
+      "updated": {
+        "sec": 1691881706
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d80e0aa066717d1f0e5508"
+      },
+      "id": "20230988903",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691880480
+      },
+      "date": "12-08-2023",
+      "hour": "23:48",
+      "location": "Guarda, Manteigas, Manteigas (São Pedro)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Guarda",
+      "concelho": "Manteigas",
+      "freguesia": "Manteigas (São Pedro)",
+      "dico": "908",
+      "lat": 40.398921,
+      "lng": -7.537096,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Manteigas ",
+      "active": true,
+      "sadoId": "20230988903",
+      "sharepointId": 22493635,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 756.64,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "São Sebastião (Santo André)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1691880970
+      },
+      "updated": {
+        "sec": 1691881968
       }
     }
   ]
