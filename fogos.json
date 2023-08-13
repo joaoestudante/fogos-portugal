@@ -80,8 +80,8 @@
       "location": "Leiria, Leiria, Santa Catarina Da Serra E Chainça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Santa Catarina Da Serra E Chainça",
@@ -128,7 +128,7 @@
         "sec": 1691241491
       },
       "updated": {
-        "sec": 1691937602
+        "sec": 1691938821
       }
     },
     {
@@ -145,8 +145,8 @@
       "location": "Beja, Odemira, São Teotónio",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 104,
-      "terrain": 32,
+      "man": 147,
+      "terrain": 46,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
@@ -193,7 +193,7 @@
         "sec": 1691243765
       },
       "updated": {
-        "sec": 1691937602
+        "sec": 1691939202
       }
     },
     {
@@ -334,8 +334,8 @@
       "location": "Leiria, Leiria, Arrabal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 14,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Arrabal",
@@ -382,7 +382,7 @@
         "sec": 1691412846
       },
       "updated": {
-        "sec": 1691903071
+        "sec": 1691939333
       }
     },
     {
@@ -777,8 +777,8 @@
       "location": "Aveiro, Anadia, Avelãs De Cima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 9,
+      "man": 28,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Anadia",
       "freguesia": "Avelãs De Cima",
@@ -819,7 +819,7 @@
         "sec": 1691847852
       },
       "updated": {
-        "sec": 1691914337
+        "sec": 1691938821
       }
     },
     {
@@ -954,7 +954,7 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 134,
+      "man": 133,
       "terrain": 43,
       "district": "Lisboa",
       "concelho": "Cascais",
@@ -996,7 +996,7 @@
         "sec": 1691880250
       },
       "updated": {
-        "sec": 1691936762
+        "sec": 1691938821
       }
     },
     {
@@ -1013,8 +1013,8 @@
       "location": "Porto, Vila do Conde, Junqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Do Conde",
       "freguesia": "Junqueira",
@@ -1055,7 +1055,7 @@
         "sec": 1691908936
       },
       "updated": {
-        "sec": 1691935685
+        "sec": 1691938199
       }
     },
     {
@@ -1099,7 +1099,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LOIVOS (Camba)",
+      "detailLocation": "Oura (Camba)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1114,7 +1114,7 @@
         "sec": 1691922492
       },
       "updated": {
-        "sec": 1691929090
+        "sec": 1691939009
       }
     },
     {
@@ -1154,11 +1154,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1
+        },
         "altitude": 345.346,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lg Abutre (Calvário)",
+      "detailLocation": "Lg Abrute (Calvário)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1173,408 +1179,7 @@
         "sec": 1691926683
       },
       "updated": {
-        "sec": 1691936762
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8c4e778046c7cde7fe77f"
-      },
-      "id": "20230990913",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691927340
-      },
-      "date": "13-08-2023",
-      "hour": "12:49",
-      "location": "Lisboa, Odivelas, Pontinha E Famões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Pontinha E Famões",
-      "dico": "1116",
-      "lat": 38.777141,
-      "lng": -9.190629,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Serra Da Luz ",
-      "active": true,
-      "sadoId": "20230990913",
-      "sharepointId": 22495645,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 81.4256,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Serra da Luz",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1691927783
-      },
-      "updated": {
-        "sec": 1691937255
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8c4e778046c7cde7fe780"
-      },
-      "id": "20230990930",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691927520
-      },
-      "date": "13-08-2023",
-      "hour": "12:52",
-      "location": "Porto, Amarante, Telões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Telões",
-      "dico": "1301",
-      "lat": 41.31322,
-      "lng": -8.114325,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Telões ",
-      "active": true,
-      "sadoId": "20230990930",
-      "sharepointId": 22495662,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 207.051,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Freitas (Rompinto)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1691927783
-      },
-      "updated": {
-        "sec": 1691935685
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8cd504cb1fe034a2293ce"
-      },
-      "id": "20230991082",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691929500
-      },
-      "date": "13-08-2023",
-      "hour": "13:25",
-      "location": "Setúbal, Barreiro, Palhais E Coina",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Barreiro",
-      "freguesia": "Palhais E Coina",
-      "dico": "1504",
-      "lat": 38.59138,
-      "lng": -9.040709,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Palhais E Coina ",
-      "active": true,
-      "sadoId": "20230991082",
-      "sharepointId": 22495814,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1691929936
-      },
-      "updated": {
-        "sec": 1691937255
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8cd504cb1fe034a2293cf"
-      },
-      "id": "20230991100",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691929680
-      },
-      "date": "13-08-2023",
-      "hour": "13:28",
-      "location": "Faro, Loulé, Quarteira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Faro",
-      "concelho": "Loulé",
-      "freguesia": "Quarteira",
-      "dico": "808",
-      "lat": 37.153535,
-      "lng": -8.075675,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Trafal ",
-      "active": true,
-      "sadoId": "20230991100",
-      "sharepointId": 22495832,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1691929936
-      },
-      "updated": {
-        "sec": 1691937602
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8d112172151551022f974"
-      },
-      "id": "20230991154",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691930460
-      },
-      "date": "13-08-2023",
-      "hour": "13:41",
-      "location": "Porto, Marco de Canaveses, Marco",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Marco",
-      "dico": "1307",
-      "lat": 41.151735,
-      "lng": -8.153868,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Freixo ",
-      "active": true,
-      "sadoId": "20230991154",
-      "sharepointId": 22495886,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 270.491,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Covas de Cima (FREIXO)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1691930898
-      },
-      "updated": {
-        "sec": 1691937256
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8d26b172151551022f996"
-      },
-      "id": "20230991196",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691931000
-      },
-      "date": "13-08-2023",
-      "hour": "13:50",
-      "location": "Viana Do Castelo, Ponte de Lima, Fontão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte De Lima",
-      "freguesia": "Fontão",
-      "dico": "1607",
-      "lat": 41.736548,
-      "lng": -8.659335,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Bouça Velha ",
-      "active": true,
-      "sadoId": "20230991196",
-      "sharepointId": 22495928,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1691931243
-      },
-      "updated": {
-        "sec": 1691937256
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8d8fce29e982391347452"
-      },
-      "id": "20230991276",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691931960
-      },
-      "date": "13-08-2023",
-      "hour": "14:06",
-      "location": "Lisboa, Vila Franca de Xira, Vila Franca De Xira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Lisboa",
-      "concelho": "Vila Franca De Xira",
-      "freguesia": "Vila Franca De Xira",
-      "dico": "1114",
-      "lat": 38.92597,
-      "lng": -8.895392,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vila Franca De Xira ",
-      "active": true,
-      "sadoId": "20230991276",
-      "sharepointId": 22496008,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": -12.7131,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "EN10 (SÃO JOSÉ DAS LEZÍRIAS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1691932924
-      },
-      "updated": {
-        "sec": 1691936284
+        "sec": 1691939014
       }
     },
     {
@@ -1615,7 +1220,7 @@
       "disappear": false,
       "icnf": {
         "altitude": 257.562,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "Populares"
       },
       "detailLocation": "Lg Cabeça Santa (CABEÇA SANTA)",
@@ -1633,7 +1238,7 @@
         "sec": 1691932924
       },
       "updated": {
-        "sec": 1691933411
+        "sec": 1691939087
       }
     },
     {
@@ -1650,8 +1255,8 @@
       "location": "Porto, Maia, Nogueira E Silva Escura",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Nogueira E Silva Escura",
@@ -1677,7 +1282,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua União Nogueirense 93. 4475-505 Maia. Portugal (Rua União Nogueirense)",
+      "detailLocation": "Lugar Nogueirense (Rua União Nogueirense)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1692,7 +1297,7 @@
         "sec": 1691934624
       },
       "updated": {
-        "sec": 1691936763
+        "sec": 1691939333
       }
     },
     {
@@ -1707,10 +1312,10 @@
       "date": "13-08-2023",
       "hour": "14:51",
       "location": "Santarém, Ourém, Gondemaria E Olival",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 87,
-      "terrain": 20,
+      "man": 59,
+      "terrain": 18,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Gondemaria E Olival",
@@ -1721,9 +1326,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Barroquinha ",
       "active": true,
@@ -1751,7 +1356,7 @@
         "sec": 1691935084
       },
       "updated": {
-        "sec": 1691937256
+        "sec": 1691939530
       }
     },
     {
@@ -1849,8 +1454,12 @@
       "sharepointId": 22496256,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 6.075,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.09359000.-8.23926000) - Rua dos Girassóis 1. 8200-214 Albufeira. Portugal (Rua do Município)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1865,7 +1474,7 @@
         "sec": 1691936284
       },
       "updated": {
-        "sec": 1691937602
+        "sec": 1691939092
       }
     },
     {
@@ -1879,26 +1488,26 @@
       },
       "date": "13-08-2023",
       "hour": "15:13",
-      "location": "Viana Do Castelo, Ponte da Barca, Cuide De Vila Verde",
+      "location": "Viana Do Castelo, Ponte da Barca, Vade (São Pedro)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 12,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
-      "freguesia": "Cuide De Vila Verde",
+      "freguesia": "Vade (São Pedro)",
       "dico": "1606",
-      "lat": 41.763413,
-      "lng": -8.397702,
+      "lat": 41.765082,
+      "lng": -8.412472,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Danaia ",
+      "localidade": "Boivivo ",
       "active": true,
       "sadoId": "20230991548",
       "sharepointId": 22496280,
@@ -1909,7 +1518,7 @@
         "fogacho": true,
         "fontealerta": "PV"
       },
-      "detailLocation": "Danaia",
+      "detailLocation": "Boivivo (Penacova)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1924,7 +1533,7 @@
         "sec": 1691936284
       },
       "updated": {
-        "sec": 1691937256
+        "sec": 1691939103
       }
     },
     {
@@ -1953,9 +1562,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Riba De Âncora ",
       "active": true,
@@ -1963,8 +1572,12 @@
       "sharepointId": 22496360,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 99.795,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Riba de Âncora (Juia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1979,7 +1592,7 @@
         "sec": 1691937256
       },
       "updated": {
-        "sec": 1691937603
+        "sec": 1691939105
       }
     },
     {
@@ -2004,13 +1617,13 @@
       "dico": "1116",
       "lat": 38.788628,
       "lng": -9.214967,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Famões ",
       "active": true,
@@ -2018,8 +1631,12 @@
       "sharepointId": 22496338,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 137.448,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua José Augusto Gouveia (Casal do Segolim)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2034,66 +1651,7 @@
         "sec": 1691937256
       },
       "updated": {
-        "sec": 1691937296
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d8ea53e659407435233a0d"
-      },
-      "id": "20230991635",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691937180
-      },
-      "date": "13-08-2023",
-      "hour": "15:33",
-      "location": "Aveiro, Anadia, Avelãs De Cima",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Anadia",
-      "freguesia": "Avelãs De Cima",
-      "dico": "103",
-      "lat": 40.48976,
-      "lng": -8.3816,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Avelãs De Cima ",
-      "active": true,
-      "sadoId": "20230991635",
-      "sharepointId": 22496367,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 91.8375,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Capela (Ponte do Porto do Souto)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1691937363
-      },
-      "updated": {
-        "sec": 1691937389
+        "sec": 1691939115
       }
     },
     {
@@ -2110,21 +1668,21 @@
       "location": "Faro, Albufeira, Albufeira E Olhos De Água",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 15,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Albufeira",
       "freguesia": "Albufeira E Olhos De Água",
       "dico": "801",
-      "lat": 37.0931,
-      "lng": -8.23448,
+      "lat": 37.086448,
+      "lng": -8.277337,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Albufeira E Olhos De Água ",
       "active": true,
@@ -2132,8 +1690,12 @@
       "sharepointId": 22496335,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 6.075,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida dos Descobrimentos. 8200-047 Albufeira. Portugal (Rua do Lageado)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2148,7 +1710,239 @@
         "sec": 1691937603
       },
       "updated": {
-        "sec": 1691937603
+        "sec": 1691939530
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d8ed97227d8946125e9b80"
+      },
+      "id": "20230991672",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691937720
+      },
+      "date": "13-08-2023",
+      "hour": "15:42",
+      "location": "Viseu, Viseu, Faíl E Vila Chã De Sá",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 43,
+      "terrain": 9,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "Faíl E Vila Chã De Sá",
+      "dico": "1823",
+      "lat": 40.597798,
+      "lng": -7.963128,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Vila Chã De Sá ",
+      "active": true,
+      "sadoId": "20230991672",
+      "sharepointId": 22496404,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 380.67,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "VILA CHÃ DE SÁ (Maceira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1691938199
+      },
+      "updated": {
+        "sec": 1691939531
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d8f18278438430e0561b33"
+      },
+      "id": "20230991751",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691938500
+      },
+      "date": "13-08-2023",
+      "hour": "15:55",
+      "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
+      "dico": "1304",
+      "lat": 41.13911,
+      "lng": -8.5369,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Gondomar (São Cosme), Valbom E Jovim ",
+      "active": true,
+      "sadoId": "20230991751",
+      "sharepointId": 22496483,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 137.179,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua José Saramago 15 (Paço)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1691939202
+      },
+      "updated": {
+        "sec": 1691939333
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d8f18278438430e0561b34"
+      },
+      "id": "20230991746",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691938500
+      },
+      "date": "13-08-2023",
+      "hour": "15:55",
+      "location": "Porto, Marco de Canaveses, Avessadas E Rosém",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Avessadas E Rosém",
+      "dico": "1307",
+      "lat": 41.15603,
+      "lng": -8.16467,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Avessadas E Rosém ",
+      "active": true,
+      "sadoId": "20230991746",
+      "sharepointId": 22496478,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 226.525,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Rabaça (Dalhães)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1691939202
+      },
+      "updated": {
+        "sec": 1691939259
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d8f20517958e59f607b862"
+      },
+      "id": "20230991777",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691938920
+      },
+      "date": "13-08-2023",
+      "hour": "16:02",
+      "location": "Aveiro, Estarreja, Salreu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Salreu",
+      "dico": "108",
+      "lat": 40.74515,
+      "lng": -8.54589,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Salreu ",
+      "active": true,
+      "sadoId": "20230991777",
+      "sharepointId": 22496509,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1691939333
+      },
+      "updated": {
+        "sec": 1691939531
       }
     }
   ]
