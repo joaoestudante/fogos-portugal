@@ -334,8 +334,8 @@
       "location": "Leiria, Leiria, Arrabal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Arrabal",
@@ -382,7 +382,7 @@
         "sec": 1691412846
       },
       "updated": {
-        "sec": 1691966282
+        "sec": 1691967377
       }
     },
     {
@@ -830,8 +830,8 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 73,
-      "terrain": 25,
+      "man": 57,
+      "terrain": 19,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Alcabideche",
@@ -872,7 +872,7 @@
         "sec": 1691880250
       },
       "updated": {
-        "sec": 1691966765
+        "sec": 1691967934
       }
     },
     {
@@ -1029,8 +1029,18 @@
       "sharepointId": 22497464,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.0001,
+          "mato": 0,
+          "total": 0.0001
+        },
+        "altitude": 358.731,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Junto à EN254 (ED254 (ED254) Km 6)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1045,117 +1055,7 @@
         "sec": 1691954763
       },
       "updated": {
-        "sec": 1691957404
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d946ac5de2d517e772e065"
-      },
-      "id": "20230993092",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691960520
-      },
-      "date": "13-08-2023",
-      "hour": "22:02",
-      "location": "Leiria, Castanheira de Pêra, Castanheira De Pêra E Coentral",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Leiria",
-      "concelho": "Castanheira De Pêra",
-      "freguesia": "Castanheira De Pêra E Coentral",
-      "dico": "1007",
-      "lat": 40.04487,
-      "lng": -8.18713,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Castanheira De Pêra ",
-      "active": true,
-      "sadoId": "20230993092",
-      "sharepointId": 22497824,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "created": {
-        "sec": 1691961004
-      },
-      "updated": {
-        "sec": 1691966642
-      }
-    },
-    {
-      "_id": {
-        "$id": "64d94af15de2d517e772e088"
-      },
-      "id": "20230993165",
-      "coords": true,
-      "dateTime": {
-        "sec": 1691961720
-      },
-      "date": "13-08-2023",
-      "hour": "22:22",
-      "location": "Coimbra, Góis, Góis",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Coimbra",
-      "concelho": "Góis",
-      "freguesia": "Góis",
-      "dico": "606",
-      "lat": 40.134935,
-      "lng": -8.120659,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "En2 Cabeçadas ",
-      "active": true,
-      "sadoId": "20230993165",
-      "sharepointId": 22497897,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "created": {
-        "sec": 1691962097
-      },
-      "updated": {
-        "sec": 1691966765
+        "sec": 1691967795
       }
     },
     {
@@ -1172,8 +1072,8 @@
       "location": "Aveiro, Arouca, Canelas E Espiunca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Canelas E Espiunca",
@@ -1199,7 +1099,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "N225. 4540-349 Arouca. Portugal (Tuqueirão)",
+      "detailLocation": "Serra de Serabigões (Tuqueirão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1214,7 +1114,7 @@
         "sec": 1691963052
       },
       "updated": {
-        "sec": 1691965173
+        "sec": 1691967849
       }
     },
     {
@@ -1243,9 +1143,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Caparica E Trafaria ",
       "active": true,
@@ -1273,7 +1173,7 @@
         "sec": 1691964736
       },
       "updated": {
-        "sec": 1691966529
+        "sec": 1691967243
       }
     },
     {
@@ -1302,9 +1202,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -1312,8 +1212,12 @@
       "sharepointId": 22498069,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 142.231,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "R. Bouça da Lage (Bouça da Lage)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1328,7 +1232,66 @@
         "sec": 1691965443
       },
       "updated": {
-        "sec": 1691965803
+        "sec": 1691967851
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d960868f1f782813509949"
+      },
+      "id": "20230993425",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691967300
+      },
+      "date": "13-08-2023",
+      "hour": "23:55",
+      "location": "Viana Do Castelo, Viana do Castelo, Freixieiro De Soutelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Freixieiro De Soutelo",
+      "dico": "1609",
+      "lat": 41.80247,
+      "lng": -8.8269,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Freixieiro De Soutelo ",
+      "active": true,
+      "sadoId": "20230993425",
+      "sharepointId": 22498157,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 34.8969,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Freixieiro de Soutelo (Quinta da Parapinta)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1691967622
+      },
+      "updated": {
+        "sec": 1691967862
       }
     }
   ]
