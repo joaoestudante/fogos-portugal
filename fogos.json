@@ -80,8 +80,8 @@
       "location": "Leiria, Leiria, Santa Catarina Da Serra E Chainça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 3,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Santa Catarina Da Serra E Chainça",
@@ -128,7 +128,7 @@
         "sec": 1691241491
       },
       "updated": {
-        "sec": 1691783042
+        "sec": 1691921049
       }
     },
     {
@@ -193,7 +193,7 @@
         "sec": 1691243765
       },
       "updated": {
-        "sec": 1691919850
+        "sec": 1691921404
       }
     },
     {
@@ -594,8 +594,8 @@
       "location": "Castelo Branco, Covilhã, Tortosendo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 84,
-      "terrain": 24,
+      "man": 83,
+      "terrain": 23,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Tortosendo",
@@ -606,9 +606,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Tortosendo ",
       "active": true,
@@ -636,7 +636,7 @@
         "sec": 1691768285
       },
       "updated": {
-        "sec": 1691918376
+        "sec": 1691921050
       }
     },
     {
@@ -893,16 +893,16 @@
       "date": "12-08-2023",
       "hour": "22:25",
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
+      "man": 35,
       "terrain": 10,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
       "dico": "1806",
-      "lat": 40.578608,
-      "lng": -7.63944,
+      "lat": 40.568323,
+      "lng": -7.633293,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -937,7 +937,7 @@
         "sec": 1691875923
       },
       "updated": {
-        "sec": 1691917228
+        "sec": 1691921049
       }
     },
     {
@@ -954,8 +954,8 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 171,
-      "terrain": 55,
+      "man": 162,
+      "terrain": 52,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Alcabideche",
@@ -996,7 +996,7 @@
         "sec": 1691880250
       },
       "updated": {
-        "sec": 1691919964
+        "sec": 1691921403
       }
     },
     {
@@ -1115,42 +1115,46 @@
     },
     {
       "_id": {
-        "$id": "64d8993a1723634435142715"
+        "$id": "64d8aa9ab6e638183239c134"
       },
-      "id": "20230990098",
+      "id": "20230990431",
       "coords": true,
       "dateTime": {
-        "sec": 1691916360
+        "sec": 1691920440
       },
       "date": "13-08-2023",
-      "hour": "09:46",
-      "location": "Faro, Portimão, Portimão",
-      "aerial": 0,
+      "hour": "10:54",
+      "location": "Faro, Albufeira, Guia",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 24,
+      "terrain": 5,
       "district": "Faro",
-      "concelho": "Portimão",
-      "freguesia": "Portimão",
-      "dico": "811",
-      "lat": 37.13147,
-      "lng": -8.54848,
+      "concelho": "Albufeira",
+      "freguesia": "Guia",
+      "dico": "801",
+      "lat": 37.13501,
+      "lng": -8.27461,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Portimão ",
+      "localidade": "Guia ",
       "active": true,
-      "sadoId": "20230990098",
-      "sharepointId": 22494830,
+      "sadoId": "20230990431",
+      "sharepointId": 22495163,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 46.4238,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Caminho do Poço das Canas. 8200 Albufeira. Portugal (VALVERDE 2º)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1162,10 +1166,69 @@
       "regiao": "Algarve",
       "sub_regiao": "Algarve",
       "created": {
-        "sec": 1691916602
+        "sec": 1691921050
       },
       "updated": {
-        "sec": 1691919850
+        "sec": 1691921070
+      }
+    },
+    {
+      "_id": {
+        "$id": "64d8aa9ab6e638183239c136"
+      },
+      "id": "20230990458",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691920200
+      },
+      "date": "13-08-2023",
+      "hour": "10:50",
+      "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
+      "dico": "113",
+      "lat": 40.836334,
+      "lng": -8.482939,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20230990458",
+      "sharepointId": 22495190,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 174.241,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua manuel alves soares (Relva)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1691921050
+      },
+      "updated": {
+        "sec": 1691921105
       }
     }
   ]
