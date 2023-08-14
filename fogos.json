@@ -836,8 +836,8 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Alcabideche",
@@ -878,7 +878,7 @@
         "sec": 1691880250
       },
       "updated": {
-        "sec": 1692011378
+        "sec": 1692017291
       }
     },
     {
@@ -1125,65 +1125,6 @@
     },
     {
       "_id": {
-        "$id": "64d9f41d19919b3bc85d08c4"
-      },
-      "id": "20230994899",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692005040
-      },
-      "date": "14-08-2023",
-      "hour": "10:24",
-      "location": "Porto, Valongo, Ermesinde",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Valongo",
-      "freguesia": "Ermesinde",
-      "dico": "1315",
-      "lat": 41.213923,
-      "lng": -8.531632,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ermesinde ",
-      "active": true,
-      "sadoId": "20230994899",
-      "sharepointId": 22499631,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 157.946,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Lugar Alto da Costa (Costa do Reguengo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692005405
-      },
-      "updated": {
-        "sec": 1692011883
-      }
-    },
-    {
-      "_id": {
         "$id": "64d9faac19919b3bc85d08fe"
       },
       "id": "20230994987",
@@ -1421,16 +1362,16 @@
       },
       "date": "14-08-2023",
       "hour": "12:39",
-      "location": "Viana Do Castelo, Ponte da Barca, Azias",
+      "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
-      "freguesia": "Azias",
+      "freguesia": "Touvedo (São Lourenço E Salvador)",
       "dico": "1606",
-      "lat": 41.760197,
+      "lat": 41.810197,
       "lng": -8.350922,
       "naturezaCode": "3103",
       "natureza": "Mato",
@@ -1462,7 +1403,121 @@
         "sec": 1692013331
       },
       "updated": {
-        "sec": 1692015725
+        "sec": 1692016323
+      }
+    },
+    {
+      "_id": {
+        "$id": "64da228b5150b1421e49c820"
+      },
+      "id": "20230995969",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692016800
+      },
+      "date": "14-08-2023",
+      "hour": "13:40",
+      "location": "Coimbra, Lousã, Lousã E Vilarinho",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 50,
+      "terrain": 9,
+      "district": "Coimbra",
+      "concelho": "Lousã",
+      "freguesia": "Lousã E Vilarinho",
+      "dico": "607",
+      "lat": 40.12575,
+      "lng": -8.210545,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Vilarinho ",
+      "active": true,
+      "sadoId": "20230995969",
+      "sharepointId": 22500701,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 322.947,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "VILARINHO",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692017291
+      },
+      "updated": {
+        "sec": 1692017649
+      }
+    },
+    {
+      "_id": {
+        "$id": "64da228c5150b1421e49c822"
+      },
+      "id": "20230995992",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692017040
+      },
+      "date": "14-08-2023",
+      "hour": "13:44",
+      "location": "Coimbra, Tábua, Carapinha",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Tábua",
+      "freguesia": "Carapinha",
+      "dico": "616",
+      "lat": 40.28794,
+      "lng": -8.09464,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carapinha ",
+      "active": true,
+      "sadoId": "20230995992",
+      "sharepointId": 22500724,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692017292
+      },
+      "updated": {
+        "sec": 1692017650
       }
     }
   ]
