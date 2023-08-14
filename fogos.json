@@ -901,8 +901,8 @@
       "location": "Porto, Vila Nova de Gaia, Mafamude E Vilar Do Paraíso",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Mafamude E Vilar Do Paraíso",
@@ -923,8 +923,12 @@
       "sharepointId": 22503078,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 84.1156,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua do Roseiral (Travessa do Pinhal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -939,7 +943,7 @@
         "sec": 1692050888
       },
       "updated": {
-        "sec": 1692052442
+        "sec": 1692054629
       }
     },
     {
@@ -956,16 +960,16 @@
       "location": "Castelo Branco, Penamacor, Aldeia Do Bispo, Águas E Aldeia De João Pires",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Aldeia Do Bispo, Águas E Aldeia De João Pires",
       "dico": "507",
       "lat": 40.105637,
       "lng": -7.143837,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -978,8 +982,12 @@
       "sharepointId": 22503076,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 427.849,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lajinha",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -994,7 +1002,7 @@
         "sec": 1692050888
       },
       "updated": {
-        "sec": 1692052818
+        "sec": 1692054219
       }
     },
     {
@@ -1011,21 +1019,21 @@
       "location": "Coimbra, Arganil, Pombeiro Da Beira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 18,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Pombeiro Da Beira",
       "dico": "601",
-      "lat": 40.218536,
-      "lng": -8.149563,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "lat": 40.23,
+      "lng": -8.13056,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Pombeiro Da Beira ",
       "active": true,
@@ -1033,8 +1041,12 @@
       "sharepointId": 22503172,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 302.536,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "POMBEIRO DA BEIRA (Salgueiral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1049,7 +1061,121 @@
         "sec": 1692052693
       },
       "updated": {
-        "sec": 1692052818
+        "sec": 1692054453
+      }
+    },
+    {
+      "_id": {
+        "$id": "64daafa17bea2c533141e882"
+      },
+      "id": "20230998464",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692052980
+      },
+      "date": "14-08-2023",
+      "hour": "23:43",
+      "location": "Coimbra, Pampilhosa da Serra, Fajão-vidual",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Pampilhosa Da Serra",
+      "freguesia": "Fajão-vidual",
+      "dico": "612",
+      "lat": 40.15264,
+      "lng": -7.9115,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fajão ",
+      "active": true,
+      "sadoId": "20230998464",
+      "sharepointId": 22503196,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 639.382,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ponte de Fajão",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692053409
+      },
+      "updated": {
+        "sec": 1692054453
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dab465fada122f022a7992"
+      },
+      "id": "20230998517",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692054300
+      },
+      "date": "15-08-2023",
+      "hour": "00:05",
+      "location": "Porto, Paredes, Recarei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Recarei",
+      "dico": "1310",
+      "lat": 41.153815,
+      "lng": -8.414286,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Recarei ",
+      "active": true,
+      "sadoId": "20230998517",
+      "sharepointId": 22503249,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1692054629
+      },
+      "updated": {
+        "sec": 1692054850
       }
     }
   ]
