@@ -148,8 +148,8 @@
       "location": "Beja, Odemira, São Teotónio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 76,
-      "terrain": 27,
+      "man": 79,
+      "terrain": 29,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
@@ -196,7 +196,7 @@
         "sec": 1691243765
       },
       "updated": {
-        "sec": 1692080642
+        "sec": 1692083096
       }
     },
     {
@@ -1028,8 +1028,8 @@
       "location": "Coimbra, Oliveira do Hospital, Santa Ovaia E Vila Pouca Da Beira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Oliveira Do Hospital",
       "freguesia": "Santa Ovaia E Vila Pouca Da Beira",
@@ -1050,8 +1050,18 @@
       "sharepointId": 22503627,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.5,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.5
+        },
+        "altitude": 369.111,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ponte das Três Entradas (Vila Franca)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1066,7 +1076,66 @@
         "sec": 1692070930
       },
       "updated": {
-        "sec": 1692081963
+        "sec": 1692082980
+      }
+    },
+    {
+      "_id": {
+        "$id": "64db209a1c88d016451a3fe9"
+      },
+      "id": "20230999135",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692082080
+      },
+      "date": "15-08-2023",
+      "hour": "07:48",
+      "location": "Lisboa, Sintra, Queluz E Belas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Queluz E Belas",
+      "dico": "1111",
+      "lat": 38.79907,
+      "lng": -9.272598,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Queluz E Belas ",
+      "active": true,
+      "sadoId": "20230999135",
+      "sharepointId": 22503867,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 227.702,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N117 (Casal da Carregueira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692082330
+      },
+      "updated": {
+        "sec": 1692083403
       }
     }
   ]
