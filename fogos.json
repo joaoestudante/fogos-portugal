@@ -148,8 +148,8 @@
       "location": "Beja, Odemira, São Teotónio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 76,
-      "terrain": 28,
+      "man": 86,
+      "terrain": 30,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
@@ -196,7 +196,7 @@
         "sec": 1691243765
       },
       "updated": {
-        "sec": 1692084724
+        "sec": 1692097220
       }
     },
     {
@@ -1028,8 +1028,8 @@
       "location": "Santarém, Ourém, Fátima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Fátima",
@@ -1050,8 +1050,12 @@
       "sharepointId": 22504234,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 436.517,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Giesteira (Cabeço do Moinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1066,7 +1070,7 @@
         "sec": 1692088218
       },
       "updated": {
-        "sec": 1692091322
+        "sec": 1692097698
       }
     },
     {
@@ -1083,8 +1087,8 @@
       "location": "Santarém, Ourém, Fátima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Fátima",
@@ -1106,11 +1110,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.0004,
+          "total": 0.0004
+        },
         "altitude": 436.517,
         "fogacho": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Giesteira",
+      "detailLocation": "Giesteira (Cabeço do Moinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1125,7 +1135,7 @@
         "sec": 1692090363
       },
       "updated": {
-        "sec": 1692091803
+        "sec": 1692097930
       }
     },
     {
@@ -1142,8 +1152,8 @@
       "location": "Braga, Terras de Bouro, Chamoim E Vilar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Chamoim E Vilar",
@@ -1164,8 +1174,12 @@
       "sharepointId": 22504376,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 567.761,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "L. Freitas (Tomadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1180,7 +1194,7 @@
         "sec": 1692090363
       },
       "updated": {
-        "sec": 1692096250
+        "sec": 1692097390
       }
     },
     {
@@ -1209,9 +1223,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Moleanos ",
       "active": true,
@@ -1219,8 +1233,12 @@
       "sharepointId": 22504478,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 183.876,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Moleanos (Molianos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1235,7 +1253,7 @@
         "sec": 1692091444
       },
       "updated": {
-        "sec": 1692094456
+        "sec": 1692097504
       }
     },
     {
@@ -1250,9 +1268,9 @@
       "date": "15-08-2023",
       "hour": "10:40",
       "location": "Guarda, Trancoso, Castanheira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 49,
+      "man": 43,
       "terrain": 12,
       "district": "Guarda",
       "concelho": "Trancoso",
@@ -1264,9 +1282,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Castanheira ",
       "active": true,
@@ -1279,7 +1297,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "N229-1. 6420-331 Trancoso. Portugal (Ribeira da Teja)",
+      "detailLocation": "Formiga/ Castanheira (ED229-1 (ED229-1) Km 14)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1294,7 +1312,7 @@
         "sec": 1692093003
       },
       "updated": {
-        "sec": 1692095658
+        "sec": 1692097930
       }
     },
     {
@@ -1309,23 +1327,23 @@
       "date": "15-08-2023",
       "hour": "11:22",
       "location": "Guarda, Seia, Santiago",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Santiago",
       "dico": "912",
       "lat": 40.426895,
       "lng": -7.736158,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Folgoda Do Salvador ",
       "active": true,
@@ -1333,8 +1351,12 @@
       "sharepointId": 22504787,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 421.192,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santiago (Folgosa do Salvador)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1349,7 +1371,172 @@
         "sec": 1692095285
       },
       "updated": {
-        "sec": 1692096371
+        "sec": 1692097504
+      }
+    },
+    {
+      "_id": {
+        "$id": "64db5be0af1f4c69857d38a2"
+      },
+      "id": "20231000216",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692097140
+      },
+      "date": "15-08-2023",
+      "hour": "11:59",
+      "location": "Faro, Tavira, Santa Catarina Da Fonte Do Bispo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Tavira",
+      "freguesia": "Santa Catarina Da Fonte Do Bispo",
+      "dico": "814",
+      "lat": 37.14871,
+      "lng": -7.74128,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santa Catarina Da Fonte Do Bispo ",
+      "active": true,
+      "sadoId": "20231000216",
+      "sharepointId": 22504948,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692097504
+      },
+      "updated": {
+        "sec": 1692097931
+      }
+    },
+    {
+      "_id": {
+        "$id": "64db5d8b268aa0204478e56b"
+      },
+      "id": "20231000265",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692097680
+      },
+      "date": "15-08-2023",
+      "hour": "12:08",
+      "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Aboim Da Nóbrega E Gondomar",
+      "dico": "313",
+      "lat": 41.750632,
+      "lng": -8.392419,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Aboim Da Nobrega ",
+      "active": true,
+      "sadoId": "20231000265",
+      "sharepointId": 22504997,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1692097931
+      },
+      "updated": {
+        "sec": 1692097931
+      }
+    },
+    {
+      "_id": {
+        "$id": "64db5d8b268aa0204478e56d"
+      },
+      "id": "20231000266",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692097680
+      },
+      "date": "15-08-2023",
+      "hour": "12:08",
+      "location": "Faro, Portimão, Mexilhoeira Grande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Mexilhoeira Grande",
+      "dico": "811",
+      "lat": 37.15614,
+      "lng": -8.61429,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Mexilhoeira Grande ",
+      "active": true,
+      "sadoId": "20231000266",
+      "sharepointId": 22504998,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692097931
+      },
+      "updated": {
+        "sec": 1692097931
       }
     }
   ]
