@@ -1018,8 +1018,8 @@
       "location": "Leiria, Batalha, São Mamede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 58,
-      "terrain": 18,
+      "man": 77,
+      "terrain": 22,
       "district": "Leiria",
       "concelho": "Batalha",
       "freguesia": "São Mamede",
@@ -1030,9 +1030,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Pessegueiro ",
       "active": true,
@@ -1060,7 +1060,7 @@
         "sec": 1692062555
       },
       "updated": {
-        "sec": 1692063842
+        "sec": 1692065284
       }
     },
     {
@@ -1077,8 +1077,8 @@
       "location": "Leiria, Caldas da Rainha, Nossa Senhora Do Pópulo, Coto E São Gregório",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Nossa Senhora Do Pópulo, Coto E São Gregório",
@@ -1089,9 +1089,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Gregório Da Fanadia ",
       "active": true,
@@ -1115,7 +1115,62 @@
         "sec": 1692064090
       },
       "updated": {
-        "sec": 1692064563
+        "sec": 1692065889
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dae062a1f5f200aa03b2ce"
+      },
+      "id": "20230998804",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692065640
+      },
+      "date": "15-08-2023",
+      "hour": "03:14",
+      "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Aboim Da Nóbrega E Gondomar",
+      "dico": "313",
+      "lat": 41.74883,
+      "lng": -8.379371,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20230998804",
+      "sharepointId": 22503536,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1692065890
+      },
+      "updated": {
+        "sec": 1692065914
       }
     }
   ]
