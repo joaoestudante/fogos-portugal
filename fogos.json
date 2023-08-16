@@ -1264,8 +1264,8 @@
       "location": "Lisboa, Loures, Loures",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Loures",
@@ -1306,7 +1306,7 @@
         "sec": 1692177620
       },
       "updated": {
-        "sec": 1692183825
+        "sec": 1692186249
       }
     },
     {
@@ -1441,8 +1441,8 @@
       "location": "Leiria, Alcobaça, Cela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 9,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Cela",
@@ -1483,66 +1483,7 @@
         "sec": 1692182656
       },
       "updated": {
-        "sec": 1692183960
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dcaa5ae9513354ed6b38e6"
-      },
-      "id": "20231004818",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692182460
-      },
-      "date": "16-08-2023",
-      "hour": "11:41",
-      "location": "Lisboa, Cascais, São Domingos De Rana",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Cascais",
-      "freguesia": "São Domingos De Rana",
-      "dico": "1105",
-      "lat": 38.740483,
-      "lng": -9.347651,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Trajouce ",
-      "active": true,
-      "sadoId": "20231004818",
-      "sharepointId": 22509550,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 115.648,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua Sabido Luis Pedroso (Bairro Cabeço do Cação)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1692183130
-      },
-      "updated": {
-        "sec": 1692183159
+        "sec": 1692185764
       }
     },
     {
@@ -1557,10 +1498,10 @@
       "date": "16-08-2023",
       "hour": "12:07",
       "location": "Leiria, Bombarral, Bombarral E Vale Covo",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 32,
+      "terrain": 7,
       "district": "Leiria",
       "concelho": "Bombarral",
       "freguesia": "Bombarral E Vale Covo",
@@ -1571,9 +1512,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias Do Bombarral E Vale Covo ",
       "active": true,
@@ -1597,7 +1538,7 @@
         "sec": 1692184335
       },
       "updated": {
-        "sec": 1692185174
+        "sec": 1692186250
       }
     },
     {
@@ -1612,10 +1553,10 @@
       "date": "16-08-2023",
       "hour": "12:07",
       "location": "Lisboa, Cadaval, Cadaval E Pêro Moniz",
-      "aerial": 2,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 2,
+      "man": 20,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Cadaval",
       "freguesia": "Cadaval E Pêro Moniz",
@@ -1626,9 +1567,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pero Moniz ",
       "active": true,
@@ -1652,7 +1593,176 @@
         "sec": 1692184803
       },
       "updated": {
-        "sec": 1692185174
+        "sec": 1692186250
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dcb68a95c8f606437383cc"
+      },
+      "id": "20231005045",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692185760
+      },
+      "date": "16-08-2023",
+      "hour": "12:36",
+      "location": "Lisboa, Cadaval, Peral",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Lisboa",
+      "concelho": "Cadaval",
+      "freguesia": "Peral",
+      "dico": "1104",
+      "lat": 39.255533,
+      "lng": -9.073829,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Peral ",
+      "active": true,
+      "sadoId": "20231005045",
+      "sharepointId": 22509777,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1692186250
+      },
+      "updated": {
+        "sec": 1692186363
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dcb68a95c8f606437383cd"
+      },
+      "id": "20231005046",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692185820
+      },
+      "date": "16-08-2023",
+      "hour": "12:37",
+      "location": "Santarém, Ourém, Matas E Cercal",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Matas E Cercal",
+      "dico": "1421",
+      "lat": 39.707591,
+      "lng": -8.659005,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cercal ",
+      "active": true,
+      "sadoId": "20231005046",
+      "sharepointId": 22509778,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 178.756,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "CERCAL",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1692186250
+      },
+      "updated": {
+        "sec": 1692186363
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dcb68a95c8f606437383ce"
+      },
+      "id": "20231005053",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692185820
+      },
+      "date": "16-08-2023",
+      "hour": "12:37",
+      "location": "Viana Do Castelo, Ponte da Barca, Crasto, Ruivos E Grovelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Crasto, Ruivos E Grovelas",
+      "dico": "1606",
+      "lat": 41.758708,
+      "lng": -8.44398,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Grovelas ",
+      "active": true,
+      "sadoId": "20231005053",
+      "sharepointId": 22509785,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1692186250
+      },
+      "updated": {
+        "sec": 1692186313
       }
     }
   ]
