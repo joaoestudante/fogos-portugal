@@ -402,8 +402,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -450,7 +450,7 @@
         "sec": 1691414056
       },
       "updated": {
-        "sec": 1692141603
+        "sec": 1692144496
       }
     },
     {
@@ -809,8 +809,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 47.5310310196877,
+          "agricola": 17.4440665083885,
+          "mato": 130.98158470602,
+          "total": 195.956682234097
+        },
         "altitude": 485.536,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Pinhal do Norte (Carrão)",
@@ -828,7 +834,7 @@
         "sec": 1692022205
       },
       "updated": {
-        "sec": 1692141482
+        "sec": 1692144067
       }
     },
     {
@@ -888,65 +894,6 @@
       },
       "updated": {
         "sec": 1692140285
-      }
-    },
-    {
-      "_id": {
-        "$id": "64db5ef3268aa0204478e593"
-      },
-      "id": "20231000280",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692097860
-      },
-      "date": "15-08-2023",
-      "hour": "12:11",
-      "location": "Guarda, Trancoso, Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
-      "district": "Guarda",
-      "concelho": "Trancoso",
-      "freguesia": "Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
-      "dico": "913",
-      "lat": 40.879,
-      "lng": -7.390652,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sebadelhe Da Serra ",
-      "active": true,
-      "sadoId": "20231000280",
-      "sharepointId": 22505012,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 814.823,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "EM583 Sebadelhe da Serra (Casal do Prazo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1692098291
-      },
-      "updated": {
-        "sec": 1692141965
       }
     },
     {
@@ -1069,124 +1016,6 @@
     },
     {
       "_id": {
-        "$id": "64dbf5e69de94247c6618b75"
-      },
-      "id": "20231002718",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692136620
-      },
-      "date": "15-08-2023",
-      "hour": "22:57",
-      "location": "Viseu, Sátão, Rio De Moinhos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Sátão",
-      "freguesia": "Rio De Moinhos",
-      "dico": "1817",
-      "lat": 40.714755,
-      "lng": -7.691507,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Rio De Moinhos ",
-      "active": true,
-      "sadoId": "20231002718",
-      "sharepointId": 22507450,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 544.311,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua das Fontainhas (Quinta das Fontaínhas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1692136934
-      },
-      "updated": {
-        "sec": 1692143044
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dbf92c130cb469b53f2717"
-      },
-      "id": "20231002745",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692137220
-      },
-      "date": "15-08-2023",
-      "hour": "23:07",
-      "location": "Guarda, Guarda, Guarda",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Guarda",
-      "concelho": "Guarda",
-      "freguesia": "Guarda",
-      "dico": "907",
-      "lat": 40.55877,
-      "lng": -7.25044,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Guarda ",
-      "active": true,
-      "sadoId": "20231002745",
-      "sharepointId": 22507477,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 862.797,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Pingo Doce. 6300 Guarda. Portugal (Quinta Nova do Camalhão)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1692137772
-      },
-      "updated": {
-        "sec": 1692142685
-      }
-    },
-    {
-      "_id": {
         "$id": "64dc08a215545637395ba370"
       },
       "id": "20231002913",
@@ -1199,21 +1028,21 @@
       "location": "Leiria, Caldas da Rainha, Landal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Landal",
       "dico": "1006",
-      "lat": 39.296558,
-      "lng": -9.010623,
+      "lat": 39.29705,
+      "lng": -9.008803,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casais Da Serra ",
       "active": true,
@@ -1237,62 +1066,7 @@
         "sec": 1692141730
       },
       "updated": {
-        "sec": 1692142929
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dc092115545637395ba374"
-      },
-      "id": "20231002915",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692141720
-      },
-      "date": "16-08-2023",
-      "hour": "00:22",
-      "location": "Porto, Felgueiras, Sendim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Sendim",
-      "dico": "1303",
-      "lat": 41.386455,
-      "lng": -8.186937,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Sendim ",
-      "active": true,
-      "sadoId": "20231002915",
-      "sharepointId": 22507647,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692141857
-      },
-      "updated": {
-        "sec": 1692142084
+        "sec": 1692146289
       }
     },
     {
@@ -1309,21 +1083,21 @@
       "location": "Viseu, Lamego, Cambres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 13,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Cambres",
       "dico": "1805",
-      "lat": 41.128504,
-      "lng": -7.811598,
+      "lat": 41.159132,
+      "lng": -7.794622,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cambres ",
       "active": true,
@@ -1347,7 +1121,7 @@
         "sec": 1692142929
       },
       "updated": {
-        "sec": 1692143044
+        "sec": 1692145091
       }
     },
     {
@@ -1364,21 +1138,21 @@
       "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Lavradas",
       "dico": "1606",
-      "lat": 41.77967,
-      "lng": -8.47409,
+      "lat": 41.779698,
+      "lng": -8.47136,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lavradas ",
       "active": true,
@@ -1402,7 +1176,66 @@
         "sec": 1692142929
       },
       "updated": {
-        "sec": 1692142960
+        "sec": 1692146289
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dc1370aa91f0446879b0a2"
+      },
+      "id": "20231002992",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692144000
+      },
+      "date": "16-08-2023",
+      "hour": "01:00",
+      "location": "Braga, Terras de Bouro, Rio Caldo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 37,
+      "terrain": 8,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Rio Caldo",
+      "dico": "310",
+      "lat": 41.684424,
+      "lng": -8.201416,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20231002992",
+      "sharepointId": 22507724,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 372.721,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Rio Caldo (EN304 (EN304) Km 74)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1692144496
+      },
+      "updated": {
+        "sec": 1692147784
       }
     }
   ]
