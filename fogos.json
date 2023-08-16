@@ -904,8 +904,8 @@
       "location": "Lisboa, Loures, Loures",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 78,
-      "terrain": 31,
+      "man": 76,
+      "terrain": 30,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Loures",
@@ -946,66 +946,7 @@
         "sec": 1692153851
       },
       "updated": {
-        "sec": 1692225962
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dcb68a95c8f606437383cc"
-      },
-      "id": "20231005045",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692185760
-      },
-      "date": "16-08-2023",
-      "hour": "12:36",
-      "location": "Lisboa, Cadaval, Peral",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Cadaval",
-      "freguesia": "Peral",
-      "dico": "1104",
-      "lat": 39.253732,
-      "lng": -9.018357,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Peral ",
-      "active": true,
-      "sadoId": "20231005045",
-      "sharepointId": 22509777,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 106.646,
-        "fogacho": true,
-        "fontealerta": "Outros"
-      },
-      "detailLocation": "Quinta de Santo Antonio - Peral (Malhada Velha)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1692186250
-      },
-      "updated": {
-        "sec": 1692214810
+        "sec": 1692226217
       }
     },
     {
@@ -1081,8 +1022,8 @@
       "location": "Viseu, Lamego, Penude",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Penude",
@@ -1104,8 +1045,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 3.5,
+          "total": 3.5
+        },
         "altitude": 810.136,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "PV"
       },
       "detailLocation": "Outeiro (Bairral)",
@@ -1123,7 +1070,7 @@
         "sec": 1692195490
       },
       "updated": {
-        "sec": 1692223452
+        "sec": 1692226961
       }
     },
     {
@@ -1199,8 +1146,8 @@
       "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 57,
-      "terrain": 17,
+      "man": 39,
+      "terrain": 12,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Martinho De Antas E Paradela De Guiães",
@@ -1241,7 +1188,7 @@
         "sec": 1692198024
       },
       "updated": {
-        "sec": 1692224884
+        "sec": 1692227282
       }
     },
     {
@@ -1258,8 +1205,8 @@
       "location": "Lisboa, Vila Franca de Xira, Vila Franca De Xira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 16,
+      "man": 38,
+      "terrain": 12,
       "district": "Lisboa",
       "concelho": "Vila Franca De Xira",
       "freguesia": "Vila Franca De Xira",
@@ -1300,7 +1247,7 @@
         "sec": 1692203886
       },
       "updated": {
-        "sec": 1692222001
+        "sec": 1692227404
       }
     },
     {
@@ -1317,8 +1264,8 @@
       "location": "Beja, Serpa, Brinches",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Brinches",
@@ -1341,10 +1288,10 @@
       "disappear": false,
       "icnf": {
         "altitude": 84.6344,
-        "agricola": true,
+        "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "N265. 7830 Serpa. Portugal (ED265 (ED265) Km 7)",
+      "detailLocation": "EN 265 Km 7 (ED265 (ED265) Km 7)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1359,7 +1306,7 @@
         "sec": 1692211205
       },
       "updated": {
-        "sec": 1692222363
+        "sec": 1692227143
       }
     },
     {
@@ -1376,21 +1323,21 @@
       "location": "Aveiro, Ílhavo, Ílhavo (São Salvador)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Ílhavo",
       "freguesia": "Ílhavo (São Salvador)",
       "dico": "110",
-      "lat": 40.58619,
-      "lng": -8.69315,
+      "lat": 40.586185,
+      "lng": -8.69184,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ílhavo (São Salvador) ",
       "active": true,
@@ -1398,8 +1345,12 @@
       "sharepointId": 22512545,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -0.899375,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Loira (Gafanha da Boavista)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1414,7 +1365,7 @@
         "sec": 1692224649
       },
       "updated": {
-        "sec": 1692225849
+        "sec": 1692227404
       }
     },
     {
@@ -1437,24 +1388,28 @@
       "concelho": "Ponte Da Barca",
       "freguesia": "Azias",
       "dico": "1606",
-      "lat": 41.76796,
-      "lng": -8.361025,
+      "lat": 41.772665,
+      "lng": -8.358732,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Azias ",
+      "localidade": "Outeiro ",
       "active": true,
       "sadoId": "20231007830",
       "sharepointId": 22512562,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 480.421,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Outeiro (Lagoa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1469,7 +1424,180 @@
         "sec": 1692225252
       },
       "updated": {
-        "sec": 1692225265
+        "sec": 1692227144
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dd522b7340f66b780fefd2"
+      },
+      "id": "20231007873",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692225960
+      },
+      "date": "16-08-2023",
+      "hour": "23:46",
+      "location": "Viana Do Castelo, Viana do Castelo, Afife",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Afife",
+      "dico": "1609",
+      "lat": 41.778476,
+      "lng": -8.866858,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Cabriteira ",
+      "active": true,
+      "sadoId": "20231007873",
+      "sharepointId": 22512605,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -7.51479,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar da Cabriteira (Rio de Cabanas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1692226091
+      },
+      "updated": {
+        "sec": 1692227404
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dd52a97340f66b780fefd8"
+      },
+      "id": "20231007868",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692225840
+      },
+      "date": "16-08-2023",
+      "hour": "23:44",
+      "location": "Lisboa, Sintra, São João Das Lampas E Terrugem",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "São João Das Lampas E Terrugem",
+      "dico": "1111",
+      "lat": 38.85328,
+      "lng": -9.37884,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De São João Das Lampas E Terrugem ",
+      "active": true,
+      "sadoId": "20231007868",
+      "sharepointId": 22512600,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 181.156,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Casa da Pedra by Stone Soul Lda. 2705 Sintra. Portugal (ER247 (ER247) Km 67)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692226217
+      },
+      "updated": {
+        "sec": 1692227071
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dd56d294753d4e0c714382"
+      },
+      "id": "20231007912",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692226320
+      },
+      "date": "16-08-2023",
+      "hour": "23:52",
+      "location": "Braga, Vila Nova de Famalicão, Vila Nova De Famalicão E Calendário",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Vila Nova De Famalicão E Calendário",
+      "dico": "312",
+      "lat": 41.39878,
+      "lng": -8.530915,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20231007912",
+      "sharepointId": 22512644,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1692227282
+      },
+      "updated": {
+        "sec": 1692227295
       }
     }
   ]
