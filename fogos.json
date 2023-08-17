@@ -839,8 +839,8 @@
       "location": "Lisboa, Loures, Loures",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 14,
+      "man": 24,
+      "terrain": 11,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Loures",
@@ -881,7 +881,7 @@
         "sec": 1692153851
       },
       "updated": {
-        "sec": 1692253683
+        "sec": 1692255004
       }
     },
     {
@@ -1004,65 +1004,6 @@
     },
     {
       "_id": {
-        "$id": "64dd5a9b94753d4e0c7143a8"
-      },
-      "id": "20231007945",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692228060
-      },
-      "date": "17-08-2023",
-      "hour": "00:21",
-      "location": "Santarém, Ourém, Atouguia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Ourém",
-      "freguesia": "Atouguia",
-      "dico": "1421",
-      "lat": 39.66133,
-      "lng": -8.614072,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cerimónia ",
-      "active": true,
-      "sadoId": "20231007945",
-      "sharepointId": 22512677,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 234.194,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Cerimónia",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1692228251
-      },
-      "updated": {
-        "sec": 1692241416
-      }
-    },
-    {
-      "_id": {
         "$id": "64dda60cd0c7706b7b2e897b"
       },
       "id": "20231008290",
@@ -1075,8 +1016,8 @@
       "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Martinho De Antas E Paradela De Guiães",
@@ -1097,8 +1038,12 @@
       "sharepointId": 22513022,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 599.276,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Roalde",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1113,62 +1058,7 @@
         "sec": 1692247564
       },
       "updated": {
-        "sec": 1692250443
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ddbaab1528036a0120ecd2"
-      },
-      "id": "20231008384",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692252060
-      },
-      "date": "17-08-2023",
-      "hour": "07:01",
-      "location": "Porto, Gondomar, Rio Tinto",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Rio Tinto",
-      "dico": "1304",
-      "lat": 41.18921,
-      "lng": -8.55902,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Rio Tinto ",
-      "active": true,
-      "sadoId": "20231008384",
-      "sharepointId": 22513116,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692252843
-      },
-      "updated": {
-        "sec": 1692253085
+        "sec": 1692255774
       }
     },
     {
@@ -1197,9 +1087,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Escariz ",
       "active": true,
@@ -1227,7 +1117,66 @@
         "sec": 1692253682
       },
       "updated": {
-        "sec": 1692253702
+        "sec": 1692255003
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ddc31c1528036a0120ecec"
+      },
+      "id": "20231008436",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692253740
+      },
+      "date": "17-08-2023",
+      "hour": "07:29",
+      "location": "Porto, Felgueiras, Pombeiro De Ribavizela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Pombeiro De Ribavizela",
+      "dico": "1303",
+      "lat": 41.382828,
+      "lng": -8.22519,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pombeiro ",
+      "active": true,
+      "sadoId": "20231008436",
+      "sharepointId": 22513168,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 199.439,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "LG Cachada (POMBEIRO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1692255004
+      },
+      "updated": {
+        "sec": 1692255870
       }
     }
   ]
