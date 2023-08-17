@@ -839,8 +839,8 @@
       "location": "Coimbra, Penacova, Oliveira Do Mondego E Travanca Do Mondego",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 15,
+      "man": 26,
+      "terrain": 10,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Oliveira Do Mondego E Travanca Do Mondego",
@@ -881,7 +881,7 @@
         "sec": 1692286758
       },
       "updated": {
-        "sec": 1692311899
+        "sec": 1692312492
       }
     },
     {
@@ -920,8 +920,12 @@
       "sharepointId": 22516855,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 1021.62,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lamas. Montalegre. Portugal (Lamas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -936,7 +940,7 @@
         "sec": 1692303256
       },
       "updated": {
-        "sec": 1692310690
+        "sec": 1692313422
       }
     },
     {
@@ -953,8 +957,8 @@
       "location": "Aveiro, Estarreja, Beduído E Veiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 4,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Estarreja",
       "freguesia": "Beduído E Veiros",
@@ -975,8 +979,12 @@
       "sharepointId": 22517130,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -3.39375,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Veiros. Estarreja. Portugal (VEIROS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -991,7 +999,7 @@
         "sec": 1692309002
       },
       "updated": {
-        "sec": 1692311281
+        "sec": 1692314045
       }
     },
     {
@@ -1014,15 +1022,15 @@
       "concelho": "Ponte Da Barca",
       "freguesia": "Sampriz",
       "dico": "1606",
-      "lat": 41.78268,
-      "lng": -8.38002,
+      "lat": 41.782407,
+      "lng": -8.379722,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cardelha ",
       "active": true,
@@ -1030,8 +1038,12 @@
       "sharepointId": 22517219,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 481.627,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Cardelha (Gojo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1046,7 +1058,7 @@
         "sec": 1692311049
       },
       "updated": {
-        "sec": 1692312136
+        "sec": 1692313461
       }
     },
     {
@@ -1069,15 +1081,15 @@
       "concelho": "Paços De Ferreira",
       "freguesia": "Frazão Arreigada",
       "dico": "1309",
-      "lat": 41.257386,
-      "lng": -8.405185,
+      "lat": 41.247928,
+      "lng": -8.391468,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Frazão ",
       "active": true,
@@ -1090,7 +1102,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "R Pinheiro Manso (Cruz)",
+      "detailLocation": "R Pinheiro Manso (Quinta)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1105,7 +1117,180 @@
         "sec": 1692312136
       },
       "updated": {
-        "sec": 1692312156
+        "sec": 1692313473
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dea3ac291a96061952701c"
+      },
+      "id": "20231012538",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692311940
+      },
+      "date": "17-08-2023",
+      "hour": "23:39",
+      "location": "Lisboa, Oeiras, Algés, Linda-a-velha E Cruz Quebrada-dafundo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Algés, Linda-a-velha E Cruz Quebrada-dafundo",
+      "dico": "1110",
+      "lat": 38.715384,
+      "lng": -9.244903,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Linda A Velha ",
+      "active": true,
+      "sadoId": "20231012538",
+      "sharepointId": 22517270,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 71.8087,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua João Chagas (Linda-a-Velha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692312492
+      },
+      "updated": {
+        "sec": 1692314045
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dea68c291a96061952703b"
+      },
+      "id": "20231012579",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692312780
+      },
+      "date": "17-08-2023",
+      "hour": "23:53",
+      "location": "Viana Do Castelo, Ponte da Barca, Ponte Da Barca, V. N. Muía E Paço Vedro Magalhães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Ponte Da Barca, V. N. Muía E Paço Vedro Magalhães",
+      "dico": "1606",
+      "lat": 41.801513,
+      "lng": -8.395862,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cimo De Vila ",
+      "active": true,
+      "sadoId": "20231012579",
+      "sharepointId": 22517311,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 245.566,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Cimo de Vila (Santa Rita)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1692313228
+      },
+      "updated": {
+        "sec": 1692313569
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dea8d77005ab2de56227c2"
+      },
+      "id": "20231012588",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692313440
+      },
+      "date": "18-08-2023",
+      "hour": "00:04",
+      "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Lavradas",
+      "dico": "1606",
+      "lat": 41.783079,
+      "lng": -8.46494,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Simães ",
+      "active": true,
+      "sadoId": "20231012588",
+      "sharepointId": 22517320,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1692313815
+      },
+      "updated": {
+        "sec": 1692313826
       }
     }
   ]
