@@ -975,9 +975,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Caranguejeira ",
       "active": true,
@@ -1005,7 +1005,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692236884
+        "sec": 1692248043
       }
     },
     {
@@ -1087,8 +1087,8 @@
       "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 6,
+      "man": 8,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Martinho De Antas E Paradela De Guiães",
@@ -1129,7 +1129,7 @@
         "sec": 1692198024
       },
       "updated": {
-        "sec": 1692228490
+        "sec": 1692248043
       }
     },
     {
@@ -1205,8 +1205,8 @@
       "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Martinho De Antas E Paradela De Guiães",
@@ -1217,9 +1217,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São Martinho De Antas E Paradela De Guiães ",
       "active": true,
@@ -1243,7 +1243,66 @@
         "sec": 1692247564
       },
       "updated": {
-        "sec": 1692247575
+        "sec": 1692248162
+      }
+    },
+    {
+      "_id": {
+        "$id": "64dda7ebd0c7706b7b2e897f"
+      },
+      "id": "20231008303",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692247500
+      },
+      "date": "17-08-2023",
+      "hour": "05:45",
+      "location": "Braga, Vila Nova de Famalicão, Fradelos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Fradelos",
+      "dico": "312",
+      "lat": 41.36568,
+      "lng": -8.59049,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fradelos ",
+      "active": true,
+      "sadoId": "20231008303",
+      "sharepointId": 22513035,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 58.0962,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.36568000.-8.59049000) - Rua Valdossos 425. 4760-485 Vila Nova de Famalicão. Portugal (Vale de Ossos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1692248043
+      },
+      "updated": {
+        "sec": 1692249142
       }
     }
   ]
