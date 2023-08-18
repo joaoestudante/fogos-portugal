@@ -898,8 +898,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Lavradas",
@@ -920,8 +920,12 @@
       "sharepointId": 22517320,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 269.205,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Rossio (Simães)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -936,7 +940,7 @@
         "sec": 1692313815
       },
       "updated": {
-        "sec": 1692323642
+        "sec": 1692328838
       }
     },
     {
@@ -975,8 +979,12 @@
       "sharepointId": 22517569,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 197.958,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Soutelo (Igreja)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -991,66 +999,7 @@
         "sec": 1692323764
       },
       "updated": {
-        "sec": 1692328358
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dee1a6f8a94f2a8a5d81e4"
-      },
-      "id": "20231012889",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692326640
-      },
-      "date": "18-08-2023",
-      "hour": "03:44",
-      "location": "Lisboa, Odivelas, Pontinha E Famões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Pontinha E Famões",
-      "dico": "1116",
-      "lat": 38.79129,
-      "lng": -9.211612,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Pontinha E Famões ",
-      "active": true,
-      "sadoId": "20231012889",
-      "sharepointId": 22517621,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 149.798,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua de São Jorge 4. 1685-919 Odivelas. Portugal (Famães)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1692328358
-      },
-      "updated": {
-        "sec": 1692328502
+        "sec": 1692328671
       }
     }
   ]
