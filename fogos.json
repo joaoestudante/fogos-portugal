@@ -597,8 +597,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 11,
+      "man": 14,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -639,7 +639,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692398644
+        "sec": 1692399004
       }
     },
     {
@@ -780,8 +780,8 @@
       "location": "Santarém, Ourém, Gondemaria E Olival",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 9,
+      "man": 31,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Gondemaria E Olival",
@@ -822,7 +822,7 @@
         "sec": 1692369363
       },
       "updated": {
-        "sec": 1692398643
+        "sec": 1692399626
       }
     },
     {
@@ -839,8 +839,8 @@
       "location": "Santarém, Ourém, Matas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 251,
-      "terrain": 87,
+      "man": 249,
+      "terrain": 86,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Matas E Cercal",
@@ -881,7 +881,7 @@
         "sec": 1692371892
       },
       "updated": {
-        "sec": 1692398423
+        "sec": 1692399244
       }
     },
     {
@@ -921,6 +921,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.24,
+          "total": 0.24
+        },
         "altitude": 417.593,
         "fogacho": true,
         "fontealerta": "CCO"
@@ -940,7 +946,7 @@
         "sec": 1692383765
       },
       "updated": {
-        "sec": 1692398644
+        "sec": 1692399788
       }
     },
     {
@@ -957,8 +963,8 @@
       "location": "Porto, Baião, Ancede E Ribadouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Ancede E Ribadouro",
@@ -979,8 +985,12 @@
       "sharepointId": 22521622,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 356.805,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lugar Santo André (Sobreiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -995,7 +1005,7 @@
         "sec": 1692389051
       },
       "updated": {
-        "sec": 1692396602
+        "sec": 1692400444
       }
     },
     {
@@ -1012,8 +1022,8 @@
       "location": "Faro, Loulé, Almancil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Almancil",
@@ -1034,8 +1044,12 @@
       "sharepointId": 22521769,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 22.3281,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Sacadura Cabral (Areias de Almansil)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1050,66 +1064,7 @@
         "sec": 1692391685
       },
       "updated": {
-        "sec": 1692397455
-      }
-    },
-    {
-      "_id": {
-        "$id": "64dfe97afe9d4970620f1bc3"
-      },
-      "id": "20231017231",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692395280
-      },
-      "date": "18-08-2023",
-      "hour": "22:48",
-      "location": "Setúbal, Seixal, Corroios",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Corroios",
-      "dico": "1510",
-      "lat": 38.64609,
-      "lng": -9.15624,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Corroios ",
-      "active": true,
-      "sadoId": "20231017231",
-      "sharepointId": 22521963,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 40.7981,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Quinta do Conde 74. 2855-083 Seixal. Portugal (CORROIOS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1692395898
-      },
-      "updated": {
-        "sec": 1692396602
+        "sec": 1692399923
       }
     },
     {
