@@ -656,8 +656,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 19,
+      "man": 56,
+      "terrain": 20,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -698,7 +698,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692337204
+        "sec": 1692342519
       }
     },
     {
@@ -957,8 +957,8 @@
       "location": "Évora, Vendas Novas, Vendas Novas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Évora",
       "concelho": "Vendas Novas",
       "freguesia": "Vendas Novas",
@@ -979,8 +979,18 @@
       "sharepointId": 22517707,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 1,
+          "total": 1
+        },
+        "altitude": 71.2694,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua 25 de Abril (Gezeros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -995,7 +1005,7 @@
         "sec": 1692332042
       },
       "updated": {
-        "sec": 1692340085
+        "sec": 1692342519
       }
     }
   ]
