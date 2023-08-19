@@ -727,8 +727,8 @@
       "location": "Coimbra, Penacova, Oliveira Do Mondego E Travanca Do Mondego",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Oliveira Do Mondego E Travanca Do Mondego",
@@ -769,7 +769,7 @@
         "sec": 1692286758
       },
       "updated": {
-        "sec": 1692450494
+        "sec": 1692455176
       }
     },
     {
@@ -1026,10 +1026,10 @@
       "date": "19-08-2023",
       "hour": "14:31",
       "location": "Coimbra, Figueira da Foz, Alhadas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Alhadas",
@@ -1040,9 +1040,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Grelos ",
       "active": true,
@@ -1066,7 +1066,7 @@
         "sec": 1692452290
       },
       "updated": {
-        "sec": 1692454047
+        "sec": 1692454930
       }
     },
     {
@@ -1095,9 +1095,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pechão ",
       "active": true,
@@ -1125,7 +1125,7 @@
         "sec": 1692453627
       },
       "updated": {
-        "sec": 1692454047
+        "sec": 1692454684
       }
     },
     {
@@ -1140,10 +1140,10 @@
       "date": "19-08-2023",
       "hour": "15:01",
       "location": "Castelo Branco, Covilhã, Covilhã E Canhoso",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 21,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Covilhã E Canhoso",
@@ -1154,9 +1154,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Covilhã ",
       "active": true,
@@ -1184,7 +1184,62 @@
         "sec": 1692454047
       },
       "updated": {
-        "sec": 1692454092
+        "sec": 1692455176
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0d011c4b079695645d581"
+      },
+      "id": "20231020121",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692454560
+      },
+      "date": "19-08-2023",
+      "hour": "15:16",
+      "location": "Porto, Paredes, Lordelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Lordelo",
+      "dico": "1310",
+      "lat": 41.239614,
+      "lng": -8.422737,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lordelo ",
+      "active": true,
+      "sadoId": "20231020121",
+      "sharepointId": 22524853,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1692454929
+      },
+      "updated": {
+        "sec": 1692455044
       }
     }
   ]
