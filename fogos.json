@@ -727,8 +727,8 @@
       "location": "Santarém, Ourém, Gondemaria E Olival",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 41,
-      "terrain": 10,
+      "man": 46,
+      "terrain": 11,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Gondemaria E Olival",
@@ -769,7 +769,7 @@
         "sec": 1692369363
       },
       "updated": {
-        "sec": 1692443137
+        "sec": 1692456852
       }
     },
     {
@@ -878,7 +878,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua Padre Álvaro Silva Barbosa. 4600-782 Amarante. Portugal (Pecegueiros)",
+      "detailLocation": "LOUREDO (Outeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -893,7 +893,7 @@
         "sec": 1692440645
       },
       "updated": {
-        "sec": 1692455772
+        "sec": 1692457368
       }
     },
     {
@@ -910,8 +910,8 @@
       "location": "Coimbra, Figueira da Foz, Alhadas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 16,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Alhadas",
@@ -932,8 +932,12 @@
       "sharepointId": 22524628,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 59.8475,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Grelos (Gornalo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -948,7 +952,7 @@
         "sec": 1692452290
       },
       "updated": {
-        "sec": 1692454930
+        "sec": 1692457541
       }
     },
     {
@@ -963,10 +967,10 @@
       "date": "19-08-2023",
       "hour": "14:55",
       "location": "Faro, Olhão, Pechão",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 9,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Olhão",
       "freguesia": "Pechão",
@@ -992,7 +996,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Pechão. Olhão. Portugal (Igreja)",
+      "detailLocation": "Pechão. Olhão. Portugal (Queijeira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1007,66 +1011,7 @@
         "sec": 1692453627
       },
       "updated": {
-        "sec": 1692456364
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e0cc9fc4b079695645d552"
-      },
-      "id": "20231020034",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692453660
-      },
-      "date": "19-08-2023",
-      "hour": "15:01",
-      "location": "Castelo Branco, Covilhã, Covilhã E Canhoso",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Castelo Branco",
-      "concelho": "Covilhã",
-      "freguesia": "Covilhã E Canhoso",
-      "dico": "503",
-      "lat": 40.28076,
-      "lng": -7.50442,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Covilhã ",
-      "active": true,
-      "sadoId": "20231020034",
-      "sharepointId": 22524766,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 643.058,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Covilhã. Portugal (SÃO TIAGO)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1692454047
-      },
-      "updated": {
-        "sec": 1692456243
+        "sec": 1692457542
       }
     },
     {
@@ -1089,15 +1034,15 @@
       "concelho": "Paredes",
       "freguesia": "Lordelo",
       "dico": "1310",
-      "lat": 41.239614,
-      "lng": -8.422737,
+      "lat": 41.24943,
+      "lng": -8.410228,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Lordelo ",
       "active": true,
@@ -1105,8 +1050,12 @@
       "sharepointId": 22524853,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 210.236,
+        "agricola": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Torre",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1121,7 +1070,7 @@
         "sec": 1692454929
       },
       "updated": {
-        "sec": 1692455772
+        "sec": 1692457410
       }
     },
     {
@@ -1150,9 +1099,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Redondo ",
       "active": true,
@@ -1160,8 +1109,12 @@
       "sharepointId": 22524878,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 285.236,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Junto Estrada dos Foros (Monte da Sobreira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1176,7 +1129,125 @@
         "sec": 1692455404
       },
       "updated": {
-        "sec": 1692456364
+        "sec": 1692457423
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0d6abc4b079695645d5d4"
+      },
+      "id": "20231020225",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692456360
+      },
+      "date": "19-08-2023",
+      "hour": "15:46",
+      "location": "Porto, Amarante, Telões",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Telões",
+      "dico": "1301",
+      "lat": 41.30044,
+      "lng": -8.08738,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Telões ",
+      "active": true,
+      "sadoId": "20231020225",
+      "sharepointId": 22524957,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 230.356,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Zona Industrial de Telões. 4600 Amarante. Portugal (Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1692456619
+      },
+      "updated": {
+        "sec": 1692457803
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0d904c4b079695645d5e8"
+      },
+      "id": "20231020291",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692456960
+      },
+      "date": "19-08-2023",
+      "hour": "15:56",
+      "location": "Aveiro, Estarreja, Canelas E Fermelã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Canelas E Fermelã",
+      "dico": "108",
+      "lat": 40.720264,
+      "lng": -8.554472,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Canelas ",
+      "active": true,
+      "sadoId": "20231020291",
+      "sharepointId": 22525023,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 14.5275,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bioria (CANELAS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1692457220
+      },
+      "updated": {
+        "sec": 1692457446
       }
     }
   ]
