@@ -839,8 +839,8 @@
       "location": "Santarém, Ourém, Matas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 184,
-      "terrain": 67,
+      "man": 167,
+      "terrain": 60,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Matas E Cercal",
@@ -862,8 +862,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 51.9344406428307,
+          "agricola": 0.231751690107584,
+          "mato": 1.37788022750318,
+          "total": 53.5440725604415
+        },
         "altitude": 166.65,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "CCO"
       },
       "detailLocation": "Outeiro das Gameiras (Quinta das Gameiras)",
@@ -881,7 +887,7 @@
         "sec": 1692371892
       },
       "updated": {
-        "sec": 1692408390
+        "sec": 1692414482
       }
     },
     {
@@ -920,8 +926,12 @@
       "sharepointId": 22522398,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 128.089,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Armés (Ribeira de Fervença)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -936,66 +946,7 @@
         "sec": 1692406828
       },
       "updated": {
-        "sec": 1692408470
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e01a4585742c15b62231f6"
-      },
-      "id": "20231017695",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692407760
-      },
-      "date": "19-08-2023",
-      "hour": "02:16",
-      "location": "Vila Real, Chaves, Loivos E Póvoa De Agrações",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Loivos E Póvoa De Agrações",
-      "dico": "1703",
-      "lat": 41.65151,
-      "lng": -7.505,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Seixo ",
-      "active": true,
-      "sadoId": "20231017695",
-      "sharepointId": 22522427,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 425.721,
-        "fogacho": true,
-        "fontealerta": "117"
-      },
-      "detailLocation": "Seixo",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1692408389
-      },
-      "updated": {
-        "sec": 1692411002
+        "sec": 1692414203
       }
     },
     {
@@ -1024,9 +975,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Caçarilhe ",
       "active": true,
@@ -1034,8 +985,12 @@
       "sharepointId": 22522528,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 486.145,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar do Viso (Quintã)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1050,7 +1005,66 @@
         "sec": 1692411855
       },
       "updated": {
-        "sec": 1692412083
+        "sec": 1692414299
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e02de13e6fa21bb8039274"
+      },
+      "id": "20231017830",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692413100
+      },
+      "date": "19-08-2023",
+      "hour": "03:45",
+      "location": "Viseu, Cinfães, Souselo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Souselo",
+      "dico": "1804",
+      "lat": 41.06998,
+      "lng": -8.23113,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Souselo ",
+      "active": true,
+      "sadoId": "20231017830",
+      "sharepointId": 22522562,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 171.292,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Souselo. Cinfães. Portugal (São Sebastião)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1692413409
+      },
+      "updated": {
+        "sec": 1692414299
       }
     }
   ]
