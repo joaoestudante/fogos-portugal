@@ -276,9 +276,9 @@
       "date": "07-08-2023",
       "hour": "13:47",
       "location": "Leiria, Leiria, Arrabal",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 12,
       "terrain": 3,
       "district": "Leiria",
       "concelho": "Leiria",
@@ -326,7 +326,7 @@
         "sec": 1691412846
       },
       "updated": {
-        "sec": 1692461413
+        "sec": 1692462124
       }
     },
     {
@@ -898,65 +898,6 @@
     },
     {
       "_id": {
-        "$id": "64e0d011c4b079695645d581"
-      },
-      "id": "20231020121",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692454560
-      },
-      "date": "19-08-2023",
-      "hour": "15:16",
-      "location": "Porto, Paredes, Lordelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Lordelo",
-      "dico": "1310",
-      "lat": 41.24943,
-      "lng": -8.410228,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Lordelo ",
-      "active": true,
-      "sadoId": "20231020121",
-      "sharepointId": 22524853,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 210.236,
-        "agricola": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Torre",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692454929
-      },
-      "updated": {
-        "sec": 1692459011
-      }
-    },
-    {
-      "_id": {
         "$id": "64e0d6abc4b079695645d5d4"
       },
       "id": "20231020225",
@@ -1028,8 +969,8 @@
       "location": "Vila Real, Alijó, Vale De Mendiz, Casal De Loivos E Vilarinho De Cotas",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 21,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Alijó",
       "freguesia": "Vale De Mendiz, Casal De Loivos E Vilarinho De Cotas",
@@ -1066,7 +1007,117 @@
         "sec": 1692460937
       },
       "updated": {
-        "sec": 1692461765
+        "sec": 1692462244
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0ee1368c4d627977daedf"
+      },
+      "id": "20231020653",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692462300
+      },
+      "date": "19-08-2023",
+      "hour": "17:25",
+      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Bacelo E Senhora Da Saúde",
+      "dico": "705",
+      "lat": 38.58589,
+      "lng": -7.90008,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Evora ",
+      "active": true,
+      "sadoId": "20231020653",
+      "sharepointId": 22525385,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1692462611
+      },
+      "updated": {
+        "sec": 1692462623
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0ee1368c4d627977daee0"
+      },
+      "id": "20231020647",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692462180
+      },
+      "date": "19-08-2023",
+      "hour": "17:23",
+      "location": "Faro, Albufeira, Albufeira E Olhos De Água",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Albufeira E Olhos De Água",
+      "dico": "801",
+      "lat": 37.103443,
+      "lng": -8.250061,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Caliços ",
+      "active": true,
+      "sadoId": "20231020647",
+      "sharepointId": 22525379,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692462611
+      },
+      "updated": {
+        "sec": 1692462642
       }
     }
   ]
