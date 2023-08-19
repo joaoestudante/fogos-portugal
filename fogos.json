@@ -922,9 +922,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Louredo ",
       "active": true,
@@ -952,7 +952,7 @@
         "sec": 1692440645
       },
       "updated": {
-        "sec": 1692452644
+        "sec": 1692454046
       }
     },
     {
@@ -1028,21 +1028,21 @@
       "location": "Coimbra, Figueira da Foz, Alhadas",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 29,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Alhadas",
       "dico": "605",
-      "lat": 40.207662,
-      "lng": -8.789713,
+      "lat": 40.2125,
+      "lng": -8.78361,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Grelos ",
       "active": true,
@@ -1066,7 +1066,125 @@
         "sec": 1692452290
       },
       "updated": {
-        "sec": 1692452644
+        "sec": 1692454047
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0cafb7cf5c74fc160d044"
+      },
+      "id": "20231019996",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692453300
+      },
+      "date": "19-08-2023",
+      "hour": "14:55",
+      "location": "Faro, Olhão, Pechão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 7,
+      "district": "Faro",
+      "concelho": "Olhão",
+      "freguesia": "Pechão",
+      "dico": "810",
+      "lat": 37.05435,
+      "lng": -7.87216,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pechão ",
+      "active": true,
+      "sadoId": "20231019996",
+      "sharepointId": 22524728,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.3775,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Pechão. Olhão. Portugal (Igreja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692453627
+      },
+      "updated": {
+        "sec": 1692454047
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0cc9fc4b079695645d552"
+      },
+      "id": "20231020034",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692453660
+      },
+      "date": "19-08-2023",
+      "hour": "15:01",
+      "location": "Castelo Branco, Covilhã, Covilhã E Canhoso",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Covilhã E Canhoso",
+      "dico": "503",
+      "lat": 40.28076,
+      "lng": -7.50442,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Covilhã ",
+      "active": true,
+      "sadoId": "20231020034",
+      "sharepointId": 22524766,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 643.058,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Covilhã. Portugal (SÃO TIAGO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1692454047
+      },
+      "updated": {
+        "sec": 1692454092
       }
     }
   ]
