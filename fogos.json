@@ -786,8 +786,8 @@
       "location": "Santarém, Ourém, Gondemaria E Olival",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 46,
-      "terrain": 11,
+      "man": 41,
+      "terrain": 10,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Gondemaria E Olival",
@@ -828,7 +828,7 @@
         "sec": 1692369363
       },
       "updated": {
-        "sec": 1692415938
+        "sec": 1692443137
       }
     },
     {
@@ -845,8 +845,8 @@
       "location": "Santarém, Ourém, Matas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 124,
-      "terrain": 46,
+      "man": 129,
+      "terrain": 47,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Matas E Cercal",
@@ -893,7 +893,7 @@
         "sec": 1692371892
       },
       "updated": {
-        "sec": 1692439330
+        "sec": 1692442085
       }
     },
     {
@@ -932,8 +932,12 @@
       "sharepointId": 22523580,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 496.677,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Parque Natural da Serra do Alvão. M560. 4880-132 Mondim de Basto. Portugal (ER304 (ER304) Km 148)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -948,7 +952,7 @@
         "sec": 1692438364
       },
       "updated": {
-        "sec": 1692441124
+        "sec": 1692443019
       }
     },
     {
@@ -987,8 +991,12 @@
       "sharepointId": 22523785,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 278.164,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Padre Álvaro Silva Barbosa. 4600-782 Amarante. Portugal (Pecegueiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1003,7 +1011,7 @@
         "sec": 1692440645
       },
       "updated": {
-        "sec": 1692441845
+        "sec": 1692443034
       }
     },
     {
@@ -1018,10 +1026,10 @@
       "date": "19-08-2023",
       "hour": "11:26",
       "location": "Faro, Silves, São Marcos Da Serra",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 52,
-      "terrain": 11,
+      "man": 44,
+      "terrain": 10,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "São Marcos Da Serra",
@@ -1032,9 +1040,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale Da Horta ",
       "active": true,
@@ -1047,7 +1055,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(37.38070000.-8.26233000) - Autoestrada do Sul. 8375 Silves. Portugal (Barranco do Ribeiro)",
+      "detailLocation": "LatLong(37.38070000.-8.26233000) - Autoestrada do Sul. 8375 Silves. Portugal (Várzea de Ourigue)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1062,7 +1070,125 @@
         "sec": 1692441011
       },
       "updated": {
+        "sec": 1692443409
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e09cf564114673e87903e2"
+      },
+      "id": "20231019141",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692441660
+      },
+      "date": "19-08-2023",
+      "hour": "11:41",
+      "location": "Braga, Vizela, Infias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vizela",
+      "freguesia": "Infias",
+      "dico": "314",
+      "lat": 41.395982,
+      "lng": -8.31057,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20231019141",
+      "sharepointId": 22523873,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 237.893,
+        "agricola": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Travessa da Devesa da Torre (Quintães de Cima)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
         "sec": 1692441845
+      },
+      "updated": {
+        "sec": 1692443056
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e0a202d535763e1d6b2175"
+      },
+      "id": "20231019239",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692442800
+      },
+      "date": "19-08-2023",
+      "hour": "12:00",
+      "location": "Porto, Amarante, Louredo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Louredo",
+      "dico": "1301",
+      "lat": 41.254107,
+      "lng": -8.116431,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Louredo ",
+      "active": true,
+      "sadoId": "20231019239",
+      "sharepointId": 22523971,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 289.667,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "LOUREDO (Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1692443138
+      },
+      "updated": {
+        "sec": 1692443410
       }
     }
   ]
