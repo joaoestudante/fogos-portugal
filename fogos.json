@@ -898,61 +898,6 @@
     },
     {
       "_id": {
-        "$id": "64e07613f5a8a144635d56f9"
-      },
-      "id": "20231018361",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692431460
-      },
-      "date": "19-08-2023",
-      "hour": "08:51",
-      "location": "Porto, Amarante, Telões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Telões",
-      "dico": "1301",
-      "lat": 41.325368,
-      "lng": -8.11483,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Telões ",
-      "active": true,
-      "sadoId": "20231018361",
-      "sharepointId": 22523093,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692431891
-      },
-      "updated": {
-        "sec": 1692440521
-      }
-    },
-    {
-      "_id": {
         "$id": "64e08f5cc1bdd41b08007eaa"
       },
       "id": "20231018848",
@@ -963,10 +908,10 @@
       "date": "19-08-2023",
       "hour": "10:41",
       "location": "Vila Real, Mondim de Basto, Ermelo E Pardelhas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Mondim De Basto",
       "freguesia": "Ermelo E Pardelhas",
@@ -981,7 +926,7 @@
       "statusColor": "6ABF59",
       "status": "Vigilância",
       "important": false,
-      "localidade": "União Das Freguesias De Ermelo E Pardelhas ",
+      "localidade": "Ermelo E Pardelhas ",
       "active": true,
       "sadoId": "20231018848",
       "sharepointId": 22523580,
@@ -1003,7 +948,7 @@
         "sec": 1692438364
       },
       "updated": {
-        "sec": 1692440763
+        "sec": 1692441124
       }
     },
     {
@@ -1020,8 +965,8 @@
       "location": "Porto, Amarante, Vila Caiz",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 25,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Vila Caiz",
@@ -1058,7 +1003,66 @@
         "sec": 1692440645
       },
       "updated": {
-        "sec": 1692440764
+        "sec": 1692441845
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e099b364114673e87903c0"
+      },
+      "id": "20231019076",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692440760
+      },
+      "date": "19-08-2023",
+      "hour": "11:26",
+      "location": "Faro, Silves, São Marcos Da Serra",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 52,
+      "terrain": 11,
+      "district": "Faro",
+      "concelho": "Silves",
+      "freguesia": "São Marcos Da Serra",
+      "dico": "813",
+      "lat": 37.384536,
+      "lng": -8.2776,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vale Da Horta ",
+      "active": true,
+      "sadoId": "20231019076",
+      "sharepointId": 22523808,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 190.736,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.38070000.-8.26233000) - Autoestrada do Sul. 8375 Silves. Portugal (Barranco do Ribeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692441011
+      },
+      "updated": {
+        "sec": 1692441845
       }
     }
   ]
