@@ -597,8 +597,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -645,7 +645,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692561131
+        "sec": 1692563043
       }
     },
     {
@@ -969,8 +969,8 @@
       "location": "Leiria, Porto de Mós, Arrimal E Mendiga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "Arrimal E Mendiga",
@@ -1007,7 +1007,7 @@
         "sec": 1692555257
       },
       "updated": {
-        "sec": 1692558868
+        "sec": 1692563162
       }
     },
     {
@@ -1083,8 +1083,8 @@
       "location": "Santarém, Coruche, Coruche, Fajarda E Erra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 7,
+      "man": 9,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Coruche, Fajarda E Erra",
@@ -1125,66 +1125,7 @@
         "sec": 1692556203
       },
       "updated": {
-        "sec": 1692561619
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e25fea6ffbfc349946a4ee"
-      },
-      "id": "20231025609",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692557040
-      },
-      "date": "20-08-2023",
-      "hour": "19:44",
-      "location": "Faro, Albufeira, Paderne",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
-      "district": "Faro",
-      "concelho": "Albufeira",
-      "freguesia": "Paderne",
-      "dico": "801",
-      "lat": 37.15597,
-      "lng": -8.211566,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Paderne ",
-      "active": true,
-      "sadoId": "20231025609",
-      "sharepointId": 22530341,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 38.7869,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(37.15596745.-8.21156618) - Nó A2-A22. 8200 Albufeira. Portugal (CENTIEIRA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1692557290
-      },
-      "updated": {
-        "sec": 1692559819
+        "sec": 1692562684
       }
     },
     {
@@ -1201,8 +1142,8 @@
       "location": "Portalegre, Arronches, Assunção",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 21,
+      "terrain": 6,
       "district": "Portalegre",
       "concelho": "Arronches",
       "freguesia": "Assunção",
@@ -1243,7 +1184,7 @@
         "sec": 1692559331
       },
       "updated": {
-        "sec": 1692562448
+        "sec": 1692562685
       }
     },
     {
@@ -1464,6 +1405,61 @@
       },
       "updated": {
         "sec": 1692562449
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e274fde9034727427257e2"
+      },
+      "id": "20231025962",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692562440
+      },
+      "date": "20-08-2023",
+      "hour": "21:14",
+      "location": "Vila Real, Montalegre, Solveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Solveira",
+      "dico": "1706",
+      "lat": 41.84212,
+      "lng": -7.65857,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Solveira ",
+      "active": true,
+      "sadoId": "20231025962",
+      "sharepointId": 22530694,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1692562685
+      },
+      "updated": {
+        "sec": 1692563163
       }
     }
   ]
