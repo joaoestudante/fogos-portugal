@@ -727,8 +727,8 @@
       "location": "Santarém, Ourém, Gondemaria E Olival",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 24,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Gondemaria E Olival",
@@ -769,7 +769,7 @@
         "sec": 1692369363
       },
       "updated": {
-        "sec": 1692484456
+        "sec": 1692514205
       }
     },
     {
@@ -898,120 +898,6 @@
     },
     {
       "_id": {
-        "$id": "64e1922a5d99230140315256"
-      },
-      "id": "20231022530",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692504240
-      },
-      "date": "20-08-2023",
-      "hour": "05:04",
-      "location": "Santarém, Ourém, Fátima",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Santarém",
-      "concelho": "Ourém",
-      "freguesia": "Fátima",
-      "dico": "1421",
-      "lat": 39.586902,
-      "lng": -8.668937,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Giesteira ",
-      "active": true,
-      "sadoId": "20231022530",
-      "sharepointId": 22527262,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1692504618
-      },
-      "updated": {
-        "sec": 1692512291
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e1a05e33c23a45aa5131c2"
-      },
-      "id": "20231022580",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692506640
-      },
-      "date": "20-08-2023",
-      "hour": "05:44",
-      "location": "Santarém, Ourém, Fátima",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Ourém",
-      "freguesia": "Fátima",
-      "dico": "1421",
-      "lat": 39.586742,
-      "lng": -8.663258,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Giesteira ",
-      "active": true,
-      "sadoId": "20231022580",
-      "sharepointId": 22527312,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 436.517,
-        "fogacho": true,
-        "fontealerta": "CCO"
-      },
-      "detailLocation": "Giesteira",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1692508254
-      },
-      "updated": {
-        "sec": 1692513012
-      }
-    },
-    {
-      "_id": {
         "$id": "64e1a5601a89a719253bfc32"
       },
       "id": "20231022619",
@@ -1024,8 +910,8 @@
       "location": "Santarém, Ourém, Fátima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Fátima",
@@ -1046,8 +932,18 @@
       "sharepointId": 22527351,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.005,
+          "total": 0.005
+        },
+        "altitude": 436.517,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Giesteira (A1-S-N Km 109)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1062,7 +958,7 @@
         "sec": 1692509536
       },
       "updated": {
-        "sec": 1692512291
+        "sec": 1692514983
       }
     },
     {
@@ -1079,8 +975,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 19,
+      "terrain": 6,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -1101,8 +997,12 @@
       "sharepointId": 22527362,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 486.379,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vila Mendo de Tavares (AJEDO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1117,7 +1017,7 @@
         "sec": 1692509883
       },
       "updated": {
-        "sec": 1692512883
+        "sec": 1692514994
       }
     }
   ]
