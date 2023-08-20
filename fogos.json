@@ -957,61 +957,6 @@
     },
     {
       "_id": {
-        "$id": "64e1fd794b9a047bc23e5eb8"
-      },
-      "id": "20231023970",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692531120
-      },
-      "date": "20-08-2023",
-      "hour": "12:32",
-      "location": "Porto, Paredes, Vandoma",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Vandoma",
-      "dico": "1310",
-      "lat": 41.207323,
-      "lng": -8.390187,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20231023970",
-      "sharepointId": 22528702,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692532089
-      },
-      "updated": {
-        "sec": 1692534022
-      }
-    },
-    {
-      "_id": {
         "$id": "64e20e632294b31aba63f74e"
       },
       "id": "20231024271",
@@ -1024,21 +969,21 @@
       "location": "Porto, Amarante, Louredo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 4,
+      "man": 27,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Louredo",
       "dico": "1301",
-      "lat": 41.254107,
-      "lng": -8.116431,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 41.250537,
+      "lng": -8.127475,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Louredo ",
       "active": true,
@@ -1062,7 +1007,7 @@
         "sec": 1692536419
       },
       "updated": {
-        "sec": 1692537730
+        "sec": 1692539164
       }
     },
     {
@@ -1091,9 +1036,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Foz De Sousa ",
       "active": true,
@@ -1117,7 +1062,66 @@
         "sec": 1692537604
       },
       "updated": {
-        "sec": 1692537731
+        "sec": 1692538331
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e216c4683ffd7dff326f34"
+      },
+      "id": "20231024424",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692537900
+      },
+      "date": "20-08-2023",
+      "hour": "14:25",
+      "location": "Lisboa, Loures, Loures",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Loures",
+      "dico": "1107",
+      "lat": 38.85137,
+      "lng": -9.193872,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Loures ",
+      "active": true,
+      "sadoId": "20231024424",
+      "sharepointId": 22529156,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 72.1044,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Paz (Moinhos da Muralha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692538564
+      },
+      "updated": {
+        "sec": 1692539164
       }
     }
   ]
