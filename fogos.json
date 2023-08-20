@@ -910,8 +910,8 @@
       "location": "Porto, Amarante, Louredo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Louredo",
@@ -933,6 +933,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.22,
+          "agricola": 0,
+          "mato": 0.5,
+          "total": 0.72
+        },
         "altitude": 289.667,
         "fogacho": true,
         "fontealerta": "PV"
@@ -952,7 +958,7 @@
         "sec": 1692536419
       },
       "updated": {
-        "sec": 1692556803
+        "sec": 1692558140
       }
     },
     {
@@ -1028,8 +1034,8 @@
       "location": "Viseu, Resende, Barrô",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Resende",
       "freguesia": "Barrô",
@@ -1050,8 +1056,12 @@
       "sharepointId": 22529609,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 428.819,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Cetos (Langiais)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1066,7 +1076,7 @@
         "sec": 1692545291
       },
       "updated": {
-        "sec": 1692553684
+        "sec": 1692558182
       }
     },
     {
@@ -1083,8 +1093,8 @@
       "location": "Leiria, Pedrógão Grande, Graça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 6,
+      "man": 6,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Pedrógão Grande",
       "freguesia": "Graça",
@@ -1110,7 +1120,7 @@
         "fogacho": true,
         "fontealerta": "117"
       },
-      "detailLocation": "Casal da Francisca (Covão dos Fetos)",
+      "detailLocation": "Casal da Francisca",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1125,7 +1135,7 @@
         "sec": 1692547456
       },
       "updated": {
-        "sec": 1692557164
+        "sec": 1692558195
       }
     },
     {
@@ -1164,8 +1174,12 @@
       "sharepointId": 22530184,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 101.294,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Metro do Porto-Mandim. 4470 Maia. Portugal (Rua do Vieiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1180,62 +1194,7 @@
         "sec": 1692554654
       },
       "updated": {
-        "sec": 1692556092
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e257f96ffbfc349946a4a0"
-      },
-      "id": "20231025494",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692554940
-      },
-      "date": "20-08-2023",
-      "hour": "19:09",
-      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Montijo",
-      "freguesia": "Montijo E Afonsoeiro",
-      "dico": "1507",
-      "lat": 38.70112,
-      "lng": -8.96003,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Montijo E Afonsoeiro ",
-      "active": true,
-      "sadoId": "20231025494",
-      "sharepointId": 22530226,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1692555257
-      },
-      "updated": {
-        "sec": 1692556444
+        "sec": 1692558258
       }
     },
     {
@@ -1252,8 +1211,8 @@
       "location": "Portalegre, Sousel, Casa Branca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 7,
+      "man": 24,
+      "terrain": 6,
       "district": "Portalegre",
       "concelho": "Sousel",
       "freguesia": "Casa Branca",
@@ -1274,8 +1233,12 @@
       "sharepointId": 22530224,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 156.195,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN372 - Casa Branca/ Cano (ED372 (ED372) Km 13)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1290,7 +1253,7 @@
         "sec": 1692555365
       },
       "updated": {
-        "sec": 1692557164
+        "sec": 1692558434
       }
     },
     {
@@ -1329,8 +1292,12 @@
       "sharepointId": 22530244,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -24.6019,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estrada do Seixalinho (Seixalinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1345,66 +1312,7 @@
         "sec": 1692555844
       },
       "updated": {
-        "sec": 1692556803
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e25b3d6ffbfc349946a4be"
-      },
-      "id": "20231025539",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692555600
-      },
-      "date": "20-08-2023",
-      "hour": "19:20",
-      "location": "Porto, Vila Nova de Gaia, Santa Marinha E São Pedro Da Afurada",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Santa Marinha E São Pedro Da Afurada",
-      "dico": "1317",
-      "lat": 41.13906,
-      "lng": -8.60756,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "União Das Freguesias De Santa Marinha E São Pedro Da Afurada ",
-      "active": true,
-      "sadoId": "20231025539",
-      "sharepointId": 22530271,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 45.3119,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Casino da Ponte 181. 4430-647 Vila Nova de Gaia. Portugal (Rua do Casino da Ponte)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692556093
-      },
-      "updated": {
-        "sec": 1692556114
+        "sec": 1692558445
       }
     },
     {
@@ -1421,8 +1329,8 @@
       "location": "Santarém, Coruche, Coruche, Fajarda E Erra",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 9,
+      "man": 39,
+      "terrain": 10,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Coruche, Fajarda E Erra",
@@ -1433,9 +1341,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Coruche ",
       "active": true,
@@ -1443,8 +1351,12 @@
       "sharepointId": 22530277,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 54.1937,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(38.91573633.-8.45537602) - N114. 2100 Coruche. Portugal (IC10 (EN114) Km 122)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1459,7 +1371,62 @@
         "sec": 1692556203
       },
       "updated": {
-        "sec": 1692557164
+        "sec": 1692558456
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e25fea6ffbfc349946a4ee"
+      },
+      "id": "20231025609",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692557040
+      },
+      "date": "20-08-2023",
+      "hour": "19:44",
+      "location": "Faro, Albufeira, Paderne",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 6,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Paderne",
+      "dico": "801",
+      "lat": 37.15597,
+      "lng": -8.211566,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Paderne ",
+      "active": true,
+      "sadoId": "20231025609",
+      "sharepointId": 22530341,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1692557290
+      },
+      "updated": {
+        "sec": 1692557776
       }
     }
   ]
