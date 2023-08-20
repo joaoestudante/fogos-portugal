@@ -1254,10 +1254,10 @@
       "date": "20-08-2023",
       "hour": "16:53",
       "location": "Leiria, Pedrógão Grande, Graça",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 6,
+      "man": 49,
+      "terrain": 10,
       "district": "Leiria",
       "concelho": "Pedrógão Grande",
       "freguesia": "Graça",
@@ -1268,9 +1268,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Casal Da Francisca ",
       "active": true,
@@ -1298,7 +1298,7 @@
         "sec": 1692547456
       },
       "updated": {
-        "sec": 1692547933
+        "sec": 1692548403
       }
     },
     {
@@ -1315,8 +1315,8 @@
       "location": "Leiria, Marinha Grande, Marinha Grande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 23,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Marinha Grande",
       "freguesia": "Marinha Grande",
@@ -1327,9 +1327,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Picassinos ",
       "active": true,
@@ -1353,7 +1353,62 @@
         "sec": 1692547682
       },
       "updated": {
-        "sec": 1692548059
+        "sec": 1692548643
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e23d33a3765726f47ca12b"
+      },
+      "id": "20231025101",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692548100
+      },
+      "date": "20-08-2023",
+      "hour": "17:15",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.740082,
+      "lng": -9.385597,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Adroana ",
+      "active": true,
+      "sadoId": "20231025101",
+      "sharepointId": 22529833,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692548403
+      },
+      "updated": {
+        "sec": 1692548415
       }
     }
   ]
