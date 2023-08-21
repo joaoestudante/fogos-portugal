@@ -656,8 +656,8 @@
       "location": "Porto, Baião, Gestaçô",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 24,
+      "man": 71,
+      "terrain": 23,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Gestaçô",
@@ -698,7 +698,7 @@
         "sec": 1692608621
       },
       "updated": {
-        "sec": 1692640562
+        "sec": 1692644433
       }
     },
     {
@@ -715,8 +715,8 @@
       "location": "Faro, Silves, Alcantarilha E Pêra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 11,
+      "man": 27,
+      "terrain": 10,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "Alcantarilha E Pêra",
@@ -727,9 +727,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Poço Frito ",
       "active": true,
@@ -742,7 +742,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Poço Frito. Silves. Portugal (Poço Frito)",
+      "detailLocation": "Sacelhas (Poço da Velha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -757,7 +757,7 @@
         "sec": 1692621005
       },
       "updated": {
-        "sec": 1692641884
+        "sec": 1692644786
       }
     },
     {
@@ -797,11 +797,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.05,
+          "total": 0.05
+        },
         "altitude": 259.214,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Lg Fonte Coberta- (MOLARES)",
+      "detailLocation": "Lg Fonte Coberta- (Fonte Coberta)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -816,66 +822,7 @@
         "sec": 1692627493
       },
       "updated": {
-        "sec": 1692638405
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e374742c933141d44e27a2"
-      },
-      "id": "20231029580",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692627480
-      },
-      "date": "21-08-2023",
-      "hour": "15:18",
-      "location": "Porto, Penafiel, Luzim E Vila Cova",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Luzim E Vila Cova",
-      "dico": "1311",
-      "lat": 41.169262,
-      "lng": -8.233832,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Luzim E Vila Cova ",
-      "active": true,
-      "sadoId": "20231029580",
-      "sharepointId": 22534312,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 311.434,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua de Gatão (Quintela)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692628084
-      },
-      "updated": {
-        "sec": 1692632165
+        "sec": 1692644575
       }
     },
     {
@@ -890,10 +837,10 @@
       "date": "21-08-2023",
       "hour": "15:26",
       "location": "Bragança, Carrazeda de Ansiães, Amedo E Zedes",
-      "aerial": 8,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 92,
-      "terrain": 24,
+      "man": 85,
+      "terrain": 25,
       "district": "Bragança",
       "concelho": "Carrazeda De Ansiães",
       "freguesia": "Amedo E Zedes",
@@ -934,7 +881,7 @@
         "sec": 1692628564
       },
       "updated": {
-        "sec": 1692642843
+        "sec": 1692644785
       }
     },
     {
@@ -1010,8 +957,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 58,
-      "terrain": 18,
+      "man": 46,
+      "terrain": 14,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -1032,8 +979,12 @@
       "sharepointId": 22534569,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 359.297,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Turgalha",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1048,7 +999,7 @@
         "sec": 1692630851
       },
       "updated": {
-        "sec": 1692642724
+        "sec": 1692644785
       }
     },
     {
@@ -1087,8 +1038,12 @@
       "sharepointId": 22534593,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 241.183,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.79589000.-8.09161000) - Rua das Tílias. 6100-667 Sertã. Portugal (Venda da Pedra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1103,7 +1058,7 @@
         "sec": 1692630966
       },
       "updated": {
-        "sec": 1692638765
+        "sec": 1692644619
       }
     },
     {
@@ -1147,7 +1102,7 @@
         "agricola": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Monte do Cabeço (Ribeira de Odivelas)",
+      "detailLocation": "Vila Ruiva (EN258 (EN258) Km 5)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1162,62 +1117,7 @@
         "sec": 1692633844
       },
       "updated": {
-        "sec": 1692643215
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e39640b8ef992c367b69c8"
-      },
-      "id": "20231030317",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692636420
-      },
-      "date": "21-08-2023",
-      "hour": "17:47",
-      "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Vila Boa De Quires E Maureles",
-      "dico": "1307",
-      "lat": 41.21657,
-      "lng": -8.18695,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vila Boa De Quires E Maureles ",
-      "active": true,
-      "sadoId": "20231030317",
-      "sharepointId": 22535049,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692636736
-      },
-      "updated": {
-        "sec": 1692640093
+        "sec": 1692644656
       }
     },
     {
@@ -1232,16 +1132,16 @@
       "date": "21-08-2023",
       "hour": "18:05",
       "location": "Castelo Branco, Oleiros, Estreito-vilar Barroco",
-      "aerial": 9,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 175,
+      "man": 164,
       "terrain": 44,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Estreito-vilar Barroco",
       "dico": "506",
-      "lat": 39.911328,
-      "lng": -7.751488,
+      "lat": 39.911398,
+      "lng": -7.750515,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1256,8 +1156,12 @@
       "sharepointId": 22535140,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 516.177,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Pião (Panascosa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1272,7 +1176,7 @@
         "sec": 1692637697
       },
       "updated": {
-        "sec": 1692643457
+        "sec": 1692644786
       }
     },
     {
@@ -1311,8 +1215,12 @@
       "sharepointId": 22535139,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 299.113,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua N.Sra Guia Atães. Guimarães. Portugal (Casinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1327,7 +1235,7 @@
         "sec": 1692637806
       },
       "updated": {
-        "sec": 1692641044
+        "sec": 1692644719
       }
     },
     {
@@ -1366,8 +1274,12 @@
       "sharepointId": 22535149,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -6.30937,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Monte da Casteleja. 8600 Lagos. Portugal (Fontainhas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1382,7 +1294,7 @@
         "sec": 1692637923
       },
       "updated": {
-        "sec": 1692642364
+        "sec": 1692644730
       }
     },
     {
@@ -1421,8 +1333,12 @@
       "sharepointId": 22535376,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 170.002,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg Casal (Várzea)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1437,7 +1353,7 @@
         "sec": 1692640834
       },
       "updated": {
-        "sec": 1692641162
+        "sec": 1692644747
       }
     },
     {
@@ -1476,8 +1392,12 @@
       "sharepointId": 22535436,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 162.079,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Francisco Salgado Zenha (Tapada das Mercês)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1492,7 +1412,7 @@
         "sec": 1692641885
       },
       "updated": {
-        "sec": 1692642491
+        "sec": 1692644758
       }
     },
     {
@@ -1509,16 +1429,16 @@
       "location": "Portalegre, Elvas, Barbacena E Vila Fernando",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 9,
+      "terrain": 3,
       "district": "Portalegre",
       "concelho": "Elvas",
       "freguesia": "Barbacena E Vila Fernando",
       "dico": "1207",
       "lat": 38.900915,
       "lng": -7.283067,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -1531,8 +1451,12 @@
       "sharepointId": 22535444,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 336.858,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Monte das Casas Velhas",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1547,7 +1471,66 @@
         "sec": 1692642003
       },
       "updated": {
-        "sec": 1692643322
+        "sec": 1692644770
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e3b5b20640b7446c549439"
+      },
+      "id": "20231030873",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692644280
+      },
+      "date": "21-08-2023",
+      "hour": "19:58",
+      "location": "Lisboa, Odivelas, Odivelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Odivelas",
+      "dico": "1116",
+      "lat": 38.79729,
+      "lng": -9.17627,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Odivelas ",
+      "active": true,
+      "sadoId": "20231030873",
+      "sharepointId": 22535605,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 42.1662,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Palmira Bastos (Bairro Codivel)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692644786
+      },
+      "updated": {
+        "sec": 1692644878
       }
     }
   ]
