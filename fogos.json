@@ -839,61 +839,6 @@
     },
     {
       "_id": {
-        "$id": "64e2b27a68ee7932b360c2dc"
-      },
-      "id": "20231026668",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692578340
-      },
-      "date": "21-08-2023",
-      "hour": "01:39",
-      "location": "Braga, Póvoa de Lanhoso, Esperança E Brunhais",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Esperança E Brunhais",
-      "dico": "309",
-      "lat": 41.59302,
-      "lng": -8.179402,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "União Das Freguesias De Esperança E Brunhais ",
-      "active": true,
-      "sadoId": "20231026668",
-      "sharepointId": 22531400,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1692578426
-      },
-      "updated": {
-        "sec": 1692582135
-      }
-    },
-    {
-      "_id": {
         "$id": "64e2c3c25b77d42bde090877"
       },
       "id": "20231026774",
@@ -906,21 +851,21 @@
       "location": "Lisboa, Torres Vedras, Silveira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Silveira",
       "dico": "1113",
-      "lat": 39.117641,
-      "lng": -9.37145,
+      "lat": 39.122073,
+      "lng": -9.374234,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boavista ",
       "active": true,
@@ -928,8 +873,18 @@
       "sharepointId": 22531506,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.005,
+          "total": 0.005
+        },
+        "altitude": 37.8312,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Av das Berlengas (Casalinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -944,7 +899,66 @@
         "sec": 1692582850
       },
       "updated": {
-        "sec": 1692583085
+        "sec": 1692589287
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e2dbccc770a5637502aca2"
+      },
+      "id": "20231026806",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692584580
+      },
+      "date": "21-08-2023",
+      "hour": "03:23",
+      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Moimenta E Montouto",
+      "dico": "412",
+      "lat": 41.944272,
+      "lng": -6.981877,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "União Das Freguesias De Moimenta E Montouto ",
+      "active": true,
+      "sadoId": "20231026806",
+      "sharepointId": 22531538,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 906.269,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Moimenta. Vinhais. Portugal (MOIMENTA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1692589004
+      },
+      "updated": {
+        "sec": 1692589300
       }
     }
   ]
