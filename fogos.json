@@ -644,61 +644,6 @@
     },
     {
       "_id": {
-        "$id": "64e31b63038a0b5a2a4ef3f3"
-      },
-      "id": "20231027531",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692605160
-      },
-      "date": "21-08-2023",
-      "hour": "09:06",
-      "location": "Porto, Vila Nova de Gaia, Santa Marinha E São Pedro Da Afurada",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Santa Marinha E São Pedro Da Afurada",
-      "dico": "1317",
-      "lat": 41.138592,
-      "lng": -8.608077,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Santa Marinha E São Pedro Da Afurada ",
-      "active": true,
-      "sadoId": "20231027531",
-      "sharepointId": 22532263,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1692605283
-      },
-      "updated": {
-        "sec": 1692608418
-      }
-    },
-    {
-      "_id": {
         "$id": "64e31c5a038a0b5a2a4ef3fc"
       },
       "id": "20231027534",
@@ -733,8 +678,12 @@
       "sharepointId": 22532266,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 202.622,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Lg. Ribeiro (Roço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -749,7 +698,7 @@
         "sec": 1692605530
       },
       "updated": {
-        "sec": 1692610690
+        "sec": 1692615775
       }
     },
     {
@@ -788,8 +737,12 @@
       "sharepointId": 22532557,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 515.859,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Teixeira (IC26 (EN101) Km 156)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -804,7 +757,7 @@
         "sec": 1692608621
       },
       "updated": {
-        "sec": 1692614652
+        "sec": 1692615813
       }
     },
     {
@@ -843,8 +796,12 @@
       "sharepointId": 22533029,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 246.356,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Telões (Charisca)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -859,7 +816,7 @@
         "sec": 1692612964
       },
       "updated": {
-        "sec": 1692613805
+        "sec": 1692615830
       }
     }
   ]
