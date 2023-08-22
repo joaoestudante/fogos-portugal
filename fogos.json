@@ -591,8 +591,8 @@
       "location": "Bragança, Carrazeda de Ansiães, Amedo E Zedes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 21,
+      "man": 48,
+      "terrain": 20,
       "district": "Bragança",
       "concelho": "Carrazeda De Ansiães",
       "freguesia": "Amedo E Zedes",
@@ -633,7 +633,7 @@
         "sec": 1692628564
       },
       "updated": {
-        "sec": 1692744363
+        "sec": 1692744616
       }
     },
     {
@@ -768,8 +768,8 @@
       "location": "Porto, Baião, Teixeira E Teixeiró",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 105,
-      "terrain": 35,
+      "man": 106,
+      "terrain": 36,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Teixeira E Teixeiró",
@@ -810,7 +810,7 @@
         "sec": 1692653643
       },
       "updated": {
-        "sec": 1692744242
+        "sec": 1692744483
       }
     },
     {
@@ -827,8 +827,8 @@
       "location": "Faro, Vila Real de Santo António, Vila Real De Santo António",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 6,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Vila Real De Santo António",
       "freguesia": "Vila Real De Santo António",
@@ -869,7 +869,7 @@
         "sec": 1692702724
       },
       "updated": {
-        "sec": 1692740050
+        "sec": 1692745212
       }
     },
     {
@@ -1004,8 +1004,8 @@
       "location": "Portalegre, Marvão, Santo António Das Areias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 81,
-      "terrain": 26,
+      "man": 74,
+      "terrain": 22,
       "district": "Portalegre",
       "concelho": "Marvão",
       "freguesia": "Santo António Das Areias",
@@ -1046,7 +1046,7 @@
         "sec": 1692716428
       },
       "updated": {
-        "sec": 1692739093
+        "sec": 1692746057
       }
     },
     {
@@ -1063,8 +1063,8 @@
       "location": "Castelo Branco, Belmonte, Belmonte E Colmeal Da Torre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 74,
-      "terrain": 25,
+      "man": 60,
+      "terrain": 20,
       "district": "Castelo Branco",
       "concelho": "Belmonte",
       "freguesia": "Belmonte E Colmeal Da Torre",
@@ -1105,7 +1105,7 @@
         "sec": 1692717277
       },
       "updated": {
-        "sec": 1692743762
+        "sec": 1692746057
       }
     },
     {
@@ -1122,8 +1122,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -1164,7 +1164,7 @@
         "sec": 1692717277
       },
       "updated": {
-        "sec": 1692743044
+        "sec": 1692746056
       }
     },
     {
@@ -1240,8 +1240,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Albergaria-a-velha E Valmaior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 47,
-      "terrain": 18,
+      "man": 38,
+      "terrain": 15,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Albergaria-a-velha E Valmaior",
@@ -1282,7 +1282,7 @@
         "sec": 1692725129
       },
       "updated": {
-        "sec": 1692744010
+        "sec": 1692745679
       }
     },
     {
@@ -1322,6 +1322,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.5,
+          "total": 0.5
+        },
         "altitude": 215.671,
         "fogacho": true,
         "fontealerta": "112"
@@ -1341,66 +1347,7 @@
         "sec": 1692725866
       },
       "updated": {
-        "sec": 1692738484
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e4f55174d30755140de11b"
-      },
-      "id": "20231035749",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692725340
-      },
-      "date": "22-08-2023",
-      "hour": "18:29",
-      "location": "Lisboa, Loures, Loures",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Lisboa",
-      "concelho": "Loures",
-      "freguesia": "Loures",
-      "dico": "1107",
-      "lat": 38.851316,
-      "lng": -9.18025,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sete Casas ",
-      "active": true,
-      "sadoId": "20231035749",
-      "sharepointId": 22540481,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 54.9012,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Sete Casas (Mato do Cerco)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1692726609
-      },
-      "updated": {
-        "sec": 1692744363
+        "sec": 1692745306
       }
     },
     {
@@ -1417,8 +1364,8 @@
       "location": "Bragança, Vinhais, Vilar De Peregrinos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Vilar De Peregrinos",
@@ -1459,7 +1406,7 @@
         "sec": 1692727933
       },
       "updated": {
-        "sec": 1692743762
+        "sec": 1692745679
       }
     },
     {
@@ -1498,8 +1445,12 @@
       "sharepointId": 22540961,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 710.463,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vale da Coelha (VALE DE COELHA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1514,7 +1465,7 @@
         "sec": 1692731883
       },
       "updated": {
-        "sec": 1692736210
+        "sec": 1692745317
       }
     },
     {
@@ -1531,8 +1482,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Barroselas E Carvoeiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Barroselas E Carvoeiro",
@@ -1553,8 +1504,12 @@
       "sharepointId": 22541256,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 58.5306,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Zona Industrial (Algares)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1569,7 +1524,7 @@
         "sec": 1692736332
       },
       "updated": {
-        "sec": 1692740298
+        "sec": 1692745679
       }
     },
     {
@@ -1608,8 +1563,12 @@
       "sharepointId": 22541446,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 258.555,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Serra da Nexebra (Quinta de Baixo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1624,62 +1583,7 @@
         "sec": 1692739682
       },
       "updated": {
-        "sec": 1692744363
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e5295b8590465fff1b6c95"
-      },
-      "id": "20231036746",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692739260
-      },
-      "date": "22-08-2023",
-      "hour": "22:21",
-      "location": "Beja, Odemira, São Teotónio",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Odemira",
-      "freguesia": "São Teotónio",
-      "dico": "0211",
-      "lat": 37.50251,
-      "lng": -8.786856,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "São Teotónio ",
-      "active": true,
-      "sadoId": "20231036746",
-      "sharepointId": 22541478,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Litoral",
-      "created": {
-        "sec": 1692739931
-      },
-      "updated": {
-        "sec": 1692743296
+        "sec": 1692745646
       }
     },
     {
@@ -1718,8 +1622,12 @@
       "sharepointId": 22541491,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 100.731,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "EN 10 (A1-A1 Km 8)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1734,7 +1642,7 @@
         "sec": 1692739931
       },
       "updated": {
-        "sec": 1692743883
+        "sec": 1692745646
       }
     },
     {
@@ -1763,9 +1671,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Espinho ",
       "active": true,
@@ -1773,8 +1681,12 @@
       "sharepointId": 22541554,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 220.339,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Espinho (Lomba do Vale de Miranda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1789,7 +1701,7 @@
         "sec": 1692741363
       },
       "updated": {
-        "sec": 1692744010
+        "sec": 1692745680
       }
     },
     {
@@ -1806,8 +1718,8 @@
       "location": "Porto, Baião, Gestaçô",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 39,
+      "terrain": 9,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Gestaçô",
@@ -1833,7 +1745,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Gestaçô. Baião. Portugal (Curro)",
+      "detailLocation": "Gestaçô. Baião. Portugal (Cabanelas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1848,7 +1760,7 @@
         "sec": 1692741964
       },
       "updated": {
-        "sec": 1692743763
+        "sec": 1692745657
       }
     },
     {
@@ -1865,8 +1777,8 @@
       "location": "Viseu, Viseu, Faíl E Vila Chã De Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 7,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Faíl E Vila Chã De Sá",
@@ -1887,8 +1799,12 @@
       "sharepointId": 22541596,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 327.574,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Vila Chã de Sá (Quinta da Felgueira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1903,7 +1819,7 @@
         "sec": 1692742211
       },
       "updated": {
-        "sec": 1692743296
+        "sec": 1692745657
       }
     },
     {
@@ -1920,21 +1836,21 @@
       "location": "Santarém, Chamusca, Vale De Cavalos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 17,
       "terrain": 6,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Vale De Cavalos",
       "dico": "1407",
-      "lat": 39.23612,
-      "lng": -8.45669,
+      "lat": 39.260162,
+      "lng": -8.484178,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Casal Vale Carros ",
       "active": true,
@@ -1947,7 +1863,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Casal Vale Carros (Vale de Perna Mu)",
+      "detailLocation": "Casal Vale Carros (Vale do Moinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1962,7 +1878,66 @@
         "sec": 1692742810
       },
       "updated": {
-        "sec": 1692744242
+        "sec": 1692746057
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e53dfc7fc14f1d892abdd9"
+      },
+      "id": "20231036983",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692744960
+      },
+      "date": "22-08-2023",
+      "hour": "23:56",
+      "location": "Porto, Lousada, Silvares, Pias, Nogueira E Alvarenga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Silvares, Pias, Nogueira E Alvarenga",
+      "dico": "1305",
+      "lat": 41.293636,
+      "lng": -8.276399,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alvarenga ",
+      "active": true,
+      "sadoId": "20231036983",
+      "sharepointId": 22541715,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 271.346,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santa Margarida. Lousada. Portugal (Devesa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1692745212
+      },
+      "updated": {
+        "sec": 1692746056
       }
     }
   ]
