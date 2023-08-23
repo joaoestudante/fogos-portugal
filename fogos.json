@@ -892,8 +892,8 @@
       "location": "Portalegre, Marvão, Santo António Das Areias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 73,
-      "terrain": 20,
+      "man": 57,
+      "terrain": 17,
       "district": "Portalegre",
       "concelho": "Marvão",
       "freguesia": "Santo António Das Areias",
@@ -915,8 +915,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 9,
+          "total": 9
+        },
         "altitude": 523.778,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
       "detailLocation": "Agua de Cuba (Margarida)",
@@ -934,7 +940,7 @@
         "sec": 1692716428
       },
       "updated": {
-        "sec": 1692787209
+        "sec": 1692789016
       }
     },
     {
@@ -994,65 +1000,6 @@
       },
       "updated": {
         "sec": 1692779650
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e4ef898bb192017f3a8ae2"
-      },
-      "id": "20231035700",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692724680
-      },
-      "date": "22-08-2023",
-      "hour": "18:18",
-      "location": "Aveiro, Albergaria-a-Velha, Albergaria-a-velha E Valmaior",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Albergaria-a-velha",
-      "freguesia": "Albergaria-a-velha E Valmaior",
-      "dico": "0102",
-      "lat": 40.690257,
-      "lng": -8.43769,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Povoa De Mouquim ",
-      "active": true,
-      "sadoId": "20231035700",
-      "sharepointId": 22540432,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 83.6231,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Bouça (Póvoa)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1692725129
-      },
-      "updated": {
-        "sec": 1692787329
       }
     },
     {
@@ -1268,8 +1215,12 @@
       "sharepointId": 22543360,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 191.054,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "VILARINHO DOS FREIRES",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1284,7 +1235,7 @@
         "sec": 1692784333
       },
       "updated": {
-        "sec": 1692785890
+        "sec": 1692788528
       }
     },
     {
@@ -1301,8 +1252,8 @@
       "location": "Aveiro, Aveiro, Aradas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Aradas",
@@ -1323,8 +1274,12 @@
       "sharepointId": 22543376,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -3.145,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Chão do Forno (Cavadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1339,7 +1294,7 @@
         "sec": 1692784450
       },
       "updated": {
-        "sec": 1692786963
+        "sec": 1692788835
       }
     },
     {
@@ -1356,8 +1311,8 @@
       "location": "Leiria, Alcobaça, Benedita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Benedita",
@@ -1378,8 +1333,12 @@
       "sharepointId": 22543423,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 179.061,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "(FA) Venda das Raparigas (Venda das Raparigas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1394,7 +1353,243 @@
         "sec": 1692785289
       },
       "updated": {
-        "sec": 1692787565
+        "sec": 1692789136
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e5e3eba26b5f7bbc57c1ef"
+      },
+      "id": "20231038930",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692786600
+      },
+      "date": "23-08-2023",
+      "hour": "11:30",
+      "location": "Évora, Portel, Amieira E Alqueva",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Portel",
+      "freguesia": "Amieira E Alqueva",
+      "dico": "0709",
+      "lat": 38.214698,
+      "lng": -7.537035,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alqueva ",
+      "active": true,
+      "sadoId": "20231038930",
+      "sharepointId": 22543662,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 149.516,
+        "agricola": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Junto á unidade saude (ALQUEVA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1692787691
+      },
+      "updated": {
+        "sec": 1692788847
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e5e4dae3146b53fd3a184b"
+      },
+      "id": "20231038927",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692787680
+      },
+      "date": "23-08-2023",
+      "hour": "11:48",
+      "location": "Viana Do Castelo, Ponte da Barca, Entre Ambos-os-rios, Ermida E Germil",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 4,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Entre Ambos-os-rios, Ermida E Germil",
+      "dico": "1606",
+      "lat": 41.818923,
+      "lng": -8.327532,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "União Das Freguesias De Touvedo (São Lourenço E Salvador) ",
+      "active": true,
+      "sadoId": "20231038927",
+      "sharepointId": 22543659,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 111.499,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N203. 4980 Ponte da Barca. Portugal (RIO LIMA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1692787930
+      },
+      "updated": {
+        "sec": 1692789136
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e5e559a26b5f7bbc57c1f5"
+      },
+      "id": "20231038966",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692787620
+      },
+      "date": "23-08-2023",
+      "hour": "11:47",
+      "location": "Leiria, Caldas da Rainha, Nadadouro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Nadadouro",
+      "dico": "1006",
+      "lat": 39.417476,
+      "lng": -9.199088,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Nadadouro ",
+      "active": true,
+      "sadoId": "20231038966",
+      "sharepointId": 22543698,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 6.68375,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Travessa Ardonha (Casinhas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1692788057
+      },
+      "updated": {
+        "sec": 1692788937
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e5e6c5e3146b53fd3a185a"
+      },
+      "id": "20231038997",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692788220
+      },
+      "date": "23-08-2023",
+      "hour": "11:57",
+      "location": "Coimbra, Lousã, Lousã E Vilarinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Lousã",
+      "freguesia": "Lousã E Vilarinho",
+      "dico": "0607",
+      "lat": 40.110421,
+      "lng": -8.235158,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alfocheira ",
+      "active": true,
+      "sadoId": "20231038997",
+      "sharepointId": 22543729,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 258.159,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Alfocheira",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692788421
+      },
+      "updated": {
+        "sec": 1692788937
       }
     }
   ]
