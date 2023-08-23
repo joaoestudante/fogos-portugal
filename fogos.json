@@ -1134,8 +1134,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Entre Ambos-os-rios, Ermida E Germil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Entre Ambos-os-rios, Ermida E Germil",
@@ -1182,7 +1182,7 @@
         "sec": 1692787930
       },
       "updated": {
-        "sec": 1692815157
+        "sec": 1692816855
       }
     },
     {
@@ -1376,8 +1376,8 @@
       "location": "Leiria, Alcobaça, Benedita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 11,
+      "man": 34,
+      "terrain": 9,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Benedita",
@@ -1399,8 +1399,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1.8,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1.8
+        },
         "altitude": 105.824,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "117"
       },
       "detailLocation": "Riba Fria (Casal da Funcheira)",
@@ -1418,7 +1424,7 @@
         "sec": 1692797050
       },
       "updated": {
-        "sec": 1692816376
+        "sec": 1692817283
       }
     },
     {
@@ -1521,7 +1527,7 @@
         "fogacho": true,
         "fontealerta": "PV"
       },
-      "detailLocation": "Covas do Barroso (Outeiros)",
+      "detailLocation": "Covas do Barroso (Outeiro da Igreja)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1536,7 +1542,7 @@
         "sec": 1692802564
       },
       "updated": {
-        "sec": 1692807960
+        "sec": 1692817299
       }
     },
     {
@@ -1576,11 +1582,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.2,
+          "total": 0.2
+        },
         "altitude": 258.19,
         "fogacho": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Lg. das Cabanas (VILA BOA DE QUIRES)",
+      "detailLocation": "Lg. das Cabanas (Sampaio)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1595,7 +1607,7 @@
         "sec": 1692803726
       },
       "updated": {
-        "sec": 1692815528
+        "sec": 1692817301
       }
     },
     {
@@ -1612,16 +1624,16 @@
       "location": "Castelo Branco, Penamacor, Benquerença",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 130,
-      "terrain": 37,
+      "man": 127,
+      "terrain": 35,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Benquerença",
       "dico": "0507",
       "lat": 40.233252,
       "lng": -7.234563,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -1634,8 +1646,12 @@
       "sharepointId": 22545288,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 471.176,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Benquerença (Lagoeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1650,7 +1666,7 @@
         "sec": 1692806290
       },
       "updated": {
-        "sec": 1692815762
+        "sec": 1692817305
       }
     },
     {
@@ -1689,8 +1705,12 @@
       "sharepointId": 22545358,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 817.203,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "TRONCO (EN103 (EN103) Km 186)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1705,7 +1725,7 @@
         "sec": 1692807024
       },
       "updated": {
-        "sec": 1692815528
+        "sec": 1692817306
       }
     },
     {
@@ -1867,7 +1887,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(37.13805556.-8.39388889) - Via Infante de Sagres. 8400 Lagoa. Portugal (SOBRAL)",
+      "detailLocation": "Sobral",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1882,7 +1902,7 @@
         "sec": 1692807959
       },
       "updated": {
-        "sec": 1692814090
+        "sec": 1692817635
       }
     },
     {
@@ -1922,6 +1942,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.5,
+          "total": 0.5
+        },
         "altitude": 693.203,
         "fogacho": true,
         "fontealerta": "112"
@@ -1941,7 +1967,7 @@
         "sec": 1692807961
       },
       "updated": {
-        "sec": 1692814818
+        "sec": 1692817636
       }
     },
     {
@@ -1958,8 +1984,8 @@
       "location": "Porto, Marco de Canaveses, Soalhães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Soalhães",
@@ -1980,8 +2006,12 @@
       "sharepointId": 22545490,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 462.045,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lg. do Vale (Vale do Santo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1996,7 +2026,7 @@
         "sec": 1692808643
       },
       "updated": {
-        "sec": 1692814817
+        "sec": 1692817636
       }
     },
     {
@@ -2040,7 +2070,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Almogadel. Ferreira do Zêzere. Portugal (Almogadel)",
+      "detailLocation": "Almogadel",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2055,7 +2085,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1692816251
+        "sec": 1692817637
       }
     },
     {
@@ -2072,8 +2102,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 12,
       "meios_aquaticos": 0,
-      "man": 292,
-      "terrain": 79,
+      "man": 293,
+      "terrain": 80,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -2094,8 +2124,12 @@
       "sharepointId": 22545487,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 228.193,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estreito. Ourém. Portugal (ESTREITO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2110,7 +2144,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1692816251
+        "sec": 1692817637
       }
     },
     {
@@ -2127,8 +2161,8 @@
       "location": "Setúbal, Grândola, Grândola E Santa Margarida Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 18,
+      "man": 46,
+      "terrain": 17,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Grândola E Santa Margarida Da Serra",
@@ -2154,7 +2188,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Cadoços. Grândola. Portugal (Bairro dos Cadoços)",
+      "detailLocation": "Cadoços (Foros da Vargem Redonda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2169,7 +2203,7 @@
         "sec": 1692809529
       },
       "updated": {
-        "sec": 1692816250
+        "sec": 1692817648
       }
     },
     {
@@ -2213,7 +2247,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "BARREIRO DE BESTEIROS (Senhora do Rosário)",
+      "detailLocation": "Corveira",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2228,7 +2262,7 @@
         "sec": 1692809530
       },
       "updated": {
-        "sec": 1692816251
+        "sec": 1692817649
       }
     },
     {
@@ -2272,7 +2306,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Independência. 4425 Maia. Portugal (Quinta de Além)",
+      "detailLocation": "Lugar dos Coriscos (Carreiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2287,66 +2321,7 @@
         "sec": 1692810443
       },
       "updated": {
-        "sec": 1692815762
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e63ccd40d25507e020aecd"
-      },
-      "id": "20231040839",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692809820
-      },
-      "date": "23-08-2023",
-      "hour": "17:57",
-      "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Lousada",
-      "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
-      "dico": "1305",
-      "lat": 41.344375,
-      "lng": -8.316232,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Lustosa E Barrosas (Santo Estêvão) ",
-      "active": true,
-      "sadoId": "20231040839",
-      "sharepointId": 22545571,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 413.605,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Lg. da Agrela (Carcavelos)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692810445
-      },
-      "updated": {
-        "sec": 1692816251
+        "sec": 1692817649
       }
     },
     {
@@ -2361,10 +2336,10 @@
       "date": "23-08-2023",
       "hour": "18:02",
       "location": "Viseu, Oliveira de Frades, Ribeiradio",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 130,
-      "terrain": 35,
+      "man": 124,
+      "terrain": 36,
       "district": "Viseu",
       "concelho": "Oliveira De Frades",
       "freguesia": "Ribeiradio",
@@ -2405,62 +2380,7 @@
         "sec": 1692810814
       },
       "updated": {
-        "sec": 1692816011
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e64230abe37a770071762f"
-      },
-      "id": "20231041001",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692811560
-      },
-      "date": "23-08-2023",
-      "hour": "18:26",
-      "location": "Porto, Felgueiras, Pombeiro De Ribavizela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Pombeiro De Ribavizela",
-      "dico": "1303",
-      "lat": 41.396052,
-      "lng": -8.218933,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Pombeiro ",
-      "active": true,
-      "sadoId": "20231041001",
-      "sharepointId": 22545733,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1692811824
-      },
-      "updated": {
-        "sec": 1692813613
+        "sec": 1692817091
       }
     },
     {
@@ -2536,7 +2456,7 @@
       "location": "Vila Real, Mondim de Basto, Bilhó",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 46,
+      "man": 51,
       "terrain": 8,
       "district": "Vila Real",
       "concelho": "Mondim De Basto",
@@ -2558,8 +2478,12 @@
       "sharepointId": 22545902,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 742.093,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Cavernelhe. Mondim de Basto. Portugal (Cavernelhe)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2574,7 +2498,7 @@
         "sec": 1692814210
       },
       "updated": {
-        "sec": 1692816250
+        "sec": 1692817665
       }
     },
     {
@@ -2656,17 +2580,17 @@
       "concelho": "Ponte Da Barca",
       "freguesia": "Azias",
       "dico": "1606",
-      "lat": 41.772154,
-      "lng": -8.344961,
+      "lat": 41.777568,
+      "lng": -8.35954,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Azias ",
+      "localidade": "Chão ",
       "active": true,
       "sadoId": "20231041189",
       "sharepointId": 22545921,
@@ -2692,7 +2616,7 @@
         "sec": 1692814819
       },
       "updated": {
-        "sec": 1692816011
+        "sec": 1692816616
       }
     },
     {
@@ -2710,7 +2634,7 @@
       "aerial": 2,
       "meios_aquaticos": 0,
       "man": 29,
-      "terrain": 6,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Oura",
@@ -2721,9 +2645,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Oura ",
       "active": true,
@@ -2747,7 +2671,7 @@
         "sec": 1692815158
       },
       "updated": {
-        "sec": 1692816377
+        "sec": 1692817091
       }
     },
     {
@@ -2776,9 +2700,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale Do Porco ",
       "active": true,
@@ -2802,7 +2726,7 @@
         "sec": 1692815418
       },
       "updated": {
-        "sec": 1692816250
+        "sec": 1692816855
       }
     },
     {
@@ -2819,8 +2743,8 @@
       "location": "Vila Real, Vila Real, Adoufe E Vilarinho De Samardã",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 18,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Adoufe E Vilarinho De Samardã",
@@ -2857,7 +2781,7 @@
         "sec": 1692815529
       },
       "updated": {
-        "sec": 1692816250
+        "sec": 1692817091
       }
     },
     {
@@ -2872,9 +2796,9 @@
       "date": "23-08-2023",
       "hour": "18:56",
       "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
+      "man": 20,
       "terrain": 6,
       "district": "Porto",
       "concelho": "Gondomar",
@@ -2916,7 +2840,62 @@
         "sec": 1692815762
       },
       "updated": {
-        "sec": 1692816250
+        "sec": 1692816856
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e655d872e079599f1244c3"
+      },
+      "id": "20231041359",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692816660
+      },
+      "date": "23-08-2023",
+      "hour": "19:51",
+      "location": "Santarém, Tomar, Além Da Ribeira E Pedreira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Tomar",
+      "freguesia": "Além Da Ribeira E Pedreira",
+      "dico": "1418",
+      "lat": 39.65627,
+      "lng": -8.415604,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Madalena E Beselga ",
+      "active": true,
+      "sadoId": "20231041359",
+      "sharepointId": 22546091,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1692816856
+      },
+      "updated": {
+        "sec": 1692817092
       }
     }
   ]
