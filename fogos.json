@@ -1187,8 +1187,8 @@
       "location": "Coimbra, Miranda do Corvo, Miranda Do Corvo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 12,
+      "man": 12,
+      "terrain": 3,
       "district": "Coimbra",
       "concelho": "Miranda Do Corvo",
       "freguesia": "Miranda Do Corvo",
@@ -1229,7 +1229,7 @@
         "sec": 1692741363
       },
       "updated": {
-        "sec": 1692753962
+        "sec": 1692757186
       }
     },
     {
@@ -1305,8 +1305,8 @@
       "location": "Vila Real, Vila Real, Mouçós E Lamares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Mouçós E Lamares",
@@ -1317,9 +1317,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Mouçós E Lamares ",
       "active": true,
@@ -1343,62 +1343,7 @@
         "sec": 1692750259
       },
       "updated": {
-        "sec": 1692753625
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e556537677860de7714f07"
-      },
-      "id": "20231037177",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692751020
-      },
-      "date": "23-08-2023",
-      "hour": "01:37",
-      "location": "Lisboa, Sintra, São João Das Lampas E Terrugem",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "São João Das Lampas E Terrugem",
-      "dico": "1111",
-      "lat": 38.849455,
-      "lng": -9.349504,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Armés ",
-      "active": true,
-      "sadoId": "20231037177",
-      "sharepointId": 22541909,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1692751443
-      },
-      "updated": {
-        "sec": 1692753330
+        "sec": 1692757455
       }
     },
     {
@@ -1415,8 +1360,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Montaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 2,
+      "man": 15,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Montaria",
@@ -1427,9 +1372,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Espantar  ",
       "active": true,
@@ -1453,7 +1398,62 @@
         "sec": 1692755763
       },
       "updated": {
-        "sec": 1692755896
+        "sec": 1692757456
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e56e3b618dbb54a713fd92"
+      },
+      "id": "20231037305",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692757020
+      },
+      "date": "23-08-2023",
+      "hour": "03:17",
+      "location": "Lisboa, Cascais, Carcavelos E Parede",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Carcavelos E Parede",
+      "dico": "1105",
+      "lat": 38.688343,
+      "lng": -9.337574,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carcavelos ",
+      "active": true,
+      "sadoId": "20231037305",
+      "sharepointId": 22542037,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692757563
+      },
+      "updated": {
+        "sec": 1692757573
       }
     }
   ]
