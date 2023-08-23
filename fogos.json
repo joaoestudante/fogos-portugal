@@ -532,8 +532,8 @@
       "location": "Santarém, Ourém, Matas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 3,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Matas E Cercal",
@@ -580,7 +580,7 @@
         "sec": 1692371892
       },
       "updated": {
-        "sec": 1692784449
+        "sec": 1692796930
       }
     },
     {
@@ -1252,8 +1252,8 @@
       "location": "Viseu, Nelas, Nelas",
       "aerial": 9,
       "meios_aquaticos": 0,
-      "man": 287,
-      "terrain": 77,
+      "man": 291,
+      "terrain": 80,
       "district": "Viseu",
       "concelho": "Nelas",
       "freguesia": "Nelas",
@@ -1290,7 +1290,7 @@
         "sec": 1692790089
       },
       "updated": {
-        "sec": 1692796570
+        "sec": 1692797050
       }
     },
     {
@@ -1641,8 +1641,8 @@
       "location": "Lisboa, Loures, Santo António Dos Cavaleiros E Frielas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Santo António Dos Cavaleiros E Frielas",
@@ -1679,7 +1679,7 @@
         "sec": 1692793937
       },
       "updated": {
-        "sec": 1692795609
+        "sec": 1692796823
       }
     },
     {
@@ -1696,14 +1696,14 @@
       "location": "Coimbra, Cantanhede, Ançã",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 71,
-      "terrain": 16,
+      "man": 75,
+      "terrain": 17,
       "district": "Coimbra",
       "concelho": "Cantanhede",
       "freguesia": "Ançã",
       "dico": "0602",
-      "lat": 40.272833,
-      "lng": -8.516403,
+      "lat": 40.2675,
+      "lng": -8.52944,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -1734,7 +1734,7 @@
         "sec": 1692795962
       },
       "updated": {
-        "sec": 1692796569
+        "sec": 1692797049
       }
     },
     {
@@ -1763,9 +1763,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Lindoso ",
       "active": true,
@@ -1789,7 +1789,117 @@
         "sec": 1692796218
       },
       "updated": {
-        "sec": 1692796570
+        "sec": 1692796823
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e607986d4abc16596faa59"
+      },
+      "id": "20231039711",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692796380
+      },
+      "date": "23-08-2023",
+      "hour": "14:13",
+      "location": "Leiria, Pombal, Santiago E S. Simão De Litém E Albergaria Dos Doze",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 34,
+      "terrain": 8,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Santiago E S. Simão De Litém E Albergaria Dos Doze",
+      "dico": "1015",
+      "lat": 39.794209,
+      "lng": -8.623472,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ruge Água ",
+      "active": true,
+      "sadoId": "20231039711",
+      "sharepointId": 22544443,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1692796824
+      },
+      "updated": {
+        "sec": 1692797050
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e6087aae873d66521e538c"
+      },
+      "id": "20231039768",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692796860
+      },
+      "date": "23-08-2023",
+      "hour": "14:21",
+      "location": "Leiria, Caldas da Rainha, Santa Catarina",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Santa Catarina",
+      "dico": "1006",
+      "lat": 39.427049,
+      "lng": -9.025035,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mata De Porto Moiro ",
+      "active": true,
+      "sadoId": "20231039768",
+      "sharepointId": 22544500,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1692797050
+      },
+      "updated": {
+        "sec": 1692797165
       }
     }
   ]
