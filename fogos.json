@@ -860,7 +860,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua do Doutor Manuel dArriaga 15. 8900-294 Vila Real de Santo António. Portugal (Forte)",
+      "detailLocation": "Rua do Doutor Manuel dArriaga 15 (Forte)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -875,7 +875,7 @@
         "sec": 1692702724
       },
       "updated": {
-        "sec": 1692745212
+        "sec": 1692759645
       }
     },
     {
@@ -1010,8 +1010,8 @@
       "location": "Portalegre, Marvão, Santo António Das Areias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 19,
+      "man": 67,
+      "terrain": 18,
       "district": "Portalegre",
       "concelho": "Marvão",
       "freguesia": "Santo António Das Areias",
@@ -1052,7 +1052,7 @@
         "sec": 1692716428
       },
       "updated": {
-        "sec": 1692751089
+        "sec": 1692760064
       }
     },
     {
@@ -1246,8 +1246,8 @@
       "location": "Porto, Baião, Viariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 70,
-      "terrain": 20,
+      "man": 100,
+      "terrain": 29,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Viariz",
@@ -1258,9 +1258,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Viariz ",
       "active": true,
@@ -1273,7 +1273,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Gestaçô. Baião. Portugal (Cabanelas)",
+      "detailLocation": "VIARIZ (Cabanelas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1288,7 +1288,7 @@
         "sec": 1692741964
       },
       "updated": {
-        "sec": 1692758162
+        "sec": 1692760064
       }
     },
     {
@@ -1327,8 +1327,18 @@
       "sharepointId": 22541876,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 1,
+          "total": 1
+        },
+        "altitude": 729.813,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mouçós (Rebordo Longo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1343,7 +1353,7 @@
         "sec": 1692750259
       },
       "updated": {
-        "sec": 1692757455
+        "sec": 1692759710
       }
     },
     {
@@ -1382,8 +1392,12 @@
       "sharepointId": 22542004,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 447.318,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Espantar (Torre)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1398,47 +1412,51 @@
         "sec": 1692755763
       },
       "updated": {
-        "sec": 1692758650
+        "sec": 1692760036
       }
     },
     {
       "_id": {
-        "$id": "64e56e3b618dbb54a713fd92"
+        "$id": "64e56fa4618dbb54a713fd93"
       },
-      "id": "20231037305",
+      "id": "20231037307",
       "coords": true,
       "dateTime": {
-        "sec": 1692757020
+        "sec": 1692757560
       },
       "date": "23-08-2023",
-      "hour": "03:17",
-      "location": "Lisboa, Cascais, Carcavelos E Parede",
+      "hour": "03:26",
+      "location": "Setúbal, Seixal, Fernão Ferro",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Cascais",
-      "freguesia": "Carcavelos E Parede",
-      "dico": "1105",
-      "lat": 38.688343,
-      "lng": -9.337574,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Fernão Ferro",
+      "dico": "1510",
+      "lat": 38.57432,
+      "lng": -9.11437,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Carcavelos ",
+      "localidade": "Fernão Ferro ",
       "active": true,
-      "sadoId": "20231037305",
-      "sharepointId": 22542037,
+      "sadoId": "20231037307",
+      "sharepointId": 22542039,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 48.5513,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Sapos. 2865-376 Seixal. Portugal (Lobateira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1448,12 +1466,12 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
+      "sub_regiao": "Península de Setúbal",
       "created": {
-        "sec": 1692757563
+        "sec": 1692757924
       },
       "updated": {
-        "sec": 1692757573
+        "sec": 1692760056
       }
     }
   ]
