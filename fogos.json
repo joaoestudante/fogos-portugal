@@ -420,9 +420,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Caranguejeira ",
       "active": true,
@@ -456,7 +456,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692887290
+        "sec": 1692889089
       }
     },
     {
@@ -1140,8 +1140,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 406,
-      "terrain": 124,
+      "man": 413,
+      "terrain": 127,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -1163,8 +1163,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 308.61254304219,
+          "agricola": 4.29751071878523,
+          "mato": 6.44270458104461,
+          "total": 319.35275834202
+        },
         "altitude": 228.193,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Estreito",
@@ -1182,7 +1188,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1692887764
+        "sec": 1692889789
       }
     },
     {
@@ -1258,8 +1264,8 @@
       "location": "Guarda, Mêda, Prova E Casteição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 126,
-      "terrain": 32,
+      "man": 116,
+      "terrain": 29,
       "district": "Guarda",
       "concelho": "Mêda",
       "freguesia": "Prova E Casteição",
@@ -1300,7 +1306,7 @@
         "sec": 1692831022
       },
       "updated": {
-        "sec": 1692888009
+        "sec": 1692890164
       }
     },
     {
@@ -1364,61 +1370,6 @@
     },
     {
       "_id": {
-        "$id": "64e72e612d0b0f7b092a0395"
-      },
-      "id": "20231044023",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692872040
-      },
-      "date": "24-08-2023",
-      "hour": "11:14",
-      "location": "Setúbal, Palmela, Quinta Do Anjo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Palmela",
-      "freguesia": "Quinta Do Anjo",
-      "dico": "1508",
-      "lat": 38.585635,
-      "lng": -8.966205,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Quinta Do Anjo ",
-      "active": true,
-      "sadoId": "20231044023",
-      "sharepointId": 22548755,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1692872289
-      },
-      "updated": {
-        "sec": 1692877564
-      }
-    },
-    {
-      "_id": {
         "$id": "64e72f53809bd20a6b2876e3"
       },
       "id": "20231044048",
@@ -1458,7 +1409,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "M535 (Fabião)",
+      "detailLocation": "M535 (Lages)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1473,62 +1424,7 @@
         "sec": 1692872531
       },
       "updated": {
-        "sec": 1692880935
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e7403102352134c933c0d8"
-      },
-      "id": "20231044401",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692876180
-      },
-      "date": "24-08-2023",
-      "hour": "12:23",
-      "location": "Setúbal, Palmela, Palmela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Palmela",
-      "freguesia": "Palmela",
-      "dico": "1508",
-      "lat": 38.600553,
-      "lng": -8.866518,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Palmela ",
-      "active": true,
-      "sadoId": "20231044401",
-      "sharepointId": 22549133,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1692876849
-      },
-      "updated": {
-        "sec": 1692885978
+        "sec": 1692889303
       }
     },
     {
@@ -1543,9 +1439,9 @@
       "date": "24-08-2023",
       "hour": "12:47",
       "location": "Bragança, Mogadouro, Castelo Branco",
-      "aerial": 8,
+      "aerial": 7,
       "meios_aquaticos": 0,
-      "man": 190,
+      "man": 184,
       "terrain": 61,
       "district": "Bragança",
       "concelho": "Mogadouro",
@@ -1567,8 +1463,12 @@
       "sharepointId": 22549271,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 580.073,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Valverde (Raposeira de Baixo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1583,7 +1483,7 @@
         "sec": 1692877931
       },
       "updated": {
-        "sec": 1692888256
+        "sec": 1692890164
       }
     },
     {
@@ -1600,8 +1500,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Lindoso",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Lindoso",
@@ -1622,8 +1522,18 @@
       "sharepointId": 22549669,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.005,
+          "total": 0.005
+        },
+        "altitude": 392.045,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lindoso - PNPG (LINDOSO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1638,7 +1548,7 @@
         "sec": 1692882611
       },
       "updated": {
-        "sec": 1692886563
+        "sec": 1692889788
       }
     },
     {
@@ -1655,8 +1565,8 @@
       "location": "Vila Real, Chaves, Curalha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Curalha",
@@ -1667,9 +1577,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Curalha ",
       "active": true,
@@ -1677,8 +1587,12 @@
       "sharepointId": 22549836,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 380.838,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Curalha. Chaves. Portugal (Alto do Vale da Garmassa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1693,7 +1607,7 @@
         "sec": 1692884536
       },
       "updated": {
-        "sec": 1692886811
+        "sec": 1692890164
       }
     },
     {
@@ -1732,8 +1646,12 @@
       "sharepointId": 22549793,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 121.024,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lugar de Guardal de Cima (Travessa Nova do Guardal de Cima)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1748,7 +1666,7 @@
         "sec": 1692884536
       },
       "updated": {
-        "sec": 1692887764
+        "sec": 1692889667
       }
     },
     {
@@ -1765,8 +1683,8 @@
       "location": "Faro, Faro, Santa Bárbara De Nexe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 9,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Santa Bárbara De Nexe",
@@ -1807,7 +1725,7 @@
         "sec": 1692886330
       },
       "updated": {
-        "sec": 1692887530
+        "sec": 1692889090
       }
     },
     {
@@ -1824,8 +1742,8 @@
       "location": "Portalegre, Fronteira, Fronteira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 3,
       "district": "Portalegre",
       "concelho": "Fronteira",
       "freguesia": "Fronteira",
@@ -1851,7 +1769,7 @@
         "agricola": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Monte do Cego",
+      "detailLocation": "Monte do Cego (Ribeira do Verdigão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1866,7 +1784,7 @@
         "sec": 1692886563
       },
       "updated": {
-        "sec": 1692888256
+        "sec": 1692889788
       }
     },
     {
@@ -1883,8 +1801,8 @@
       "location": "Coimbra, Mira, Mira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 3,
       "district": "Coimbra",
       "concelho": "Mira",
       "freguesia": "Mira",
@@ -1905,8 +1823,12 @@
       "sharepointId": 22550051,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 20.2425,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Carromeu (MIRA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1921,7 +1843,7 @@
         "sec": 1692887052
       },
       "updated": {
-        "sec": 1692887764
+        "sec": 1692889675
       }
     },
     {
@@ -1936,23 +1858,23 @@
       "date": "24-08-2023",
       "hour": "15:24",
       "location": "Porto, Amarante, Figueiró (Santiago E Santa Cristina)",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Figueiró (Santiago E Santa Cristina)",
       "dico": "1301",
-      "lat": 41.29661,
-      "lng": -8.16643,
+      "lat": 41.294867,
+      "lng": -8.19026,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Figueiró (Santiago E Santa Cristina) ",
       "active": true,
@@ -1960,8 +1882,12 @@
       "sharepointId": 22550059,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 386.055,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Figueiró-Santa Cristina. Amarante. Portugal (Rechão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1976,43 +1902,102 @@
         "sec": 1692887291
       },
       "updated": {
-        "sec": 1692888365
+        "sec": 1692889789
       }
     },
     {
       "_id": {
-        "$id": "64e76973094a047fd26f5df7"
+        "$id": "64e76f83094a047fd26f5e21"
       },
-      "id": "20231045362",
+      "id": "20231045457",
       "coords": true,
       "dateTime": {
-        "sec": 1692886860
+        "sec": 1692888660
       },
       "date": "24-08-2023",
-      "hour": "15:21",
-      "location": "Setúbal, Seixal, Seixal, Arrentela E Aldeia De Paio Pires",
-      "aerial": 0,
+      "hour": "15:51",
+      "location": "Lisboa, Loures, Camarate, Unhos E Apelação",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Seixal, Arrentela E Aldeia De Paio Pires",
-      "dico": "1510",
-      "lat": 38.615401,
-      "lng": -9.081788,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "man": 20,
+      "terrain": 4,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Camarate, Unhos E Apelação",
+      "dico": "1107",
+      "lat": 38.812862,
+      "lng": -9.123232,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Arrentela ",
+      "localidade": "Catujal ",
       "active": true,
-      "sadoId": "20231045362",
-      "sharepointId": 22550094,
+      "sadoId": "20231045457",
+      "sharepointId": 22550189,
+      "extra": "POSIT 16:10 - IC19, PK 4 (Reta dos Comandos) - Estrada cortada",
+      "disappear": false,
+      "icnf": {
+        "altitude": 80.7856,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Av. Forças Armadas 1. Loures. Portugal (Catujal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1692888963
+      },
+      "updated": {
+        "sec": 1692889788
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e772bc74848b08b1673b93"
+      },
+      "id": "20231045531",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692889440
+      },
+      "date": "24-08-2023",
+      "hour": "16:04",
+      "location": "Coimbra, Montemor-o-Velho, Seixo De Gatões",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 79,
+      "terrain": 14,
+      "district": "Coimbra",
+      "concelho": "Montemor-o-velho",
+      "freguesia": "Seixo De Gatões",
+      "dico": "0610",
+      "lat": 40.23811,
+      "lng": -8.685551,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Seixo De Gatões ",
+      "active": true,
+      "sadoId": "20231045531",
+      "sharepointId": 22550263,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -2025,13 +2010,190 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692889788
+      },
+      "updated": {
+        "sec": 1692890164
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e772bd74848b08b1673b96"
+      },
+      "id": "20231045495",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692889020
+      },
+      "date": "24-08-2023",
+      "hour": "15:57",
+      "location": "Setúbal, Barreiro, Alto Do Seixalinho, Santo André E Verderena",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Barreiro",
+      "freguesia": "Alto Do Seixalinho, Santo André E Verderena",
+      "dico": "1504",
+      "lat": 38.65773,
+      "lng": -9.07274,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Alto Do Seixalinho, Santo André E Verderena ",
+      "active": true,
+      "sadoId": "20231045495",
+      "sharepointId": 22550227,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -5.89063,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "R. Professor Joaquim Vicente França 2A. 2830-298 Barreiro. Portugal (Barreiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Península de Setúbal",
       "created": {
-        "sec": 1692887411
+        "sec": 1692889789
       },
       "updated": {
-        "sec": 1692888010
+        "sec": 1692889815
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e772bd74848b08b1673b97"
+      },
+      "id": "20231045502",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692889140
+      },
+      "date": "24-08-2023",
+      "hour": "15:59",
+      "location": "Leiria, Ansião, Avelar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Leiria",
+      "concelho": "Ansião",
+      "freguesia": "Avelar",
+      "dico": "1003",
+      "lat": 39.92279,
+      "lng": -8.35637,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avelar ",
+      "active": true,
+      "sadoId": "20231045502",
+      "sharepointId": 22550234,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 256.124,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avelar. Ansião. Portugal (AVELAR)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1692889789
+      },
+      "updated": {
+        "sec": 1692889821
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e772bd74848b08b1673b99"
+      },
+      "id": "20231045494",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692889020
+      },
+      "date": "24-08-2023",
+      "hour": "15:57",
+      "location": "Coimbra, Penela, Cumeeira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Penela",
+      "freguesia": "Cumeeira",
+      "dico": "0614",
+      "lat": 39.94231,
+      "lng": -8.379264,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cumeeira ",
+      "active": true,
+      "sadoId": "20231045494",
+      "sharepointId": 22550226,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 290.237,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M560 (CUMEEIRA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1692889789
+      },
+      "updated": {
+        "sec": 1692889827
       }
     }
   ]
