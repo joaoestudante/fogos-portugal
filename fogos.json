@@ -278,8 +278,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 6,
+      "man": 16,
+      "terrain": 7,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -326,7 +326,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1693003089
+        "sec": 1693004866
       }
     },
     {
@@ -957,8 +957,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 327,
-      "terrain": 101,
+      "man": 317,
+      "terrain": 99,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -999,7 +999,7 @@
         "sec": 1692959058
       },
       "updated": {
-        "sec": 1693002250
+        "sec": 1693005136
       }
     },
     {
@@ -1081,8 +1081,8 @@
       "location": "Guarda, Trancoso, Moreira De Rei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 110,
-      "terrain": 33,
+      "man": 102,
+      "terrain": 31,
       "district": "Guarda",
       "concelho": "Trancoso",
       "freguesia": "Moreira De Rei",
@@ -1123,7 +1123,7 @@
         "sec": 1692970089
       },
       "updated": {
-        "sec": 1693003332
+        "sec": 1693004412
       }
     },
     {
@@ -1140,7 +1140,7 @@
       "location": "Santarém, Ourém, Atouguia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 72,
+      "man": 75,
       "terrain": 20,
       "district": "Santarém",
       "concelho": "Ourém",
@@ -1182,7 +1182,7 @@
         "sec": 1692973821
       },
       "updated": {
-        "sec": 1693003563
+        "sec": 1693004867
       }
     },
     {
@@ -1199,8 +1199,8 @@
       "location": "Castelo Branco, Penamacor, Penamacor",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 244,
-      "terrain": 86,
+      "man": 254,
+      "terrain": 88,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Penamacor",
@@ -1226,7 +1226,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Águas (Barroco Gordo)",
+      "detailLocation": "Águas (Casa Telhada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1241,7 +1241,7 @@
         "sec": 1692974650
       },
       "updated": {
-        "sec": 1692998052
+        "sec": 1693004483
       }
     },
     {
@@ -1258,8 +1258,8 @@
       "location": "Viseu, Viseu, Lordosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 8,
+      "man": 27,
+      "terrain": 9,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Lordosa",
@@ -1280,8 +1280,12 @@
       "sharepointId": 22556832,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 540.519,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Serra do Gaio (LORDOSA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1296,7 +1300,7 @@
         "sec": 1692999496
       },
       "updated": {
-        "sec": 1693002851
+        "sec": 1693004866
       }
     },
     {
@@ -1340,7 +1344,7 @@
         "fogacho": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Lugar de Santa Cruz (Vilarinho)",
+      "detailLocation": "Lugar de Santa Cruz (Lodeiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1355,62 +1359,7 @@
         "sec": 1693000163
       },
       "updated": {
-        "sec": 1693002851
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e9273a41c65f1dfc16aace"
-      },
-      "id": "20231052199",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693001220
-      },
-      "date": "25-08-2023",
-      "hour": "23:07",
-      "location": "Lisboa, Sintra, Agualva E Mira-sintra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "Agualva E Mira-sintra",
-      "dico": "1111",
-      "lat": 38.782442,
-      "lng": -9.300883,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Mira Sintra ",
-      "active": true,
-      "sadoId": "20231052199",
-      "sharepointId": 22556931,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1693001530
-      },
-      "updated": {
-        "sec": 1693001769
+        "sec": 1693004846
       }
     },
     {
@@ -1427,8 +1376,8 @@
       "location": "Portalegre, Marvão, Santa Maria De Marvão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Marvão",
       "freguesia": "Santa Maria De Marvão",
@@ -1439,9 +1388,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santa Maria De Marvão ",
       "active": true,
@@ -1449,8 +1398,12 @@
       "sharepointId": 22556971,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 543.544,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Galegos. Marvão. Portugal (Galegos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1465,7 +1418,7 @@
         "sec": 1693002250
       },
       "updated": {
-        "sec": 1693002851
+        "sec": 1693004847
       }
     },
     {
@@ -1482,30 +1435,34 @@
       "location": "Viana Do Castelo, Vila Nova de Cerveira, Covas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 19,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Vila Nova De Cerveira",
       "freguesia": "Covas",
       "dico": "1610",
-      "lat": 41.879724,
-      "lng": -8.696049,
+      "lat": 41.902142,
+      "lng": -8.696665,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Mentrestido ",
+      "localidade": "Chãos ",
       "active": true,
       "sadoId": "20231052256",
       "sharepointId": 22556988,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 109.061,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Chãos (Outeiro Grande)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1520,7 +1477,121 @@
         "sec": 1693002250
       },
       "updated": {
-        "sec": 1693003218
+        "sec": 1693004866
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9309a36cfc33f944db993"
+      },
+      "id": "20231052307",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693003500
+      },
+      "date": "25-08-2023",
+      "hour": "23:45",
+      "location": "Setúbal, Santiago do Cacém, Santo André",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Santiago Do Cacém",
+      "freguesia": "Santo André",
+      "dico": "1509",
+      "lat": 38.054647,
+      "lng": -8.775725,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Santo André ",
+      "active": true,
+      "sadoId": "20231052307",
+      "sharepointId": 22557039,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 28.5175,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Eucalipto 16. 7500-180 Santiago do Cacém. Portugal (Vila Nova de Santo André)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1693003930
+      },
+      "updated": {
+        "sec": 1693005023
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e935c1d49d41532b19f8c2"
+      },
+      "id": "20231052356",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693005000
+      },
+      "date": "26-08-2023",
+      "hour": "00:10",
+      "location": "Lisboa, Odivelas, Odivelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Odivelas",
+      "dico": "1116",
+      "lat": 38.78553,
+      "lng": -9.17365,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Odivelas ",
+      "active": true,
+      "sadoId": "20231052356",
+      "sharepointId": 22557088,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1693005249
+      },
+      "updated": {
+        "sec": 1693005260
       }
     }
   ]
