@@ -408,8 +408,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 170,
-      "terrain": 57,
+      "man": 119,
+      "terrain": 44,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -456,7 +456,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1692920764
+        "sec": 1692925096
       }
     },
     {
@@ -862,8 +862,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 546.910963579464,
+          "agricola": 120.036690116882,
+          "mato": 429.967257802033,
+          "total": 1096.91491149838
+        },
         "altitude": 374.144,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "NELAS (Alto da Roçada)",
@@ -881,7 +887,7 @@
         "sec": 1692790089
       },
       "updated": {
-        "sec": 1692919096
+        "sec": 1692921636
       }
     },
     {
@@ -1016,8 +1022,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 212,
-      "terrain": 64,
+      "man": 188,
+      "terrain": 56,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -1064,7 +1070,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1692918463
+        "sec": 1692923536
       }
     },
     {
@@ -1081,8 +1087,8 @@
       "location": "Guarda, Mêda, Prova E Casteição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 41,
-      "terrain": 13,
+      "man": 35,
+      "terrain": 11,
       "district": "Guarda",
       "concelho": "Mêda",
       "freguesia": "Prova E Casteição",
@@ -1123,66 +1129,7 @@
         "sec": 1692831022
       },
       "updated": {
-        "sec": 1692920530
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e72f53809bd20a6b2876e3"
-      },
-      "id": "20231044048",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692872280
-      },
-      "date": "24-08-2023",
-      "hour": "11:18",
-      "location": "Bragança, Macedo de Cavaleiros, Ferreira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Bragança",
-      "concelho": "Macedo De Cavaleiros",
-      "freguesia": "Ferreira",
-      "dico": "0405",
-      "lat": 41.63056,
-      "lng": -6.98139,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ferreira ",
-      "active": true,
-      "sadoId": "20231044048",
-      "sharepointId": 22548780,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 620.289,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "M535 (Lages)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "created": {
-        "sec": 1692872531
-      },
-      "updated": {
-        "sec": 1692906010
+        "sec": 1692923408
       }
     },
     {
@@ -1199,8 +1146,8 @@
       "location": "Bragança, Mogadouro, Castelo Branco",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 204,
-      "terrain": 74,
+      "man": 161,
+      "terrain": 59,
       "district": "Bragança",
       "concelho": "Mogadouro",
       "freguesia": "Castelo Branco",
@@ -1241,7 +1188,7 @@
         "sec": 1692877931
       },
       "updated": {
-        "sec": 1692919448
+        "sec": 1692924610
       }
     },
     {
@@ -1258,8 +1205,8 @@
       "location": "Porto, Valongo, Alfena",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Alfena",
@@ -1270,9 +1217,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Alfena ",
       "active": true,
@@ -1300,66 +1247,7 @@
         "sec": 1692914421
       },
       "updated": {
-        "sec": 1692919328
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e7d79f38bf87794008bf07"
-      },
-      "id": "20231047159",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692914880
-      },
-      "date": "24-08-2023",
-      "hour": "23:08",
-      "location": "Lisboa, Alenquer, Ota",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Ota",
-      "dico": "1101",
-      "lat": 39.10951,
-      "lng": -8.98848,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ota ",
-      "active": true,
-      "sadoId": "20231047159",
-      "sharepointId": 22551891,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 32.0769,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Ota. Alenquer. Portugal (IC2 (IC2) Km 43)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1692915615
-      },
-      "updated": {
-        "sec": 1692919691
+        "sec": 1692922456
       }
     },
     {
@@ -1376,8 +1264,8 @@
       "location": "Porto, Baião, Campelo E Ovil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 6,
+      "man": 22,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Campelo E Ovil",
@@ -1388,9 +1276,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Baião ",
       "active": true,
@@ -1418,31 +1306,31 @@
         "sec": 1692917163
       },
       "updated": {
-        "sec": 1692920290
+        "sec": 1692921733
       }
     },
     {
       "_id": {
-        "$id": "64e7df930ba2e3100b6837d5"
+        "$id": "64e7ec38d3064f33705dc2a7"
       },
-      "id": "20231047253",
+      "id": "20231047396",
       "coords": true,
       "dateTime": {
-        "sec": 1692917040
+        "sec": 1692920580
       },
-      "date": "24-08-2023",
-      "hour": "23:44",
-      "location": "Porto, Santo Tirso, Água Longa",
+      "date": "25-08-2023",
+      "hour": "00:43",
+      "location": "Guarda, Figueira de Castelo Rodrigo, Castelo Rodrigo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
+      "man": 2,
       "terrain": 1,
-      "district": "Porto",
-      "concelho": "Santo Tirso",
-      "freguesia": "Água Longa",
-      "dico": "1314",
-      "lat": 41.2508,
-      "lng": -8.50954,
+      "district": "Guarda",
+      "concelho": "Figueira De Castelo Rodrigo",
+      "freguesia": "Castelo Rodrigo",
+      "dico": "0904",
+      "lat": 40.877013,
+      "lng": -6.92613,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1451,18 +1339,128 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Água Longa ",
+      "localidade": "Nave Redonda ",
       "active": true,
-      "sadoId": "20231047253",
-      "sharepointId": 22551985,
+      "sadoId": "20231047396",
+      "sharepointId": 22552128,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1692920888
+      },
+      "updated": {
+        "sec": 1692924735
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e7effc4e3d3340990d2604"
+      },
+      "id": "20231047424",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692921660
+      },
+      "date": "25-08-2023",
+      "hour": "01:01",
+      "location": "Setúbal, Almada, Costa Da Caparica",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Costa Da Caparica",
+      "dico": "1503",
+      "lat": 38.6496,
+      "lng": -9.23481,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Costa Da Caparica ",
+      "active": true,
+      "sadoId": "20231047424",
+      "sharepointId": 22552156,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1692921852
+      },
+      "updated": {
+        "sec": 1692923409
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e7f25827f2d2054c20ebf3"
+      },
+      "id": "20231047433",
+      "coords": true,
+      "dateTime": {
+        "sec": 1692921960
+      },
+      "date": "25-08-2023",
+      "hour": "01:06",
+      "location": "Porto, Paredes, Baltar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Baltar",
+      "dico": "1310",
+      "lat": 41.194757,
+      "lng": -8.386073,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Baltar ",
+      "active": true,
+      "sadoId": "20231047433",
+      "sharepointId": 22552165,
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 122.138,
+        "altitude": 349.719,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua Doutor Francisco Sá Carneiro. 4825-087 Santo Tirso. Portugal (Rio Leça)",
+      "detailLocation": "Rua Dr. Barbosa Leão 262. 4585-012 Paredes. Portugal (Lugar da Feira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1474,10 +1472,10 @@
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1692917651
+        "sec": 1692922456
       },
       "updated": {
-        "sec": 1692919562
+        "sec": 1692924023
       }
     }
   ]
