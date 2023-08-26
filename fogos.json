@@ -15,8 +15,8 @@
       "location": "Castelo Branco, Castelo Branco, Sarzedas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 7,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Sarzedas",
@@ -63,7 +63,7 @@
         "sec": 1691158564
       },
       "updated": {
-        "sec": 1692985211
+        "sec": 1693048690
       }
     },
     {
@@ -774,8 +774,8 @@
       "location": "Guarda, Mêda, Prova E Casteição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Mêda",
       "freguesia": "Prova E Casteição",
@@ -816,7 +816,7 @@
         "sec": 1692831022
       },
       "updated": {
-        "sec": 1693044729
+        "sec": 1693048690
       }
     },
     {
@@ -833,8 +833,8 @@
       "location": "Bragança, Mogadouro, Castelo Branco",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 6,
+      "man": 25,
+      "terrain": 10,
       "district": "Bragança",
       "concelho": "Mogadouro",
       "freguesia": "Castelo Branco",
@@ -881,7 +881,7 @@
         "sec": 1692877931
       },
       "updated": {
-        "sec": 1693045692
+        "sec": 1693048690
       }
     },
     {
@@ -1193,8 +1193,8 @@
       "location": "Leiria, Bombarral, Roliça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Bombarral",
       "freguesia": "Roliça",
@@ -1205,9 +1205,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Roliça ",
       "active": true,
@@ -1231,7 +1231,345 @@
         "sec": 1693048067
       },
       "updated": {
-        "sec": 1693048083
+        "sec": 1693048691
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9de104f128b01373b7a43"
+      },
+      "id": "20231054134",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693047960
+      },
+      "date": "26-08-2023",
+      "hour": "12:06",
+      "location": "Coimbra, Coimbra, Antuzede E Vil De Matos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Coimbra",
+      "freguesia": "Antuzede E Vil De Matos",
+      "dico": "0603",
+      "lat": 40.253154,
+      "lng": -8.473978,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Antuzede ",
+      "active": true,
+      "sadoId": "20231054134",
+      "sharepointId": 22558866,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 18.7225,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Antuzede",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1693048336
+      },
+      "updated": {
+        "sec": 1693049044
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9de104f128b01373b7a44"
+      },
+      "id": "20231054089",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693048080
+      },
+      "date": "26-08-2023",
+      "hour": "12:08",
+      "location": "Porto, Penafiel, Canelas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Canelas",
+      "dico": "1311",
+      "lat": 41.07803,
+      "lng": -8.317895,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Canelas ",
+      "active": true,
+      "sadoId": "20231054089",
+      "sharepointId": 22558821,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693048336
+      },
+      "updated": {
+        "sec": 1693049163
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9df728147c51358565f2d"
+      },
+      "id": "20231054045",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693046820
+      },
+      "date": "26-08-2023",
+      "hour": "11:47",
+      "location": "Leiria, Leiria, Monte Real E Carvide",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Monte Real E Carvide",
+      "dico": "1009",
+      "lat": 39.84606,
+      "lng": -8.886954,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Serra Porto De Urso ",
+      "active": true,
+      "sadoId": "20231054045",
+      "sharepointId": 22558777,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1693048690
+      },
+      "updated": {
+        "sec": 1693048701
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9df738147c51358565f2e"
+      },
+      "id": "20231054142",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693048020
+      },
+      "date": "26-08-2023",
+      "hour": "12:07",
+      "location": "Vila Real, Montalegre, Santo André",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 6,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Santo André",
+      "dico": "1706",
+      "lat": 41.876433,
+      "lng": -7.689258,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santo André ",
+      "active": true,
+      "sadoId": "20231054142",
+      "sharepointId": 22558874,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 818.911,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santo André. Montalegre. Portugal (SANTO ANDRÉ)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1693048691
+      },
+      "updated": {
+        "sec": 1693049163
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9e05c8147c51358565f35"
+      },
+      "id": "20231054189",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693048620
+      },
+      "date": "26-08-2023",
+      "hour": "12:17",
+      "location": "Setúbal, Barreiro, Santo António Da Charneca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Barreiro",
+      "freguesia": "Santo António Da Charneca",
+      "dico": "1504",
+      "lat": 38.62878,
+      "lng": -9.035672,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santo António Da Charneca ",
+      "active": true,
+      "sadoId": "20231054189",
+      "sharepointId": 22558921,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1693048924
+      },
+      "updated": {
+        "sec": 1693049044
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9e0d48147c51358565f39"
+      },
+      "id": "20231054184",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693048620
+      },
+      "date": "26-08-2023",
+      "hour": "12:17",
+      "location": "Aveiro, Oliveira de Azeméis, Nogueira Do Cravo E Pindelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "Nogueira Do Cravo E Pindelo",
+      "dico": "0113",
+      "lat": 40.88325,
+      "lng": -8.436384,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Nogueira Do Cravo E Pindelo ",
+      "active": true,
+      "sadoId": "20231054184",
+      "sharepointId": 22558916,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1693049044
+      },
+      "updated": {
+        "sec": 1693049163
       }
     }
   ]
