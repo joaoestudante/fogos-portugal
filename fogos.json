@@ -1122,61 +1122,6 @@
     },
     {
       "_id": {
-        "$id": "64e9ab6299c1350df16d2acb"
-      },
-      "id": "20231053146",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693034880
-      },
-      "date": "26-08-2023",
-      "hour": "08:28",
-      "location": "Castelo Branco, Castelo Branco, Alcains",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Alcains",
-      "dico": "0502",
-      "lat": 39.92023,
-      "lng": -7.468193,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Alcains ",
-      "active": true,
-      "sadoId": "20231053146",
-      "sharepointId": 22557878,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "created": {
-        "sec": 1693035362
-      },
-      "updated": {
-        "sec": 1693042455
-      }
-    },
-    {
-      "_id": {
         "$id": "64e9c34dc562847b1c7f8dbf"
       },
       "id": "20231053555",
@@ -1211,8 +1156,12 @@
       "sharepointId": 22558287,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 72.17,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "RUA LUIS TEIXEIRA (Quinta do Lagar)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1227,7 +1176,62 @@
         "sec": 1693041485
       },
       "updated": {
-        "sec": 1693045563
+        "sec": 1693047697
+      }
+    },
+    {
+      "_id": {
+        "$id": "64e9dd0348200d10f470a2d2"
+      },
+      "id": "20231054119",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693047780
+      },
+      "date": "26-08-2023",
+      "hour": "12:03",
+      "location": "Leiria, Bombarral, Roliça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Bombarral",
+      "freguesia": "Roliça",
+      "dico": "1005",
+      "lat": 39.29147,
+      "lng": -9.170754,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Roliça ",
+      "active": true,
+      "sadoId": "20231054119",
+      "sharepointId": 22558851,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1693048067
+      },
+      "updated": {
+        "sec": 1693048083
       }
     }
   ]
