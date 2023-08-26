@@ -898,8 +898,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 251,
-      "terrain": 79,
+      "man": 240,
+      "terrain": 77,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -910,9 +910,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
+      "statusCode": 9,
       "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Quinta Do Monte Leal ",
       "active": true,
@@ -940,7 +940,7 @@
         "sec": 1692959058
       },
       "updated": {
-        "sec": 1693017242
+        "sec": 1693019282
       }
     },
     {
@@ -1075,8 +1075,8 @@
       "location": "Castelo Branco, Penamacor, Penamacor",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 232,
-      "terrain": 83,
+      "man": 218,
+      "terrain": 78,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Penamacor",
@@ -1117,7 +1117,7 @@
         "sec": 1692974650
       },
       "updated": {
-        "sec": 1693016530
+        "sec": 1693019530
       }
     },
     {
@@ -1161,7 +1161,7 @@
         "fogacho": true,
         "fontealerta": "PV"
       },
-      "detailLocation": "Serra do Gaio (LORDOSA)",
+      "detailLocation": "Serra do Gaio (Corgas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1176,7 +1176,7 @@
         "sec": 1692999496
       },
       "updated": {
-        "sec": 1693013765
+        "sec": 1693018894
       }
     },
     {
@@ -1215,8 +1215,12 @@
       "sharepointId": 22557088,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 33.3294,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Senhor Roubado (Rua Combatentes Nove Abril)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1231,7 +1235,7 @@
         "sec": 1693005249
       },
       "updated": {
-        "sec": 1693015803
+        "sec": 1693018897
       }
     },
     {
@@ -1270,8 +1274,12 @@
       "sharepointId": 22557172,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 45.5456,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Quinta da Alegria (Casal do Carrasco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1286,66 +1294,7 @@
         "sec": 1693008363
       },
       "updated": {
-        "sec": 1693015803
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e953c12d814d1996467f2b"
-      },
-      "id": "20231052555",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693012560
-      },
-      "date": "26-08-2023",
-      "hour": "02:16",
-      "location": "Porto, Lousada, Meinedo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Lousada",
-      "freguesia": "Meinedo",
-      "dico": "1305",
-      "lat": 41.25626,
-      "lng": -8.24495,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Meinedo ",
-      "active": true,
-      "sadoId": "20231052555",
-      "sharepointId": 22557287,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 196.516,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Lousada (Ribeiro de Caide)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1693012929
-      },
-      "updated": {
-        "sec": 1693015803
+        "sec": 1693018909
       }
     }
   ]
