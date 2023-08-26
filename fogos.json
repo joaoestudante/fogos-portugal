@@ -145,8 +145,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 15,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -193,7 +193,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1693087205
+        "sec": 1693088164
       }
     },
     {
@@ -1119,8 +1119,8 @@
       "location": "Castelo Branco, Sertã, Carvalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 348,
-      "terrain": 107,
+      "man": 337,
+      "terrain": 102,
       "district": "Castelo Branco",
       "concelho": "Sertã",
       "freguesia": "Carvalhal",
@@ -1161,7 +1161,7 @@
         "sec": 1693070283
       },
       "updated": {
-        "sec": 1693085291
+        "sec": 1693088642
       }
     },
     {
@@ -1410,8 +1410,8 @@
       "location": "Santarém, Ferreira do Zêzere, Areias E Pias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 15,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Ferreira Do Zêzere",
       "freguesia": "Areias E Pias",
@@ -1452,7 +1452,7 @@
         "sec": 1693079870
       },
       "updated": {
-        "sec": 1693085290
+        "sec": 1693088642
       }
     },
     {
@@ -1634,8 +1634,8 @@
       "location": "Guarda, Figueira de Castelo Rodrigo, Vermiosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 9,
+      "man": 33,
+      "terrain": 8,
       "district": "Guarda",
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Vermiosa",
@@ -1646,9 +1646,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vermiosa ",
       "active": true,
@@ -1672,7 +1672,7 @@
         "sec": 1693084083
       },
       "updated": {
-        "sec": 1693086970
+        "sec": 1693088164
       }
     },
     {
@@ -1701,9 +1701,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Torredeita ",
       "active": true,
@@ -1727,7 +1727,121 @@
         "sec": 1693086731
       },
       "updated": {
-        "sec": 1693087562
+        "sec": 1693088642
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ea7b8281582333ad05bfbd"
+      },
+      "id": "20231056682",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693088100
+      },
+      "date": "26-08-2023",
+      "hour": "23:15",
+      "location": "Porto, Baião, Teixeira E Teixeiró",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Teixeira E Teixeiró",
+      "dico": "1302",
+      "lat": 41.190903,
+      "lng": -7.930494,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Teixeira ",
+      "active": true,
+      "sadoId": "20231056682",
+      "sharepointId": 22561414,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 662.765,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "casal (Serreirinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693088642
+      },
+      "updated": {
+        "sec": 1693088741
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ea7b8281582333ad05bfc1"
+      },
+      "id": "20231056706",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693086120
+      },
+      "date": "26-08-2023",
+      "hour": "22:42",
+      "location": "Leiria, Alcobaça, Pataias E Martingança",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Pataias E Martingança",
+      "dico": "1001",
+      "lat": 39.65908,
+      "lng": -8.948779,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pisões ",
+      "active": true,
+      "sadoId": "20231056706",
+      "sharepointId": 22561438,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1693088642
+      },
+      "updated": {
+        "sec": 1693088726
       }
     }
   ]
