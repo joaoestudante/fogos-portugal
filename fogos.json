@@ -1089,8 +1089,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 1,
+          "mato": 0,
+          "total": 1
+        },
         "altitude": 583.054,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "117"
       },
       "detailLocation": "Pardieiros",
@@ -1108,7 +1114,7 @@
         "sec": 1693096683
       },
       "updated": {
-        "sec": 1693115403
+        "sec": 1693119706
       }
     },
     {
@@ -1147,8 +1153,12 @@
       "sharepointId": 22562045,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 352.481,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Penamaior. Paços de Ferreira. Portugal (Santa Marinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1163,7 +1173,7 @@
         "sec": 1693113261
       },
       "updated": {
-        "sec": 1693116736
+        "sec": 1693119712
       }
     },
     {
@@ -1202,8 +1212,12 @@
       "sharepointId": 22562073,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 534.428,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sapelos. Boticas. Portugal (Fraga Pelada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1218,7 +1232,7 @@
         "sec": 1693114563
       },
       "updated": {
-        "sec": 1693118643
+        "sec": 1693120035
       }
     },
     {
@@ -1257,8 +1271,12 @@
       "sharepointId": 22562084,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 63.5556,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Av. Qtª Laranjeiras (Quinta das Laranjeiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1273,7 +1291,7 @@
         "sec": 1693115051
       },
       "updated": {
-        "sec": 1693118643
+        "sec": 1693120035
       }
     },
     {
@@ -1345,8 +1363,8 @@
       "location": "Porto, Baião, Santa Marinha Do Zêzere",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Santa Marinha Do Zêzere",
@@ -1383,7 +1401,62 @@
         "sec": 1693115656
       },
       "updated": {
-        "sec": 1693118408
+        "sec": 1693119129
+      }
+    },
+    {
+      "_id": {
+        "$id": "64eaf312b41e997b971c20b8"
+      },
+      "id": "20231057482",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693119060
+      },
+      "date": "27-08-2023",
+      "hour": "07:51",
+      "location": "Braga, Celorico de Basto, Basto (São Clemente)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Celorico De Basto",
+      "freguesia": "Basto (São Clemente)",
+      "dico": "0305",
+      "lat": 41.46222,
+      "lng": -8.03682,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Basto (São Clemente) ",
+      "active": true,
+      "sadoId": "20231057482",
+      "sharepointId": 22562214,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693119250
+      },
+      "updated": {
+        "sec": 1693119259
       }
     }
   ]
