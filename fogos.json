@@ -836,8 +836,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 9,
+      "man": 14,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -884,7 +884,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1693161730
+        "sec": 1693162215
       }
     },
     {
@@ -966,8 +966,8 @@
       "location": "Santarém, Ourém, Atouguia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Atouguia",
@@ -1008,7 +1008,7 @@
         "sec": 1692973821
       },
       "updated": {
-        "sec": 1693161730
+        "sec": 1693162216
       }
     },
     {
@@ -1149,8 +1149,8 @@
       "location": "Castelo Branco, Sertã, Carvalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 136,
-      "terrain": 34,
+      "man": 131,
+      "terrain": 33,
       "district": "Castelo Branco",
       "concelho": "Sertã",
       "freguesia": "Carvalhal",
@@ -1191,7 +1191,7 @@
         "sec": 1693070283
       },
       "updated": {
-        "sec": 1693161962
+        "sec": 1693162216
       }
     },
     {
@@ -1296,6 +1296,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.6,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.6
+        },
         "altitude": 183.73,
         "fogacho": true,
         "fontealerta": "Outros"
@@ -1315,7 +1321,7 @@
         "sec": 1693125850
       },
       "updated": {
-        "sec": 1693161962
+        "sec": 1693162859
       }
     },
     {
@@ -1372,65 +1378,6 @@
       "sub_regiao": "Viseu Dão Lafões",
       "created": {
         "sec": 1693132450
-      },
-      "updated": {
-        "sec": 1693161362
-      }
-    },
-    {
-      "_id": {
-        "$id": "64eb32cb1d4aaa2bc148ae48"
-      },
-      "id": "20231058616",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693135140
-      },
-      "date": "27-08-2023",
-      "hour": "12:19",
-      "location": "Aveiro, Estarreja, Beduído E Veiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Beduído E Veiros",
-      "dico": "0108",
-      "lat": 40.772075,
-      "lng": -8.562952,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Estarreja ",
-      "active": true,
-      "sadoId": "20231058616",
-      "sharepointId": 22563348,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 1.905,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Beduído (Pinhal da Cardosa)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1693135563
       },
       "updated": {
         "sec": 1693161362
@@ -1532,6 +1479,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.04,
+          "total": 0.04
+        },
         "altitude": 181.804,
         "fogacho": true,
         "fontealerta": "112"
@@ -1551,121 +1504,7 @@
         "sec": 1693144697
       },
       "updated": {
-        "sec": 1693155370
-      }
-    },
-    {
-      "_id": {
-        "$id": "64eb5b22ca6a807fb10e6016"
-      },
-      "id": "20231059377",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693145640
-      },
-      "date": "27-08-2023",
-      "hour": "15:14",
-      "location": "Vila Real, Santa Marta de Penaguião, Fontes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Vila Real",
-      "concelho": "Santa Marta De Penaguião",
-      "freguesia": "Fontes",
-      "dico": "1711",
-      "lat": 41.239677,
-      "lng": -7.862818,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Fontes ",
-      "active": true,
-      "sadoId": "20231059377",
-      "sharepointId": 22564109,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 635.902,
-        "fogacho": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Ermida (Malhada)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1693145890
-      },
-      "updated": {
-        "sec": 1693158016
-      }
-    },
-    {
-      "_id": {
-        "$id": "64eb6c03c3c7fa59a237e39b"
-      },
-      "id": "20231059614",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693149060
-      },
-      "date": "27-08-2023",
-      "hour": "16:11",
-      "location": "Vila Real, Peso da Régua, Moura Morta E Vinhós",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Peso Da Régua",
-      "freguesia": "Moura Morta E Vinhós",
-      "dico": "1708",
-      "lat": 41.239677,
-      "lng": -7.861152,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Viso ",
-      "active": true,
-      "sadoId": "20231059614",
-      "sharepointId": 22564346,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1693150211
-      },
-      "updated": {
-        "sec": 1693159562
+        "sec": 1693162895
       }
     },
     {
@@ -1709,7 +1548,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Vila Nova. Valpaços. Portugal (Vila Nova)",
+      "detailLocation": "Vila Nova. Valpaços. Portugal (Alto do Rodo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1724,7 +1563,7 @@
         "sec": 1693150936
       },
       "updated": {
-        "sec": 1693161962
+        "sec": 1693163236
       }
     },
     {
@@ -1768,7 +1607,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Pedricosa (SOSA)",
+      "detailLocation": "Pedricosa (Molareira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1783,7 +1622,7 @@
         "sec": 1693150936
       },
       "updated": {
-        "sec": 1693158251
+        "sec": 1693163236
       }
     },
     {
@@ -1827,7 +1666,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Restaurante Monverde. 4600 Amarante. Portugal (Sanguinedo)",
+      "detailLocation": "Restaurante Monverde. 4600 Amarante. Portugal (Longra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1842,7 +1681,7 @@
         "sec": 1693151852
       },
       "updated": {
-        "sec": 1693155612
+        "sec": 1693163237
       }
     },
     {
@@ -1857,9 +1696,9 @@
       "date": "27-08-2023",
       "hour": "16:40",
       "location": "Vila Real, Peso da Régua, Sedielos",
-      "aerial": 7,
+      "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 71,
+      "man": 65,
       "terrain": 15,
       "district": "Vila Real",
       "concelho": "Peso Da Régua",
@@ -1884,9 +1723,9 @@
       "icnf": {
         "altitude": 225.407,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "CCO"
       },
-      "detailLocation": "Ermida (Viso)",
+      "detailLocation": "Miradouro Ermida (Pereira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1901,7 +1740,7 @@
         "sec": 1693151853
       },
       "updated": {
-        "sec": 1693161744
+        "sec": 1693163237
       }
     },
     {
@@ -1940,8 +1779,12 @@
       "sharepointId": 22564552,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 49.7212,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Rua da Gurita (Paço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1956,7 +1799,7 @@
         "sec": 1693152964
       },
       "updated": {
-        "sec": 1693158857
+        "sec": 1693163250
       }
     },
     {
@@ -2028,8 +1871,8 @@
       "location": "Braga, Guimarães, Polvoreira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Polvoreira",
@@ -2066,7 +1909,7 @@
         "sec": 1693153930
       },
       "updated": {
-        "sec": 1693161362
+        "sec": 1693162215
       }
     },
     {
@@ -2150,9 +1993,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mira-sintra ",
       "active": true,
@@ -2176,7 +2019,7 @@
         "sec": 1693155491
       },
       "updated": {
-        "sec": 1693161363
+        "sec": 1693162456
       }
     },
     {
@@ -2248,8 +2091,8 @@
       "location": "Castelo Branco, Fundão, Telhado",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Telhado",
@@ -2286,7 +2129,7 @@
         "sec": 1693156564
       },
       "updated": {
-        "sec": 1693160651
+        "sec": 1693162571
       }
     },
     {
@@ -2523,8 +2366,8 @@
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
@@ -2565,7 +2408,7 @@
         "sec": 1693159930
       },
       "updated": {
-        "sec": 1693160531
+        "sec": 1693162571
       }
     },
     {
@@ -2594,9 +2437,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Ramada ",
       "active": true,
@@ -2624,7 +2467,7 @@
         "sec": 1693160531
       },
       "updated": {
-        "sec": 1693161963
+        "sec": 1693162571
       }
     },
     {
@@ -2696,8 +2539,8 @@
       "location": "Santarém, Ourém, Rio De Couros E Casal Dos Bernardos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 8,
+      "man": 67,
+      "terrain": 14,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Rio De Couros E Casal Dos Bernardos",
@@ -2708,9 +2551,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Engenho ",
       "active": true,
@@ -2734,7 +2577,62 @@
         "sec": 1693161362
       },
       "updated": {
-        "sec": 1693161962
+        "sec": 1693162456
+      }
+    },
+    {
+      "_id": {
+        "$id": "64eb9ae8ff796832d903971c"
+      },
+      "id": "20231060418",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693162140
+      },
+      "date": "27-08-2023",
+      "hour": "19:49",
+      "location": "Castelo Branco, Covilhã, Tortosendo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 46,
+      "terrain": 10,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Tortosendo",
+      "dico": "0503",
+      "lat": 40.239413,
+      "lng": -7.516167,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Tortosendo ",
+      "active": true,
+      "sadoId": "20231060418",
+      "sharepointId": 22565150,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1693162216
+      },
+      "updated": {
+        "sec": 1693162571
       }
     }
   ]
