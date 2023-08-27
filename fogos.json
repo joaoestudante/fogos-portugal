@@ -836,8 +836,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 7,
+      "man": 28,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -884,7 +884,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1693127651
+        "sec": 1693133890
       }
     },
     {
@@ -1488,6 +1488,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.6,
+          "total": 0.6
+        },
         "altitude": 534.428,
         "fogacho": true,
         "fontealerta": "112"
@@ -1507,7 +1513,7 @@
         "sec": 1693114563
       },
       "updated": {
-        "sec": 1693129216
+        "sec": 1693134106
       }
     },
     {
@@ -1546,8 +1552,12 @@
       "sharepointId": 22562634,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 183.73,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "ARANHAS (Vale da Broa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1562,7 +1572,7 @@
         "sec": 1693125850
       },
       "updated": {
-        "sec": 1693131256
+        "sec": 1693134121
       }
     },
     {
@@ -1601,8 +1611,12 @@
       "sharepointId": 22562748,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 301.26,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Soutelo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1617,7 +1631,7 @@
         "sec": 1693126929
       },
       "updated": {
-        "sec": 1693133051
+        "sec": 1693134124
       }
     },
     {
@@ -1715,8 +1729,12 @@
       "sharepointId": 22562875,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 769.46,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Souto (Lavradas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1731,7 +1749,7 @@
         "sec": 1693129216
       },
       "updated": {
-        "sec": 1693132690
+        "sec": 1693134134
       }
     },
     {
@@ -1748,8 +1766,8 @@
       "location": "Leiria, Leiria, Monte Real E Carvide",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Monte Real E Carvide",
@@ -1770,8 +1788,12 @@
       "sharepointId": 22563124,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 35.1006,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Trovisqueira 070. 2425-082 Leiria. Portugal (BASE AÉREA Nº 5)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1786,7 +1808,7 @@
         "sec": 1693132450
       },
       "updated": {
-        "sec": 1693132931
+        "sec": 1693134522
       }
     },
     {
@@ -1801,10 +1823,10 @@
       "date": "27-08-2023",
       "hour": "11:30",
       "location": "Viseu, Vila Nova de Paiva, Vila Cova À Coelheira",
-      "aerial": 1,
+      "aerial": 7,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 7,
+      "man": 97,
+      "terrain": 24,
       "district": "Viseu",
       "concelho": "Vila Nova De Paiva",
       "freguesia": "Vila Cova À Coelheira",
@@ -1845,7 +1867,7 @@
         "sec": 1693132450
       },
       "updated": {
-        "sec": 1693133163
+        "sec": 1693134523
       }
     },
     {
@@ -1862,8 +1884,8 @@
       "location": "Braga, Guimarães, Lordelo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 21,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Lordelo",
@@ -1874,9 +1896,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Lordelo ",
       "active": true,
@@ -1884,8 +1906,12 @@
       "sharepointId": 22563130,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 103.438,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Loureiro 11. 4815-225 Guimarães. Portugal (EN105 (EN105) Km 32)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1900,7 +1926,7 @@
         "sec": 1693132690
       },
       "updated": {
-        "sec": 1693132931
+        "sec": 1693134523
       }
     },
     {
@@ -1929,9 +1955,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cavernães ",
       "active": true,
@@ -1959,7 +1985,7 @@
         "sec": 1693132690
       },
       "updated": {
-        "sec": 1693132931
+        "sec": 1693133649
       }
     },
     {
@@ -1976,8 +2002,8 @@
       "location": "Santarém, Coruche, Coruche, Fajarda E Erra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 11,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Coruche, Fajarda E Erra",
@@ -1988,9 +2014,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Azervadinha ",
       "active": true,
@@ -1998,8 +2024,12 @@
       "sharepointId": 22563175,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 18.5187,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Azervadinha",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2014,7 +2044,121 @@
         "sec": 1693133052
       },
       "updated": {
-        "sec": 1693133163
+        "sec": 1693134523
+      }
+    },
+    {
+      "_id": {
+        "$id": "64eb2b528fced8103641aebc"
+      },
+      "id": "20231058488",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693133160
+      },
+      "date": "27-08-2023",
+      "hour": "11:46",
+      "location": "Aveiro, Vagos, Sosa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Aveiro",
+      "concelho": "Vagos",
+      "freguesia": "Sosa",
+      "dico": "0118",
+      "lat": 40.55426,
+      "lng": -8.65529,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Sosa ",
+      "active": true,
+      "sadoId": "20231058488",
+      "sharepointId": 22563220,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 26.8375,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lavandeira. Vagos. Portugal (Lavandeira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1693133650
+      },
+      "updated": {
+        "sec": 1693134523
+      }
+    },
+    {
+      "_id": {
+        "$id": "64eb2ebb2c3ce141206fa014"
+      },
+      "id": "20231058560",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693134180
+      },
+      "date": "27-08-2023",
+      "hour": "12:03",
+      "location": "Viseu, Vila Nova de Paiva, Vila Cova À Coelheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Vila Cova À Coelheira",
+      "dico": "1822",
+      "lat": 40.878971,
+      "lng": -7.79632,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vila Cova Coelheira ",
+      "active": true,
+      "sadoId": "20231058560",
+      "sharepointId": 22563292,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1693134523
+      },
+      "updated": {
+        "sec": 1693134536
       }
     }
   ]
