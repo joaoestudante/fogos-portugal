@@ -447,7 +447,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1693219208
+        "sec": 1693221010
       }
     },
     {
@@ -891,71 +891,6 @@
       },
       "updated": {
         "sec": 1693210084
-      }
-    },
-    {
-      "_id": {
-        "$id": "64e89b11506130711d25ac9f"
-      },
-      "id": "20231049628",
-      "coords": true,
-      "dateTime": {
-        "sec": 1692965220
-      },
-      "date": "25-08-2023",
-      "hour": "13:07",
-      "location": "Braga, Esposende, Apúlia E Fão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Braga",
-      "concelho": "Esposende",
-      "freguesia": "Apúlia E Fão",
-      "dico": "0306",
-      "lat": 41.48229,
-      "lng": -8.752632,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "União Das Freguesias De Apúlia E Fão ",
-      "active": true,
-      "sadoId": "20231049628",
-      "sharepointId": 22554360,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0.03,
-          "mato": 0,
-          "total": 0.03
-        },
-        "altitude": 4.18813,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Avenida da Praia (Estação Rádio Naval da Marinha)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "created": {
-        "sec": 1692965649
-      },
-      "updated": {
-        "sec": 1693218603
       }
     },
     {
@@ -1479,8 +1414,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 4,
+          "total": 4
+        },
         "altitude": 194.428,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Rua Josefa de Obidos (Tapada das Mercês)",
@@ -1498,7 +1439,7 @@
         "sec": 1693170131
       },
       "updated": {
-        "sec": 1693210442
+        "sec": 1693220580
       }
     },
     {
@@ -1574,8 +1515,8 @@
       "location": "Castelo Branco, Castelo Branco, Cebolais De Cima E Retaxo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 56,
-      "terrain": 15,
+      "man": 51,
+      "terrain": 14,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Cebolais De Cima E Retaxo",
@@ -1596,8 +1537,12 @@
       "sharepointId": 22567038,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 399.226,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Retaxo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1612,7 +1557,7 @@
         "sec": 1693212250
       },
       "updated": {
-        "sec": 1693218844
+        "sec": 1693220819
       }
     },
     {
@@ -1651,8 +1596,12 @@
       "sharepointId": 22567426,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 492.079,
+        "agricola": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Torneiros (Vilalva)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1667,7 +1616,7 @@
         "sec": 1693215963
       },
       "updated": {
-        "sec": 1693219451
+        "sec": 1693220677
       }
     },
     {
@@ -1684,8 +1633,8 @@
       "location": "Viseu, Oliveira de Frades, Pinheiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Oliveira De Frades",
       "freguesia": "Pinheiro",
@@ -1706,8 +1655,12 @@
       "sharepointId": 22567574,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 513.556,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Enxertado (LADEIRA SANTA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1722,7 +1675,7 @@
         "sec": 1693217650
       },
       "updated": {
-        "sec": 1693219564
+        "sec": 1693220819
       }
     },
     {
@@ -1737,10 +1690,10 @@
       "date": "28-08-2023",
       "hour": "11:22",
       "location": "Santarém, Ferreira do Zêzere, Beco",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 6,
+      "man": 13,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Ferreira Do Zêzere",
       "freguesia": "Beco",
@@ -1761,8 +1714,18 @@
       "sharepointId": 22567637,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.004,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.004
+        },
+        "altitude": 272.914,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Jordão. Ferreira do Zêzere. Portugal (Vale da Carreira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1777,7 +1740,7 @@
         "sec": 1693218255
       },
       "updated": {
-        "sec": 1693219564
+        "sec": 1693221010
       }
     },
     {
@@ -1792,25 +1755,25 @@
       "date": "28-08-2023",
       "hour": "11:25",
       "location": "Braga, Vila Verde, Esqueiros, Nevogilde E Travassós",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
+      "man": 18,
       "terrain": 5,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Esqueiros, Nevogilde E Travassós",
       "dico": "0313",
-      "lat": 41.66737,
-      "lng": -8.47531,
+      "lat": 41.663745,
+      "lng": -8.476867,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "União Das Freguesias De Esqueiros, Nevogilde E Travassós ",
+      "localidade": "São Sebastião ",
       "active": true,
       "sadoId": "20231062911",
       "sharepointId": 22567643,
@@ -1832,7 +1795,7 @@
         "sec": 1693218604
       },
       "updated": {
-        "sec": 1693219451
+        "sec": 1693221011
       }
     },
     {
@@ -1857,13 +1820,13 @@
       "dico": "1411",
       "lat": 39.754578,
       "lng": -8.313972,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Carril ",
       "active": true,
@@ -1871,8 +1834,12 @@
       "sharepointId": 22567674,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 331.497,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Carril",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1887,7 +1854,66 @@
         "sec": 1693219209
       },
       "updated": {
-        "sec": 1693219221
+        "sec": 1693220758
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ec7c5a34588415242548dc"
+      },
+      "id": "20231063021",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693219500
+      },
+      "date": "28-08-2023",
+      "hour": "11:45",
+      "location": "Porto, Vila Nova de Gaia, Canidelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Canidelo",
+      "dico": "1317",
+      "lat": 41.118522,
+      "lng": -8.638435,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Madalena ",
+      "active": true,
+      "sadoId": "20231063021",
+      "sharepointId": 22567753,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 63.2594,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Marechal António de Spínola. Vila Nova de Gaia. Portugal (Rua Marechal António de Spínola)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1693219930
+      },
+      "updated": {
+        "sec": 1693221010
       }
     }
   ]
