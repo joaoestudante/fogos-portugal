@@ -399,8 +399,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 27,
+      "terrain": 8,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -447,7 +447,7 @@
         "sec": 1692190981
       },
       "updated": {
-        "sec": 1693192671
+        "sec": 1693194242
       }
     },
     {
@@ -1444,8 +1444,8 @@
       "location": "Lisboa, Sintra, Algueirão-mem Martins",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 95,
-      "terrain": 28,
+      "man": 83,
+      "terrain": 25,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Algueirão-mem Martins",
@@ -1486,72 +1486,7 @@
         "sec": 1693170131
       },
       "updated": {
-        "sec": 1693192671
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ebc7e84fdf527ab31413ab"
-      },
-      "id": "20231061005",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693173180
-      },
-      "date": "27-08-2023",
-      "hour": "22:53",
-      "location": "Porto, Vila Nova de Gaia, Canidelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Canidelo",
-      "dico": "1317",
-      "lat": 41.118658,
-      "lng": -8.63845,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Canidelo ",
-      "active": true,
-      "sadoId": "20231061005",
-      "sharepointId": 22565737,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 2,
-          "total": 2
-        },
-        "altitude": 63.2594,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Lg Fernando Pessoa (Rua Alexandre ONeal)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693173736
-      },
-      "updated": {
-        "sec": 1693192853
+        "sec": 1693193846
       }
     },
     {
@@ -1639,9 +1574,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Mourelo ",
       "active": true,
@@ -1649,8 +1584,12 @@
       "sharepointId": 22566120,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 500.359,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Mourelo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1665,7 +1604,7 @@
         "sec": 1693185243
       },
       "updated": {
-        "sec": 1693192671
+        "sec": 1693193847
       }
     },
     {
@@ -1682,8 +1621,8 @@
       "location": "Viseu, Resende, São Martinho De Mouros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 17,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Resende",
       "freguesia": "São Martinho De Mouros",
@@ -1694,9 +1633,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "São Martinho De Mouros ",
       "active": true,
@@ -1709,7 +1648,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "São Martinho de Mouros. Resende. Portugal (SENHOR DO CALVÁRIO)",
+      "detailLocation": "São Martinho de Mouros. Resende. Portugal (Roteiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1724,7 +1663,7 @@
         "sec": 1693192671
       },
       "updated": {
-        "sec": 1693192766
+        "sec": 1693194003
       }
     }
   ]
