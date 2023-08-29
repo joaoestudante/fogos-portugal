@@ -399,8 +399,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 16,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -447,7 +447,7 @@
         "sec": 1692959058
       },
       "updated": {
-        "sec": 1693298290
+        "sec": 1693299496
       }
     },
     {
@@ -836,8 +836,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 123,
-      "terrain": 41,
+      "man": 100,
+      "terrain": 34,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Touvedo (São Lourenço E Salvador)",
@@ -878,7 +878,7 @@
         "sec": 1693236483
       },
       "updated": {
-        "sec": 1693297452
+        "sec": 1693300220
       }
     },
     {
@@ -893,10 +893,10 @@
       "date": "28-08-2023",
       "hour": "14:51",
       "location": "Faro, Monchique, Monchique",
-      "aerial": 2,
+      "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 209,
-      "terrain": 66,
+      "man": 212,
+      "terrain": 67,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Monchique",
@@ -937,7 +937,7 @@
         "sec": 1693236484
       },
       "updated": {
-        "sec": 1693298291
+        "sec": 1693299630
       }
     },
     {
@@ -1078,8 +1078,8 @@
       "location": "Braga, Póvoa de Lanhoso, São João De Rei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 9,
+      "man": 22,
+      "terrain": 7,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "São João De Rei",
@@ -1120,7 +1120,7 @@
         "sec": 1693243562
       },
       "updated": {
-        "sec": 1693297452
+        "sec": 1693299250
       }
     },
     {
@@ -1255,8 +1255,8 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Ribeira Do Neiva",
@@ -1297,7 +1297,7 @@
         "sec": 1693295410
       },
       "updated": {
-        "sec": 1693298764
+        "sec": 1693299882
       }
     },
     {
@@ -1367,9 +1367,9 @@
       "date": "29-08-2023",
       "hour": "09:29",
       "location": "Guarda, Gouveia, Figueiró Da Serra E Freixo Da Serra",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
+      "man": 20,
       "terrain": 4,
       "district": "Guarda",
       "concelho": "Gouveia",
@@ -1381,9 +1381,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Quinta Da Moira ",
       "active": true,
@@ -1407,7 +1407,62 @@
         "sec": 1693298057
       },
       "updated": {
-        "sec": 1693298536
+        "sec": 1693299883
+      }
+    },
+    {
+      "_id": {
+        "$id": "64edb6e350b4ec531d062af3"
+      },
+      "id": "20231067133",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693300200
+      },
+      "date": "29-08-2023",
+      "hour": "10:10",
+      "location": "Vila Real, Valpaços, Carrazedo De Montenegro E Curros",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Carrazedo De Montenegro E Curros",
+      "dico": "1712",
+      "lat": 41.56571,
+      "lng": -7.42962,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carrazedo De Montenegro E Curros ",
+      "active": true,
+      "sadoId": "20231067133",
+      "sharepointId": 22573639,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1693300451
+      },
+      "updated": {
+        "sec": 1693300464
       }
     }
   ]
