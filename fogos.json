@@ -836,8 +836,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 81,
-      "terrain": 29,
+      "man": 80,
+      "terrain": 28,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Touvedo (São Lourenço E Salvador)",
@@ -878,7 +878,7 @@
         "sec": 1693236483
       },
       "updated": {
-        "sec": 1693305251
+        "sec": 1693306215
       }
     },
     {
@@ -895,8 +895,8 @@
       "location": "Faro, Monchique, Monchique",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 199,
-      "terrain": 64,
+      "man": 195,
+      "terrain": 62,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Monchique",
@@ -937,7 +937,7 @@
         "sec": 1693236484
       },
       "updated": {
-        "sec": 1693305964
+        "sec": 1693307224
       }
     },
     {
@@ -1277,8 +1277,12 @@
       "sharepointId": 22573639,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 733.133,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Carrazedo de Montenegro. Valpaços. Portugal (Poito Grande)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1293,7 +1297,7 @@
         "sec": 1693300451
       },
       "updated": {
-        "sec": 1693302970
+        "sec": 1693307113
       }
     },
     {
@@ -1332,8 +1336,12 @@
       "sharepointId": 22573995,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 95.4337,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vale (MURO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1348,7 +1356,125 @@
         "sec": 1693304418
       },
       "updated": {
-        "sec": 1693305850
+        "sec": 1693307140
+      }
+    },
+    {
+      "_id": {
+        "$id": "64edcd67803bc46f717d0b50"
+      },
+      "id": "20231067621",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693305960
+      },
+      "date": "29-08-2023",
+      "hour": "11:46",
+      "location": "Bragança, Miranda do Douro, Malhadas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Bragança",
+      "concelho": "Miranda Do Douro",
+      "freguesia": "Malhadas",
+      "dico": "0406",
+      "lat": 41.542418,
+      "lng": -6.329923,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Malhadas ",
+      "active": true,
+      "sadoId": "20231067621",
+      "sharepointId": 22574127,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 760.119,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Malhadas. Miranda do Douro. Portugal (Senhora das Dores)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1693306215
+      },
+      "updated": {
+        "sec": 1693307537
+      }
+    },
+    {
+      "_id": {
+        "$id": "64edd1583949787d1a1e4172"
+      },
+      "id": "20231067703",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693306680
+      },
+      "date": "29-08-2023",
+      "hour": "11:58",
+      "location": "Vila Real, Montalegre, Cabril",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Cabril",
+      "dico": "1706",
+      "lat": 41.700691,
+      "lng": -8.094699,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fafião ",
+      "active": true,
+      "sadoId": "20231067703",
+      "sharepointId": 22574209,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 462.727,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Fafião",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1693307224
+      },
+      "updated": {
+        "sec": 1693307537
       }
     }
   ]
