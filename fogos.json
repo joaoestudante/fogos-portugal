@@ -834,9 +834,9 @@
       "date": "28-08-2023",
       "hour": "16:12",
       "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 139,
+      "man": 144,
       "terrain": 47,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
@@ -878,7 +878,7 @@
         "sec": 1693236483
       },
       "updated": {
-        "sec": 1693289747
+        "sec": 1693292934
       }
     },
     {
@@ -893,9 +893,9 @@
       "date": "28-08-2023",
       "hour": "14:51",
       "location": "Faro, Monchique, Monchique",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 178,
+      "man": 180,
       "terrain": 58,
       "district": "Faro",
       "concelho": "Monchique",
@@ -937,7 +937,7 @@
         "sec": 1693236484
       },
       "updated": {
-        "sec": 1693278844
+        "sec": 1693293131
       }
     },
     {
@@ -1277,8 +1277,18 @@
       "sharepointId": 22572717,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.02,
+          "total": 0.02
+        },
+        "altitude": 508.778,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Sobrados",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1293,7 +1303,7 @@
         "sec": 1693280048
       },
       "updated": {
-        "sec": 1693290621
+        "sec": 1693292628
       }
     },
     {
@@ -1310,8 +1320,8 @@
       "location": "Braga, Cabeceiras de Basto, Gondiães E Vilar De Cunhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Gondiães E Vilar De Cunhas",
@@ -1337,7 +1347,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Torneiro. Cabeceiras de Basto. Portugal (Torneiro)",
+      "detailLocation": "Torneiro. Cabeceiras de Basto. Portugal (Alto do Sobreiral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1352,66 +1362,7 @@
         "sec": 1693284849
       },
       "updated": {
-        "sec": 1693290255
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ed8d135708d10a0b6d52e2"
-      },
-      "id": "20231066303",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693285320
-      },
-      "date": "29-08-2023",
-      "hour": "06:02",
-      "location": "Lisboa, Odivelas, Pontinha E Famões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Pontinha E Famões",
-      "dico": "1116",
-      "lat": 38.76908,
-      "lng": -9.19653,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Pontinha E Famões ",
-      "active": true,
-      "sadoId": "20231066303",
-      "sharepointId": 22572809,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 86.3925,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Avenida Fundação Calouste Gulbenkian (Bairro Mário Madeira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1693289747
-      },
-      "updated": {
-        "sec": 1693290136
+        "sec": 1693292934
       }
     }
   ]
