@@ -718,8 +718,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 8,
+      "man": 16,
+      "terrain": 6,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Touvedo (São Lourenço E Salvador)",
@@ -730,9 +730,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Barral ",
       "active": true,
@@ -760,7 +760,7 @@
         "sec": 1693236483
       },
       "updated": {
-        "sec": 1693348330
+        "sec": 1693350020
       }
     },
     {
@@ -948,124 +948,6 @@
     },
     {
       "_id": {
-        "$id": "64ee0255997f6f034400abaf"
-      },
-      "id": "20231068743",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693319460
-      },
-      "date": "29-08-2023",
-      "hour": "15:31",
-      "location": "Braga, Cabeceiras de Basto, Gondiães E Vilar De Cunhas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Cabeceiras De Basto",
-      "freguesia": "Gondiães E Vilar De Cunhas",
-      "dico": "0304",
-      "lat": 41.564513,
-      "lng": -7.837045,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20231068743",
-      "sharepointId": 22575249,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 689.857,
-        "fogacho": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Torneiro",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1693319765
-      },
-      "updated": {
-        "sec": 1693345695
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ee0a5a2dd80d4cd521b773"
-      },
-      "id": "20231068917",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693321560
-      },
-      "date": "29-08-2023",
-      "hour": "16:06",
-      "location": "Vila Real, Vila Pouca de Aguiar, Vreia De Jales",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Vreia De Jales",
-      "dico": "1713",
-      "lat": 41.431827,
-      "lng": -7.627002,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Quintã ",
-      "active": true,
-      "sadoId": "20231068917",
-      "sharepointId": 22575423,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 763.023,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Quintã de Jales (NOSSA SENHORA DA GRAÇA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1693321818
-      },
-      "updated": {
-        "sec": 1693348088
-      }
-    },
-    {
-      "_id": {
         "$id": "64ee0a5a2dd80d4cd521b777"
       },
       "id": "20231068894",
@@ -1101,6 +983,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.43,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.43
+        },
         "altitude": 382.32,
         "fogacho": true,
         "fontealerta": "112"
@@ -1120,7 +1008,7 @@
         "sec": 1693321818
       },
       "updated": {
-        "sec": 1693344849
+        "sec": 1693350155
       }
     },
     {
@@ -1137,8 +1025,8 @@
       "location": "Santarém, Chamusca, Ulme",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 232,
-      "terrain": 70,
+      "man": 222,
+      "terrain": 68,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Ulme",
@@ -1179,7 +1067,7 @@
         "sec": 1693326250
       },
       "updated": {
-        "sec": 1693348089
+        "sec": 1693350605
       }
     },
     {
@@ -1196,8 +1084,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Touvedo (São Lourenço E Salvador)",
@@ -1238,7 +1126,7 @@
         "sec": 1693328162
       },
       "updated": {
-        "sec": 1693344014
+        "sec": 1693349882
       }
     },
     {
@@ -1255,8 +1143,8 @@
       "location": "Porto, Penafiel, Abragão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Abragão",
@@ -1282,7 +1170,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Luzim. Penafiel. Portugal (LUZIM)",
+      "detailLocation": "Luzim. Penafiel. Portugal (Louredo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1297,7 +1185,7 @@
         "sec": 1693338131
       },
       "updated": {
-        "sec": 1693347020
+        "sec": 1693350381
       }
     },
     {
@@ -1314,8 +1202,8 @@
       "location": "Leiria, Castanheira de Pêra, Castanheira De Pêra E Coentral",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 8,
+      "man": 7,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Castanheira De Pêra",
       "freguesia": "Castanheira De Pêra E Coentral",
@@ -1336,8 +1224,12 @@
       "sharepointId": 22576813,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 378.362,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Fundo do Lugar (Sarzedas de São Pedro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1352,7 +1244,7 @@
         "sec": 1693345202
       },
       "updated": {
-        "sec": 1693348563
+        "sec": 1693350381
       }
     },
     {
@@ -1391,8 +1283,12 @@
       "sharepointId": 22576864,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 188.79,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar da Pena (TRAVANCA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1407,7 +1303,7 @@
         "sec": 1693346301
       },
       "updated": {
-        "sec": 1693348450
+        "sec": 1693350285
       }
     },
     {
@@ -1430,15 +1326,15 @@
       "concelho": "Loulé",
       "freguesia": "Almancil",
       "dico": "0808",
-      "lat": 37.07906,
-      "lng": -8.03552,
+      "lat": 37.077985,
+      "lng": -8.034435,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Almancil ",
       "active": true,
@@ -1446,8 +1342,12 @@
       "sharepointId": 22576922,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 23.2787,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Manuel Tomás. 8135-117 Loulé. Portugal (Corgo do Gondra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1462,7 +1362,7 @@
         "sec": 1693347618
       },
       "updated": {
-        "sec": 1693349162
+        "sec": 1693350296
       }
     },
     {
@@ -1479,7 +1379,7 @@
       "location": "Porto, Vila do Conde, Bagunte, Ferreiró, Outeiro Maior E Parada",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
+      "man": 5,
       "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Do Conde",
@@ -1501,8 +1401,12 @@
       "sharepointId": 22576982,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 67.8919,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Monte da Cividade (Quinta do Campos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1517,7 +1421,7 @@
         "sec": 1693349162
       },
       "updated": {
-        "sec": 1693349174
+        "sec": 1693350308
       }
     }
   ]
