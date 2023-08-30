@@ -1048,8 +1048,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 14,
+          "agricola": 0,
+          "mato": 0,
+          "total": 14
+        },
         "altitude": 132.964,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "CCO"
       },
       "detailLocation": "Semideiro",
@@ -1067,7 +1073,7 @@
         "sec": 1693326250
       },
       "updated": {
-        "sec": 1693360452
+        "sec": 1693364530
       }
     },
     {
@@ -1107,6 +1113,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.12,
+          "total": 0.12
+        },
         "altitude": 95.1694,
         "fogacho": true,
         "fontealerta": "112"
@@ -1126,7 +1138,7 @@
         "sec": 1693328162
       },
       "updated": {
-        "sec": 1693349882
+        "sec": 1693364543
       }
     },
     {
@@ -1214,9 +1226,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Abrunhosa A Velha ",
       "active": true,
@@ -1229,7 +1241,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "ABRUNHOSA A VELHA (Quinta da Ribeira)",
+      "detailLocation": "ABRUNHOSA A VELHA (Azenhas da Retorta)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1244,62 +1256,7 @@
         "sec": 1693354323
       },
       "updated": {
-        "sec": 1693359858
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ee8b34f3728b23f031fcb0"
-      },
-      "id": "20231070623",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693354620
-      },
-      "date": "30-08-2023",
-      "hour": "01:17",
-      "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
-      "district": "Aveiro",
-      "concelho": "Aveiro",
-      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
-      "dico": "0105",
-      "lat": 40.571903,
-      "lng": -8.575983,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Requeixo, Nossa Senhora De Fátima E Nariz ",
-      "active": true,
-      "sadoId": "20231070623",
-      "sharepointId": 22577129,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1693354804
-      },
-      "updated": {
-        "sec": 1693360451
+        "sec": 1693364596
       }
     },
     {
@@ -1316,21 +1273,21 @@
       "location": "Braga, Celorico de Basto, Carvalho E Basto (santa Tecla)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Carvalho E Basto (santa Tecla)",
       "dico": "0305",
-      "lat": 41.38444,
-      "lng": -8.04858,
+      "lat": 41.387425,
+      "lng": -8.052888,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Carvalho E Basto (Santa Tecla) ",
       "active": true,
@@ -1343,7 +1300,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Igreja Paroquial de Basto Santa Tecla. 4890 Celorico de Basto. Portugal (SANTA TECLA)",
+      "detailLocation": "Igreja Paroquial de Basto Santa Tecla. 4890 Celorico de Basto. Portugal (Giestas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1358,62 +1315,7 @@
         "sec": 1693358883
       },
       "updated": {
-        "sec": 1693360452
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ee9ef2731cfa564f538d04"
-      },
-      "id": "20231070710",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693359120
-      },
-      "date": "30-08-2023",
-      "hour": "02:32",
-      "location": "Faro, Loulé, Almancil",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
-      "district": "Faro",
-      "concelho": "Loulé",
-      "freguesia": "Almancil",
-      "dico": "0808",
-      "lat": 37.086336,
-      "lng": -8.028466,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Almansil ",
-      "active": true,
-      "sadoId": "20231070710",
-      "sharepointId": 22577216,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1693359858
-      },
-      "updated": {
-        "sec": 1693360452
+        "sec": 1693364607
       }
     }
   ]
