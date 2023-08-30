@@ -1096,65 +1096,6 @@
     },
     {
       "_id": {
-        "$id": "64ef12354d43fb3959567276"
-      },
-      "id": "20231071993",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693389000
-      },
-      "date": "30-08-2023",
-      "hour": "10:50",
-      "location": "Aveiro, Arouca, Moldes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Arouca",
-      "freguesia": "Moldes",
-      "dico": "0104",
-      "lat": 40.900023,
-      "lng": -8.22722,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Moldes ",
-      "active": true,
-      "sadoId": "20231071993",
-      "sharepointId": 22578499,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 310.934,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Fuste (Póvoa)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693389365
-      },
-      "updated": {
-        "sec": 1693400163
-      }
-    },
-    {
-      "_id": {
         "$id": "64ef2ddd3057c87ee1448c23"
       },
       "id": "20231072554",
@@ -1167,8 +1108,8 @@
       "location": "Aveiro, Estarreja, Pardilhó",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 9,
+      "man": 34,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Estarreja",
       "freguesia": "Pardilhó",
@@ -1189,8 +1130,12 @@
       "sharepointId": 22579060,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 13.9637,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Canedo de Além (Caminho dos Moleiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1205,7 +1150,7 @@
         "sec": 1693396445
       },
       "updated": {
-        "sec": 1693406764
+        "sec": 1693407794
       }
     },
     {
@@ -1222,8 +1167,8 @@
       "location": "Aveiro, Santa Maria da Feira, Canedo, Vale E Vila Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 53,
-      "terrain": 15,
+      "man": 45,
+      "terrain": 13,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Canedo, Vale E Vila Maior",
@@ -1244,8 +1189,12 @@
       "sharepointId": 22579044,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 141.015,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Labercos (Farrapa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1260,7 +1209,7 @@
         "sec": 1693396565
       },
       "updated": {
-        "sec": 1693402336
+        "sec": 1693407808
       }
     },
     {
@@ -1299,8 +1248,18 @@
       "sharepointId": 22579098,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.38,
+          "mato": 0,
+          "total": 0.38
+        },
+        "altitude": 135.201,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N391 Cabeça Gorda (CERRO PELADO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1315,62 +1274,7 @@
         "sec": 1693397532
       },
       "updated": {
-        "sec": 1693403405
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef321d3057c87ee1448d7c"
-      },
-      "id": "20231072631",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693397280
-      },
-      "date": "30-08-2023",
-      "hour": "13:08",
-      "location": "Guarda, Gouveia, Nespereira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
-      "district": "Guarda",
-      "concelho": "Gouveia",
-      "freguesia": "Nespereira",
-      "dico": "0906",
-      "lat": 40.518132,
-      "lng": -7.623077,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Nespereira ",
-      "active": true,
-      "sadoId": "20231072631",
-      "sharepointId": 22579137,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1693397533
-      },
-      "updated": {
-        "sec": 1693401002
+        "sec": 1693407820
       }
     },
     {
@@ -1409,8 +1313,12 @@
       "sharepointId": 22579146,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 270.226,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "LUZIM (ED312 (ED312) Km 127)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1425,62 +1333,7 @@
         "sec": 1693397533
       },
       "updated": {
-        "sec": 1693399798
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef3473695c7e14597e0c54"
-      },
-      "id": "20231072690",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693397940
-      },
-      "date": "30-08-2023",
-      "hour": "13:19",
-      "location": "Viseu, Penalva do Castelo, Ínsua",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
-      "district": "Viseu",
-      "concelho": "Penalva Do Castelo",
-      "freguesia": "Ínsua",
-      "dico": "1811",
-      "lat": 40.687308,
-      "lng": -7.699563,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Penalva Do Castelo ",
-      "active": true,
-      "sadoId": "20231072690",
-      "sharepointId": 22579196,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1693398131
-      },
-      "updated": {
-        "sec": 1693406044
+        "sec": 1693407842
       }
     },
     {
@@ -1519,8 +1372,12 @@
       "sharepointId": 22579282,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 164.53,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Matos (VIDOEIRO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1535,7 +1392,7 @@
         "sec": 1693399092
       },
       "updated": {
-        "sec": 1693404965
+        "sec": 1693407897
       }
     },
     {
@@ -1579,7 +1436,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Vreia de Jales. Vila Pouca de Aguiar. Portugal (Tapada)",
+      "detailLocation": "Vreia de Jales. Vila Pouca de Aguiar. Portugal (NOSSA SENHORA DA GRAÇA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1594,7 +1451,7 @@
         "sec": 1693399444
       },
       "updated": {
-        "sec": 1693402443
+        "sec": 1693407907
       }
     },
     {
@@ -1611,8 +1468,8 @@
       "location": "Santarém, Abrantes, Aldeia Do Mato E Souto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 12,
+      "man": 19,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Aldeia Do Mato E Souto",
@@ -1633,8 +1490,12 @@
       "sharepointId": 22579440,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 179.552,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Pucariça (AMARELA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1649,7 +1510,7 @@
         "sec": 1693401250
       },
       "updated": {
-        "sec": 1693405322
+        "sec": 1693408452
       }
     },
     {
@@ -1713,120 +1574,6 @@
     },
     {
       "_id": {
-        "$id": "64ef433becc4a1514955c792"
-      },
-      "id": "20231073012",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693401540
-      },
-      "date": "30-08-2023",
-      "hour": "14:19",
-      "location": "Guarda, Pinhel, Pinhel",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Guarda",
-      "concelho": "Pinhel",
-      "freguesia": "Pinhel",
-      "dico": "0910",
-      "lat": 40.774209,
-      "lng": -7.065198,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Pinhel ",
-      "active": true,
-      "sadoId": "20231073012",
-      "sharepointId": 22579518,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1693401915
-      },
-      "updated": {
-        "sec": 1693406530
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef4464ecc4a1514955c7a3"
-      },
-      "id": "20231073031",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693401540
-      },
-      "date": "30-08-2023",
-      "hour": "14:19",
-      "location": "Castelo Branco, Vila Velha de Ródão, Perais",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
-      "district": "Castelo Branco",
-      "concelho": "Vila Velha De Ródão",
-      "freguesia": "Perais",
-      "dico": "0511",
-      "lat": 39.696929,
-      "lng": -7.554521,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Peral ",
-      "active": true,
-      "sadoId": "20231073031",
-      "sharepointId": 22579537,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 183.23,
-        "agricola": true,
-        "fontealerta": "Outros"
-      },
-      "detailLocation": "VALE DO LOCRIZ (Ribeirão)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "created": {
-        "sec": 1693402212
-      },
-      "updated": {
-        "sec": 1693402933
-      }
-    },
-    {
-      "_id": {
         "$id": "64ef4736ecc4a1514955c7db"
       },
       "id": "20231073123",
@@ -1839,8 +1586,8 @@
       "location": "Guarda, Celorico da Beira, São Pedro E Santa Maria E Vila Boa Do Mondego",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 0,
+      "terrain": 0,
       "district": "Guarda",
       "concelho": "Celorico Da Beira",
       "freguesia": "São Pedro E Santa Maria E Vila Boa Do Mondego",
@@ -1861,8 +1608,12 @@
       "sharepointId": 22579629,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 488.059,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Monte Calvo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1877,7 +1628,7 @@
         "sec": 1693402934
       },
       "updated": {
-        "sec": 1693404965
+        "sec": 1693408453
       }
     },
     {
@@ -1894,21 +1645,21 @@
       "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 52,
-      "terrain": 16,
+      "man": 50,
+      "terrain": 15,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
       "dico": "1501",
-      "lat": 38.39431,
-      "lng": -8.43051,
+      "lat": 38.386713,
+      "lng": -8.361807,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Alcácer Do Sal (Santa Maria Do Castelo E Santiago) E Santa Susana ",
       "active": true,
@@ -1921,7 +1672,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "7580-077. Alcácer do Sal. Portugal (Santa Catarina)",
+      "detailLocation": "Herdade Vale Saboroso (Sabroso) Alcácer do Sal (Vale da Sabroso)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1936,7 +1687,7 @@
         "sec": 1693403284
       },
       "updated": {
-        "sec": 1693406764
+        "sec": 1693408074
       }
     },
     {
@@ -1980,7 +1731,7 @@
         "fogacho": true,
         "fontealerta": "PV"
       },
-      "detailLocation": "Talhô (Vila)",
+      "detailLocation": "Talhô (Souto)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1995,7 +1746,7 @@
         "sec": 1693403763
       },
       "updated": {
-        "sec": 1693405698
+        "sec": 1693407945
       }
     },
     {
@@ -2009,17 +1760,17 @@
       },
       "date": "30-08-2023",
       "hour": "15:28",
-      "location": "Vila Real, Montalegre, Paradela, Contim E Fiães",
+      "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 9,
+      "terrain": 2,
       "district": "Vila Real",
-      "concelho": "Montalegre",
-      "freguesia": "Paradela, Contim E Fiães",
-      "dico": "1706",
-      "lat": 41.777942,
-      "lng": -7.926262,
+      "concelho": "Boticas",
+      "freguesia": "Ardãos E Bobadela",
+      "dico": "1702",
+      "lat": 41.775568,
+      "lng": -7.927553,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -2034,8 +1785,12 @@
       "sharepointId": 22579866,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 885.432,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "FIÃES DO RIO",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2050,7 +1805,7 @@
         "sec": 1693406045
       },
       "updated": {
-        "sec": 1693406405
+        "sec": 1693408204
       }
     },
     {
@@ -2089,8 +1844,12 @@
       "sharepointId": 22579899,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 147.401,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar de Fontielas (Vila Martins)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2105,7 +1864,7 @@
         "sec": 1693406405
       },
       "updated": {
-        "sec": 1693406653
+        "sec": 1693407959
       }
     },
     {
@@ -2120,10 +1879,10 @@
       "date": "30-08-2023",
       "hour": "15:35",
       "location": "Viseu, Viseu, São Cipriano E Vil De Souto",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 5,
+      "man": 13,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "São Cipriano E Vil De Souto",
@@ -2134,9 +1893,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Figueiró ",
       "active": true,
@@ -2144,8 +1903,12 @@
       "sharepointId": 22579890,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 420.545,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Figueiró",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2160,7 +1923,125 @@
         "sec": 1693406530
       },
       "updated": {
-        "sec": 1693406764
+        "sec": 1693408453
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ef5794fb4855437e3cee4b"
+      },
+      "id": "20231073420",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693406640
+      },
+      "date": "30-08-2023",
+      "hour": "15:44",
+      "location": "Setúbal, Setúbal, Gâmbia-pontes-alto Da Guerra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Setúbal",
+      "freguesia": "Gâmbia-pontes-alto Da Guerra",
+      "dico": "1512",
+      "lat": 38.54959,
+      "lng": -8.812008,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Gâmbia-pontes-alto Da Guerra ",
+      "active": true,
+      "sadoId": "20231073420",
+      "sharepointId": 22579926,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -5.3525,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN10 Pontes (Pontes)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1693407124
+      },
+      "updated": {
+        "sec": 1693408074
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ef5905fb4855437e3cee66"
+      },
+      "id": "20231073462",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693407180
+      },
+      "date": "30-08-2023",
+      "hour": "15:53",
+      "location": "Aveiro, Albergaria-a-Velha, Branca",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Aveiro",
+      "concelho": "Albergaria-a-velha",
+      "freguesia": "Branca",
+      "dico": "0102",
+      "lat": 40.751901,
+      "lng": -8.520333,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Cristelo ",
+      "active": true,
+      "sadoId": "20231073462",
+      "sharepointId": 22579968,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 73.9706,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Cristelo",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1693407493
+      },
+      "updated": {
+        "sec": 1693408452
       }
     }
   ]
