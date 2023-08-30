@@ -848,8 +848,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -896,7 +896,7 @@
         "sec": 1693354323
       },
       "updated": {
-        "sec": 1693406405
+        "sec": 1693436049
       }
     },
     {
@@ -978,8 +978,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Pinheiro Da Bemposta, Travanca E Palmaz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 167,
-      "terrain": 52,
+      "man": 155,
+      "terrain": 49,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Pinheiro Da Bemposta, Travanca E Palmaz",
@@ -1003,7 +1003,7 @@
       "icnf": {
         "altitude": 202.088,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "Sapadores"
       },
       "detailLocation": "Nespereira de Baixo (Ponte do Padre)",
       "kml": null,
@@ -1020,7 +1020,7 @@
         "sec": 1693410850
       },
       "updated": {
-        "sec": 1693435202
+        "sec": 1693436569
       }
     },
     {
@@ -1090,61 +1090,6 @@
     },
     {
       "_id": {
-        "$id": "64ef9cf512ec31215728f884"
-      },
-      "id": "20231074587",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693424520
-      },
-      "date": "30-08-2023",
-      "hour": "20:42",
-      "location": "Viseu, Viseu, Barreiros E Cepões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 8,
-      "district": "Viseu",
-      "concelho": "Viseu",
-      "freguesia": "Barreiros E Cepões",
-      "dico": "1823",
-      "lat": 40.765295,
-      "lng": -7.824085,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cota ",
-      "active": true,
-      "sadoId": "20231074587",
-      "sharepointId": 22581093,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1693424885
-      },
-      "updated": {
-        "sec": 1693430883
-      }
-    },
-    {
-      "_id": {
         "$id": "64efaa8c789c521f44680287"
       },
       "id": "20231074788",
@@ -1179,8 +1124,12 @@
       "sharepointId": 22581294,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 940.878,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Lavradas (FORCÃOS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1195,7 +1144,7 @@
         "sec": 1693428364
       },
       "updated": {
-        "sec": 1693432821
+        "sec": 1693436663
       }
     },
     {
@@ -1234,8 +1183,18 @@
       "sharepointId": 22581321,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.008,
+          "total": 0.008
+        },
+        "altitude": 72.4894,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Chafariz Público (Quinta do Poço do Casal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1250,7 +1209,7 @@
         "sec": 1693428730
       },
       "updated": {
-        "sec": 1693432685
+        "sec": 1693436673
       }
     },
     {
@@ -1289,8 +1248,12 @@
       "sharepointId": 22581361,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 240.176,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Charrisca (Crasto)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1305,7 +1268,7 @@
         "sec": 1693429479
       },
       "updated": {
-        "sec": 1693431624
+        "sec": 1693436685
       }
     },
     {
@@ -1322,8 +1285,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Ázere",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Ázere",
@@ -1344,8 +1307,12 @@
       "sharepointId": 22581419,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 151.504,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Morilhões (São Miguel o Anjo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1360,7 +1327,7 @@
         "sec": 1693431012
       },
       "updated": {
-        "sec": 1693434857
+        "sec": 1693436843
       }
     },
     {
@@ -1399,8 +1366,12 @@
       "sharepointId": 22581441,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 11.3969,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Vale Romão (BARREIRO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1415,62 +1386,7 @@
         "sec": 1693431624
       },
       "updated": {
-        "sec": 1693434856
-      }
-    },
-    {
-      "_id": {
-        "$id": "64efb98d053f5756de2f6fc5"
-      },
-      "id": "20231074956",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693431840
-      },
-      "date": "30-08-2023",
-      "hour": "22:44",
-      "location": "Castelo Branco, Fundão, Alcaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Castelo Branco",
-      "concelho": "Fundão",
-      "freguesia": "Alcaria",
-      "dico": "0504",
-      "lat": 40.204588,
-      "lng": -7.511582,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Alcaria ",
-      "active": true,
-      "sadoId": "20231074956",
-      "sharepointId": 22581462,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1693432205
-      },
-      "updated": {
-        "sec": 1693435563
+        "sec": 1693436718
       }
     },
     {
@@ -1509,8 +1425,12 @@
       "sharepointId": 22581465,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 262.778,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Santa Maria. 4815-390 Vizela. Portugal (Batoucos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1525,62 +1445,7 @@
         "sec": 1693432451
       },
       "updated": {
-        "sec": 1693435203
-      }
-    },
-    {
-      "_id": {
-        "$id": "64efbbf6053f5756de2f6fde"
-      },
-      "id": "20231074977",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693432620
-      },
-      "date": "30-08-2023",
-      "hour": "22:57",
-      "location": "Santarém, Abrantes, Tramagal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "Tramagal",
-      "dico": "1401",
-      "lat": 39.451537,
-      "lng": -8.24501,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Tramagal ",
-      "active": true,
-      "sadoId": "20231074977",
-      "sharepointId": 22581483,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1693432822
-      },
-      "updated": {
-        "sec": 1693434857
+        "sec": 1693436740
       }
     },
     {
@@ -1609,9 +1474,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Azinhal ",
       "active": true,
@@ -1619,8 +1484,12 @@
       "sharepointId": 22581564,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 100.721,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Piçarral. Castro Marim. Portugal (Piçarral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1635,62 +1504,7 @@
         "sec": 1693434857
       },
       "updated": {
-        "sec": 1693435452
-      }
-    },
-    {
-      "_id": {
-        "$id": "64efc543dfdc6947d3232a7a"
-      },
-      "id": "20231075071",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693434960
-      },
-      "date": "30-08-2023",
-      "hour": "23:36",
-      "location": "Aveiro, Espinho, Anta E Guetim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Espinho",
-      "freguesia": "Anta E Guetim",
-      "dico": "0107",
-      "lat": 41.00686,
-      "lng": -8.60553,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "União Das Freguesias De Anta E Guetim ",
-      "active": true,
-      "sadoId": "20231075071",
-      "sharepointId": 22581577,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693435203
-      },
-      "updated": {
-        "sec": 1693435215
+        "sec": 1693436843
       }
     },
     {
@@ -1707,8 +1521,8 @@
       "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
@@ -1719,9 +1533,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Lustosa E Barrosas (Santo Estêvão) ",
       "active": true,
@@ -1749,7 +1563,7 @@
         "sec": 1693435451
       },
       "updated": {
-        "sec": 1693435472
+        "sec": 1693436296
       }
     }
   ]
