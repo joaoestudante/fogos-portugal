@@ -1344,8 +1344,8 @@
       "location": "Castelo Branco, Oleiros, Álvaro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Álvaro",
@@ -1392,7 +1392,7 @@
         "sec": 1693419012
       },
       "updated": {
-        "sec": 1693427404
+        "sec": 1693429084
       }
     },
     {
@@ -1468,8 +1468,8 @@
       "location": "Viseu, Viseu, Barreiros E Cepões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 6,
+      "man": 18,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Barreiros E Cepões",
@@ -1506,7 +1506,7 @@
         "sec": 1693424885
       },
       "updated": {
-        "sec": 1693427651
+        "sec": 1693428605
       }
     },
     {
@@ -1535,9 +1535,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Nevogilde ",
       "active": true,
@@ -1561,7 +1561,7 @@
         "sec": 1693427043
       },
       "updated": {
-        "sec": 1693427763
+        "sec": 1693429684
       }
     },
     {
@@ -1578,8 +1578,8 @@
       "location": "Vila Real, Boticas, Beça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 25,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Beça",
@@ -1590,9 +1590,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lavradas ",
       "active": true,
@@ -1616,7 +1616,117 @@
         "sec": 1693428364
       },
       "updated": {
-        "sec": 1693428375
+        "sec": 1693429937
+      }
+    },
+    {
+      "_id": {
+        "$id": "64efabfa789c521f44680297"
+      },
+      "id": "20231074815",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693428540
+      },
+      "date": "30-08-2023",
+      "hour": "21:49",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.66132,
+      "lng": -9.19481,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20231074815",
+      "sharepointId": 22581321,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1693428730
+      },
+      "updated": {
+        "sec": 1693429684
+      }
+    },
+    {
+      "_id": {
+        "$id": "64efaee7053f5756de2f6f62"
+      },
+      "id": "20231074855",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693429260
+      },
+      "date": "30-08-2023",
+      "hour": "22:01",
+      "location": "Porto, Amarante, Telões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Telões",
+      "dico": "1301",
+      "lat": 41.33327,
+      "lng": -8.1075,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Telões ",
+      "active": true,
+      "sadoId": "20231074855",
+      "sharepointId": 22581361,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693429479
+      },
+      "updated": {
+        "sec": 1693429494
       }
     }
   ]
