@@ -1322,8 +1322,8 @@
       "location": "Porto, Marco de Canaveses, Paredes De Viadores E Manhuncelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Paredes De Viadores E Manhuncelos",
@@ -1360,7 +1360,7 @@
         "sec": 1693430290
       },
       "updated": {
-        "sec": 1693431849
+        "sec": 1693434016
       }
     },
     {
@@ -1389,9 +1389,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Morilhões ",
       "active": true,
@@ -1415,7 +1415,7 @@
         "sec": 1693431012
       },
       "updated": {
-        "sec": 1693431251
+        "sec": 1693434484
       }
     },
     {
@@ -1487,14 +1487,14 @@
       "location": "Castelo Branco, Fundão, Alcaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 8,
+      "man": 29,
+      "terrain": 7,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Alcaria",
       "dico": "0504",
-      "lat": 40.20288,
-      "lng": -7.51502,
+      "lat": 40.204588,
+      "lng": -7.511582,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1525,7 +1525,7 @@
         "sec": 1693432205
       },
       "updated": {
-        "sec": 1693433404
+        "sec": 1693434484
       }
     },
     {
@@ -1542,8 +1542,8 @@
       "location": "Braga, Vizela, Infias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vizela",
       "freguesia": "Infias",
@@ -1554,9 +1554,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Infias ",
       "active": true,
@@ -1580,7 +1580,7 @@
         "sec": 1693432451
       },
       "updated": {
-        "sec": 1693433055
+        "sec": 1693434251
       }
     },
     {
@@ -1597,21 +1597,21 @@
       "location": "Santarém, Abrantes, Tramagal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 21,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Tramagal",
       "dico": "1401",
-      "lat": 39.461042,
-      "lng": -8.249298,
+      "lat": 39.451537,
+      "lng": -8.24501,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Tramagal ",
       "active": true,
@@ -1635,7 +1635,62 @@
         "sec": 1693432822
       },
       "updated": {
-        "sec": 1693433055
+        "sec": 1693434129
+      }
+    },
+    {
+      "_id": {
+        "$id": "64efc01bdfdc6947d3232a42"
+      },
+      "id": "20231075017",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693433400
+      },
+      "date": "30-08-2023",
+      "hour": "23:10",
+      "location": "Porto, Lousada, Nevogilde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Nevogilde",
+      "dico": "1305",
+      "lat": 41.256657,
+      "lng": -8.319273,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Nevogilde ",
+      "active": true,
+      "sadoId": "20231075017",
+      "sharepointId": 22581523,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693433883
+      },
+      "updated": {
+        "sec": 1693434250
       }
     }
   ]
