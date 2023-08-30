@@ -718,7 +718,7 @@
       "location": "Faro, Monchique, Monchique",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
+      "man": 41,
       "terrain": 14,
       "district": "Faro",
       "concelho": "Monchique",
@@ -766,7 +766,7 @@
         "sec": 1693236484
       },
       "updated": {
-        "sec": 1693420451
+        "sec": 1693422736
       }
     },
     {
@@ -1179,9 +1179,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lomba ",
       "active": true,
@@ -1209,7 +1209,7 @@
         "sec": 1693396565
       },
       "updated": {
-        "sec": 1693417209
+        "sec": 1693422388
       }
     },
     {
@@ -1226,8 +1226,8 @@
       "location": "Santarém, Ourém, Matas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Matas E Cercal",
@@ -1249,6 +1249,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.01,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.01
+        },
         "altitude": 164.53,
         "fogacho": true,
         "fontealerta": "Populares"
@@ -1268,66 +1274,7 @@
         "sec": 1693399092
       },
       "updated": {
-        "sec": 1693418764
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef40a25ddb0e494e316256"
-      },
-      "id": "20231072934",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693401000
-      },
-      "date": "30-08-2023",
-      "hour": "14:10",
-      "location": "Santarém, Abrantes, Aldeia Do Mato E Souto",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "Aldeia Do Mato E Souto",
-      "dico": "1401",
-      "lat": 39.522548,
-      "lng": -8.251155,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Pucariça ",
-      "active": true,
-      "sadoId": "20231072934",
-      "sharepointId": 22579440,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 179.552,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Pucariça (AMARELA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1693401250
-      },
-      "updated": {
-        "sec": 1693414828
+        "sec": 1693422736
       }
     },
     {
@@ -1344,8 +1291,8 @@
       "location": "Braga, Vila Nova de Famalicão, Joane",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Joane",
@@ -1366,8 +1313,12 @@
       "sharepointId": 22580124,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 160.304,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Rua da Torre (Torre)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1382,7 +1333,7 @@
         "sec": 1693409885
       },
       "updated": {
-        "sec": 1693413850
+        "sec": 1693422737
       }
     },
     {
@@ -1397,9 +1348,9 @@
       "date": "30-08-2023",
       "hour": "16:40",
       "location": "Aveiro, Oliveira de Azeméis, Pinheiro Da Bemposta, Travanca E Palmaz",
-      "aerial": 9,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 192,
+      "man": 179,
       "terrain": 55,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
@@ -1411,9 +1362,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Pinheiro Da Bemposta, Travanca E Palmaz ",
       "active": true,
@@ -1421,8 +1372,12 @@
       "sharepointId": 22580160,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 202.088,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Nespereira de Baixo (Ponte do Padre)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1437,7 +1392,7 @@
         "sec": 1693410850
       },
       "updated": {
-        "sec": 1693420817
+        "sec": 1693422736
       }
     },
     {
@@ -1476,8 +1431,12 @@
       "sharepointId": 22580340,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 128.148,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Águas Santas. Maia. Portugal (Rua Manuel Francisco de Araújo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1492,7 +1451,7 @@
         "sec": 1693413123
       },
       "updated": {
-        "sec": 1693418765
+        "sec": 1693422231
       }
     },
     {
@@ -1509,8 +1468,8 @@
       "location": "Santarém, Rio Maior, Rio Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Rio Maior",
       "freguesia": "Rio Maior",
@@ -1532,11 +1491,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.0979,
+          "mato": 0,
+          "total": 0.0979
+        },
         "altitude": 179.822,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Casais da Serra",
+      "detailLocation": "Casais da Serra (Casal do Manuel da Eva)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1551,62 +1516,7 @@
         "sec": 1693415165
       },
       "updated": {
-        "sec": 1693420451
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef815aac1132715e29f425"
-      },
-      "id": "20231074154",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693417560
-      },
-      "date": "30-08-2023",
-      "hour": "18:46",
-      "location": "Porto, Amarante, Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
-      "dico": "1301",
-      "lat": 41.289204,
-      "lng": -8.063896,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Gatão ",
-      "active": true,
-      "sadoId": "20231074154",
-      "sharepointId": 22580660,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1693417818
-      },
-      "updated": {
-        "sec": 1693420696
+        "sec": 1693422244
       }
     },
     {
@@ -1621,10 +1531,10 @@
       "date": "30-08-2023",
       "hour": "18:53",
       "location": "Braga, Fafe, Ardegão, Arnozela E Seidões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Ardegão, Arnozela E Seidões",
@@ -1645,8 +1555,12 @@
       "sharepointId": 22580682,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 640.018,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.39961000.-8.11923000) - Cruz-Seidões. 4820-765 Fafe. Portugal (Cruz)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1661,62 +1575,7 @@
         "sec": 1693418164
       },
       "updated": {
-        "sec": 1693421162
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ef83b4ac1132715e29f44c"
-      },
-      "id": "20231074202",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693418160
-      },
-      "date": "30-08-2023",
-      "hour": "18:56",
-      "location": "Coimbra, Miranda do Corvo, Semide E Rio Vide",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Coimbra",
-      "concelho": "Miranda Do Corvo",
-      "freguesia": "Semide E Rio Vide",
-      "dico": "0609",
-      "lat": 40.17445,
-      "lng": -8.33926,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vale Colmeias ",
-      "active": true,
-      "sadoId": "20231074202",
-      "sharepointId": 22580708,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "created": {
-        "sec": 1693418420
-      },
-      "updated": {
-        "sec": 1693419977
+        "sec": 1693422270
       }
     },
     {
@@ -1780,61 +1639,6 @@
     },
     {
       "_id": {
-        "$id": "64ef850d80bd6848b70a9c05"
-      },
-      "id": "20231074240",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693418520
-      },
-      "date": "30-08-2023",
-      "hour": "19:02",
-      "location": "Coimbra, Penacova, Figueira De Lorvão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Coimbra",
-      "concelho": "Penacova",
-      "freguesia": "Figueira De Lorvão",
-      "dico": "0613",
-      "lat": 40.289488,
-      "lng": -8.343624,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Figueira De Lorvão ",
-      "active": true,
-      "sadoId": "20231074240",
-      "sharepointId": 22580746,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "created": {
-        "sec": 1693418765
-      },
-      "updated": {
-        "sec": 1693421163
-      }
-    },
-    {
-      "_id": {
         "$id": "64ef860480bd6848b70a9c1b"
       },
       "id": "20231074256",
@@ -1853,10 +1657,10 @@
       "concelho": "Oleiros",
       "freguesia": "Álvaro",
       "dico": "0506",
-      "lat": 39.960817,
-      "lng": -7.945853,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "lat": 39.960172,
+      "lng": -7.944462,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -1869,8 +1673,18 @@
       "sharepointId": 22580762,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.1,
+          "total": 0.1
+        },
+        "altitude": 586.46,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Quartos dAquém (Quartos de Aquém)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1885,7 +1699,7 @@
         "sec": 1693419012
       },
       "updated": {
-        "sec": 1693421163
+        "sec": 1693422293
       }
     },
     {
@@ -1902,21 +1716,21 @@
       "location": "Évora, Vila Viçosa, Pardais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 16,
+      "terrain": 5,
       "district": "Évora",
       "concelho": "Vila Viçosa",
       "freguesia": "Pardais",
       "dico": "0714",
-      "lat": 38.729749,
-      "lng": -7.396459,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 38.713418,
+      "lng": -7.397617,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Monte Do Outeiro ",
       "active": true,
@@ -1924,8 +1738,12 @@
       "sharepointId": 22580849,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 344.891,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Monte do Outeiro (Covões)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1940,7 +1758,7 @@
         "sec": 1693420452
       },
       "updated": {
-        "sec": 1693420938
+        "sec": 1693422737
       }
     },
     {
@@ -1957,21 +1775,21 @@
       "location": "Braga, Fafe, Ardegão, Arnozela E Seidões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
+      "man": 9,
       "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Ardegão, Arnozela E Seidões",
       "dico": "0307",
-      "lat": 41.396363,
-      "lng": -8.124387,
+      "lat": 41.40047,
+      "lng": -8.1219,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -1979,8 +1797,12 @@
       "sharepointId": 22580868,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 594.577,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Ardegão. Arnozela e Seidões (Calzinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1995,7 +1817,62 @@
         "sec": 1693421043
       },
       "updated": {
-        "sec": 1693421162
+        "sec": 1693422314
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ef949065f77a208613a662"
+      },
+      "id": "20231074451",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693422420
+      },
+      "date": "30-08-2023",
+      "hour": "20:07",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.75251,
+      "lng": -9.44845,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alcabideche ",
+      "active": true,
+      "sadoId": "20231074451",
+      "sharepointId": 22580957,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1693422736
+      },
+      "updated": {
+        "sec": 1693422736
       }
     }
   ]
