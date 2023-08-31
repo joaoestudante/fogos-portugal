@@ -340,8 +340,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -388,7 +388,7 @@
         "sec": 1692959058
       },
       "updated": {
-        "sec": 1693486331
+        "sec": 1693515489
       }
     },
     {
@@ -448,71 +448,6 @@
       },
       "updated": {
         "sec": 1693251963
-      }
-    },
-    {
-      "_id": {
-        "$id": "64ea33cb4ea1e862cc296618"
-      },
-      "id": "20231055679",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693069980
-      },
-      "date": "26-08-2023",
-      "hour": "18:13",
-      "location": "Castelo Branco, Sertã, Carvalhal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Castelo Branco",
-      "concelho": "Sertã",
-      "freguesia": "Carvalhal",
-      "dico": "0509",
-      "lat": 39.876902,
-      "lng": -8.128915,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Souto Abril ",
-      "active": true,
-      "sadoId": "20231055679",
-      "sharepointId": 22560411,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 14.2179278790864,
-          "agricola": 1.61396103476584,
-          "mato": 0,
-          "total": 15.8318889138522
-        },
-        "altitude": 404.051,
-        "incendio": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Souto Abril (Vale Madeira)",
-      "kml": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\n<Document id=\"root_doc\">\n<Schema name=\"20231055679\" id=\"20231055679\">\n\t<SimpleField name=\"Cod_SGIF\" type=\"string\"></SimpleField>\n\t<SimpleField name=\"Ano\" type=\"int\"></SimpleField>\n\t<SimpleField name=\"Observ\" type=\"string\"></SimpleField>\n\t<SimpleField name=\"Entidade\" type=\"string\"></SimpleField>\n</Schema>\n<Folder><name>20231055679</name>\n  <Placemark>\n\t<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>\n\t<ExtendedData><SchemaData schemaUrl=\"#20231055679\">\n\t\t<SimpleData name=\"Cod_SGIF\">20231055679</SimpleData>\n\t\t<SimpleData name=\"Ano\">2023</SimpleData>\n\t\t<SimpleData name=\"Entidade\">ICNF</SimpleData>\n\t</SchemaData></ExtendedData>\n      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-8.12859521852439,39.8738410347762,0 -8.12860103444594,39.8739756744994,0 -8.12870617502049,39.8741567821353,0 -8.12878657642883,39.8743045275636,0 -8.12902780898913,39.874304536301,0 -8.12921955660164,39.8743283723079,0 -8.12923810626225,39.8744475200256,0 -8.12931128567692,39.8744801669374,0 -8.12938216473131,39.874479503235,0 -8.12948861588985,39.8744785063587,0 -8.12951926575401,39.8744076689467,0 -8.12960923695515,39.8743903412089,0 -8.13001747482859,39.8744427775285,0 -8.13021540723199,39.8744999732399,0 -8.13030818362911,39.8746381861453,0 -8.13063601168652,39.8747049159674,0 -8.13084013084862,39.8747621107419,0 -8.130846309921,39.8749575120862,0 -8.13059269308553,39.8752577575108,0 -8.1306112427799,39.8754483932355,0 -8.13069783585073,39.8755818397904,0 -8.13088340280121,39.8755818434984,0 -8.13095762615762,39.8756914602043,0 -8.1310256624358,39.8758582673421,0 -8.13114318551451,39.8759678846934,0 -8.13105039667605,39.87612992309,0 -8.1309885343711,39.8763300890357,0 -8.1307472920992,39.876406338492,0 -8.13057409385404,39.8764158666016,0 -8.13051224068912,39.8763300793531,0 -8.13039471593064,39.8762728860753,0 -8.13030192783351,39.876363435631,0 -8.13025862069426,39.8765493039804,0 -8.13016582980525,39.8766922781251,0 -8.1300086413258,39.8768171635635,0 -8.12979468326769,39.8768304786918,0 -8.12939879954298,39.8768376155291,0 -8.12910497790684,39.876870966933,0 -8.12898392072598,39.8769143809859,0 -8.12885695281224,39.8769084833176,0 -8.12870600286565,39.8768495060077,0 -8.12829156621476,39.8767946818957,0 -8.12801351681969,39.8768243803682,0 -8.12792662023886,39.8766779020582,0 -8.12772868310419,39.8766254683443,0 -8.12762971825244,39.8765539754809,0 -8.12754313375773,39.8763728678361,0 -8.12742561571951,39.8762632468451,0 -8.12741945175023,39.8760011230081,0 -8.12725246033909,39.8757675864474,0 -8.12689989636445,39.875610293979,0 -8.12672051888499,39.8755673912928,0 -8.12662774081235,39.8755101955509,0 -8.12657208526232,39.8753576841711,0 -8.1265782952135,39.8751003268284,0 -8.12673913729339,39.87490016867,0 -8.12691234169057,39.8747857968473,0 -8.12706079939393,39.8747190823124,0 -8.1272587491637,39.8745522865354,0 -8.12723402313002,39.8743664158164,0 -8.12707321130388,39.8742520263457,0 -8.12701136782003,39.8741281101261,0 -8.12686910801078,39.8740709119515,0 -8.12676397020364,39.8739136320694,0 -8.12654130571271,39.873804004337,0 -8.12654131616631,39.8736943889961,0 -8.12625061302274,39.8735895227141,0 -8.12601558308103,39.8734465320422,0 -8.12588571323874,39.8732272933294,0 -8.12594140175654,39.8730318955018,0 -8.12590431466989,39.8727935989492,0 -8.12579299217187,39.8726696789652,0 -8.12537240653288,39.8725362068872,0 -8.12521778462377,39.8724456446482,0 -8.12494563611523,39.872412264617,0 -8.12469204370237,39.872378885295,0 -8.12448793193965,39.872359806763,0 -8.12433332191382,39.8721882232869,0 -8.1241168496329,39.8720976548794,0 -8.1240673863877,39.8719546744597,0 -8.12406122681909,39.8717592726547,0 -8.12412927668448,39.8716639602207,0 -8.12440762331345,39.8715686637105,0 -8.12442002138087,39.8713494338701,0 -8.12435819617705,39.8711397302178,0 -8.12451283662773,39.871049189935,0 -8.12476025911657,39.8709157631788,0 -8.12488705972673,39.8708728792545,0 -8.12520188917907,39.8707046711418,0 -8.12536023274072,39.870787125864,0 -8.12545298167714,39.8710397240201,0 -8.12543440974324,39.871187465277,0 -8.12558283872627,39.8713256857095,0 -8.12579312784961,39.8713924215716,0 -8.12617661434402,39.871344786259,0 -8.12630651310125,39.8712447103339,0 -8.12666524346533,39.8713495803168,0 -8.12664047766017,39.8716164685703,0 -8.12668994200734,39.8718023408757,0 -8.12679508865617,39.8718261760763,0 -8.12690643434211,39.8716975031598,0 -8.12699922230727,39.8715878927024,0 -8.12717240972506,39.8715688381498,0 -8.12724662284922,39.8716784573058,0 -8.12720331204559,39.8718452611208,0 -8.1274383409512,39.8719644199962,0 -8.12735173683386,39.8720930946479,0 -8.12737027829278,39.8722646674522,0 -8.12762386854745,39.8723361680041,0 -8.12787127948548,39.8723361794387,0 -8.12794549204781,39.8724791593313,0 -8.1279021788301,39.8726936222372,0 -8.12785268256385,39.8728747236431,0 -8.12794545274376,39.8730034067067,0 -8.12817429915175,39.8731559249861,0 -8.12818665690223,39.8733370291347,0 -8.12825468212649,39.8735324332729,0 -8.12811859787586,39.8736134475362,0 -8.12794539914568,39.8737182894148,0 -8.12793920730848,39.8738040750583,0 -8.12805746819539,39.873826395821,0 -8.12832888602331,39.8738303041338,0 -8.12852627866635,39.8738382572209,0 -8.12859521852439,39.8738410347762,0</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-8.12469229647879,39.8703104906192,0 -8.12500771372122,39.8705011485625,0 -8.12476338345174,39.8706536396266,0 -8.12430257112203,39.8708156457131,0 -8.12426808724375,39.8707669204613,0 -8.12426546642052,39.8707679840219,0 -8.12411704937244,39.8705678053603,0 -8.1239686199049,39.8704677101311,0 -8.12396245125505,39.8703437965787,0 -8.1240181328316,39.8702246537741,0 -8.12406764728554,39.8699672997232,0 -8.12404294091885,39.8697099398628,0 -8.12416047025425,39.8696050994575,0 -8.1244511623825,39.8696384827322,0 -8.12457484174629,39.8698100638553,0 -8.12459953659367,39.8701770390074,0 -8.12469229647879,39.8703104906192,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>\n  </Placemark>\n</Folder>\n</Document></kml>\n",
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "created": {
-        "sec": 1693070283
-      },
-      "updated": {
-        "sec": 1693514763
       }
     },
     {
@@ -913,8 +848,8 @@
       "location": "Guarda, Seia, Pinhanços",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 8,
+      "man": 25,
+      "terrain": 7,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Pinhanços",
@@ -955,7 +890,7 @@
         "sec": 1693439762
       },
       "updated": {
-        "sec": 1693511651
+        "sec": 1693515724
       }
     },
     {
@@ -1090,8 +1025,8 @@
       "location": "Santarém, Abrantes, Bemposta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 13,
+      "man": 38,
+      "terrain": 12,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Bemposta",
@@ -1132,66 +1067,7 @@
         "sec": 1693498084
       },
       "updated": {
-        "sec": 1693513456
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f0d95d5c341017346019e7"
-      },
-      "id": "20231078808",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693505340
-      },
-      "date": "31-08-2023",
-      "hour": "19:09",
-      "location": "Porto, Vila Nova de Gaia, Avintes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Avintes",
-      "dico": "1317",
-      "lat": 41.11166,
-      "lng": -8.561812,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Avintes ",
-      "active": true,
-      "sadoId": "20231078808",
-      "sharepointId": 22585314,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 74.175,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Lugar das oliveiras (Rua Doutor João Alves Pereira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693505885
-      },
-      "updated": {
-        "sec": 1693512483
+        "sec": 1693515364
       }
     },
     {
@@ -1267,8 +1143,8 @@
       "location": "Viseu, Lamego, Bigorne, Magueija E Pretarouca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 52,
-      "terrain": 12,
+      "man": 59,
+      "terrain": 14,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Bigorne, Magueija E Pretarouca",
@@ -1305,62 +1181,7 @@
         "sec": 1693509371
       },
       "updated": {
-        "sec": 1693514763
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f0ea43455a865eff3b4ac8"
-      },
-      "id": "20231079057",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693509960
-      },
-      "date": "31-08-2023",
-      "hour": "20:26",
-      "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte Da Barca",
-      "freguesia": "Touvedo (São Lourenço E Salvador)",
-      "dico": "1606",
-      "lat": 41.806395,
-      "lng": -8.345957,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Pedrada ",
-      "active": true,
-      "sadoId": "20231079057",
-      "sharepointId": 22585563,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1693510211
-      },
-      "updated": {
-        "sec": 1693512606
+        "sec": 1693516203
       }
     },
     {
@@ -1377,8 +1198,8 @@
       "location": "Guarda, Sabugal, Santo Estêvão E Moita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 11,
+      "man": 38,
+      "terrain": 10,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Santo Estêvão E Moita",
@@ -1415,62 +1236,7 @@
         "sec": 1693510444
       },
       "updated": {
-        "sec": 1693514522
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f0ec9a455a865eff3b4aea"
-      },
-      "id": "20231079077",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693510320
-      },
-      "date": "31-08-2023",
-      "hour": "20:32",
-      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Setúbal",
-      "concelho": "Montijo",
-      "freguesia": "Montijo E Afonsoeiro",
-      "dico": "1507",
-      "lat": 38.71394,
-      "lng": -8.983319,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Montijo E Afonsoeiro ",
-      "active": true,
-      "sadoId": "20231079077",
-      "sharepointId": 22585583,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1693510810
-      },
-      "updated": {
-        "sec": 1693512964
+        "sec": 1693515489
       }
     },
     {
@@ -1499,9 +1265,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Freixo De Cima E De Baixo ",
       "active": true,
@@ -1525,43 +1291,43 @@
         "sec": 1693513456
       },
       "updated": {
-        "sec": 1693513470
+        "sec": 1693515363
       }
     },
     {
       "_id": {
-        "$id": "64f0f7e1455a865eff3b4c5b"
+        "$id": "64f0fd7a794a79383c0f708c"
       },
-      "id": "20231079269",
+      "id": "20231079327",
       "coords": true,
       "dateTime": {
-        "sec": 1693513440
+        "sec": 1693514760
       },
       "date": "31-08-2023",
-      "hour": "21:24",
-      "location": "Porto, Felgueiras, Vila Cova Da Lixa E Borba De Godim",
+      "hour": "21:46",
+      "location": "Porto, Baião, Ancede E Ribadouro",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
       "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Vila Cova Da Lixa E Borba De Godim",
-      "dico": "1303",
-      "lat": 41.32524,
-      "lng": -8.14508,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "concelho": "Baião",
+      "freguesia": "Ancede E Ribadouro",
+      "dico": "1302",
+      "lat": 41.11006,
+      "lng": -8.06199,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Borba De Godim ",
+      "localidade": "Ancede E Ribadouro ",
       "active": true,
-      "sadoId": "20231079269",
-      "sharepointId": 22585775,
+      "sadoId": "20231079327",
+      "sharepointId": 22585833,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1577,65 +1343,10 @@
       "regiao": "Norte",
       "sub_regiao": "Tâmega e Sousa",
       "created": {
-        "sec": 1693513697
+        "sec": 1693515130
       },
       "updated": {
-        "sec": 1693514299
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f0fa3b794a79383c0f706c"
-      },
-      "id": "20231079293",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693514040
-      },
-      "date": "31-08-2023",
-      "hour": "21:34",
-      "location": "Faro, Albufeira, Albufeira E Olhos De Água",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
-      "district": "Faro",
-      "concelho": "Albufeira",
-      "freguesia": "Albufeira E Olhos De Água",
-      "dico": "0801",
-      "lat": 37.11156,
-      "lng": -8.242198,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Poço De Paderne ",
-      "active": true,
-      "sadoId": "20231079293",
-      "sharepointId": 22585799,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1693514299
-      },
-      "updated": {
-        "sec": 1693514764
+        "sec": 1693515489
       }
     }
   ]
