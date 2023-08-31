@@ -1113,6 +1113,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.5,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.5
+        },
         "altitude": 926.7,
         "fogacho": true,
         "fontealerta": "PV"
@@ -1132,7 +1138,7 @@
         "sec": 1693471456
       },
       "updated": {
-        "sec": 1693492929
+        "sec": 1693494211
       }
     },
     {
@@ -1172,6 +1178,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.01,
+          "total": 0.01
+        },
         "altitude": 553.939,
         "fogacho": true,
         "fontealerta": "112"
@@ -1191,7 +1203,7 @@
         "sec": 1693475532
       },
       "updated": {
-        "sec": 1693486690
+        "sec": 1693494223
       }
     },
     {
@@ -1294,7 +1306,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Monsanto",
+      "detailLocation": "Monsanto (São João)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1309,7 +1321,7 @@
         "sec": 1693477330
       },
       "updated": {
-        "sec": 1693483816
+        "sec": 1693494225
       }
     },
     {
@@ -1326,16 +1338,16 @@
       "location": "Viseu, Cinfães, São Cristóvão De Nogueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 7,
+      "man": 15,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "São Cristóvão De Nogueira",
       "dico": "1804",
       "lat": 41.08253,
       "lng": -8.122795,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -1349,11 +1361,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1.5,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1.5
+        },
         "altitude": 251.051,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(41.07868000.-8.11277000) - N222. 4690-581 Cinfães. Portugal (EN222 (EN222) Km 78)",
+      "detailLocation": "Lg. Carrapatelo (Boavista)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1368,7 +1386,7 @@
         "sec": 1693478764
       },
       "updated": {
-        "sec": 1693484296
+        "sec": 1693494237
       }
     },
     {
@@ -1385,8 +1403,8 @@
       "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 7,
+      "man": 22,
+      "terrain": 6,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
@@ -1407,8 +1425,12 @@
       "sharepointId": 22583637,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 7.89687,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Zona Industrial de Mamodeiro (Ribeiro da Palha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1423,62 +1445,7 @@
         "sec": 1693483457
       },
       "updated": {
-        "sec": 1693487162
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f08eee4fd0fc74e17248c0"
-      },
-      "id": "20231077396",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693486680
-      },
-      "date": "31-08-2023",
-      "hour": "13:58",
-      "location": "Braga, Fafe, Estorãos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Estorãos",
-      "dico": "0307",
-      "lat": 41.495968,
-      "lng": -8.13293,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Estorãos ",
-      "active": true,
-      "sadoId": "20231077396",
-      "sharepointId": 22583902,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1693486830
-      },
-      "updated": {
-        "sec": 1693489331
+        "sec": 1693494252
       }
     },
     {
@@ -1522,7 +1489,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Mata. Fornos de Algodres. Portugal (Mata)",
+      "detailLocation": "Mata",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1537,7 +1504,7 @@
         "sec": 1693487162
       },
       "updated": {
-        "sec": 1693491845
+        "sec": 1693494808
       }
     },
     {
@@ -1635,8 +1602,12 @@
       "sharepointId": 22584017,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 43.2681,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "SÃO LOURENÇO (ER125 (ER125) Km 94)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1651,7 +1622,7 @@
         "sec": 1693488125
       },
       "updated": {
-        "sec": 1693492682
+        "sec": 1693494810
       }
     },
     {
@@ -1695,7 +1666,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Fonte do Arieiro (Carvalhais)",
+      "detailLocation": "Rua Cova do Barro (Vales das Rebolas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1710,7 +1681,7 @@
         "sec": 1693488125
       },
       "updated": {
-        "sec": 1693492564
+        "sec": 1693494821
       }
     },
     {
@@ -1727,8 +1698,8 @@
       "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 19,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
@@ -1749,8 +1720,12 @@
       "sharepointId": 22583977,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 408.111,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M1112 (Agrela)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1765,7 +1740,7 @@
         "sec": 1693488605
       },
       "updated": {
-        "sec": 1693492565
+        "sec": 1693494822
       }
     },
     {
@@ -1809,7 +1784,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Vila Nova (OUTIL)",
+      "detailLocation": "Vila Nova",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1824,62 +1799,7 @@
         "sec": 1693488965
       },
       "updated": {
-        "sec": 1693492442
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f09dd4bb1f3d360637768b"
-      },
-      "id": "20231077731",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693490460
-      },
-      "date": "31-08-2023",
-      "hour": "15:01",
-      "location": "Viseu, Penedono, Castainço",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Penedono",
-      "freguesia": "Castainço",
-      "dico": "1812",
-      "lat": 40.981497,
-      "lng": -7.44692,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Penedono ",
-      "active": true,
-      "sadoId": "20231077731",
-      "sharepointId": 22584237,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1693490644
-      },
-      "updated": {
-        "sec": 1693491963
+        "sec": 1693494832
       }
     },
     {
@@ -1896,8 +1816,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -1918,8 +1838,12 @@
       "sharepointId": 22584264,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 258.159,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Sarnadinha (ED236 (ED236) Km 11)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1934,7 +1858,7 @@
         "sec": 1693491015
       },
       "updated": {
-        "sec": 1693492929
+        "sec": 1693494835
       }
     },
     {
@@ -1951,21 +1875,21 @@
       "location": "Coimbra, Coimbra, Taveiro, Ameal E Arzila",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 7,
+      "man": 28,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "Taveiro, Ameal E Arzila",
       "dico": "0603",
-      "lat": 40.20484,
-      "lng": -8.500363,
+      "lat": 40.20556,
+      "lng": -8.50056,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Taveiro ",
       "active": true,
@@ -1973,8 +1897,12 @@
       "sharepointId": 22584395,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 7.45563,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Nova da Estação (Taveiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1989,7 +1917,7 @@
         "sec": 1693492683
       },
       "updated": {
-        "sec": 1693492930
+        "sec": 1693494849
       }
     },
     {
@@ -2006,8 +1934,8 @@
       "location": "Porto, Lousada, Silvares, Pias, Nogueira E Alvarenga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Silvares, Pias, Nogueira E Alvarenga",
@@ -2044,7 +1972,172 @@
         "sec": 1693492930
       },
       "updated": {
-        "sec": 1693493166
+        "sec": 1693494030
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f0a99487cd8f11240dab37"
+      },
+      "id": "20231077954",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693493400
+      },
+      "date": "31-08-2023",
+      "hour": "15:50",
+      "location": "Beja, Castro Verde, Castro Verde E Casével",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Castro Verde",
+      "freguesia": "Castro Verde E Casével",
+      "dico": "0206",
+      "lat": 37.697259,
+      "lng": -8.080915,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Castro Verde ",
+      "active": true,
+      "sadoId": "20231077954",
+      "sharepointId": 22584460,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1693493652
+      },
+      "updated": {
+        "sec": 1693494030
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f0ab0e87cd8f11240dab53"
+      },
+      "id": "20231077979",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693493820
+      },
+      "date": "31-08-2023",
+      "hour": "15:57",
+      "location": "Porto, Amarante, Telões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Telões",
+      "dico": "1301",
+      "lat": 41.310832,
+      "lng": -8.108058,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Telões ",
+      "active": true,
+      "sadoId": "20231077979",
+      "sharepointId": 22584485,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693494030
+      },
+      "updated": {
+        "sec": 1693494108
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f0ab0e87cd8f11240dab56"
+      },
+      "id": "20231077989",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693493880
+      },
+      "date": "31-08-2023",
+      "hour": "15:58",
+      "location": "Santarém, Santarém, São Vicente Do Paul E Vale De Figueira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "São Vicente Do Paul E Vale De Figueira",
+      "dico": "1416",
+      "lat": 39.341995,
+      "lng": -8.641168,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Loja Nova ",
+      "active": true,
+      "sadoId": "20231077989",
+      "sharepointId": 22584495,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1693494030
+      },
+      "updated": {
+        "sec": 1693494138
       }
     }
   ]
