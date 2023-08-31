@@ -275,8 +275,8 @@
       "location": "Santarém, Ourém, Urqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Urqueira",
@@ -323,7 +323,7 @@
         "sec": 1692808644
       },
       "updated": {
-        "sec": 1693499763
+        "sec": 1693509012
       }
     },
     {
@@ -854,8 +854,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Pinheiro Da Bemposta, Travanca E Palmaz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 42,
-      "terrain": 12,
+      "man": 47,
+      "terrain": 13,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Pinheiro Da Bemposta, Travanca E Palmaz",
@@ -896,7 +896,7 @@
         "sec": 1693410850
       },
       "updated": {
-        "sec": 1693502889
+        "sec": 1693509011
       }
     },
     {
@@ -1178,6 +1178,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.05,
+          "total": 0.05
+        },
         "altitude": 43.2681,
         "fogacho": true,
         "fontealerta": "CCO"
@@ -1197,7 +1203,7 @@
         "sec": 1693488125
       },
       "updated": {
-        "sec": 1693499764
+        "sec": 1693508565
       }
     },
     {
@@ -1241,7 +1247,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Lugar da Costa (TELÕES)",
+      "detailLocation": "Lugar da Costa (Costa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1256,7 +1262,7 @@
         "sec": 1693494030
       },
       "updated": {
-        "sec": 1693507204
+        "sec": 1693508595
       }
     },
     {
@@ -1273,8 +1279,8 @@
       "location": "Lisboa, Torres Vedras, Maxial E Monte Redondo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 53,
-      "terrain": 16,
+      "man": 48,
+      "terrain": 15,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Maxial E Monte Redondo",
@@ -1295,8 +1301,12 @@
       "sharepointId": 22584726,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 71.3288,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EREIRA",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1311,7 +1321,7 @@
         "sec": 1693497005
       },
       "updated": {
-        "sec": 1693507203
+        "sec": 1693509012
       }
     },
     {
@@ -1350,8 +1360,12 @@
       "sharepointId": 22584767,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 527.523,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Covelo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1366,7 +1380,7 @@
         "sec": 1693497496
       },
       "updated": {
-        "sec": 1693506851
+        "sec": 1693508703
       }
     },
     {
@@ -1383,8 +1397,8 @@
       "location": "Santarém, Abrantes, Bemposta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 93,
-      "terrain": 28,
+      "man": 71,
+      "terrain": 23,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Bemposta",
@@ -1405,8 +1419,12 @@
       "sharepointId": 22584805,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 174.866,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Tojeiras de Cima (Ribeira de Ulme)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1421,7 +1439,7 @@
         "sec": 1693498084
       },
       "updated": {
-        "sec": 1693505884
+        "sec": 1693509011
       }
     },
     {
@@ -1438,16 +1456,16 @@
       "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "dico": "0113",
       "lat": 41.820902,
       "lng": -8.464948,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -1460,8 +1478,12 @@
       "sharepointId": 22584998,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 180.234,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "lug Macinhata (Boucinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1476,62 +1498,7 @@
         "sec": 1693501330
       },
       "updated": {
-        "sec": 1693506605
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f0ce1eba11576c711f2564"
-      },
-      "id": "20231078590",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693502460
-      },
-      "date": "31-08-2023",
-      "hour": "18:21",
-      "location": "Leiria, Leiria, Colmeias E Memória",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
-      "district": "Leiria",
-      "concelho": "Leiria",
-      "freguesia": "Colmeias E Memória",
-      "dico": "1009",
-      "lat": 39.779526,
-      "lng": -8.684066,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Feijão ",
-      "active": true,
-      "sadoId": "20231078590",
-      "sharepointId": 22585096,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "created": {
-        "sec": 1693503006
-      },
-      "updated": {
-        "sec": 1693504084
+        "sec": 1693509011
       }
     },
     {
@@ -1570,8 +1537,12 @@
       "sharepointId": 22585239,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 9.74318,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Passeio Alegre (Rua 2)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1586,7 +1557,7 @@
         "sec": 1693504833
       },
       "updated": {
-        "sec": 1693506252
+        "sec": 1693508932
       }
     },
     {
@@ -1615,9 +1586,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Avintes ",
       "active": true,
@@ -1625,8 +1596,12 @@
       "sharepointId": 22585314,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 74.175,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar das oliveiras (Rua Doutor João Alves Pereira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1641,7 +1616,121 @@
         "sec": 1693505885
       },
       "updated": {
-        "sec": 1693506851
+        "sec": 1693508983
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f0e1595c34101734601a1c"
+      },
+      "id": "20231078930",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693507740
+      },
+      "date": "31-08-2023",
+      "hour": "19:49",
+      "location": "Bragança, Carrazeda de Ansiães, Pinhal Do Norte",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Bragança",
+      "concelho": "Carrazeda De Ansiães",
+      "freguesia": "Pinhal Do Norte",
+      "dico": "0403",
+      "lat": 41.296391,
+      "lng": -7.337993,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pinhal Do Norte ",
+      "active": true,
+      "sadoId": "20231078930",
+      "sharepointId": 22585436,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 485.536,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "PINHAL DO NORTE (Senhora dos Aflitos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1693507929
+      },
+      "updated": {
+        "sec": 1693509011
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f0e5948bdf0c57512d60a5"
+      },
+      "id": "20231078957",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693508220
+      },
+      "date": "31-08-2023",
+      "hour": "19:57",
+      "location": "Portalegre, Monforte, Vaiamonte",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Portalegre",
+      "concelho": "Monforte",
+      "freguesia": "Vaiamonte",
+      "dico": "1211",
+      "lat": 39.09042,
+      "lng": -7.50976,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Vaiamonte ",
+      "active": true,
+      "sadoId": "20231078957",
+      "sharepointId": 22585463,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1693509012
+      },
+      "updated": {
+        "sec": 1693509012
       }
     }
   ]
