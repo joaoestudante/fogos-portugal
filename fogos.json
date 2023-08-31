@@ -210,8 +210,8 @@
       "location": "Viseu, Nelas, Nelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Nelas",
       "freguesia": "Nelas",
@@ -258,7 +258,7 @@
         "sec": 1692790089
       },
       "updated": {
-        "sec": 1693476731
+        "sec": 1693480266
       }
     },
     {
@@ -724,8 +724,8 @@
       "location": "Santarém, Chamusca, Ulme",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 3,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Ulme",
@@ -772,7 +772,7 @@
         "sec": 1693326250
       },
       "updated": {
-        "sec": 1693476376
+        "sec": 1693479630
       }
     },
     {
@@ -1177,8 +1177,12 @@
       "sharepointId": 22582666,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 926.7,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "VREIA DE JALES (Fraga Gorda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1193,7 +1197,7 @@
         "sec": 1693471456
       },
       "updated": {
-        "sec": 1693476619
+        "sec": 1693479822
       }
     },
     {
@@ -1232,8 +1236,12 @@
       "sharepointId": 22583024,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 530.093,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de São Jorge L21. 3530-211 Mangualde. Portugal (Quinta do Camarão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1248,7 +1256,7 @@
         "sec": 1693475531
       },
       "updated": {
-        "sec": 1693477330
+        "sec": 1693479840
       }
     },
     {
@@ -1265,8 +1273,8 @@
       "location": "Vila Real, Vila Real, Constantim E Vale De Nogueiras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Constantim E Vale De Nogueiras",
@@ -1292,7 +1300,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "N313. 5000-082 Vila Real. Portugal (Quinta da Buçaqueira)",
+      "detailLocation": "N313 - Reta Portela (Frangal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1307,7 +1315,66 @@
         "sec": 1693475532
       },
       "updated": {
-        "sec": 1693477936
+        "sec": 1693479851
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f06703ec183956ed2cbe2d"
+      },
+      "id": "20231076616",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693476480
+      },
+      "date": "31-08-2023",
+      "hour": "11:08",
+      "location": "Braga, Vila Nova de Famalicão, Joane",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Joane",
+      "dico": "0312",
+      "lat": 41.439425,
+      "lng": -8.43429,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Joane ",
+      "active": true,
+      "sadoId": "20231076616",
+      "sharepointId": 22583122,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 278.412,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Joane. Vila Nova de Famalicão. Portugal (Torre)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1693476611
+      },
+      "updated": {
+        "sec": 1693479861
       }
     },
     {
@@ -1324,8 +1391,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Monsanto E Idanha-a-velha",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 11,
+      "man": 67,
+      "terrain": 15,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Monsanto E Idanha-a-velha",
@@ -1336,9 +1403,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Monsanto E Idanha-a-velha ",
       "active": true,
@@ -1346,8 +1413,12 @@
       "sharepointId": 22583173,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 537.789,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Monsanto",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1362,7 +1433,7 @@
         "sec": 1693477330
       },
       "updated": {
-        "sec": 1693478534
+        "sec": 1693480266
       }
     },
     {
@@ -1377,23 +1448,23 @@
       "date": "31-08-2023",
       "hour": "11:34",
       "location": "Porto, Lousada, Caíde De Rei",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Caíde De Rei",
       "dico": "1305",
-      "lat": 41.26761,
-      "lng": -8.21509,
+      "lat": 41.267453,
+      "lng": -8.21767,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Caíde De Rei ",
       "active": true,
@@ -1401,8 +1472,12 @@
       "sharepointId": 22583241,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 295.067,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M564. 4620 Lousada. Portugal (Lage)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1417,7 +1492,7 @@
         "sec": 1693478419
       },
       "updated": {
-        "sec": 1693478437
+        "sec": 1693480266
       }
     },
     {
@@ -1432,23 +1507,23 @@
       "date": "31-08-2023",
       "hour": "11:39",
       "location": "Viseu, Cinfães, São Cristóvão De Nogueira",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 41,
+      "terrain": 7,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "São Cristóvão De Nogueira",
       "dico": "1804",
-      "lat": 41.07868,
-      "lng": -8.11277,
+      "lat": 41.08253,
+      "lng": -8.122795,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "São Cristóvão De Nogueira ",
       "active": true,
@@ -1456,8 +1531,12 @@
       "sharepointId": 22583268,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 251.051,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.07868000.-8.11277000) - N222. 4690-581 Cinfães. Portugal (EN222 (EN222) Km 78)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1472,7 +1551,7 @@
         "sec": 1693478764
       },
       "updated": {
-        "sec": 1693478776
+        "sec": 1693480115
       }
     }
   ]
