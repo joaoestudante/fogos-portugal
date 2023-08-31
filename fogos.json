@@ -340,8 +340,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
+      "man": 4,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -388,7 +388,7 @@
         "sec": 1692959058
       },
       "updated": {
-        "sec": 1693472433
+        "sec": 1693478533
       }
     },
     {
@@ -1277,9 +1277,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "União Das Freguesias De Constantim E Vale De Nogueiras ",
       "active": true,
@@ -1307,7 +1307,7 @@
         "sec": 1693475532
       },
       "updated": {
-        "sec": 1693477449
+        "sec": 1693477936
       }
     },
     {
@@ -1324,8 +1324,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Monsanto E Idanha-a-velha",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 46,
-      "terrain": 10,
+      "man": 51,
+      "terrain": 11,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Monsanto E Idanha-a-velha",
@@ -1336,9 +1336,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Monsanto E Idanha-a-velha ",
       "active": true,
@@ -1362,7 +1362,117 @@
         "sec": 1693477330
       },
       "updated": {
-        "sec": 1693477816
+        "sec": 1693478534
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f06e13ec183956ed2cbe7d"
+      },
+      "id": "20231076735",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693478040
+      },
+      "date": "31-08-2023",
+      "hour": "11:34",
+      "location": "Porto, Lousada, Caíde De Rei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Caíde De Rei",
+      "dico": "1305",
+      "lat": 41.26761,
+      "lng": -8.21509,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Caíde De Rei ",
+      "active": true,
+      "sadoId": "20231076735",
+      "sharepointId": 22583241,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693478419
+      },
+      "updated": {
+        "sec": 1693478437
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f06f6cec183956ed2cbe8e"
+      },
+      "id": "20231076762",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693478340
+      },
+      "date": "31-08-2023",
+      "hour": "11:39",
+      "location": "Viseu, Cinfães, São Cristóvão De Nogueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "São Cristóvão De Nogueira",
+      "dico": "1804",
+      "lat": 41.07868,
+      "lng": -8.11277,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Cristóvão De Nogueira ",
+      "active": true,
+      "sadoId": "20231076762",
+      "sharepointId": 22583268,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693478764
+      },
+      "updated": {
+        "sec": 1693478776
       }
     }
   ]
