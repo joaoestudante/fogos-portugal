@@ -3,6 +3,74 @@
   "data": [
     {
       "_id": {
+        "$id": "64be6572471dc52cb47064a7"
+      },
+      "id": "20230892563",
+      "coords": true,
+      "dateTime": {
+        "sec": 1690199220
+      },
+      "date": "24-07-2023",
+      "hour": "12:47",
+      "location": "Aveiro, Aveiro, Glória E Vera Cruz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Glória E Vera Cruz",
+      "dico": "0105",
+      "lat": 40.633863,
+      "lng": -8.675902,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "União Das Freguesias De Glória E Vera Cruz ",
+      "active": true,
+      "sadoId": "20230892563",
+      "sharepointId": 22397281,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.002,
+          "mato": 0,
+          "total": 0.002
+        },
+        "altitude": -17.49,
+        "agricola": true,
+        "fontealerta": "112",
+        "causa": "15",
+        "tipocausa": "Negligente",
+        "causafamilia": "Uso do fogo - Fumar"
+      },
+      "detailLocation": "IP5/A25 -  Km 8 - Aveiro",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1690199410
+      },
+      "updated": {
+        "sec": 1693585089
+      }
+    },
+    {
+      "_id": {
         "$id": "64dcc905c556b15fc27f42f2"
       },
       "id": "20231005388",
@@ -777,8 +845,8 @@
       "location": "Vila Real, Montalegre, Solveira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
+      "man": 8,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Solveira",
@@ -819,7 +887,7 @@
         "sec": 1693572611
       },
       "updated": {
-        "sec": 1693582696
+        "sec": 1693584859
       }
     },
     {
@@ -879,65 +947,6 @@
       },
       "updated": {
         "sec": 1693581484
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f1efcb681c2a07b52e4f72"
-      },
-      "id": "20231082307",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693576500
-      },
-      "date": "01-09-2023",
-      "hour": "14:55",
-      "location": "Porto, Baião, Ancede E Ribadouro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Baião",
-      "freguesia": "Ancede E Ribadouro",
-      "dico": "1302",
-      "lat": 41.101911,
-      "lng": -8.055757,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Ancede ",
-      "active": true,
-      "sadoId": "20231082307",
-      "sharepointId": 22588813,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 356.805,
-        "agricola": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Penalva de Baixo (Ancede)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1693577163
-      },
-      "updated": {
-        "sec": 1693577187
       }
     },
     {
@@ -1019,8 +1028,8 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Vreia De Jales",
       "dico": "1713",
-      "lat": 41.4338,
-      "lng": -7.62113,
+      "lat": 41.432355,
+      "lng": -7.624198,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1055,7 +1064,7 @@
         "sec": 1693580285
       },
       "updated": {
-        "sec": 1693582696
+        "sec": 1693583291
       }
     },
     {
@@ -1070,23 +1079,23 @@
       "date": "01-09-2023",
       "hour": "16:05",
       "location": "Porto, Amarante, Vila Caiz",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
+      "man": 19,
       "terrain": 4,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Vila Caiz",
       "dico": "1301",
-      "lat": 41.229797,
-      "lng": -8.123593,
+      "lat": 41.220418,
+      "lng": -8.127002,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vila Caiz ",
       "active": true,
@@ -1110,7 +1119,7 @@
         "sec": 1693581251
       },
       "updated": {
-        "sec": 1693581964
+        "sec": 1693585090
       }
     },
     {
@@ -1139,9 +1148,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vilar De Amargo ",
       "active": true,
@@ -1165,7 +1174,7 @@
         "sec": 1693581373
       },
       "updated": {
-        "sec": 1693582696
+        "sec": 1693584493
       }
     },
     {
@@ -1180,23 +1189,23 @@
       "date": "01-09-2023",
       "hour": "16:11",
       "location": "Leiria, Leiria, Monte Real E Carvide",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 46,
+      "man": 37,
       "terrain": 10,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Monte Real E Carvide",
       "dico": "1009",
-      "lat": 39.82912,
-      "lng": -8.87298,
+      "lat": 39.826448,
+      "lng": -8.869258,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Monte Real E Carvide ",
       "active": true,
@@ -1220,7 +1229,7 @@
         "sec": 1693581373
       },
       "updated": {
-        "sec": 1693582922
+        "sec": 1693584493
       }
     },
     {
@@ -1235,10 +1244,10 @@
       "date": "01-09-2023",
       "hour": "16:22",
       "location": "Coimbra, Figueira da Foz, Alhadas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 6,
+      "man": 9,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Alhadas",
@@ -1249,9 +1258,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Alhadas ",
       "active": true,
@@ -1275,7 +1284,117 @@
         "sec": 1693582085
       },
       "updated": {
-        "sec": 1693582696
+        "sec": 1693585089
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f20b7cbdf2dc66bd104ce3"
+      },
+      "id": "20231082801",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693583880
+      },
+      "date": "01-09-2023",
+      "hour": "16:58",
+      "location": "Faro, Portimão, Portimão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Portimão",
+      "dico": "0811",
+      "lat": 37.143,
+      "lng": -8.55939,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Portimão ",
+      "active": true,
+      "sadoId": "20231082801",
+      "sharepointId": 22589307,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1693584252
+      },
+      "updated": {
+        "sec": 1693585089
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f20c6cbdf2dc66bd104cf3"
+      },
+      "id": "20231082832",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693584240
+      },
+      "date": "01-09-2023",
+      "hour": "17:04",
+      "location": "Porto, Lousada, Caíde De Rei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Caíde De Rei",
+      "dico": "1305",
+      "lat": 41.253168,
+      "lng": -8.227392,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Caide ",
+      "active": true,
+      "sadoId": "20231082832",
+      "sharepointId": 22589338,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693584492
+      },
+      "updated": {
+        "sec": 1693584859
       }
     }
   ]
