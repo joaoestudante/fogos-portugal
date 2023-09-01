@@ -402,8 +402,8 @@
       "location": "Faro, Monchique, Monchique",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Monchique",
@@ -450,7 +450,7 @@
         "sec": 1693236484
       },
       "updated": {
-        "sec": 1693585456
+        "sec": 1693596362
       }
     },
     {
@@ -786,8 +786,8 @@
       "location": "Guarda, Figueira de Castelo Rodrigo, Algodres, Vale De Afonsinho E Vilar De Amargo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Guarda",
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
@@ -828,7 +828,7 @@
         "sec": 1693581373
       },
       "updated": {
-        "sec": 1693594974
+        "sec": 1693596362
       }
     },
     {
@@ -908,9 +908,9 @@
       "date": "01-09-2023",
       "hour": "18:44",
       "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
+      "man": 17,
       "terrain": 4,
       "district": "Porto",
       "concelho": "Gondomar",
@@ -952,7 +952,7 @@
         "sec": 1693590965
       },
       "updated": {
-        "sec": 1693595072
+        "sec": 1693596012
       }
     },
     {
@@ -969,8 +969,8 @@
       "location": "Lisboa, Loures, Lousa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 22,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Lousa",
@@ -981,9 +981,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Lousa ",
       "active": true,
@@ -1007,7 +1007,62 @@
         "sec": 1693595417
       },
       "updated": {
-        "sec": 1693595529
+        "sec": 1693596362
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f238018eabd3659d1e0d93"
+      },
+      "id": "20231083521",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693595220
+      },
+      "date": "01-09-2023",
+      "hour": "20:07",
+      "location": "Porto, Lousada, Cernadelo E Lousada (São Miguel E Santa Margarida)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Cernadelo E Lousada (São Miguel E Santa Margarida)",
+      "dico": "1305",
+      "lat": 41.30986,
+      "lng": -8.25876,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Cernadelo E Lousada (São Miguel E Santa Margarida) ",
+      "active": true,
+      "sadoId": "20231083521",
+      "sharepointId": 22590027,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1693595649
+      },
+      "updated": {
+        "sec": 1693595895
       }
     }
   ]
