@@ -558,8 +558,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 1,
+          "total": 1
+        },
         "altitude": 982.496,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "CCO"
       },
       "detailLocation": "VÁRZEA DA SERRA (Folgosa)",
@@ -577,51 +583,51 @@
         "sec": 1693605964
       },
       "updated": {
-        "sec": 1693630691
+        "sec": 1693638161
       }
     },
     {
       "_id": {
-        "$id": "64f28d58be654e70df1a276b"
+        "$id": "64f2dbec54a44d1df3250e77"
       },
-      "id": "20231084450",
+      "id": "20231084742",
       "coords": true,
       "dateTime": {
-        "sec": 1693617060
+        "sec": 1693631580
       },
       "date": "02-09-2023",
-      "hour": "02:11",
-      "location": "Viseu, Lamego, Lazarim",
+      "hour": "06:13",
+      "location": "Viseu, Tondela, Castelões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 30,
+      "terrain": 9,
       "district": "Viseu",
-      "concelho": "Lamego",
-      "freguesia": "Lazarim",
-      "dico": "1805",
-      "lat": 41.018797,
-      "lng": -7.974457,
+      "concelho": "Tondela",
+      "freguesia": "Castelões",
+      "dico": "1821",
+      "lat": 40.536297,
+      "lng": -8.172335,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "União Das Freguesias De Bigorne, Magueija E Pretarouca ",
+      "localidade": "Castelões ",
       "active": true,
-      "sadoId": "20231084450",
-      "sharepointId": 22590956,
+      "sadoId": "20231084742",
+      "sharepointId": 22591248,
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 969.491,
+        "altitude": 269.868,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Bigorne. Lamego. Portugal (PANCHORRA)",
+      "detailLocation": "Muceres (Feiteiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -630,304 +636,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
       "created": {
-        "sec": 1693617496
+        "sec": 1693637612
       },
       "updated": {
-        "sec": 1693630691
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f295c8be654e70df1a27b2"
-      },
-      "id": "20231084502",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693619400
-      },
-      "date": "02-09-2023",
-      "hour": "02:50",
-      "location": "Santarém, Constância, Montalvo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Santarém",
-      "concelho": "Constância",
-      "freguesia": "Montalvo",
-      "dico": "1408",
-      "lat": 39.482985,
-      "lng": -8.29914,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Montalvo ",
-      "active": true,
-      "sadoId": "20231084502",
-      "sharepointId": 22591008,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 57.335,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "MONTALVO",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1693619656
-      },
-      "updated": {
-        "sec": 1693627930
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f2a012deac0c764d34315f"
-      },
-      "id": "20231084542",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693621980
-      },
-      "date": "02-09-2023",
-      "hour": "03:33",
-      "location": "Santarém, Almeirim, Raposa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Almeirim",
-      "freguesia": "Raposa",
-      "dico": "1403",
-      "lat": 39.11149,
-      "lng": -8.583577,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Raposa ",
-      "active": true,
-      "sadoId": "20231084542",
-      "sharepointId": 22591048,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 49.4512,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Raposa",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1693622290
-      },
-      "updated": {
-        "sec": 1693630691
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f2a108deac0c764d34316b"
-      },
-      "id": "20231084553",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693622280
-      },
-      "date": "02-09-2023",
-      "hour": "03:38",
-      "location": "Aveiro, Castelo de Paiva, Real",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Castelo De Paiva",
-      "freguesia": "Real",
-      "dico": "0106",
-      "lat": 41.014563,
-      "lng": -8.282232,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Penela ",
-      "active": true,
-      "sadoId": "20231084553",
-      "sharepointId": 22591059,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 285.3,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Penela",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1693622536
-      },
-      "updated": {
-        "sec": 1693624696
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f2a7986f2354768b3062b2"
-      },
-      "id": "20231084570",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693623000
-      },
-      "date": "02-09-2023",
-      "hour": "03:50",
-      "location": "Lisboa, Amadora, Alfragide",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Amadora",
-      "freguesia": "Alfragide",
-      "dico": "1115",
-      "lat": 38.73959,
-      "lng": -9.2197,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Alfragide ",
-      "active": true,
-      "sadoId": "20231084570",
-      "sharepointId": 22591076,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1693624216
-      },
-      "updated": {
-        "sec": 1693630691
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f2c0e3d796ca7f6f4542d5"
-      },
-      "id": "20231084695",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693628760
-      },
-      "date": "02-09-2023",
-      "hour": "05:26",
-      "location": "Porto, Trofa, Alvarelhos E Guidões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Trofa",
-      "freguesia": "Alvarelhos E Guidões",
-      "dico": "1318",
-      "lat": 41.309843,
-      "lng": -8.609605,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Alvarelhos ",
-      "active": true,
-      "sadoId": "20231084695",
-      "sharepointId": 22591201,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 84.1706,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Sanguinhal (ALVARELHOS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693630691
-      },
-      "updated": {
-        "sec": 1693630727
+        "sec": 1693638292
       }
     }
   ]
