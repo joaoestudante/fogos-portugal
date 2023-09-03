@@ -695,21 +695,21 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Cendufe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Cendufe",
       "dico": "1601",
       "lat": 41.814215,
       "lng": -8.495175,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cendufe ",
       "active": true,
@@ -733,7 +733,7 @@
         "sec": 1693734844
       },
       "updated": {
-        "sec": 1693736055
+        "sec": 1693736890
       }
     },
     {
@@ -756,15 +756,15 @@
       "concelho": "Loulé",
       "freguesia": "Boliqueime",
       "dico": "0808",
-      "lat": 37.14675,
-      "lng": -8.154452,
+      "lat": 37.143638,
+      "lng": -8.14897,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cabeça De Águia ",
       "active": true,
@@ -788,7 +788,172 @@
         "sec": 1693735223
       },
       "updated": {
-        "sec": 1693736056
+        "sec": 1693736891
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f45d5ceed3f005a3162712"
+      },
+      "id": "20231089982",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693735920
+      },
+      "date": "03-09-2023",
+      "hour": "11:12",
+      "location": "Viseu, Lamego, Avões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Lamego",
+      "freguesia": "Avões",
+      "dico": "1805",
+      "lat": 41.116853,
+      "lng": -7.831896,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avões ",
+      "active": true,
+      "sadoId": "20231089982",
+      "sharepointId": 22596488,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1693736284
+      },
+      "updated": {
+        "sec": 1693736891
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f45fbbeed3f005a316271e"
+      },
+      "id": "20231090021",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693736640
+      },
+      "date": "03-09-2023",
+      "hour": "11:24",
+      "location": "Lisboa, Loures, Moscavide E Portela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Moscavide E Portela",
+      "dico": "1107",
+      "lat": 38.779,
+      "lng": -9.107766,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Moscavide ",
+      "active": true,
+      "sadoId": "20231090021",
+      "sharepointId": 22596527,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1693736891
+      },
+      "updated": {
+        "sec": 1693736902
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f45fbbeed3f005a3162721"
+      },
+      "id": "20231090001",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693736280
+      },
+      "date": "03-09-2023",
+      "hour": "11:18",
+      "location": "Porto, Santo Tirso, Areias, Sequeiró, Lama E Palmeira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Areias, Sequeiró, Lama E Palmeira",
+      "dico": "1314",
+      "lat": 41.362274,
+      "lng": -8.475731,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Palmeira ",
+      "active": true,
+      "sadoId": "20231090001",
+      "sharepointId": 22596507,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1693736891
+      },
+      "updated": {
+        "sec": 1693736891
       }
     }
   ]
