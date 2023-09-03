@@ -334,8 +334,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Correlhã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 18,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Correlhã",
@@ -357,8 +357,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 85,
+          "agricola": 0,
+          "mato": 0,
+          "total": 85
+        },
         "altitude": 143.321,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Boa Morte (São João Baptista)",
@@ -376,7 +382,7 @@
         "sec": 1693686018
       },
       "updated": {
-        "sec": 1693766289
+        "sec": 1693767730
       }
     },
     {
@@ -393,8 +399,8 @@
       "location": "Coimbra, Figueira da Foz, Tavarede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Tavarede",
@@ -417,10 +423,10 @@
       "disappear": false,
       "icnf": {
         "altitude": 34.0419,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Saltador (Horto Municipal)",
+      "detailLocation": "Saltadouro (Azenhas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -435,7 +441,7 @@
         "sec": 1693763532
       },
       "updated": {
-        "sec": 1693764963
+        "sec": 1693768053
       }
     },
     {
@@ -450,10 +456,10 @@
       "date": "03-09-2023",
       "hour": "19:11",
       "location": "Castelo Branco, Vila Velha de Ródão, Fratel",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 7,
+      "man": 14,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Fratel",
@@ -464,9 +470,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale De Figueira ",
       "active": true,
@@ -474,8 +480,12 @@
       "sharepointId": 22598310,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 366.183,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Vale da Figueira (Marmelal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -490,7 +500,7 @@
         "sec": 1693764963
       },
       "updated": {
-        "sec": 1693766289
+        "sec": 1693768053
       }
     },
     {
@@ -529,8 +539,12 @@
       "sharepointId": 22598350,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 78.0025,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.06963000.-9.28133000) - M1069 117. 2560 Torres Vedras. Portugal (Casal da Azenha das Flores)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -545,7 +559,7 @@
         "sec": 1693765683
       },
       "updated": {
-        "sec": 1693766289
+        "sec": 1693767861
       }
     },
     {
@@ -562,21 +576,21 @@
       "location": "Castelo Branco, Penamacor, Penamacor",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 7,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Penamacor",
       "dico": "0507",
-      "lat": 40.162767,
-      "lng": -7.226932,
+      "lat": 40.164197,
+      "lng": -7.221225,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Beiradas ",
       "active": true,
@@ -584,8 +598,12 @@
       "sharepointId": 22598412,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 419.934,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Beiradas (EN346 (EN346) Km 28)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -600,7 +618,125 @@
         "sec": 1693766656
       },
       "updated": {
-        "sec": 1693766666
+        "sec": 1693768053
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f4d7d0de5c2941530f6f4c"
+      },
+      "id": "20231091953",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693767240
+      },
+      "date": "03-09-2023",
+      "hour": "19:54",
+      "location": "Leiria, Leiria, Leiria, Pousos, Barreira E Cortes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Leiria, Pousos, Barreira E Cortes",
+      "dico": "1009",
+      "lat": 39.743021,
+      "lng": -8.777106,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pousos ",
+      "active": true,
+      "sadoId": "20231091953",
+      "sharepointId": 22598459,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 91.695,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "POUSOS (Travessa da Igreja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1693767632
+      },
+      "updated": {
+        "sec": 1693768054
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f4d9768ffff7292b5a5f13"
+      },
+      "id": "20231091959",
+      "coords": true,
+      "dateTime": {
+        "sec": 1693767360
+      },
+      "date": "03-09-2023",
+      "hour": "19:56",
+      "location": "Porto, Vila Nova de Gaia, Oliveira Do Douro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Oliveira Do Douro",
+      "dico": "1317",
+      "lat": 41.13195,
+      "lng": -8.58683,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Oliveira Do Douro ",
+      "active": true,
+      "sadoId": "20231091959",
+      "sharepointId": 22598465,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 47.2113,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Atafona (Rua da Atafona)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1693768054
+      },
+      "updated": {
+        "sec": 1693768144
       }
     }
   ]
