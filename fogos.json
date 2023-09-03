@@ -573,65 +573,6 @@
     },
     {
       "_id": {
-        "$id": "64f3a2d572722a119407f6d2"
-      },
-      "id": "20231088238",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693688100
-      },
-      "date": "02-09-2023",
-      "hour": "21:55",
-      "location": "Aveiro, Estarreja, Salreu",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Salreu",
-      "dico": "0108",
-      "lat": 40.754413,
-      "lng": -8.542598,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Salreu ",
-      "active": true,
-      "sadoId": "20231088238",
-      "sharepointId": 22594744,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 60.3069,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Sra. do Terço (Canto do Picoto)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1693688533
-      },
-      "updated": {
-        "sec": 1693708683
-      }
-    },
-    {
-      "_id": {
         "$id": "64f3a3754ac0811ed943b813"
       },
       "id": "20231088244",
@@ -703,8 +644,8 @@
       "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
@@ -725,8 +666,18 @@
       "sharepointId": 22595326,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.001,
+          "mato": 0,
+          "total": 0.001
+        },
+        "altitude": 174.241,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar do Cercal (Rio Cercal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -741,7 +692,7 @@
         "sec": 1693705564
       },
       "updated": {
-        "sec": 1693707132
+        "sec": 1693710200
       }
     }
   ]
