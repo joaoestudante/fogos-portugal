@@ -291,8 +291,12 @@
       "sharepointId": 22600346,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 32.4531,
+        "agricola": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Sobral (Lameiras de Sobral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -307,7 +311,7 @@
         "sec": 1693819089
       },
       "updated": {
-        "sec": 1693821962
+        "sec": 1693825376
       }
     },
     {
@@ -383,8 +387,8 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 42,
-      "terrain": 8,
+      "man": 52,
+      "terrain": 10,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Ribeira Do Neiva",
@@ -405,8 +409,12 @@
       "sharepointId": 22600463,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 283.976,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "PORTELA DAS CABRAS (Cachadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -421,66 +429,7 @@
         "sec": 1693820291
       },
       "updated": {
-        "sec": 1693823892
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f5ad8098e64b633b1b949e"
-      },
-      "id": "20231094124",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693821300
-      },
-      "date": "04-09-2023",
-      "hour": "10:55",
-      "location": "Porto, Vila Nova de Gaia, Arcozelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Arcozelo",
-      "dico": "1317",
-      "lat": 41.056331,
-      "lng": -8.640388,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20231094124",
-      "sharepointId": 22600631,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 23.9069,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Travessa do Fojo (IC1 (IC1) Km 12)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1693822336
-      },
-      "updated": {
-        "sec": 1693822811
+        "sec": 1693825810
       }
     },
     {
@@ -497,8 +446,8 @@
       "location": "Porto, Marco de Canaveses, Livração",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 21,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Livração",
@@ -519,8 +468,12 @@
       "sharepointId": 22600749,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 151.503,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santo Isidoro. Marco de Canaveses. Portugal (Areal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -535,7 +488,7 @@
         "sec": 1693823892
       },
       "updated": {
-        "sec": 1693824251
+        "sec": 1693825418
       }
     },
     {
@@ -550,10 +503,10 @@
       "date": "04-09-2023",
       "hour": "11:38",
       "location": "Porto, Amarante, Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 16,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
@@ -564,9 +517,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Amarante (São Gonçalo), Madalena, Cepelos E Gatão ",
       "active": true,
@@ -594,7 +547,7 @@
         "sec": 1693824363
       },
       "updated": {
-        "sec": 1693824383
+        "sec": 1693824962
       }
     }
   ]
