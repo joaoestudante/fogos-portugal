@@ -3,6 +3,74 @@
   "data": [
     {
       "_id": {
+        "$id": "64d8f20517958e59f607b862"
+      },
+      "id": "20230991777",
+      "coords": true,
+      "dateTime": {
+        "sec": 1691938920
+      },
+      "date": "13-08-2023",
+      "hour": "16:02",
+      "location": "Aveiro, Estarreja, Salreu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Salreu",
+      "dico": "0108",
+      "lat": 40.74511,
+      "lng": -8.54526,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Salreu ",
+      "active": true,
+      "sadoId": "20230991777",
+      "sharepointId": 22496509,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.0184,
+          "mato": 0,
+          "total": 0.0184
+        },
+        "altitude": 60.3069,
+        "agricola": true,
+        "fontealerta": "112",
+        "causa": "221",
+        "tipocausa": "Negligente",
+        "causafamilia": "Acidentais - Maquinaria"
+      },
+      "detailLocation": "Rua de Vale Gestosa (Quinta do Monte)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1691939333
+      },
+      "updated": {
+        "sec": 1694010002
+      }
+    },
+    {
+      "_id": {
         "$id": "64f86250a6edd8104e681e06"
       },
       "id": "20231103434",
@@ -13,10 +81,10 @@
       "date": "06-09-2023",
       "hour": "12:23",
       "location": "Guarda, Sabugal, Casteleiro",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 97,
-      "terrain": 22,
+      "man": 71,
+      "terrain": 19,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Casteleiro",
@@ -53,7 +121,7 @@
         "sec": 1693999696
       },
       "updated": {
-        "sec": 1694007496
+        "sec": 1694009649
       }
     },
     {
@@ -78,8 +146,8 @@
       "dico": "1709",
       "lat": 41.579325,
       "lng": -7.739867,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -108,7 +176,7 @@
         "sec": 1693999922
       },
       "updated": {
-        "sec": 1694007736
+        "sec": 1694008091
       }
     },
     {
@@ -235,8 +303,8 @@
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
@@ -273,62 +341,7 @@
         "sec": 1694004603
       },
       "updated": {
-        "sec": 1694007130
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f878f46b55542ba0645292"
-      },
-      "id": "20231103885",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694004900
-      },
-      "date": "06-09-2023",
-      "hour": "13:55",
-      "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Foz Do Sousa E Covelo",
-      "dico": "1304",
-      "lat": 41.0963,
-      "lng": -8.482621,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20231103885",
-      "sharepointId": 22610398,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1694005492
-      },
-      "updated": {
-        "sec": 1694006648
+        "sec": 1694008444
       }
     },
     {
@@ -345,21 +358,21 @@
       "location": "Castelo Branco, Vila Velha de Ródão, Fratel",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 58,
-      "terrain": 10,
+      "man": 67,
+      "terrain": 14,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Fratel",
       "dico": "0511",
-      "lat": 39.613478,
-      "lng": -7.717382,
+      "lat": 39.613748,
+      "lng": -7.715697,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Fratel ",
       "active": true,
@@ -383,47 +396,51 @@
         "sec": 1694007013
       },
       "updated": {
-        "sec": 1694007736
+        "sec": 1694008690
       }
     },
     {
       "_id": {
-        "$id": "64f8813e6b55542ba06452d2"
+        "$id": "64f885fa6b55542ba06452fc"
       },
-      "id": "20231104033",
+      "id": "20231104116",
       "coords": true,
       "dateTime": {
-        "sec": 1694007480
+        "sec": 1694008560
       },
       "date": "06-09-2023",
-      "hour": "14:38",
-      "location": "Faro, Portimão, Portimão",
-      "aerial": 0,
+      "hour": "14:56",
+      "location": "Faro, Lagos, Luz",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Faro",
-      "concelho": "Portimão",
-      "freguesia": "Portimão",
-      "dico": "0811",
-      "lat": 37.14214,
-      "lng": -8.558532,
+      "concelho": "Lagos",
+      "freguesia": "Luz",
+      "dico": "0807",
+      "lat": 37.111992,
+      "lng": -8.712483,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Portimão ",
+      "localidade": "Funchal ",
       "active": true,
-      "sadoId": "20231104033",
-      "sharepointId": 22610546,
+      "sadoId": "20231104116",
+      "sharepointId": 22610629,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 48.025,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "8600-111. Lagos. Portugal (FUNCHAL)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -435,10 +452,10 @@
       "regiao": "Algarve",
       "sub_regiao": "Algarve",
       "created": {
-        "sec": 1694007614
+        "sec": 1694008826
       },
       "updated": {
-        "sec": 1694007624
+        "sec": 1694010002
       }
     }
   ]
