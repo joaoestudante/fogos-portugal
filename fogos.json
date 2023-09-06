@@ -3,71 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "64f86250a6edd8104e681e06"
-      },
-      "id": "20231103434",
-      "coords": true,
-      "dateTime": {
-        "sec": 1693999380
-      },
-      "date": "06-09-2023",
-      "hour": "12:23",
-      "location": "Guarda, Sabugal, Casteleiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Guarda",
-      "concelho": "Sabugal",
-      "freguesia": "Casteleiro",
-      "dico": "0911",
-      "lat": 40.275118,
-      "lng": -7.249377,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Casteleiro ",
-      "active": true,
-      "sadoId": "20231103434",
-      "sharepointId": 22609947,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 4,
-          "total": 4
-        },
-        "altitude": 511.82,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Abelheira",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1693999696
-      },
-      "updated": {
-        "sec": 1694041922
-      }
-    },
-    {
-      "_id": {
         "$id": "64f8e976009e4c204e4b87e3"
       },
       "id": "20231105755",
@@ -198,21 +133,21 @@
       "location": "Setúbal, Seixal, Fernão Ferro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Fernão Ferro",
       "dico": "1510",
       "lat": 38.572419,
       "lng": -9.115329,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fernão Ferro ",
       "active": true,
@@ -240,7 +175,62 @@
         "sec": 1694041221
       },
       "updated": {
-        "sec": 1694041404
+        "sec": 1694042764
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f90a8c01195050905d054f"
+      },
+      "id": "20231106075",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694042340
+      },
+      "date": "07-09-2023",
+      "hour": "00:19",
+      "location": "Porto, Vila Nova de Gaia, Canidelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Canidelo",
+      "dico": "1317",
+      "lat": 41.123309,
+      "lng": -8.643973,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Canidelo ",
+      "active": true,
+      "sadoId": "20231106075",
+      "sharepointId": 22612588,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694042764
+      },
+      "updated": {
+        "sec": 1694042775
       }
     }
   ]
