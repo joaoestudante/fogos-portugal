@@ -15,8 +15,8 @@
       "location": "Guarda, Sabugal, Casteleiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 71,
-      "terrain": 19,
+      "man": 67,
+      "terrain": 18,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Casteleiro",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
+      "statusCode": 9,
       "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Casteleiro ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 22609947,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 511.82,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Abelheira",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1693999696
       },
       "updated": {
-        "sec": 1694009649
+        "sec": 1694013364
       }
     },
     {
@@ -92,8 +96,18 @@
       "sharepointId": 22609973,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.02,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.02
+        },
+        "altitude": 561.707,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Seirós (RAPOSA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +122,7 @@
         "sec": 1693999922
       },
       "updated": {
-        "sec": 1694008091
+        "sec": 1694012544
       }
     },
     {
@@ -147,8 +161,12 @@
       "sharepointId": 22610144,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 514.477,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lugar de Louredo (CAMPELO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +181,7 @@
         "sec": 1694002449
       },
       "updated": {
-        "sec": 1694005931
+        "sec": 1694012558
       }
     },
     {
@@ -202,8 +220,18 @@
       "sharepointId": 22610303,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.01,
+          "total": 0.01
+        },
+        "altitude": 644.761,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Srª da Ribeira (Barreiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +246,7 @@
         "sec": 1694004242
       },
       "updated": {
-        "sec": 1694011338
+        "sec": 1694012571
       }
     },
     {
@@ -235,8 +263,8 @@
       "location": "Castelo Branco, Vila Velha de Ródão, Fratel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 15,
+      "man": 48,
+      "terrain": 14,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Fratel",
@@ -257,8 +285,12 @@
       "sharepointId": 22610508,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 147.504,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Fratel",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -273,66 +305,7 @@
         "sec": 1694007013
       },
       "updated": {
-        "sec": 1694010964
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f885fa6b55542ba06452fc"
-      },
-      "id": "20231104116",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694008560
-      },
-      "date": "06-09-2023",
-      "hour": "14:56",
-      "location": "Faro, Lagos, Luz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Faro",
-      "concelho": "Lagos",
-      "freguesia": "Luz",
-      "dico": "0807",
-      "lat": 37.111992,
-      "lng": -8.712483,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Funchal ",
-      "active": true,
-      "sadoId": "20231104116",
-      "sharepointId": 22610629,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 48.025,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "8600-111. Lagos. Portugal (FUNCHAL)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1694008826
-      },
-      "updated": {
-        "sec": 1694011570
+        "sec": 1694012847
       }
     },
     {
@@ -349,8 +322,8 @@
       "location": "Viseu, Castro Daire, Mezio E Moura Morta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Mezio E Moura Morta",
@@ -361,9 +334,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Mezio ",
       "active": true,
@@ -371,8 +344,12 @@
       "sharepointId": 22610768,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 919.456,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Mezio (MÉZIO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -387,7 +364,117 @@
         "sec": 1694010490
       },
       "updated": {
-        "sec": 1694011570
+        "sec": 1694013364
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f897b34bb6ac211f32a752"
+      },
+      "id": "20231104443",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694012820
+      },
+      "date": "06-09-2023",
+      "hour": "16:07",
+      "location": "Vila Real, Santa Marta de Penaguião, Fontes",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Santa Marta De Penaguião",
+      "freguesia": "Fontes",
+      "dico": "1711",
+      "lat": 41.24033,
+      "lng": -7.84483,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fontes ",
+      "active": true,
+      "sadoId": "20231104443",
+      "sharepointId": 22610956,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1694013363
+      },
+      "updated": {
+        "sec": 1694013376
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f897b44bb6ac211f32a756"
+      },
+      "id": "20231104467",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694012820
+      },
+      "date": "06-09-2023",
+      "hour": "16:07",
+      "location": "Aveiro, Santa Maria da Feira, Argoncilhe",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Argoncilhe",
+      "dico": "0109",
+      "lat": 41.019658,
+      "lng": -8.540026,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20231104467",
+      "sharepointId": 22610980,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694013364
+      },
+      "updated": {
+        "sec": 1694013398
       }
     }
   ]
