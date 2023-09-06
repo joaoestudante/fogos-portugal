@@ -15,8 +15,8 @@
       "location": "Guarda, Sabugal, Casteleiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Casteleiro",
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 4,
+          "total": 4
+        },
         "altitude": 511.82,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Abelheira",
@@ -57,7 +63,7 @@
         "sec": 1693999696
       },
       "updated": {
-        "sec": 1694038455
+        "sec": 1694041922
       }
     },
     {
@@ -74,14 +80,14 @@
       "location": "Porto, Baião, Campelo E Ovil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
+      "man": 37,
       "terrain": 9,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Campelo E Ovil",
       "dico": "1302",
-      "lat": 41.173569,
-      "lng": -7.995095,
+      "lat": 41.172467,
+      "lng": -8.00202,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -96,8 +102,12 @@
       "sharepointId": 22612268,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 512.739,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg. Serra de Matos (Minas da Portela)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +122,125 @@
         "sec": 1694034294
       },
       "updated": {
-        "sec": 1694040362
+        "sec": 1694041378
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9021aa785354d894613bc"
+      },
+      "id": "20231106000",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694040180
+      },
+      "date": "06-09-2023",
+      "hour": "23:43",
+      "location": "Porto, Marco de Canaveses, Soalhães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Soalhães",
+      "dico": "1307",
+      "lat": 41.159544,
+      "lng": -8.065221,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lameirão ",
+      "active": true,
+      "sadoId": "20231106000",
+      "sharepointId": 22612513,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 402.091,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Lameirão (Pinhão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1694040602
+      },
+      "updated": {
+        "sec": 1694041393
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f90485a785354d894613c9"
+      },
+      "id": "20231106033",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694040540
+      },
+      "date": "06-09-2023",
+      "hour": "23:49",
+      "location": "Setúbal, Seixal, Fernão Ferro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Fernão Ferro",
+      "dico": "1510",
+      "lat": 38.572419,
+      "lng": -9.115329,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fernão Ferro ",
+      "active": true,
+      "sadoId": "20231106033",
+      "sharepointId": 22612546,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 63.5556,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Junto A33 Km 12 (Lobateira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1694041221
+      },
+      "updated": {
+        "sec": 1694041404
       }
     }
   ]
