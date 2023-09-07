@@ -15,8 +15,8 @@
       "location": "Porto, Baião, Campelo E Ovil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Campelo E Ovil",
@@ -38,11 +38,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 7,
+          "total": 7
+        },
         "altitude": 512.739,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lg. Serra de Matos (Minas da Portela)",
+      "detailLocation": "Lg. Serra de Matos (Matos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +63,7 @@
         "sec": 1694034294
       },
       "updated": {
-        "sec": 1694054763
+        "sec": 1694055730
       }
     },
     {
@@ -96,8 +102,12 @@
       "sharepointId": 22612642,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 514.378,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg. Outeiro (Tapada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +122,7 @@
         "sec": 1694045165
       },
       "updated": {
-        "sec": 1694054763
+        "sec": 1694055745
       }
     }
   ]
