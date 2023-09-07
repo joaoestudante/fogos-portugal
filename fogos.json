@@ -38,6 +38,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.22,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.22
+        },
         "altitude": 338.769,
         "fogacho": true,
         "fontealerta": "Populares"
@@ -57,7 +63,7 @@
         "sec": 1694096044
       },
       "updated": {
-        "sec": 1694110930
+        "sec": 1694113343
       }
     },
     {
@@ -72,10 +78,10 @@
       "date": "07-09-2023",
       "hour": "15:19",
       "location": "Coimbra, Coimbra, Torres Do Mondego",
-      "aerial": 9,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 575,
-      "terrain": 164,
+      "man": 620,
+      "terrain": 176,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "Torres Do Mondego",
@@ -116,7 +122,7 @@
         "sec": 1694096652
       },
       "updated": {
-        "sec": 1694112016
+        "sec": 1694113931
       }
     },
     {
@@ -133,8 +139,8 @@
       "location": "Leiria, Leiria, Caranguejeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 11,
+      "man": 32,
+      "terrain": 10,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -160,7 +166,7 @@
         "fogacho": true,
         "fontealerta": "Outros"
       },
-      "detailLocation": "Casal Vermelho (Pereiras)",
+      "detailLocation": "Casal Vermelho (Cavadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -175,7 +181,7 @@
         "sec": 1694100136
       },
       "updated": {
-        "sec": 1694109730
+        "sec": 1694113931
       }
     },
     {
@@ -192,8 +198,8 @@
       "location": "Aveiro, Arouca, Alvarenga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Alvarenga",
@@ -214,8 +220,12 @@
       "sharepointId": 22615673,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 523.102,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N225. 4540-279 Arouca. Portugal (Rego do Boi)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,62 +240,7 @@
         "sec": 1694103130
       },
       "updated": {
-        "sec": 1694112364
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f9ffb946c1d6386426e5fc"
-      },
-      "id": "20231109352",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694105460
-      },
-      "date": "07-09-2023",
-      "hour": "17:51",
-      "location": "Portalegre, Ponte de Sor, Ponte De Sor, Tramaga E Vale De Açor",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
-      "district": "Portalegre",
-      "concelho": "Ponte De Sor",
-      "freguesia": "Ponte De Sor, Tramaga E Vale De Açor",
-      "dico": "1213",
-      "lat": 39.228512,
-      "lng": -8.032227,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Tramaga ",
-      "active": true,
-      "sadoId": "20231109352",
-      "sharepointId": 22615865,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "created": {
-        "sec": 1694105529
-      },
-      "updated": {
-        "sec": 1694111649
+        "sec": 1694113421
       }
     },
     {
@@ -300,9 +255,9 @@
       "date": "07-09-2023",
       "hour": "18:29",
       "location": "Leiria, Leiria, Caranguejeira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 5,
       "terrain": 1,
       "district": "Leiria",
       "concelho": "Leiria",
@@ -344,7 +299,7 @@
         "sec": 1694108532
       },
       "updated": {
-        "sec": 1694110456
+        "sec": 1694112963
       }
     },
     {
@@ -358,17 +313,17 @@
       },
       "date": "07-09-2023",
       "hour": "18:56",
-      "location": "Porto, Póvoa de Varzim, Rates",
+      "location": "Porto, Vila do Conde, Rio Mau E Arcos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 3,
       "district": "Porto",
-      "concelho": "Póvoa De Varzim",
-      "freguesia": "Rates",
-      "dico": "1313",
-      "lat": 41.424792,
-      "lng": -8.677437,
+      "concelho": "Vila Do Conde",
+      "freguesia": "Rio Mau E Arcos",
+      "dico": "1316",
+      "lat": 41.418795,
+      "lng": -8.707337,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -383,8 +338,12 @@
       "sharepointId": 22616134,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 50.2075,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Rua Manuel Gonçalves Sá Eiras (Pelames)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -399,7 +358,7 @@
         "sec": 1694110096
       },
       "updated": {
-        "sec": 1694111888
+        "sec": 1694113704
       }
     },
     {
@@ -416,7 +375,7 @@
       "location": "Aveiro, Albergaria-a-Velha, Branca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
+      "man": 12,
       "terrain": 3,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
@@ -428,9 +387,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Branca ",
       "active": true,
@@ -438,8 +397,12 @@
       "sharepointId": 22616169,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 167.643,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Quinta do Padrão (Albergaria a Nova)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -454,62 +417,7 @@
         "sec": 1694110930
       },
       "updated": {
-        "sec": 1694112364
-      }
-    },
-    {
-      "_id": {
-        "$id": "64fa17a167be98018e4d4f06"
-      },
-      "id": "20231109696",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694111280
-      },
-      "date": "07-09-2023",
-      "hour": "19:28",
-      "location": "Lisboa, Arruda Dos Vinhos, Arruda Dos Vinhos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Arruda Dos Vinhos",
-      "freguesia": "Arruda Dos Vinhos",
-      "dico": "1102",
-      "lat": 38.98038,
-      "lng": -9.07776,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Arruda Dos Vinhos ",
-      "active": true,
-      "sadoId": "20231109696",
-      "sharepointId": 22616209,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1694111649
-      },
-      "updated": {
-        "sec": 1694112136
+        "sec": 1694113704
       }
     },
     {
@@ -526,21 +434,21 @@
       "location": "Viseu, Viseu, Calde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 14,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Calde",
       "dico": "1823",
-      "lat": 40.76215,
-      "lng": -7.897656,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 40.770355,
+      "lng": -7.894352,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Calde ",
       "active": true,
@@ -548,8 +456,12 @@
       "sharepointId": 22616236,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 475.354,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Almargem",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -564,7 +476,121 @@
         "sec": 1694111888
       },
       "updated": {
-        "sec": 1694112364
+        "sec": 1694113500
+      }
+    },
+    {
+      "_id": {
+        "$id": "64fa1f2eb2b33f16db39f153"
+      },
+      "id": "20231109824",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694113320
+      },
+      "date": "07-09-2023",
+      "hour": "20:02",
+      "location": "Porto, Maia, Águas Santas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Águas Santas",
+      "dico": "1306",
+      "lat": 41.20711,
+      "lng": -8.58873,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Águas Santas ",
+      "active": true,
+      "sadoId": "20231109824",
+      "sharepointId": 22616337,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 65.2813,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Gago Coutinho. 4425-089 Maia. Portugal (Travessa Gago Coutinho)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694113582
+      },
+      "updated": {
+        "sec": 1694113931
+      }
+    },
+    {
+      "_id": {
+        "$id": "64fa2015db5d355ea863efa8"
+      },
+      "id": "20231109836",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694113440
+      },
+      "date": "07-09-2023",
+      "hour": "20:04",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.67006,
+      "lng": -9.18772,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20231109836",
+      "sharepointId": 22616349,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1694113813
+      },
+      "updated": {
+        "sec": 1694113824
       }
     }
   ]
