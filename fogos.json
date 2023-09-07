@@ -3,116 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "64f9c60926637461fe5124f2"
-      },
-      "id": "20231108198",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694090520
-      },
-      "date": "07-09-2023",
-      "hour": "13:42",
-      "location": "Vila Real, Vila Real, Adoufe E Vilarinho De Samardã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Vila Real",
-      "freguesia": "Adoufe E Vilarinho De Samardã",
-      "dico": "1714",
-      "lat": 41.373818,
-      "lng": -7.720938,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Benagouro ",
-      "active": true,
-      "sadoId": "20231108198",
-      "sharepointId": 22614711,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1694090761
-      },
-      "updated": {
-        "sec": 1694096764
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f9cef45bd2ab52f25f1207"
-      },
-      "id": "20231108381",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694092500
-      },
-      "date": "07-09-2023",
-      "hour": "14:15",
-      "location": "Porto, Vila do Conde, Mindelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Do Conde",
-      "freguesia": "Mindelo",
-      "dico": "1316",
-      "lat": 41.322348,
-      "lng": -8.721645,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mindelo ",
-      "active": true,
-      "sadoId": "20231108381",
-      "sharepointId": 22614894,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1694093044
-      },
-      "updated": {
-        "sec": 1694096410
-      }
-    },
-    {
-      "_id": {
         "$id": "64f9d32a5bd2ab52f25f121d"
       },
       "id": "20231108470",
@@ -147,8 +37,12 @@
       "sharepointId": 22614983,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 21.6319,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "A28 (Rua dos Violantas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,66 +57,7 @@
         "sec": 1694094122
       },
       "updated": {
-        "sec": 1694095563
-      }
-    },
-    {
-      "_id": {
-        "$id": "64f9d7dc5bd2ab52f25f135e"
-      },
-      "id": "20231108556",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694094840
-      },
-      "date": "07-09-2023",
-      "hour": "14:54",
-      "location": "Lisboa, Loures, Santo Antão E São Julião Do Tojal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
-      "district": "Lisboa",
-      "concelho": "Loures",
-      "freguesia": "Santo Antão E São Julião Do Tojal",
-      "dico": "1107",
-      "lat": 38.85565,
-      "lng": -9.16315,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Santo Antão E São Julião Do Tojal ",
-      "active": true,
-      "sadoId": "20231108556",
-      "sharepointId": 22615069,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 66.5981,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua José Carlos Ary dos Santos. 2660-173 Loures. Portugal (Bairro Municipal)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1694095324
-      },
-      "updated": {
-        "sec": 1694097135
+        "sec": 1694098985
       }
     },
     {
@@ -237,23 +72,23 @@
       "date": "07-09-2023",
       "hour": "15:09",
       "location": "Castelo Branco, Sertã, Cernache Do Bonjardim, Nesperal E Palhais",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 13,
+      "man": 40,
+      "terrain": 12,
       "district": "Castelo Branco",
       "concelho": "Sertã",
       "freguesia": "Cernache Do Bonjardim, Nesperal E Palhais",
       "dico": "0509",
-      "lat": 39.8342,
-      "lng": -8.209655,
+      "lat": 39.828117,
+      "lng": -8.196663,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Borrelos ",
       "active": true,
@@ -261,8 +96,12 @@
       "sharepointId": 22615132,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 338.769,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Borrelos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -277,7 +116,7 @@
         "sec": 1694096044
       },
       "updated": {
-        "sec": 1694097850
+        "sec": 1694099536
       }
     },
     {
@@ -292,10 +131,10 @@
       "date": "07-09-2023",
       "hour": "15:19",
       "location": "Coimbra, Coimbra, Torres Do Mondego",
-      "aerial": 7,
+      "aerial": 11,
       "meios_aquaticos": 0,
-      "man": 107,
-      "terrain": 22,
+      "man": 276,
+      "terrain": 68,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "Torres Do Mondego",
@@ -316,8 +155,12 @@
       "sharepointId": 22615176,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 87.1319,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Palheiros",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -332,7 +175,7 @@
         "sec": 1694096652
       },
       "updated": {
-        "sec": 1694097963
+        "sec": 1694099762
       }
     },
     {
@@ -349,8 +192,8 @@
       "location": "Porto, Paços de Ferreira, Sanfins Lamoso Codessos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 11,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
       "freguesia": "Sanfins Lamoso Codessos",
@@ -361,9 +204,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Sanfins Lamoso Codessos ",
       "active": true,
@@ -371,8 +214,12 @@
       "sharepointId": 22615264,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 360.238,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.31655000.-8.35514000) - Rua da Corredoura. 4590 Paços de Ferreira. Portugal (Condominhas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -387,7 +234,349 @@
         "sec": 1694097491
       },
       "updated": {
-        "sec": 1694097505
+        "sec": 1694099410
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e2a922ef802e0615da33"
+      },
+      "id": "20231108756",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694097240
+      },
+      "date": "07-09-2023",
+      "hour": "15:34",
+      "location": "Évora, Vila Viçosa, Nossa Senhora Da Conceição E São Bartolomeu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 6,
+      "district": "Évora",
+      "concelho": "Vila Viçosa",
+      "freguesia": "Nossa Senhora Da Conceição E São Bartolomeu",
+      "dico": "0714",
+      "lat": 38.76544,
+      "lng": -7.42384,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Nossa Senhora Da Conceição E São Bartolomeu ",
+      "active": true,
+      "sadoId": "20231108756",
+      "sharepointId": 22615269,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 407.275,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N255. 7160 Vila Viçosa. Portugal (Monte do Álamo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1694098089
+      },
+      "updated": {
+        "sec": 1694099762
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e50822ef802e0615da3e"
+      },
+      "id": "20231108834",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694098200
+      },
+      "date": "07-09-2023",
+      "hour": "15:50",
+      "location": "Santarém, Alcanena, Alcanena E Vila Moreira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Alcanena",
+      "freguesia": "Alcanena E Vila Moreira",
+      "dico": "1402",
+      "lat": 39.463793,
+      "lng": -8.653577,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Peral ",
+      "active": true,
+      "sadoId": "20231108834",
+      "sharepointId": 22615347,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 84.8531,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Peral (ER361 (ER361) Km 71)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1694098696
+      },
+      "updated": {
+        "sec": 1694099536
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e50822ef802e0615da3f"
+      },
+      "id": "20231108860",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694098260
+      },
+      "date": "07-09-2023",
+      "hour": "15:51",
+      "location": "Lisboa, Torres Vedras, Freiria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Freiria",
+      "dico": "1113",
+      "lat": 39.04686,
+      "lng": -9.335561,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Moucharia ",
+      "active": true,
+      "sadoId": "20231108860",
+      "sharepointId": 22615373,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 59.1619,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Moucharia",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1694098696
+      },
+      "updated": {
+        "sec": 1694099054
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e680b06ca56a0b354632"
+      },
+      "id": "20231108883",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694098860
+      },
+      "date": "07-09-2023",
+      "hour": "16:01",
+      "location": "Porto, Paredes, Recarei",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Recarei",
+      "dico": "1310",
+      "lat": 41.155999,
+      "lng": -8.429257,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Recarei ",
+      "active": true,
+      "sadoId": "20231108883",
+      "sharepointId": 22615396,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694099072
+      },
+      "updated": {
+        "sec": 1694099762
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e850949bc703b55d6ba2"
+      },
+      "id": "20231108904",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694099100
+      },
+      "date": "07-09-2023",
+      "hour": "16:05",
+      "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
+      "dico": "1304",
+      "lat": 41.13889,
+      "lng": -8.529445,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Gondomar (São Cosme), Valbom E Jovim ",
+      "active": true,
+      "sadoId": "20231108904",
+      "sharepointId": 22615417,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694099536
+      },
+      "updated": {
+        "sec": 1694099548
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9e8c3949bc703b55d6bad"
+      },
+      "id": "20231108932",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694098800
+      },
+      "date": "07-09-2023",
+      "hour": "16:00",
+      "location": "Lisboa, Sintra, Rio De Mouro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Rio De Mouro",
+      "dico": "1111",
+      "lat": 38.783084,
+      "lng": -9.321906,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rio De Mouro ",
+      "active": true,
+      "sadoId": "20231108932",
+      "sharepointId": 22615445,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1694099651
+      },
+      "updated": {
+        "sec": 1694099662
       }
     }
   ]
