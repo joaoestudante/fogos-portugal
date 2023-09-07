@@ -72,10 +72,10 @@
       "date": "07-09-2023",
       "hour": "15:19",
       "location": "Coimbra, Coimbra, Torres Do Mondego",
-      "aerial": 14,
+      "aerial": 15,
       "meios_aquaticos": 0,
-      "man": 380,
-      "terrain": 97,
+      "man": 414,
+      "terrain": 105,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "Torres Do Mondego",
@@ -116,7 +116,7 @@
         "sec": 1694096652
       },
       "updated": {
-        "sec": 1694103490
+        "sec": 1694104090
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Porto, Paços de Ferreira, Sanfins Lamoso Codessos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 2,
+      "man": 6,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
       "freguesia": "Sanfins Lamoso Codessos",
@@ -175,7 +175,7 @@
         "sec": 1694097491
       },
       "updated": {
-        "sec": 1694101768
+        "sec": 1694104331
       }
     },
     {
@@ -476,14 +476,14 @@
       },
       "date": "07-09-2023",
       "hour": "16:28",
-      "location": "Vila Real, Boticas, Beça",
+      "location": "Vila Real, Boticas, Vilar E Viveiro",
       "aerial": 1,
       "meios_aquaticos": 0,
       "man": 22,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Boticas",
-      "freguesia": "Beça",
+      "freguesia": "Vilar E Viveiro",
       "dico": "1702",
       "lat": 41.677508,
       "lng": -7.753192,
@@ -517,7 +517,7 @@
         "sec": 1694100730
       },
       "updated": {
-        "sec": 1694103490
+        "sec": 1694103616
       }
     },
     {
@@ -587,9 +587,9 @@
       "date": "07-09-2023",
       "hour": "16:58",
       "location": "Vila Real, Alijó, Vila Chã",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
+      "man": 20,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Alijó",
@@ -631,7 +631,7 @@
         "sec": 1694102536
       },
       "updated": {
-        "sec": 1694103130
+        "sec": 1694104332
       }
     },
     {
@@ -648,8 +648,8 @@
       "location": "Aveiro, Arouca, Alvarenga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 26,
+      "terrain": 7,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Alvarenga",
@@ -660,9 +660,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Alvarenga ",
       "active": true,
@@ -686,7 +686,62 @@
         "sec": 1694103130
       },
       "updated": {
-        "sec": 1694103146
+        "sec": 1694104090
+      }
+    },
+    {
+      "_id": {
+        "$id": "64f9fb0c6be9b432bc7d7f5a"
+      },
+      "id": "20231109248",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694103720
+      },
+      "date": "07-09-2023",
+      "hour": "17:22",
+      "location": "Lisboa, Mafra, Mafra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Mafra",
+      "freguesia": "Mafra",
+      "dico": "1109",
+      "lat": 38.961979,
+      "lng": -9.356043,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobreiro ",
+      "active": true,
+      "sadoId": "20231109248",
+      "sharepointId": 22615761,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1694104332
+      },
+      "updated": {
+        "sec": 1694104332
       }
     }
   ]
