@@ -15,8 +15,8 @@
       "location": "Aveiro, Aveiro, Esgueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 6,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Esgueira",
@@ -37,8 +37,12 @@
       "sharepointId": 22632488,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 1.25,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Tv. Caião (Aveiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1694438656
       },
       "updated": {
-        "sec": 1694441764
+        "sec": 1694445009
       }
     },
     {
@@ -68,9 +72,9 @@
       "date": "11-09-2023",
       "hour": "14:20",
       "location": "Setúbal, Santiago do Cacém, São Domingos E Vale De Água",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 47,
+      "man": 42,
       "terrain": 11,
       "district": "Setúbal",
       "concelho": "Santiago Do Cacém",
@@ -92,8 +96,12 @@
       "sharepointId": 22632491,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 66.0031,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Monte Aldrava (ED390 (ED390) Km 9)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +116,7 @@
         "sec": 1694439010
       },
       "updated": {
-        "sec": 1694442964
+        "sec": 1694444579
       }
     },
     {
@@ -125,8 +133,8 @@
       "location": "Beja, Serpa, Brinches",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 21,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Brinches",
@@ -137,9 +145,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Brinches ",
       "active": true,
@@ -167,7 +175,117 @@
         "sec": 1694443570
       },
       "updated": {
-        "sec": 1694443595
+        "sec": 1694445256
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ff2c7ea92698522d0fdaf3"
+      },
+      "id": "20231126450",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694444460
+      },
+      "date": "11-09-2023",
+      "hour": "16:01",
+      "location": "Faro, Lagos, Luz",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Lagos",
+      "freguesia": "Luz",
+      "dico": "0807",
+      "lat": 37.097115,
+      "lng": -8.745239,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lagos ",
+      "active": true,
+      "sadoId": "20231126450",
+      "sharepointId": 22632964,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1694444670
+      },
+      "updated": {
+        "sec": 1694445256
+      }
+    },
+    {
+      "_id": {
+        "$id": "64ff2ec94cb79a01b83d2b82"
+      },
+      "id": "20231126469",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694445000
+      },
+      "date": "11-09-2023",
+      "hour": "16:10",
+      "location": "Santarém, Ourém, Matas E Cercal",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Matas E Cercal",
+      "dico": "1421",
+      "lat": 39.740013,
+      "lng": -8.659252,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Balancho ",
+      "active": true,
+      "sadoId": "20231126469",
+      "sharepointId": 22632983,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1694445257
+      },
+      "updated": {
+        "sec": 1694445257
       }
     }
   ]
