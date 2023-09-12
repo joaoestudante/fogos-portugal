@@ -13,10 +13,10 @@
       "date": "12-09-2023",
       "hour": "11:00",
       "location": "Santarém, Vila Nova da Barquinha, Vila Nova Da Barquinha",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Vila Nova Da Barquinha",
       "freguesia": "Vila Nova Da Barquinha",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Nova Da Barquinha ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1694512931
       },
       "updated": {
-        "sec": 1694516563
+        "sec": 1694532364
       }
     },
     {
@@ -139,8 +139,8 @@
       "concelho": "Valença",
       "freguesia": "Verdoejo",
       "dico": "1608",
-      "lat": 42.039199,
-      "lng": -8.590874,
+      "lat": 42.039267,
+      "lng": -8.5916,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -175,62 +175,7 @@
         "sec": 1694530444
       },
       "updated": {
-        "sec": 1694531652
-      }
-    },
-    {
-      "_id": {
-        "$id": "65007eddfc635f707b605854"
-      },
-      "id": "20231130790",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694531040
-      },
-      "date": "12-09-2023",
-      "hour": "16:04",
-      "location": "Porto, Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
-      "dico": "1303",
-      "lat": 41.344133,
-      "lng": -8.192876,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Várzea ",
-      "active": true,
-      "sadoId": "20231130790",
-      "sharepointId": 22637304,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1694531293
-      },
-      "updated": {
-        "sec": 1694531307
+        "sec": 1694531892
       }
     },
     {
@@ -247,8 +192,8 @@
       "location": "Porto, Amarante, Travanca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Travanca",
@@ -285,7 +230,62 @@
         "sec": 1694531652
       },
       "updated": {
-        "sec": 1694531667
+        "sec": 1694532365
+      }
+    },
+    {
+      "_id": {
+        "$id": "6500830cfc635f707b60587a"
+      },
+      "id": "20231130838",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694532000
+      },
+      "date": "12-09-2023",
+      "hour": "16:20",
+      "location": "Faro, Faro, Conceição E Estoi",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Conceição E Estoi",
+      "dico": "0805",
+      "lat": 37.04262,
+      "lng": -7.92991,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Conceição E Estoi ",
+      "active": true,
+      "sadoId": "20231130838",
+      "sharepointId": 22637352,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1694532364
+      },
+      "updated": {
+        "sec": 1694532378
       }
     }
   ]
