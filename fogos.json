@@ -3,26 +3,26 @@
   "data": [
     {
       "_id": {
-        "$id": "6500c5ae70ce33791e5ecd94"
+        "$id": "64fba960b0ff2549db22ade7"
       },
-      "id": "20231131926",
+      "id": "20231115014",
       "coords": true,
       "dateTime": {
-        "sec": 1694549100
+        "sec": 1694214300
       },
-      "date": "12-09-2023",
-      "hour": "21:05",
-      "location": "Faro, Vila Real de Santo António, Monte Gordo",
+      "date": "09-09-2023",
+      "hour": "00:05",
+      "location": "Porto, Baião, Campelo E Ovil",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 0,
       "terrain": 0,
-      "district": "Faro",
-      "concelho": "Vila Real De Santo António",
-      "freguesia": "Monte Gordo",
-      "dico": "0816",
-      "lat": 37.194663,
-      "lng": -7.44006,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Campelo E Ovil",
+      "dico": "1302",
+      "lat": 41.173673,
+      "lng": -8.00064,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -31,14 +31,24 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Monte Gordo ",
+      "localidade": "Campelo ",
       "active": true,
-      "sadoId": "20231131926",
-      "sharepointId": 22638440,
+      "sadoId": "20231115014",
+      "sharepointId": 22621528,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 5,
+          "total": 5
+        },
+        "altitude": 732.122,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Matos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -47,68 +57,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
       "created": {
-        "sec": 1694549422
+        "sec": 1694214496
       },
       "updated": {
-        "sec": 1694555051
-      }
-    },
-    {
-      "_id": {
-        "$id": "6500d2783e2d9e01d746c712"
-      },
-      "id": "20231132077",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694552400
-      },
-      "date": "12-09-2023",
-      "hour": "22:00",
-      "location": "Santarém, Alpiarça, Alpiarça",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
-      "district": "Santarém",
-      "concelho": "Alpiarça",
-      "freguesia": "Alpiarça",
-      "dico": "1404",
-      "lat": 39.181718,
-      "lng": -8.568257,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Frade De Cima ",
-      "active": true,
-      "sadoId": "20231132077",
-      "sharepointId": 22638591,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1694552696
-      },
-      "updated": {
-        "sec": 1694554330
+        "sec": 1694556484
       }
     },
     {
@@ -126,7 +81,7 @@
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 10,
-      "terrain": 2,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Castelo De Paiva",
       "freguesia": "Fornos",
@@ -137,9 +92,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Fornos ",
       "active": true,
@@ -163,7 +118,62 @@
         "sec": 1694554683
       },
       "updated": {
-        "sec": 1694555162
+        "sec": 1694556020
+      }
+    },
+    {
+      "_id": {
+        "$id": "6500e1455aa7b67b9a6640b4"
+      },
+      "id": "20231132213",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694556240
+      },
+      "date": "12-09-2023",
+      "hour": "23:04",
+      "location": "Lisboa, Cascais, São Domingos De Rana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "São Domingos De Rana",
+      "dico": "1105",
+      "lat": 38.70742,
+      "lng": -9.361283,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "São Domingos De Rana ",
+      "active": true,
+      "sadoId": "20231132213",
+      "sharepointId": 22638727,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1694556485
+      },
+      "updated": {
+        "sec": 1694556498
       }
     }
   ]
