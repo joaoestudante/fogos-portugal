@@ -15,8 +15,8 @@
       "location": "Évora, Vendas Novas, Vendas Novas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 7,
+      "man": 6,
+      "terrain": 3,
       "district": "Évora",
       "concelho": "Vendas Novas",
       "freguesia": "Vendas Novas",
@@ -57,66 +57,7 @@
         "sec": 1694692082
       },
       "updated": {
-        "sec": 1694723652
-      }
-    },
-    {
-      "_id": {
-        "$id": "65034759cbae4a01f46b28ca"
-      },
-      "id": "20231140250",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694711820
-      },
-      "date": "14-09-2023",
-      "hour": "18:17",
-      "location": "Leiria, Porto de Mós, Mira De Aire",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Porto De Mós",
-      "freguesia": "Mira De Aire",
-      "dico": "1016",
-      "lat": 39.541626,
-      "lng": -8.710094,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mira De Aire ",
-      "active": true,
-      "sadoId": "20231140250",
-      "sharepointId": 22646765,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 321.181,
-        "fogacho": true,
-        "fontealerta": "CCO"
-      },
-      "detailLocation": "MIRA DE AIRE (Bairro das Grutas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "created": {
-        "sec": 1694713689
-      },
-      "updated": {
-        "sec": 1694718258
+        "sec": 1694727453
       }
     },
     {
@@ -192,8 +133,8 @@
       "location": "Castelo Branco, Vila Velha de Ródão, Vila Velha De Ródão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 6,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Vila Velha De Ródão",
@@ -204,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Vila Velha De Ródão ",
       "active": true,
@@ -214,8 +155,12 @@
       "sharepointId": 22647656,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 370.042,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Penedo Gordo (Gavião do Ródão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +175,66 @@
         "sec": 1694726763
       },
       "updated": {
-        "sec": 1694726763
+        "sec": 1694727963
+      }
+    },
+    {
+      "_id": {
+        "$id": "65037d1d4e65bb0abd4e13c3"
+      },
+      "id": "20231141151",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694726880
+      },
+      "date": "14-09-2023",
+      "hour": "22:28",
+      "location": "Braga, Vila Verde, Ribeira Do Neiva",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Ribeira Do Neiva",
+      "dico": "0313",
+      "lat": 41.69191,
+      "lng": -8.510309,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias Da Ribeira Do Neiva ",
+      "active": true,
+      "sadoId": "20231141151",
+      "sharepointId": 22647666,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 195.892,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.69190868.-8.51030897) - Igreja Matriz de Rio Mau. 4730-050 Vila Verde. Portugal (Feira Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1694727453
+      },
+      "updated": {
+        "sec": 1694727963
       }
     }
   ]
