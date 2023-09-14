@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6502dcf8e874bd1fbe33386f"
-      },
-      "id": "20231138327",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694686200
-      },
-      "date": "14-09-2023",
-      "hour": "11:10",
-      "location": "Aveiro, Albergaria-a-Velha, Angeja",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Albergaria-a-velha",
-      "freguesia": "Angeja",
-      "dico": "0102",
-      "lat": 40.683325,
-      "lng": -8.542363,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Angeja ",
-      "active": true,
-      "sadoId": "20231138327",
-      "sharepointId": 22644842,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1694686456
-      },
-      "updated": {
-        "sec": 1694688244
-      }
-    },
-    {
-      "_id": {
         "$id": "6502e3f4e874bd1fbe33389f"
       },
       "id": "20231138470",
@@ -70,8 +15,8 @@
       "location": "Lisboa, Oeiras, Algés, Linda-a-velha E Cruz Quebrada-dafundo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Oeiras",
       "freguesia": "Algés, Linda-a-velha E Cruz Quebrada-dafundo",
@@ -82,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Linda A Velha ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 22644985,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 71.8087,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida Ivens (Linda-a-Velha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1694688244
       },
       "updated": {
-        "sec": 1694688255
+        "sec": 1694689373
       }
     }
   ]
