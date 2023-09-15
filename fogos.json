@@ -74,8 +74,8 @@
       "location": "Porto, Póvoa de Varzim, Aver-o-mar, Amorim E Terroso",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Póvoa De Varzim",
       "freguesia": "Aver-o-mar, Amorim E Terroso",
@@ -96,8 +96,18 @@
       "sharepointId": 22652334,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.004,
+          "total": 0.004
+        },
+        "altitude": 14.2238,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar da Carriça (Travassos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,62 +122,7 @@
         "sec": 1694814490
       },
       "updated": {
-        "sec": 1694815219
-      }
-    },
-    {
-      "_id": {
-        "$id": "6504d8928ef9502a187e45f5"
-      },
-      "id": "20231145893",
-      "coords": true,
-      "dateTime": {
-        "sec": 1694815500
-      },
-      "date": "15-09-2023",
-      "hour": "23:05",
-      "location": "Porto, Paços de Ferreira, Carvalhosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Paços De Ferreira",
-      "freguesia": "Carvalhosa",
-      "dico": "1309",
-      "lat": 41.300706,
-      "lng": -8.358801,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Carvalhosa ",
-      "active": true,
-      "sadoId": "20231145893",
-      "sharepointId": 22652408,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1694816402
-      },
-      "updated": {
-        "sec": 1694817602
+        "sec": 1694819032
       }
     },
     {
@@ -184,30 +139,34 @@
       "location": "Lisboa, Torres Vedras, Dois Portos E Runa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 16,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Dois Portos E Runa",
       "dico": "1113",
-      "lat": 39.03083,
-      "lng": -9.21182,
+      "lat": 39.03098,
+      "lng": -9.209418,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "União Das Freguesias De Dois Portos E Runa ",
+      "localidade": "Furadouro ",
       "active": true,
       "sadoId": "20231145951",
       "sharepointId": 22652466,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 207.098,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Furadouro. Torres Vedras. Portugal (Furadouro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +181,121 @@
         "sec": 1694817850
       },
       "updated": {
-        "sec": 1694817860
+        "sec": 1694819055
+      }
+    },
+    {
+      "_id": {
+        "$id": "6504e20d8ef9502a187e4618"
+      },
+      "id": "20231145952",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694817600
+      },
+      "date": "15-09-2023",
+      "hour": "23:40",
+      "location": "Porto, Matosinhos, Matosinhos E Leça Da Palmeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Matosinhos",
+      "freguesia": "Matosinhos E Leça Da Palmeira",
+      "dico": "1308",
+      "lat": 41.20147,
+      "lng": -8.698908,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Matosinhos E Leça Da Palmeira ",
+      "active": true,
+      "sadoId": "20231145952",
+      "sharepointId": 22652467,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 14.39,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Belchior Robles. 4450-626 Matosinhos. Portugal (Rua Adolfo Casais Monteiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694818829
+      },
+      "updated": {
+        "sec": 1694819418
+      }
+    },
+    {
+      "_id": {
+        "$id": "6504e3e0025d88258133fd13"
+      },
+      "id": "20231145991",
+      "coords": true,
+      "dateTime": {
+        "sec": 1694818980
+      },
+      "date": "16-09-2023",
+      "hour": "00:03",
+      "location": "Porto, Vila Nova de Gaia, Santa Marinha E São Pedro Da Afurada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Santa Marinha E São Pedro Da Afurada",
+      "dico": "1317",
+      "lat": 41.13122,
+      "lng": -8.63006,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Santa Marinha E São Pedro Da Afurada ",
+      "active": true,
+      "sadoId": "20231145991",
+      "sharepointId": 22652506,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1694819296
+      },
+      "updated": {
+        "sec": 1694819308
       }
     }
   ]
