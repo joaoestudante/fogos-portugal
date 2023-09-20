@@ -15,8 +15,8 @@
       "location": "Coimbra, Montemor-o-Velho, Arazede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Montemor-o-velho",
       "freguesia": "Arazede",
@@ -37,8 +37,12 @@
       "sharepointId": 22671977,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 64.3819,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Volta da Tocha (ER335-1 (ER335-1) Km 8)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,66 @@
         "sec": 1695219970
       },
       "updated": {
-        "sec": 1695220810
+        "sec": 1695222241
+      }
+    },
+    {
+      "_id": {
+        "$id": "650b090c8178ad57e0615710"
+      },
+      "id": "20231165643",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695221820
+      },
+      "date": "20-09-2023",
+      "hour": "15:57",
+      "location": "Lisboa, Azambuja, Manique Do Intendente, V. N. De São Pedro E Maçussa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 6,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Manique Do Intendente, V. N. De São Pedro E Maçussa",
+      "dico": "1103",
+      "lat": 39.195809,
+      "lng": -8.861203,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Maçussa ",
+      "active": true,
+      "sadoId": "20231165643",
+      "sharepointId": 22672158,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 75.6419,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Maçussa (Ribeira da Maçussa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1695222028
+      },
+      "updated": {
+        "sec": 1695222335
       }
     }
   ]
