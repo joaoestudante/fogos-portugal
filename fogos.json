@@ -15,21 +15,21 @@
       "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
       "dico": "1111",
       "lat": 38.769998,
       "lng": -9.367712,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Abrunheira ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 22679348,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 156.971,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Sintra (Quinta do Bom Despacho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1695378256
       },
       "updated": {
-        "sec": 1695378482
+        "sec": 1695380763
       }
     }
   ]
