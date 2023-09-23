@@ -3,65 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "650f366c2b2b2e44614139f3"
-      },
-      "id": "20231179121",
-      "coords": true,
-      "dateTime": {
-        "sec": 1695495300
-      },
-      "date": "23-09-2023",
-      "hour": "19:55",
-      "location": "Aveiro, Santa Maria da Feira, Santa Maria Da Feira, Travanca, Sanfins E Espargo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Santa Maria Da Feira, Travanca, Sanfins E Espargo",
-      "dico": "0109",
-      "lat": 40.95002,
-      "lng": -8.51392,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Caldas De São Jorge E Pigeiros ",
-      "active": true,
-      "sadoId": "20231179121",
-      "sharepointId": 22685638,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 285.528,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Malaposta. Santa Maria da Feira. Portugal (Carvalhal)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1695495788
-      },
-      "updated": {
-        "sec": 1695508564
-      }
-    },
-    {
-      "_id": {
         "$id": "650f49dcc33b831aa37d84da"
       },
       "id": "20231179409",
@@ -96,8 +37,12 @@
       "sharepointId": 22685926,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 22.8681,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "ODIÁXERE (Vale dos Coitos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +57,7 @@
         "sec": 1695500764
       },
       "updated": {
-        "sec": 1695505802
+        "sec": 1695510152
       }
     },
     {
@@ -129,8 +74,8 @@
       "location": "Lisboa, Amadora, Encosta Do Sol",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Amadora",
       "freguesia": "Encosta Do Sol",
@@ -141,9 +86,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Encosta Do Sol ",
       "active": true,
@@ -151,8 +96,12 @@
       "sharepointId": 22686305,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 131.08,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Brandoa (Rua Clementino da Costa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +116,7 @@
         "sec": 1695509056
       },
       "updated": {
-        "sec": 1695509068
+        "sec": 1695510168
       }
     }
   ]
