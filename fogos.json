@@ -62,61 +62,6 @@
     },
     {
       "_id": {
-        "$id": "651070ba175b4f0fd914c6d7"
-      },
-      "id": "20231182910",
-      "coords": true,
-      "dateTime": {
-        "sec": 1695575820
-      },
-      "date": "24-09-2023",
-      "hour": "18:17",
-      "location": "Leiria, Caldas da Rainha, Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
-      "dico": "1006",
-      "lat": 39.406165,
-      "lng": -9.154799,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Águas Santas ",
-      "active": true,
-      "sadoId": "20231182910",
-      "sharepointId": 22689427,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1695576250
-      },
-      "updated": {
-        "sec": 1695577329
-      }
-    },
-    {
-      "_id": {
         "$id": "65107b03bf91445eef33cec2"
       },
       "id": "20231183070",
@@ -141,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Odivelas ",
       "active": true,
@@ -151,8 +96,12 @@
       "sharepointId": 22689587,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 33.3294,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Senhor Roubado (Rua Combatentes Nove Abril)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +116,66 @@
         "sec": 1695578883
       },
       "updated": {
-        "sec": 1695579731
+        "sec": 1695582182
+      }
+    },
+    {
+      "_id": {
+        "$id": "651087fda5794f69171c5bc3"
+      },
+      "id": "20231183240",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695581580
+      },
+      "date": "24-09-2023",
+      "hour": "19:53",
+      "location": "Setúbal, Setúbal, S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Setúbal",
+      "freguesia": "S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
+      "dico": "1512",
+      "lat": 38.51726,
+      "lng": -8.91224,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) ",
+      "active": true,
+      "sadoId": "20231183240",
+      "sharepointId": 22689757,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 50.5908,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua António Inácio Marques da Costa (Moinho da Graça)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1695582205
+      },
+      "updated": {
+        "sec": 1695582295
       }
     }
   ]
