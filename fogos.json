@@ -70,8 +70,8 @@
       "location": "Braga, Braga, Merelim (São Paio), Panoias E Parada De Tibães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 16,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Braga",
       "freguesia": "Merelim (São Paio), Panoias E Parada De Tibães",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Merelim (São Paio), Panoias E Parada De Tibães ",
       "active": true,
@@ -108,7 +108,62 @@
         "sec": 1695673456
       },
       "updated": {
-        "sec": 1695673471
+        "sec": 1695674292
+      }
+    },
+    {
+      "_id": {
+        "$id": "6511eec18fb34b4e425e4cf3"
+      },
+      "id": "20231188296",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695673440
+      },
+      "date": "25-09-2023",
+      "hour": "21:24",
+      "location": "Lisboa, Lisboa, Alcântara",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Alcântara",
+      "dico": "1106",
+      "lat": 38.70953,
+      "lng": -9.17389,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Alcântara ",
+      "active": true,
+      "sadoId": "20231188296",
+      "sharepointId": 22694813,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1695674049
+      },
+      "updated": {
+        "sec": 1695674292
       }
     }
   ]
