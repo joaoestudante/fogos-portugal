@@ -15,8 +15,8 @@
       "location": "Lisboa, Torres Vedras, Dois Portos E Runa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Dois Portos E Runa",
@@ -27,14 +27,73 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Bulegueira ",
       "active": true,
       "sadoId": "20231190330",
       "sharepointId": 22696847,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 142.652,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Bulegueira (Quinta do Codorno)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1695725052
+      },
+      "updated": {
+        "sec": 1695726162
+      }
+    },
+    {
+      "_id": {
+        "$id": "6512bab1ecfa5014b32b49b2"
+      },
+      "id": "20231190457",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695725940
+      },
+      "date": "26-09-2023",
+      "hour": "11:59",
+      "location": "Leiria, Bombarral, Bombarral E Vale Covo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Bombarral",
+      "freguesia": "Bombarral E Vale Covo",
+      "dico": "1005",
+      "lat": 39.267313,
+      "lng": -9.171316,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bombarral ",
+      "active": true,
+      "sadoId": "20231190457",
+      "sharepointId": 22696974,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -50,10 +109,69 @@
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Oeste",
       "created": {
-        "sec": 1695725052
+        "sec": 1695726257
       },
       "updated": {
-        "sec": 1695725063
+        "sec": 1695726267
+      }
+    },
+    {
+      "_id": {
+        "$id": "6512bb1af6a93a249747b682"
+      },
+      "id": "20231190459",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695726060
+      },
+      "date": "26-09-2023",
+      "hour": "12:01",
+      "location": "Aveiro, Arouca, Rossas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Arouca",
+      "freguesia": "Rossas",
+      "dico": "0104",
+      "lat": 40.88629,
+      "lng": -8.308926,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Rossas ",
+      "active": true,
+      "sadoId": "20231190459",
+      "sharepointId": 22696976,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 621.963,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M511. 4540 Arouca. Portugal (Provisende)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1695726362
+      },
+      "updated": {
+        "sec": 1695726384
       }
     }
   ]
