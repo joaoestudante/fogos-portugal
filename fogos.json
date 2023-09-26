@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6513008364ca8c77683f0c0d"
-      },
-      "id": "20231191799",
-      "coords": true,
-      "dateTime": {
-        "sec": 1695743640
-      },
-      "date": "26-09-2023",
-      "hour": "16:54",
-      "location": "Santarém, Golegã, Golegã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Golegã",
-      "freguesia": "Golegã",
-      "dico": "1412",
-      "lat": 39.407782,
-      "lng": -8.477345,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Golegã ",
-      "active": true,
-      "sadoId": "20231191799",
-      "sharepointId": 22698316,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1695744131
-      },
-      "updated": {
-        "sec": 1695749776
-      }
-    },
-    {
-      "_id": {
         "$id": "65130803ffa7f116a51c3d96"
       },
       "id": "20231191973",
@@ -70,8 +15,8 @@
       "location": "Castelo Branco, Fundão, Soalheira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
+      "man": 2,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Soalheira",
@@ -92,8 +37,18 @@
       "sharepointId": 22698490,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.1,
+          "total": 0.1
+        },
+        "altitude": 423.044,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Soalheira. Fundão. Portugal (Monte do Capacho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +63,7 @@
         "sec": 1695746051
       },
       "updated": {
-        "sec": 1695752764
+        "sec": 1695754969
       }
     },
     {
@@ -147,8 +102,12 @@
       "sharepointId": 22698505,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 116.323,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Estrada das Barrocas (Gratas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +122,7 @@
         "sec": 1695746162
       },
       "updated": {
-        "sec": 1695752764
+        "sec": 1695754980
       }
     },
     {
@@ -180,8 +139,8 @@
       "location": "Porto, Felgueiras, Refontoura",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Refontoura",
@@ -192,9 +151,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Refontoura ",
       "active": true,
@@ -204,10 +163,10 @@
       "disappear": false,
       "icnf": {
         "altitude": 258.177,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Fraga. 4650-266 Felgueiras. Portugal (Outeiro Velho)",
+      "detailLocation": "Rua da Fraga. 4650-266 Felgueiras. Portugal (Carvalho de Baixo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +181,7 @@
         "sec": 1695752164
       },
       "updated": {
-        "sec": 1695753850
+        "sec": 1695755295
       }
     },
     {
