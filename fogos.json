@@ -245,10 +245,10 @@
       "date": "26-09-2023",
       "hour": "17:03",
       "location": "Guarda, Manteigas, Manteigas (São Pedro)",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 4,
+      "man": 15,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Manteigas",
       "freguesia": "Manteigas (São Pedro)",
@@ -289,7 +289,7 @@
         "sec": 1695744721
       },
       "updated": {
-        "sec": 1695746051
+        "sec": 1695746770
       }
     },
     {
@@ -306,8 +306,8 @@
       "location": "Porto, Santo Tirso, St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
@@ -318,9 +318,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Santo Tirso, Couto (Santa Cristina E São Miguel) E Burgães ",
       "active": true,
@@ -348,7 +348,7 @@
         "sec": 1695745810
       },
       "updated": {
-        "sec": 1695746051
+        "sec": 1695746290
       }
     },
     {
@@ -363,10 +363,10 @@
       "date": "26-09-2023",
       "hour": "17:29",
       "location": "Castelo Branco, Fundão, Soalheira",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 27,
+      "terrain": 6,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Soalheira",
@@ -377,9 +377,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Soalheira ",
       "active": true,
@@ -403,7 +403,117 @@
         "sec": 1695746051
       },
       "updated": {
-        "sec": 1695746051
+        "sec": 1695746771
+      }
+    },
+    {
+      "_id": {
+        "$id": "65130872ffa7f116a51c3da8"
+      },
+      "id": "20231191988",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695745980
+      },
+      "date": "26-09-2023",
+      "hour": "17:33",
+      "location": "Lisboa, Lourinhã, Reguengo Grande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Lourinhã",
+      "freguesia": "Reguengo Grande",
+      "dico": "1108",
+      "lat": 39.302661,
+      "lng": -9.244872,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cezaredas ",
+      "active": true,
+      "sadoId": "20231191988",
+      "sharepointId": 22698505,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1695746162
+      },
+      "updated": {
+        "sec": 1695746172
+      }
+    },
+    {
+      "_id": {
+        "$id": "65130ad2ffa7f116a51c3dc2"
+      },
+      "id": "20231192018",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695745800
+      },
+      "date": "26-09-2023",
+      "hour": "17:30",
+      "location": "Porto, Valongo, Campo E Sobrado",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Campo E Sobrado",
+      "dico": "1315",
+      "lat": 41.210418,
+      "lng": -8.46103,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobrado ",
+      "active": true,
+      "sadoId": "20231192018",
+      "sharepointId": 22698535,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1695746770
+      },
+      "updated": {
+        "sec": 1695746783
       }
     }
   ]
