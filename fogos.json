@@ -15,8 +15,8 @@
       "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 3,
+      "man": 11,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Foz Do Sousa E Covelo",
@@ -57,7 +57,7 @@
         "sec": 1695735616
       },
       "updated": {
-        "sec": 1695740593
+        "sec": 1695745456
       }
     },
     {
@@ -200,13 +200,13 @@
       "dico": "1412",
       "lat": 39.407782,
       "lng": -8.477345,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Golegã ",
       "active": true,
@@ -230,7 +230,7 @@
         "sec": 1695744131
       },
       "updated": {
-        "sec": 1695745096
+        "sec": 1695746052
       }
     },
     {
@@ -245,9 +245,9 @@
       "date": "26-09-2023",
       "hour": "17:03",
       "location": "Guarda, Manteigas, Manteigas (São Pedro)",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 25,
+      "man": 34,
       "terrain": 4,
       "district": "Guarda",
       "concelho": "Manteigas",
@@ -259,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Manteigas (São Pedro) ",
       "active": true,
@@ -289,7 +289,121 @@
         "sec": 1695744721
       },
       "updated": {
-        "sec": 1695745224
+        "sec": 1695746051
+      }
+    },
+    {
+      "_id": {
+        "$id": "65130712ffa7f116a51c3d8c"
+      },
+      "id": "20231191955",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695745560
+      },
+      "date": "26-09-2023",
+      "hour": "17:26",
+      "location": "Porto, Santo Tirso, St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
+      "dico": "1314",
+      "lat": 41.35133,
+      "lng": -8.50585,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Santo Tirso, Couto (Santa Cristina E São Miguel) E Burgães ",
+      "active": true,
+      "sadoId": "20231191955",
+      "sharepointId": 22698472,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 52.6312,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Freixieiro. 4780-475 Santo Tirso. Portugal (A3-S-N Km 22)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1695745810
+      },
+      "updated": {
+        "sec": 1695746051
+      }
+    },
+    {
+      "_id": {
+        "$id": "65130803ffa7f116a51c3d96"
+      },
+      "id": "20231191973",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695745740
+      },
+      "date": "26-09-2023",
+      "hour": "17:29",
+      "location": "Castelo Branco, Fundão, Soalheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Castelo Branco",
+      "concelho": "Fundão",
+      "freguesia": "Soalheira",
+      "dico": "0504",
+      "lat": 40.03315,
+      "lng": -7.47974,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Soalheira ",
+      "active": true,
+      "sadoId": "20231191973",
+      "sharepointId": 22698490,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1695746051
+      },
+      "updated": {
+        "sec": 1695746051
       }
     }
   ]
