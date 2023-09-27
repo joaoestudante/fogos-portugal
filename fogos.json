@@ -62,65 +62,6 @@
     },
     {
       "_id": {
-        "$id": "651435759e62a87b742fd063"
-      },
-      "id": "20231195897",
-      "coords": true,
-      "dateTime": {
-        "sec": 1695822900
-      },
-      "date": "27-09-2023",
-      "hour": "14:55",
-      "location": "Santarém, Abrantes, São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
-      "dico": "1401",
-      "lat": 39.379096,
-      "lng": -8.22943,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Bicas ",
-      "active": true,
-      "sadoId": "20231195897",
-      "sharepointId": 22702414,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 135.886,
-        "fogacho": true,
-        "fontealerta": "CCO"
-      },
-      "detailLocation": "Bicas",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1695823221
-      },
-      "updated": {
-        "sec": 1695829451
-      }
-    },
-    {
-      "_id": {
         "$id": "65143c729e62a87b742fd1d2"
       },
       "id": "20231196045",
@@ -158,7 +99,7 @@
       "icnf": {
         "altitude": 359.01,
         "fogacho": true,
-        "fontealerta": "CCO"
+        "fontealerta": "PV"
       },
       "detailLocation": "Lg de Parada (Aldeia)",
       "kml": null,
@@ -175,7 +116,7 @@
         "sec": 1695825010
       },
       "updated": {
-        "sec": 1695840004
+        "sec": 1695841334
       }
     },
     {
@@ -192,8 +133,8 @@
       "location": "Bragança, Vila Flor, Vila Flor E Nabo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 3,
       "district": "Bragança",
       "concelho": "Vila Flor",
       "freguesia": "Vila Flor E Nabo",
@@ -214,8 +155,12 @@
       "sharepointId": 22703073,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 318.764,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "NABO (Cabo do Lugar)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +175,62 @@
         "sec": 1695831251
       },
       "updated": {
-        "sec": 1695838936
+        "sec": 1695841367
+      }
+    },
+    {
+      "_id": {
+        "$id": "65147da87b79474ce0173d22"
+      },
+      "id": "20231197220",
+      "coords": true,
+      "dateTime": {
+        "sec": 1695841380
+      },
+      "date": "27-09-2023",
+      "hour": "20:03",
+      "location": "Leiria, Óbidos, Olho Marinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Olho Marinho",
+      "dico": "1012",
+      "lat": 39.33932,
+      "lng": -9.26434,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Olho Marinho ",
+      "active": true,
+      "sadoId": "20231197220",
+      "sharepointId": 22703737,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1695841704
+      },
+      "updated": {
+        "sec": 1695841933
       }
     }
   ]
