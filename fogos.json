@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ancede E Ribadouro ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1696005856
       },
       "updated": {
-        "sec": 1696006569
+        "sec": 1696008337
       }
     },
     {
@@ -129,21 +129,21 @@
       "location": "Faro, Vila Real de Santo António, Vila Nova De Cacela",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 5,
+      "man": 28,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Vila Real De Santo António",
       "freguesia": "Vila Nova De Cacela",
       "dico": "0816",
-      "lat": 37.15754,
-      "lng": -7.54655,
+      "lat": 35.15681,
+      "lng": -7.54811,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cacela Velha ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1696006210
       },
       "updated": {
-        "sec": 1696006691
+        "sec": 1696008337
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Beja, Ferreira do Alentejo, Ferreira Do Alentejo E Canhestros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 19,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Ferreira Do Alentejo E Canhestros",
@@ -196,9 +196,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Ferreira Do Alentejo ",
       "active": true,
@@ -222,7 +222,121 @@
         "sec": 1696007416
       },
       "updated": {
-        "sec": 1696007523
+        "sec": 1696008337
+      }
+    },
+    {
+      "_id": {
+        "$id": "651706cb85779304012cbef8"
+      },
+      "id": "20231206091",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696007520
+      },
+      "date": "29-09-2023",
+      "hour": "18:12",
+      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 5,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "Nossa Senhora Da Expectação",
+      "dico": "1204",
+      "lat": 38.96873,
+      "lng": -7.051904,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "N371 ",
+      "active": true,
+      "sadoId": "20231206091",
+      "sharepointId": 22712608,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 57.8887,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N371 (ER371 (ER371) Km 45)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1696007883
+      },
+      "updated": {
+        "sec": 1696008337
+      }
+    },
+    {
+      "_id": {
+        "$id": "65170891016b2f293356056b"
+      },
+      "id": "20231206112",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696007700
+      },
+      "date": "29-09-2023",
+      "hour": "18:15",
+      "location": "Setúbal, Grândola, Grândola E Santa Margarida Da Serra",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Grândola",
+      "freguesia": "Grândola E Santa Margarida Da Serra",
+      "dico": "1505",
+      "lat": 38.175978,
+      "lng": -8.551283,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Grândola ",
+      "active": true,
+      "sadoId": "20231206112",
+      "sharepointId": 22712629,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1696008337
+      },
+      "updated": {
+        "sec": 1696008379
       }
     }
   ]
