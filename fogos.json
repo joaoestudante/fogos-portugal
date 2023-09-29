@@ -15,8 +15,8 @@
       "location": "Bragança, Vinhais, Edrosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Edrosa",
@@ -37,8 +37,18 @@
       "sharepointId": 22710030,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.001,
+          "mato": 0,
+          "total": 0.001
+        },
+        "altitude": 884.516,
+        "agricola": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "EDROSA (Vale do Ferro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +63,7 @@
         "sec": 1695977649
       },
       "updated": {
-        "sec": 1695978484
+        "sec": 1695985347
       }
     },
     {
@@ -92,8 +102,12 @@
       "sharepointId": 22710421,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 85.6869,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.99444444.-8.61305556) - Autoestrada do Norte. 3105 Pombal. Portugal (A1-S-N Km 162)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +122,7 @@
         "sec": 1695982095
       },
       "updated": {
-        "sec": 1695983656
+        "sec": 1695985360
       }
     }
   ]
