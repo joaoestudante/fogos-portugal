@@ -129,8 +129,8 @@
       "location": "Faro, Vila Real de Santo António, Vila Nova De Cacela",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 6,
+      "man": 23,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Vila Real De Santo António",
       "freguesia": "Vila Nova De Cacela",
@@ -167,7 +167,7 @@
         "sec": 1696006210
       },
       "updated": {
-        "sec": 1696008337
+        "sec": 1696009565
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Beja, Ferreira do Alentejo, Ferreira Do Alentejo E Canhestros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 3,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Ferreira Do Alentejo E Canhestros",
@@ -196,9 +196,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ferreira Do Alentejo ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1696007416
       },
       "updated": {
-        "sec": 1696008337
+        "sec": 1696008975
       }
     },
     {
@@ -239,21 +239,21 @@
       "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 25,
+      "terrain": 7,
       "district": "Portalegre",
       "concelho": "Campo Maior",
       "freguesia": "Nossa Senhora Da Expectação",
       "dico": "1204",
-      "lat": 38.96873,
-      "lng": -7.051904,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 38.961943,
+      "lng": -7.04652,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "N371 ",
       "active": true,
@@ -281,7 +281,7 @@
         "sec": 1696007883
       },
       "updated": {
-        "sec": 1696008337
+        "sec": 1696009330
       }
     },
     {
@@ -296,10 +296,10 @@
       "date": "29-09-2023",
       "hour": "18:15",
       "location": "Setúbal, Grândola, Grândola E Santa Margarida Da Serra",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 1,
+      "man": 16,
+      "terrain": 5,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Grândola E Santa Margarida Da Serra",
@@ -310,9 +310,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Grândola ",
       "active": true,
@@ -336,7 +336,62 @@
         "sec": 1696008337
       },
       "updated": {
-        "sec": 1696008379
+        "sec": 1696008976
+      }
+    },
+    {
+      "_id": {
+        "$id": "65170a1c016b2f2933560585"
+      },
+      "id": "20231206147",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696008300
+      },
+      "date": "29-09-2023",
+      "hour": "18:25",
+      "location": "Setúbal, Setúbal, Sado",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Setúbal",
+      "freguesia": "Sado",
+      "dico": "1512",
+      "lat": 38.51417,
+      "lng": -8.841462,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sado ",
+      "active": true,
+      "sadoId": "20231206147",
+      "sharepointId": 22712664,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1696008732
+      },
+      "updated": {
+        "sec": 1696009097
       }
     }
   ]
