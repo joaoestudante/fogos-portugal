@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6517189b38cb4e339e742b2b"
-      },
-      "id": "20231206436",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696011480
-      },
-      "date": "29-09-2023",
-      "hour": "19:18",
-      "location": "Setúbal, Palmela, Palmela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Setúbal",
-      "concelho": "Palmela",
-      "freguesia": "Palmela",
-      "dico": "1508",
-      "lat": 38.568658,
-      "lng": -8.894979,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Palmela ",
-      "active": true,
-      "sadoId": "20231206436",
-      "sharepointId": 22712953,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1696012443
-      },
-      "updated": {
-        "sec": 1696012456
-      }
-    },
-    {
-      "_id": {
         "$id": "6517199238cb4e339e742b3d"
       },
       "id": "20231206418",
@@ -82,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Baião (Santa Leocádia) E Mesquinhata ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 22712935,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 357.712,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lg. Central de Mesquinhata (Santo António)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1696012690
       },
       "updated": {
-        "sec": 1696013171
+        "sec": 1696014207
       }
     }
   ]
