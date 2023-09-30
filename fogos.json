@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Félix Da Marinha ",
       "active": true,
@@ -116,7 +116,121 @@
         "sec": 1696071125
       },
       "updated": {
-        "sec": 1696071825
+        "sec": 1696072810
+      }
+    },
+    {
+      "_id": {
+        "$id": "651803eb78f445576d4a6895"
+      },
+      "id": "20231209259",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696072380
+      },
+      "date": "30-09-2023",
+      "hour": "12:13",
+      "location": "Aveiro, Vagos, Gafanha Da Boa Hora",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Vagos",
+      "freguesia": "Gafanha Da Boa Hora",
+      "dico": "0118",
+      "lat": 40.520201,
+      "lng": -8.780958,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Gafanha Do Areão ",
+      "active": true,
+      "sadoId": "20231209259",
+      "sharepointId": 22715776,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 3.5175,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Gafanha Areão (Praia do Areão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1696072683
+      },
+      "updated": {
+        "sec": 1696073162
+      }
+    },
+    {
+      "_id": {
+        "$id": "651804e078f445576d4a68a8"
+      },
+      "id": "20231209298",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696072800
+      },
+      "date": "30-09-2023",
+      "hour": "12:20",
+      "location": "Bragança, Bragança, Rebordainhos E Pombares",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Bragança",
+      "freguesia": "Rebordainhos E Pombares",
+      "dico": "0402",
+      "lat": 41.670412,
+      "lng": -6.874724,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rebordainhos ",
+      "active": true,
+      "sadoId": "20231209298",
+      "sharepointId": 22715815,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1696072928
+      },
+      "updated": {
+        "sec": 1696073162
       }
     }
   ]
