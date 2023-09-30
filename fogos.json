@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "651856eaa4606f15dd64f6a4"
-      },
-      "id": "20231210772",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696093800
-      },
-      "date": "30-09-2023",
-      "hour": "18:10",
-      "location": "Porto, Amarante, Mancelos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Mancelos",
-      "dico": "1301",
-      "lat": 41.285625,
-      "lng": -8.138288,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Mancelos ",
-      "active": true,
-      "sadoId": "20231210772",
-      "sharepointId": 22717289,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1696093930
-      },
-      "updated": {
-        "sec": 1696098850
-      }
-    },
-    {
-      "_id": {
         "$id": "65185ab06c53be20870eb9d5"
       },
       "id": "20231210863",
@@ -92,8 +37,12 @@
       "sharepointId": 22717380,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 195.107,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lagoa da Serra (Serra dos Candeeiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,62 +57,7 @@
         "sec": 1696094896
       },
       "updated": {
-        "sec": 1696098610
-      }
-    },
-    {
-      "_id": {
-        "$id": "65185d7a6c53be20870eb9f7"
-      },
-      "id": "20231210909",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696095000
-      },
-      "date": "30-09-2023",
-      "hour": "18:30",
-      "location": "Porto, Penafiel, Castelões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Castelões",
-      "dico": "1311",
-      "lat": 41.242167,
-      "lng": -8.194178,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Castelões ",
-      "active": true,
-      "sadoId": "20231210909",
-      "sharepointId": 22717426,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1696095610
-      },
-      "updated": {
-        "sec": 1696099563
+        "sec": 1696100609
       }
     },
     {
@@ -202,8 +96,12 @@
       "sharepointId": 22717596,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 98.2487,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Casais da Ladeira (OLHO MARINHO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +116,7 @@
         "sec": 1696097891
       },
       "updated": {
-        "sec": 1696099209
+        "sec": 1696100634
       }
     },
     {
@@ -247,18 +145,22 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Bigorne ",
+      "localidade": "Pretarouca ",
       "active": true,
       "sadoId": "20231211099",
       "sharepointId": 22717616,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 969.491,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Portela (BIGORNE)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -273,7 +175,184 @@
         "sec": 1696098257
       },
       "updated": {
-        "sec": 1696098964
+        "sec": 1696100645
+      }
+    },
+    {
+      "_id": {
+        "$id": "65186e5b909c5d0a191d6cc5"
+      },
+      "id": "20231211221",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696099620
+      },
+      "date": "30-09-2023",
+      "hour": "19:47",
+      "location": "Leiria, Caldas da Rainha, Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
+      "dico": "1006",
+      "lat": 39.413723,
+      "lng": -9.152683,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Caldas Da Rainha ",
+      "active": true,
+      "sadoId": "20231211221",
+      "sharepointId": 22717738,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 11.8725,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Av. Vasco da Gama. Caldas da Rainha (Quinta do Elias)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1696099931
+      },
+      "updated": {
+        "sec": 1696100742
+      }
+    },
+    {
+      "_id": {
+        "$id": "65186fc1909c5d0a191d6ce3"
+      },
+      "id": "20231211229",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696100040
+      },
+      "date": "30-09-2023",
+      "hour": "19:54",
+      "location": "Santarém, Coruche, Couço",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Coruche",
+      "freguesia": "Couço",
+      "dico": "1409",
+      "lat": 38.98489,
+      "lng": -8.28277,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Couço ",
+      "active": true,
+      "sadoId": "20231211229",
+      "sharepointId": 22717746,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 37.1331,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Mário Viegas. 2100-341 Coruche. Portugal (COUÇO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1696100289
+      },
+      "updated": {
+        "sec": 1696101010
+      }
+    },
+    {
+      "_id": {
+        "$id": "6518718694bdff40c0618a75"
+      },
+      "id": "20231211262",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696100400
+      },
+      "date": "30-09-2023",
+      "hour": "20:00",
+      "location": "Lisboa, Torres Vedras, Silveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Silveira",
+      "dico": "1113",
+      "lat": 39.1225,
+      "lng": -9.390833,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Silveira ",
+      "active": true,
+      "sadoId": "20231211262",
+      "sharepointId": 22717779,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 22.3708,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Miradouro do Alto da Vela. 2560 Torres Vedras. Portugal (ALTO DA VELA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1696100742
+      },
+      "updated": {
+        "sec": 1696100896
       }
     }
   ]
