@@ -3,116 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "65181ce53e132f1cdc13b8b4"
-      },
-      "id": "20231209699",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696078680
-      },
-      "date": "30-09-2023",
-      "hour": "13:58",
-      "location": "Beja, Beja, Trigaches E São Brissos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Beja",
-      "freguesia": "Trigaches E São Brissos",
-      "dico": "0205",
-      "lat": 38.049905,
-      "lng": -7.96056,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Carlota ",
-      "active": true,
-      "sadoId": "20231209699",
-      "sharepointId": 22716216,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "created": {
-        "sec": 1696079077
-      },
-      "updated": {
-        "sec": 1696081224
-      }
-    },
-    {
-      "_id": {
-        "$id": "651825bb3e132f1cdc13b905"
-      },
-      "id": "20231209873",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696080960
-      },
-      "date": "30-09-2023",
-      "hour": "14:36",
-      "location": "Beja, Beja, Trigaches E São Brissos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
-      "district": "Beja",
-      "concelho": "Beja",
-      "freguesia": "Trigaches E São Brissos",
-      "dico": "0205",
-      "lat": 38.089965,
-      "lng": -7.967792,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Trigaches ",
-      "active": true,
-      "sadoId": "20231209873",
-      "sharepointId": 22716390,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "created": {
-        "sec": 1696081339
-      },
-      "updated": {
-        "sec": 1696084563
-      }
-    },
-    {
-      "_id": {
         "$id": "65182ae03e132f1cdc13ba44"
       },
       "id": "20231209951",
@@ -147,8 +37,12 @@
       "sharepointId": 22716468,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 222.443,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "(FA) Casal de Cambra (Serra da Helena)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +57,7 @@
         "sec": 1696082656
       },
       "updated": {
-        "sec": 1696084690
+        "sec": 1696086230
       }
     },
     {
@@ -202,8 +96,12 @@
       "sharepointId": 22716492,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 61.5369,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Vale Pipes (Quinta da Estela)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +116,7 @@
         "sec": 1696082764
       },
       "updated": {
-        "sec": 1696084922
+        "sec": 1696086241
       }
     },
     {
@@ -257,8 +155,12 @@
       "sharepointId": 22716552,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 105.156,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Padre Andrade Silva 274. 4420-243 Gondomar. Portugal (Paço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -273,7 +175,66 @@
         "sec": 1696084210
       },
       "updated": {
-        "sec": 1696084690
+        "sec": 1696086254
+      }
+    },
+    {
+      "_id": {
+        "$id": "651839ac7a0d5c7b86535612"
+      },
+      "id": "20231210219",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696085940
+      },
+      "date": "30-09-2023",
+      "hour": "15:59",
+      "location": "Lisboa, Sintra, Queluz E Belas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Queluz E Belas",
+      "dico": "1111",
+      "lat": 38.785288,
+      "lng": -9.281665,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Venda Seca ",
+      "active": true,
+      "sadoId": "20231210219",
+      "sharepointId": 22716736,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 202.329,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Luís de Camões (Venda Seca)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1696086444
+      },
+      "updated": {
+        "sec": 1696086850
       }
     }
   ]
