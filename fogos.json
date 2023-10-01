@@ -133,8 +133,8 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 5,
       "meios_aquaticos": 1,
-      "man": 151,
-      "terrain": 43,
+      "man": 167,
+      "terrain": 49,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -175,7 +175,7 @@
         "sec": 1696174930
       },
       "updated": {
-        "sec": 1696180323
+        "sec": 1696181163
       }
     },
     {
@@ -247,8 +247,8 @@
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -285,7 +285,7 @@
         "sec": 1696175296
       },
       "updated": {
-        "sec": 1696178763
+        "sec": 1696180688
       }
     },
     {
@@ -302,8 +302,8 @@
       "location": "Porto, Vila Nova de Gaia, Avintes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Avintes",
@@ -314,9 +314,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Avintes ",
       "active": true,
@@ -344,7 +344,62 @@
         "sec": 1696180323
       },
       "updated": {
-        "sec": 1696180344
+        "sec": 1696180563
+      }
+    },
+    {
+      "_id": {
+        "$id": "6519aa579b59bd19e0594a75"
+      },
+      "id": "20231215208",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696180140
+      },
+      "date": "01-10-2023",
+      "hour": "18:09",
+      "location": "Aveiro, Vale de Cambra, Macieira De Cambra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "Macieira De Cambra",
+      "dico": "0119",
+      "lat": 40.855831,
+      "lng": -8.385739,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Macieira De Cambra ",
+      "active": true,
+      "sadoId": "20231215208",
+      "sharepointId": 22721725,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1696180823
+      },
+      "updated": {
+        "sec": 1696180834
       }
     }
   ]
