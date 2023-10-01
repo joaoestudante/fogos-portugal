@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6518aa5a95e16575e24e2595"
-      },
-      "id": "20231212025",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696115040
-      },
-      "date": "01-10-2023",
-      "hour": "00:04",
-      "location": "Aveiro, Arouca, Canelas E Espiunca",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Arouca",
-      "freguesia": "Canelas E Espiunca",
-      "dico": "0104",
-      "lat": 40.988642,
-      "lng": -8.244228,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Espiunca ",
-      "active": true,
-      "sadoId": "20231212025",
-      "sharepointId": 22718542,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1696115290
-      },
-      "updated": {
-        "sec": 1696124048
-      }
-    },
-    {
-      "_id": {
         "$id": "6518b33a95e16575e24e25dc"
       },
       "id": "20231212095",
@@ -92,8 +37,12 @@
       "sharepointId": 22718612,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 855.131,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Pereira (ROSÁRIO 2º)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1696117562
       },
       "updated": {
-        "sec": 1696126562
+        "sec": 1696129393
       }
     },
     {
@@ -184,8 +133,8 @@
       "location": "Porto, Trofa, Covelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Covelas",
@@ -211,7 +160,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Água Longa (Lameirões)",
+      "detailLocation": "Vilar de Luz (Alto dos Cantoneiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -226,7 +175,7 @@
         "sec": 1696122633
       },
       "updated": {
-        "sec": 1696128256
+        "sec": 1696129479
       }
     }
   ]
