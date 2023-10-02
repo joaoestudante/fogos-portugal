@@ -83,8 +83,8 @@
       "location": "Viseu, Viseu, Barreiros E Cepões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 55,
-      "terrain": 21,
+      "man": 34,
+      "terrain": 13,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Barreiros E Cepões",
@@ -125,7 +125,7 @@
         "sec": 1696165697
       },
       "updated": {
-        "sec": 1696270811
+        "sec": 1696273469
       }
     },
     {
@@ -142,8 +142,8 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 93,
-      "terrain": 29,
+      "man": 87,
+      "terrain": 27,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -184,7 +184,7 @@
         "sec": 1696174930
       },
       "updated": {
-        "sec": 1696272363
+        "sec": 1696273823
       }
     },
     {
@@ -223,8 +223,12 @@
       "sharepointId": 22726200,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 796.361,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Sevivas (Alto do Morouço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -239,7 +243,7 @@
         "sec": 1696263490
       },
       "updated": {
-        "sec": 1696270449
+        "sec": 1696273349
       }
     },
     {
@@ -278,8 +282,12 @@
       "sharepointId": 22726262,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 427.275,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Lugar de Seara (Seara)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -294,7 +302,7 @@
         "sec": 1696264085
       },
       "updated": {
-        "sec": 1696267331
+        "sec": 1696273361
       }
     },
     {
@@ -308,26 +316,26 @@
       },
       "date": "02-10-2023",
       "hour": "19:30",
-      "location": "Viana Do Castelo, Ponte da Barca, Cuide De Vila Verde",
+      "location": "Viana Do Castelo, Ponte da Barca, Vade (São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 4,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
-      "freguesia": "Cuide De Vila Verde",
+      "freguesia": "Vade (São Pedro)",
       "dico": "1606",
-      "lat": 41.76598,
-      "lng": -8.3975,
+      "lat": 41.76706,
+      "lng": -8.41258,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Danaia ",
+      "localidade": "Outeiro ",
       "active": true,
       "sadoId": "20231220300",
       "sharepointId": 22726817,
@@ -338,7 +346,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Danaia",
+      "detailLocation": "Danaia (Penacova)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -353,7 +361,7 @@
         "sec": 1696271763
       },
       "updated": {
-        "sec": 1696271897
+        "sec": 1696273469
       }
     },
     {
@@ -370,8 +378,8 @@
       "location": "Aveiro, Santa Maria da Feira, São João De Ver",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "São João De Ver",
@@ -382,9 +390,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São João De Ver ",
       "active": true,
@@ -412,7 +420,7 @@
         "sec": 1696272123
       },
       "updated": {
-        "sec": 1696272142
+        "sec": 1696272492
       }
     }
   ]
