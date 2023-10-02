@@ -189,65 +189,6 @@
     },
     {
       "_id": {
-        "$id": "651aae6c5da98e402c2e997e"
-      },
-      "id": "20231218361",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696247220
-      },
-      "date": "02-10-2023",
-      "hour": "12:47",
-      "location": "Beja, Serpa, Serpa (salvador E Santa Maria)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Serpa",
-      "freguesia": "Serpa (salvador E Santa Maria)",
-      "dico": "0213",
-      "lat": 37.946098,
-      "lng": -7.582115,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Serpa ",
-      "active": true,
-      "sadoId": "20231218361",
-      "sharepointId": 22724878,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 122.464,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Est. Munip. 517 / Parque Industrial (Monte das Almas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "created": {
-        "sec": 1696247404
-      },
-      "updated": {
-        "sec": 1696258951
-      }
-    },
-    {
-      "_id": {
         "$id": "651acd69e5912c17ba249647"
       },
       "id": "20231219045",
@@ -317,10 +258,10 @@
       "date": "02-10-2023",
       "hour": "17:13",
       "location": "Vila Real, Vila Pouca de Aguiar, Tresminas",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 27,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Tresminas",
@@ -331,9 +272,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Sevivas ",
       "active": true,
@@ -357,7 +298,62 @@
         "sec": 1696263490
       },
       "updated": {
-        "sec": 1696263605
+        "sec": 1696264337
+      }
+    },
+    {
+      "_id": {
+        "$id": "651aef95da2729747e16160c"
+      },
+      "id": "20231219745",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696263960
+      },
+      "date": "02-10-2023",
+      "hour": "17:26",
+      "location": "Porto, Amarante, Aboadela, Sanche E Várzea",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Aboadela, Sanche E Várzea",
+      "dico": "1301",
+      "lat": 41.278326,
+      "lng": -7.98513,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Aboadela ",
+      "active": true,
+      "sadoId": "20231219745",
+      "sharepointId": 22726262,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1696264085
+      },
+      "updated": {
+        "sec": 1696264224
       }
     }
   ]
