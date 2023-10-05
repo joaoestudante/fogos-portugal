@@ -74,8 +74,8 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -116,7 +116,7 @@
         "sec": 1696174930
       },
       "updated": {
-        "sec": 1696497363
+        "sec": 1696523535
       }
     },
     {
@@ -204,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -234,7 +234,7 @@
         "sec": 1696518504
       },
       "updated": {
-        "sec": 1696521370
+        "sec": 1696523536
       }
     },
     {
@@ -318,9 +318,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Talaide ",
       "active": true,
@@ -344,7 +344,7 @@
         "sec": 1696519563
       },
       "updated": {
-        "sec": 1696521850
+        "sec": 1696523536
       }
     },
     {
@@ -361,8 +361,8 @@
       "location": "Vila Real, Vila Real, Andrães",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 2,
+      "man": 26,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Andrães",
@@ -373,9 +373,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Mosteirô ",
       "active": true,
@@ -399,7 +399,7 @@
         "sec": 1696522336
       },
       "updated": {
-        "sec": 1696522689
+        "sec": 1696523291
       }
     },
     {
@@ -414,23 +414,23 @@
       "date": "05-10-2023",
       "hour": "17:12",
       "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 13,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Fânzeres E São Pedro Da Cova",
       "dico": "1304",
-      "lat": 41.155311,
-      "lng": -8.511531,
+      "lat": 41.16956,
+      "lng": -8.517577,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -454,7 +454,62 @@
         "sec": 1696522805
       },
       "updated": {
-        "sec": 1696522816
+        "sec": 1696523536
+      }
+    },
+    {
+      "_id": {
+        "$id": "651ee510beb9c551c7466ca8"
+      },
+      "id": "20231232708",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696523340
+      },
+      "date": "05-10-2023",
+      "hour": "17:29",
+      "location": "Porto, Penafiel, Luzim E Vila Cova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Luzim E Vila Cova",
+      "dico": "1311",
+      "lat": 41.14395,
+      "lng": -8.239832,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Luzim E Vila Cova ",
+      "active": true,
+      "sadoId": "20231232708",
+      "sharepointId": 22739225,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1696523536
+      },
+      "updated": {
+        "sec": 1696523550
       }
     }
   ]
