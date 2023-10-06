@@ -74,8 +74,8 @@
       "location": "Coimbra, Miranda do Corvo, Semide E Rio Vide",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Coimbra",
       "concelho": "Miranda Do Corvo",
       "freguesia": "Semide E Rio Vide",
@@ -116,7 +116,7 @@
         "sec": 1696616889
       },
       "updated": {
-        "sec": 1696619098
+        "sec": 1696622762
       }
     },
     {
@@ -133,21 +133,21 @@
       "location": "Braga, Amares, Vilela, Seramil E Paredes Secas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
+      "man": 20,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Amares",
       "freguesia": "Vilela, Seramil E Paredes Secas",
       "dico": "0301",
-      "lat": 41.669324,
-      "lng": -8.320585,
+      "lat": 41.667532,
+      "lng": -8.309818,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -171,7 +171,66 @@
         "sec": 1696620844
       },
       "updated": {
-        "sec": 1696621575
+        "sec": 1696623129
+      }
+    },
+    {
+      "_id": {
+        "$id": "652068aa46ee6a44fe646138"
+      },
+      "id": "20231237938",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696622460
+      },
+      "date": "06-10-2023",
+      "hour": "21:01",
+      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Montijo E Afonsoeiro",
+      "dico": "1507",
+      "lat": 38.70856,
+      "lng": -8.96634,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Montijo E Afonsoeiro ",
+      "active": true,
+      "sadoId": "20231237938",
+      "sharepointId": 22744455,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -16.9506,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Soeiro Pereira Gomes. 2870-149 Montijo. Portugal (Rua Soeiro Pereira Gomes)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1696622762
+      },
+      "updated": {
+        "sec": 1696623251
       }
     }
   ]
