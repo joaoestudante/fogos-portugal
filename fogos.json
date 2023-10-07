@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 2,
+          "agricola": 0,
+          "mato": 8,
+          "total": 10
+        },
         "altitude": 200.809,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "PV"
       },
       "detailLocation": "Sra da Graça (Senhora da Graça)",
@@ -57,7 +63,7 @@
         "sec": 1696672452
       },
       "updated": {
-        "sec": 1696702692
+        "sec": 1696705335
       }
     },
     {
@@ -145,9 +151,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -158,9 +164,9 @@
       "icnf": {
         "altitude": 65.6706,
         "fogacho": true,
-        "fontealerta": "Outros"
+        "fontealerta": "PV"
       },
-      "detailLocation": "Monte cabrito (Monte de Covas)",
+      "detailLocation": "Monte Cabrito (Monte de Covas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -175,7 +181,7 @@
         "sec": 1696683363
       },
       "updated": {
-        "sec": 1696701364
+        "sec": 1696705546
       }
     },
     {
@@ -192,8 +198,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 70,
-      "terrain": 23,
+      "man": 67,
+      "terrain": 22,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -216,10 +222,10 @@
       "disappear": false,
       "icnf": {
         "altitude": 95.3213,
-        "agricola": true,
+        "fogacho": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Monte da Rabadoa",
+      "detailLocation": "São Lourenço",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -234,7 +240,7 @@
         "sec": 1696689489
       },
       "updated": {
-        "sec": 1696703777
+        "sec": 1696705377
       }
     },
     {
@@ -273,8 +279,12 @@
       "sharepointId": 22748001,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 538.376,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Confurco (Vale da Égua)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -289,7 +299,7 @@
         "sec": 1696698490
       },
       "updated": {
-        "sec": 1696704251
+        "sec": 1696705400
       }
     },
     {
@@ -330,7 +340,7 @@
       "disappear": false,
       "icnf": {
         "altitude": 102.699,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
       "detailLocation": "Rua Nova da Trindade (Apelação)",
@@ -348,7 +358,7 @@
         "sec": 1696699691
       },
       "updated": {
-        "sec": 1696702450
+        "sec": 1696705423
       }
     },
     {
@@ -365,8 +375,8 @@
       "location": "Setúbal, Setúbal, Setúbal (São Sebastião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Setúbal (São Sebastião)",
@@ -387,8 +397,12 @@
       "sharepointId": 22748124,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 19.4144,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Parque da Bela Vista (Quinta da Alegria)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -403,7 +417,7 @@
         "sec": 1696700771
       },
       "updated": {
-        "sec": 1696702331
+        "sec": 1696705689
       }
     },
     {
@@ -442,8 +456,12 @@
       "sharepointId": 22748323,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 540.276,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg. Penouta (Ribeira de Avessadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -458,7 +476,7 @@
         "sec": 1696703411
       },
       "updated": {
-        "sec": 1696703426
+        "sec": 1696705449
       }
     },
     {
@@ -556,8 +574,12 @@
       "sharepointId": 22748372,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 527.523,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Stª Marta (Lodeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -572,7 +594,121 @@
         "sec": 1696704251
       },
       "updated": {
-        "sec": 1696704268
+        "sec": 1696705462
+      }
+    },
+    {
+      "_id": {
+        "$id": "6521a95347eaa074b44f32dd"
+      },
+      "id": "20231241891",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696704600
+      },
+      "date": "07-10-2023",
+      "hour": "19:50",
+      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 3,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "Nossa Senhora Da Expectação",
+      "dico": "1204",
+      "lat": 39.014855,
+      "lng": -7.063944,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Campo Maior ",
+      "active": true,
+      "sadoId": "20231241891",
+      "sharepointId": 22748408,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 144.961,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "bairo de s.sebastião (Horta das Pias)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1696704851
+      },
+      "updated": {
+        "sec": 1696705547
+      }
+    },
+    {
+      "_id": {
+        "$id": "6521ac99f457681a4e0dbcb2"
+      },
+      "id": "20231241935",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696705440
+      },
+      "date": "07-10-2023",
+      "hour": "20:04",
+      "location": "Vila Real, Santa Marta de Penaguião, Fontes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Santa Marta De Penaguião",
+      "freguesia": "Fontes",
+      "dico": "1711",
+      "lat": 41.23247,
+      "lng": -7.84692,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Fontes ",
+      "active": true,
+      "sadoId": "20231241935",
+      "sharepointId": 22748452,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1696705689
+      },
+      "updated": {
+        "sec": 1696705700
       }
     }
   ]
