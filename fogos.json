@@ -74,8 +74,8 @@
       "location": "Porto, Amarante, Vila Caiz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 8,
+      "man": 35,
+      "terrain": 9,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Vila Caiz",
@@ -116,7 +116,7 @@
         "sec": 1696672452
       },
       "updated": {
-        "sec": 1696681335
+        "sec": 1696683018
       }
     },
     {
@@ -259,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sebolido ",
       "active": true,
@@ -285,7 +285,7 @@
         "sec": 1696680017
       },
       "updated": {
-        "sec": 1696680491
+        "sec": 1696681819
       }
     },
     {
@@ -300,23 +300,23 @@
       "date": "07-10-2023",
       "hour": "13:10",
       "location": "Lisboa, Azambuja, Manique Do Intendente, V. N. De São Pedro E Maçussa",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
+      "man": 19,
       "terrain": 5,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Manique Do Intendente, V. N. De São Pedro E Maçussa",
       "dico": "1103",
-      "lat": 39.195809,
-      "lng": -8.861203,
+      "lat": 39.18866,
+      "lng": -8.85426,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Maçussa ",
       "active": true,
@@ -340,7 +340,7 @@
         "sec": 1696680849
       },
       "updated": {
-        "sec": 1696681083
+        "sec": 1696682763
       }
     },
     {
@@ -355,16 +355,16 @@
       "date": "07-10-2023",
       "hour": "13:12",
       "location": "Viseu, Moimenta da Beira, Baldos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Moimenta Da Beira",
       "freguesia": "Baldos",
       "dico": "1807",
-      "lat": 40.989834,
-      "lng": -7.574598,
+      "lat": 40.986587,
+      "lng": -7.564033,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -395,7 +395,66 @@
         "sec": 1696681335
       },
       "updated": {
-        "sec": 1696681450
+        "sec": 1696682763
+      }
+    },
+    {
+      "_id": {
+        "$id": "6521530be667fd5eec22f49d"
+      },
+      "id": "20231240431",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696682220
+      },
+      "date": "07-10-2023",
+      "hour": "13:37",
+      "location": "Porto, Penafiel, Recezinhos (São Mamede)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Recezinhos (São Mamede)",
+      "dico": "1311",
+      "lat": 41.239681,
+      "lng": -8.201129,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Casal ",
+      "active": true,
+      "sadoId": "20231240431",
+      "sharepointId": 22746948,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 250.63,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Casal (Linhares de Baixo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1696682763
+      },
+      "updated": {
+        "sec": 1696682785
       }
     }
   ]
