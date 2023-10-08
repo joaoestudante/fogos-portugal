@@ -74,8 +74,8 @@
       "location": "Braga, Celorico de Basto, Basto (São Clemente)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Basto (São Clemente)",
@@ -97,8 +97,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 29,
+          "total": 29
+        },
         "altitude": 711.835,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Lameira. Celorico de Basto. Portugal (Arranhadouro)",
@@ -116,127 +122,7 @@
         "sec": 1696730284
       },
       "updated": {
-        "sec": 1696776019
-      }
-    },
-    {
-      "_id": {
-        "$id": "65225f34d5d8ad0b6b14f3f1"
-      },
-      "id": "20231243454",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696751100
-      },
-      "date": "08-10-2023",
-      "hour": "08:45",
-      "location": "Porto, Penafiel, Recezinhos (São Martinho)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Recezinhos (São Martinho)",
-      "dico": "1311",
-      "lat": 41.242107,
-      "lng": -8.195327,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cota ",
-      "active": true,
-      "sadoId": "20231243454",
-      "sharepointId": 22749971,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 0.015,
-          "total": 0.015
-        },
-        "altitude": 331.109,
-        "fogacho": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Cota (Casal)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1696751412
-      },
-      "updated": {
-        "sec": 1696762968
-      }
-    },
-    {
-      "_id": {
-        "$id": "652297007ba5b0621f55c533"
-      },
-      "id": "20231244409",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696765320
-      },
-      "date": "08-10-2023",
-      "hour": "12:42",
-      "location": "Braga, Póvoa de Lanhoso, Ferreiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Ferreiros",
-      "dico": "0309",
-      "lat": 41.59375,
-      "lng": -8.32014,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Devesa ",
-      "active": true,
-      "sadoId": "20231244409",
-      "sharepointId": 22750926,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1696765696
-      },
-      "updated": {
-        "sec": 1696768822
+        "sec": 1696777337
       }
     },
     {
@@ -253,8 +139,8 @@
       "location": "Braga, Guimarães, Souto Santa Maria, Souto São Salvador E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 16,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Souto Santa Maria, Souto São Salvador E Gondomar",
@@ -280,7 +166,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "L5. 4800-835 Guimarães. Portugal (Almoinhas)",
+      "detailLocation": "Rua Domingos Macedo (Bouça do Paço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -295,62 +181,7 @@
         "sec": 1696766918
       },
       "updated": {
-        "sec": 1696775896
-      }
-    },
-    {
-      "_id": {
-        "$id": "6522a41f01a2d626f15db190"
-      },
-      "id": "20231244637",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696768560
-      },
-      "date": "08-10-2023",
-      "hour": "13:36",
-      "location": "Lisboa, Odivelas, Odivelas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Odivelas",
-      "dico": "1116",
-      "lat": 38.793425,
-      "lng": -9.182813,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Colinas Do Cruzeiro ",
-      "active": true,
-      "sadoId": "20231244637",
-      "sharepointId": 22751154,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1696769055
-      },
-      "updated": {
-        "sec": 1696772765
+        "sec": 1696777696
       }
     },
     {
@@ -367,8 +198,8 @@
       "location": "Leiria, Leiria, Marrazes E Barosa",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 104,
-      "terrain": 27,
+      "man": 109,
+      "terrain": 28,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Marrazes E Barosa",
@@ -389,8 +220,12 @@
       "sharepointId": 22751442,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 66.9419,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Picheleiro (Rua do Moreiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -405,7 +240,125 @@
         "sec": 1696773131
       },
       "updated": {
-        "sec": 1696776019
+        "sec": 1696777447
+      }
+    },
+    {
+      "_id": {
+        "$id": "6522c596dd577e08e91e0892"
+      },
+      "id": "20231245223",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696777380
+      },
+      "date": "08-10-2023",
+      "hour": "16:03",
+      "location": "Leiria, Bombarral, Roliça",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Bombarral",
+      "freguesia": "Roliça",
+      "dico": "1005",
+      "lat": 39.321254,
+      "lng": -9.18255,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Mamede ",
+      "active": true,
+      "sadoId": "20231245223",
+      "sharepointId": 22751740,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 2.28813,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada do Oeste. 2540 Bombarral. Portugal (São Mamede)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1696777622
+      },
+      "updated": {
+        "sec": 1696777938
+      }
+    },
+    {
+      "_id": {
+        "$id": "6522c596dd577e08e91e0893"
+      },
+      "id": "20231245217",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696777140
+      },
+      "date": "08-10-2023",
+      "hour": "15:59",
+      "location": "Aveiro, Albergaria-a-Velha, Alquerubim",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 5,
+      "district": "Aveiro",
+      "concelho": "Albergaria-a-velha",
+      "freguesia": "Alquerubim",
+      "dico": "0102",
+      "lat": 40.62137,
+      "lng": -8.507758,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alquerubim ",
+      "active": true,
+      "sadoId": "20231245217",
+      "sharepointId": 22751734,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 14.3556,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "ALQUERUBIM",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1696777622
+      },
+      "updated": {
+        "sec": 1696777938
       }
     }
   ]
