@@ -62,65 +62,6 @@
     },
     {
       "_id": {
-        "$id": "6521907a55a7d440f85272b6"
-      },
-      "id": "20231241484",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696698240
-      },
-      "date": "07-10-2023",
-      "hour": "18:04",
-      "location": "Braga, Fafe, Moreira Do Rei E Várzea Cova",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Moreira Do Rei E Várzea Cova",
-      "dico": "0307",
-      "lat": 41.49398,
-      "lng": -8.085443,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "E.n.311 ",
-      "active": true,
-      "sadoId": "20231241484",
-      "sharepointId": 22748001,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 538.376,
-        "fogacho": true,
-        "fontealerta": "CCO"
-      },
-      "detailLocation": "Confurco (Vale da Égua)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1696698490
-      },
-      "updated": {
-        "sec": 1696742650
-      }
-    },
-    {
-      "_id": {
         "$id": "6521dfb1f65d4f3a243e232b"
       },
       "id": "20231242556",
@@ -263,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Gens ",
       "active": true,
@@ -293,7 +234,7 @@
         "sec": 1696734029
       },
       "updated": {
-        "sec": 1696742650
+        "sec": 1696744562
       }
     },
     {
@@ -310,8 +251,8 @@
       "location": "Viseu, Lamego, Sande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 15,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Sande",
@@ -322,9 +263,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Sande ",
       "active": true,
@@ -348,7 +289,62 @@
         "sec": 1696743844
       },
       "updated": {
-        "sec": 1696743963
+        "sec": 1696745402
+      }
+    },
+    {
+      "_id": {
+        "$id": "652248b1b7df2a2a116a337d"
+      },
+      "id": "20231243147",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696744740
+      },
+      "date": "08-10-2023",
+      "hour": "06:59",
+      "location": "Coimbra, Mira, Praia De Mira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Mira",
+      "freguesia": "Praia De Mira",
+      "dico": "0608",
+      "lat": 40.475131,
+      "lng": -8.788778,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Barra De Mira ",
+      "active": true,
+      "sadoId": "20231243147",
+      "sharepointId": 22749664,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1696745649
+      },
+      "updated": {
+        "sec": 1696745659
       }
     }
   ]
