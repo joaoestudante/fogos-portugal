@@ -86,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Corgalta ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1696718769
       },
       "updated": {
-        "sec": 1696734196
+        "sec": 1696762089
       }
     },
     {
@@ -192,8 +192,8 @@
       "location": "Braga, Fafe, São Gens",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "São Gens",
@@ -219,7 +219,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Boucinha. 4820-664 Fafe. Portugal (Lameirinha)",
+      "detailLocation": "Rua da Boucinha (Lameirinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -234,66 +234,7 @@
         "sec": 1696734029
       },
       "updated": {
-        "sec": 1696760529
-      }
-    },
-    {
-      "_id": {
-        "$id": "65224bf9c37cb06f25055ce6"
-      },
-      "id": "20231243184",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696746240
-      },
-      "date": "08-10-2023",
-      "hour": "07:24",
-      "location": "Viana Do Castelo, Viana do Castelo, Alvarães",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Alvarães",
-      "dico": "1609",
-      "lat": 41.649683,
-      "lng": -8.736533,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Apeadeiro ",
-      "active": true,
-      "sadoId": "20231243184",
-      "sharepointId": 22749701,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 42.0225,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Apeadeiro (Chasqueira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1696746489
-      },
-      "updated": {
-        "sec": 1696759444
+        "sec": 1696763296
       }
     },
     {
@@ -332,8 +273,18 @@
       "sharepointId": 22749971,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.015,
+          "total": 0.015
+        },
+        "altitude": 331.109,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Cota (Casal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -348,31 +299,31 @@
         "sec": 1696751412
       },
       "updated": {
-        "sec": 1696757283
+        "sec": 1696762968
       }
     },
     {
       "_id": {
-        "$id": "6522663a78728b43e50965c9"
+        "$id": "65228a55bc675437ea1d485b"
       },
-      "id": "20231243580",
+      "id": "20231244210",
       "coords": true,
       "dateTime": {
-        "sec": 1696753080
+        "sec": 1696762080
       },
       "date": "08-10-2023",
-      "hour": "09:18",
-      "location": "Porto, Amarante, Salvador Do Monte",
-      "aerial": 0,
+      "hour": "11:48",
+      "location": "Braga, Guimarães, Briteiros São Salvador E Briteiros Santa Leocádia",
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 5,
+      "man": 17,
       "terrain": 1,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Salvador Do Monte",
-      "dico": "1301",
-      "lat": 41.236362,
-      "lng": -8.096627,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Briteiros São Salvador E Briteiros Santa Leocádia",
+      "dico": "0308",
+      "lat": 41.53175,
+      "lng": -8.334457,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -381,14 +332,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Vila Nova ",
+      "localidade": "União Das Freguesias De Briteiros São Salvador E Briteiros Santa Leocádia ",
       "active": true,
-      "sadoId": "20231243580",
-      "sharepointId": 22750097,
+      "sadoId": "20231244210",
+      "sharepointId": 22750727,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 238.778,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santa Leocádia de Briteiros. Guimarães. Portugal (Devezinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -398,12 +353,12 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
+      "sub_regiao": "Ave",
       "created": {
-        "sec": 1696753210
+        "sec": 1696762453
       },
       "updated": {
-        "sec": 1696761250
+        "sec": 1696763409
       }
     }
   ]
