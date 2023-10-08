@@ -139,8 +139,8 @@
       "location": "Braga, Guimarães, Souto Santa Maria, Souto São Salvador E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Souto Santa Maria, Souto São Salvador E Gondomar",
@@ -181,7 +181,7 @@
         "sec": 1696766918
       },
       "updated": {
-        "sec": 1696778291
+        "sec": 1696779256
       }
     },
     {
@@ -206,8 +206,8 @@
       "dico": "1009",
       "lat": 39.755211,
       "lng": -8.848398,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 5,
@@ -240,7 +240,7 @@
         "sec": 1696773131
       },
       "updated": {
-        "sec": 1696777447
+        "sec": 1696779964
       }
     },
     {
@@ -255,16 +255,16 @@
       "date": "08-10-2023",
       "hour": "16:03",
       "location": "Leiria, Bombarral, Roliça",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
+      "man": 21,
       "terrain": 5,
       "district": "Leiria",
       "concelho": "Bombarral",
       "freguesia": "Roliça",
       "dico": "1005",
-      "lat": 39.321254,
-      "lng": -9.18255,
+      "lat": 39.293388,
+      "lng": -9.176338,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -273,7 +273,7 @@
       "statusColor": "B81E1F",
       "status": "Chegada ao TO",
       "important": false,
-      "localidade": "São Mamede ",
+      "localidade": "Baraçais ",
       "active": true,
       "sadoId": "20231245223",
       "sharepointId": 22751740,
@@ -299,7 +299,7 @@
         "sec": 1696777622
       },
       "updated": {
-        "sec": 1696778762
+        "sec": 1696779009
       }
     },
     {
@@ -314,23 +314,23 @@
       "date": "08-10-2023",
       "hour": "15:59",
       "location": "Aveiro, Albergaria-a-Velha, Alquerubim",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
+      "man": 22,
       "terrain": 7,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Alquerubim",
       "dico": "0102",
-      "lat": 40.642078,
-      "lng": -8.509056,
+      "lat": 40.64173,
+      "lng": -8.514435,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fial ",
       "active": true,
@@ -358,7 +358,7 @@
         "sec": 1696777622
       },
       "updated": {
-        "sec": 1696778650
+        "sec": 1696779963
       }
     },
     {
@@ -387,9 +387,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -413,7 +413,62 @@
         "sec": 1696778650
       },
       "updated": {
-        "sec": 1696778664
+        "sec": 1696779364
+      }
+    },
+    {
+      "_id": {
+        "$id": "6522cb7cdd577e08e91e08dc"
+      },
+      "id": "20231245332",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696778820
+      },
+      "date": "08-10-2023",
+      "hour": "16:27",
+      "location": "Castelo Branco, Covilhã, Paul",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 30,
+      "terrain": 6,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Paul",
+      "dico": "0503",
+      "lat": 40.200355,
+      "lng": -7.633966,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Paúl ",
+      "active": true,
+      "sadoId": "20231245332",
+      "sharepointId": 22751849,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1696779132
+      },
+      "updated": {
+        "sec": 1696779963
       }
     }
   ]
