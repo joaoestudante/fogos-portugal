@@ -133,8 +133,8 @@
       "location": "Braga, Cabeceiras de Basto, Rio Douro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 25,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Rio Douro",
@@ -175,7 +175,7 @@
         "sec": 1696845136
       },
       "updated": {
-        "sec": 1696851964
+        "sec": 1696855562
       }
     },
     {
@@ -316,21 +316,21 @@
       "location": "Porto, Valongo, Campo E Sobrado",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 23,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Campo E Sobrado",
       "dico": "1315",
-      "lat": 41.16866,
-      "lng": -8.46327,
+      "lat": 41.168528,
+      "lng": -8.462102,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Campo E Sobrado ",
       "active": true,
@@ -354,7 +354,7 @@
         "sec": 1696853173
       },
       "updated": {
-        "sec": 1696854736
+        "sec": 1696855815
       }
     },
     {
@@ -368,24 +368,24 @@
       },
       "date": "09-10-2023",
       "hour": "13:14",
-      "location": "Porto, Trofa, Coronado (São Romão E São Mamede)",
-      "aerial": 1,
+      "location": "Porto, Trofa, Covelas",
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 18,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Trofa",
-      "freguesia": "Coronado (São Romão E São Mamede)",
+      "freguesia": "Covelas",
       "dico": "1318",
-      "lat": 41.29818,
-      "lng": -8.565538,
+      "lat": 41.29811,
+      "lng": -8.564292,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Coronado (São Romão E São Mamede) ",
       "active": true,
@@ -409,7 +409,7 @@
         "sec": 1696853883
       },
       "updated": {
-        "sec": 1696854735
+        "sec": 1696856161
       }
     },
     {
@@ -432,15 +432,15 @@
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Santa Maria Da Feira, Travanca, Sanfins E Espargo",
       "dico": "0109",
-      "lat": 40.9255,
-      "lng": -8.555837,
+      "lat": 40.927903,
+      "lng": -8.513318,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -464,7 +464,66 @@
         "sec": 1696853883
       },
       "updated": {
-        "sec": 1696854130
+        "sec": 1696855815
+      }
+    },
+    {
+      "_id": {
+        "$id": "6523f60adbf7522f986192bf"
+      },
+      "id": "20231249231",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696855020
+      },
+      "date": "09-10-2023",
+      "hour": "13:37",
+      "location": "Beja, Ourique, Ourique",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 6,
+      "district": "Beja",
+      "concelho": "Ourique",
+      "freguesia": "Ourique",
+      "dico": "0212",
+      "lat": 37.71298,
+      "lng": -8.224726,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Ourique ",
+      "active": true,
+      "sadoId": "20231249231",
+      "sharepointId": 22755748,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 150.544,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.71298389.-8.22472572) - N264. 7670 Ourique. Portugal (Horta das Oliveiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1696855562
+      },
+      "updated": {
+        "sec": 1696856290
       }
     }
   ]
