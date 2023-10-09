@@ -188,8 +188,8 @@
       "location": "Faro, Olhão, Pechão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Olhão",
       "freguesia": "Pechão",
@@ -226,7 +226,7 @@
         "sec": 1696869123
       },
       "updated": {
-        "sec": 1696875011
+        "sec": 1696875857
       }
     },
     {
@@ -361,13 +361,13 @@
       "dico": "0302",
       "lat": 41.552466,
       "lng": -8.516327,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -391,7 +391,7 @@
         "sec": 1696874659
       },
       "updated": {
-        "sec": 1696875011
+        "sec": 1696876222
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Braga, Vieira do Minho, Anjos E Vilar Do Chão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 20,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Anjos E Vilar Do Chão",
@@ -446,7 +446,7 @@
         "sec": 1696875011
       },
       "updated": {
-        "sec": 1696875490
+        "sec": 1696875857
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sobreira ",
       "active": true,
@@ -501,7 +501,117 @@
         "sec": 1696875611
       },
       "updated": {
-        "sec": 1696875623
+        "sec": 1696876222
+      }
+    },
+    {
+      "_id": {
+        "$id": "652444d7aa725e64a554d8ac"
+      },
+      "id": "20231250787",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696874940
+      },
+      "date": "09-10-2023",
+      "hour": "19:09",
+      "location": "Setúbal, Setúbal, Gâmbia-pontes-alto Da Guerra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Setúbal",
+      "freguesia": "Gâmbia-pontes-alto Da Guerra",
+      "dico": "1512",
+      "lat": 38.554124,
+      "lng": -8.764047,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gâmbia ",
+      "active": true,
+      "sadoId": "20231250787",
+      "sharepointId": 22757304,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1696875735
+      },
+      "updated": {
+        "sec": 1696875746
+      }
+    },
+    {
+      "_id": {
+        "$id": "652446beaa725e64a554d8b7"
+      },
+      "id": "20231250809",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696875960
+      },
+      "date": "09-10-2023",
+      "hour": "19:26",
+      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Bacelo E Senhora Da Saúde",
+      "dico": "0705",
+      "lat": 38.5641,
+      "lng": -7.90008,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Bacelo E Senhora Da Saúde ",
+      "active": true,
+      "sadoId": "20231250809",
+      "sharepointId": 22757326,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1696876222
+      },
+      "updated": {
+        "sec": 1696876235
       }
     }
   ]
