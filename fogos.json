@@ -133,16 +133,16 @@
       "location": "Braga, Vila Verde, Oriz (Santa Marinha) E Oriz (São Miguel)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 10,
+      "man": 12,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Oriz (Santa Marinha) E Oriz (São Miguel)",
       "dico": "0313",
       "lat": 41.710397,
       "lng": -8.362697,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -175,66 +175,7 @@
         "sec": 1696959130
       },
       "updated": {
-        "sec": 1696972929
-      }
-    },
-    {
-      "_id": {
-        "$id": "6525a1526a1b9546491db293"
-      },
-      "id": "20231255776",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696964340
-      },
-      "date": "10-10-2023",
-      "hour": "19:59",
-      "location": "Beja, Beja, Nossa Senhora Das Neves",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Beja",
-      "freguesia": "Nossa Senhora Das Neves",
-      "dico": "0205",
-      "lat": 38.022602,
-      "lng": -7.806643,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Neves ",
-      "active": true,
-      "sadoId": "20231255776",
-      "sharepointId": 22762293,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 106.156,
-        "agricola": true,
-        "fontealerta": "Outros"
-      },
-      "detailLocation": "Nossa senhora das Neves (Monte da Cruz)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "created": {
-        "sec": 1696964946
-      },
-      "updated": {
-        "sec": 1696968965
+        "sec": 1696976049
       }
     },
     {
@@ -534,8 +475,8 @@
       "location": "Porto, Penafiel, Boelhe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 22,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Boelhe",
@@ -546,9 +487,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Boelhe ",
       "active": true,
@@ -572,7 +513,62 @@
         "sec": 1696972689
       },
       "updated": {
-        "sec": 1696972929
+        "sec": 1696975562
+      }
+    },
+    {
+      "_id": {
+        "$id": "6525c804d68f6a039e423ce3"
+      },
+      "id": "20231256277",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696974120
+      },
+      "date": "10-10-2023",
+      "hour": "22:42",
+      "location": "Porto, Baião, Campelo E Ovil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Campelo E Ovil",
+      "dico": "1302",
+      "lat": 41.173457,
+      "lng": -8.009222,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Outoreca ",
+      "active": true,
+      "sadoId": "20231256277",
+      "sharepointId": 22762794,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1696974852
+      },
+      "updated": {
+        "sec": 1696976049
       }
     }
   ]
