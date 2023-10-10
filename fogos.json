@@ -62,61 +62,6 @@
     },
     {
       "_id": {
-        "$id": "65252b7141cd59182230d383"
-      },
-      "id": "20231253501",
-      "coords": true,
-      "dateTime": {
-        "sec": 1696934640
-      },
-      "date": "10-10-2023",
-      "hour": "11:44",
-      "location": "Braga, Póvoa de Lanhoso, Travassos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Travassos",
-      "dico": "0309",
-      "lat": 41.568433,
-      "lng": -8.209107,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20231253501",
-      "sharepointId": 22760018,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1696934769
-      },
-      "updated": {
-        "sec": 1696947244
-      }
-    },
-    {
-      "_id": {
         "$id": "65255a4d3ff93b7aa1459cc3"
       },
       "id": "20231254514",
@@ -127,16 +72,16 @@
       "date": "10-10-2023",
       "hour": "15:04",
       "location": "Braga, Fafe, Quinchães",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 15,
       "terrain": 3,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Quinchães",
       "dico": "0307",
-      "lat": 41.4376,
-      "lng": -8.13985,
+      "lat": 41.418782,
+      "lng": -8.136848,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -151,8 +96,12 @@
       "sharepointId": 22761031,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 449.847,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Casadela (Assento)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +116,7 @@
         "sec": 1696946765
       },
       "updated": {
-        "sec": 1696949051
+        "sec": 1696950335
       }
     },
     {
@@ -206,8 +155,12 @@
       "sharepointId": 22761038,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 197.958,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Santana (GROVELAS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +175,7 @@
         "sec": 1696946889
       },
       "updated": {
-        "sec": 1696948691
+        "sec": 1696950235
       }
     },
     {
@@ -245,15 +198,15 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
       "dico": "1713",
-      "lat": 41.454968,
-      "lng": -7.695103,
+      "lat": 41.45003,
+      "lng": -7.684635,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Telões ",
       "active": true,
@@ -261,8 +214,12 @@
       "sharepointId": 22761177,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 769.46,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Teloes (Vale dos Arados)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -277,7 +234,121 @@
         "sec": 1696948332
       },
       "updated": {
-        "sec": 1696949051
+        "sec": 1696950850
+      }
+    },
+    {
+      "_id": {
+        "$id": "6525649c9d51336e5d64a86d"
+      },
+      "id": "20231254745",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696949160
+      },
+      "date": "10-10-2023",
+      "hour": "15:46",
+      "location": "Setúbal, Almada, Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "dico": "1503",
+      "lat": 38.67316,
+      "lng": -9.17081,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "União Das Freguesias De Almada, Cova Da Piedade, Pragal E Cacilhas ",
+      "active": true,
+      "sadoId": "20231254745",
+      "sharepointId": 22761262,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 71.5034,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "AVENIDA FERNANDO PEIXINHO (Pragal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1696949404
+      },
+      "updated": {
+        "sec": 1696950850
+      }
+    },
+    {
+      "_id": {
+        "$id": "65256ab4fcc22939b7026f20"
+      },
+      "id": "20231254867",
+      "coords": true,
+      "dateTime": {
+        "sec": 1696950780
+      },
+      "date": "10-10-2023",
+      "hour": "16:13",
+      "location": "Aveiro, Sever do Vouga, Couto De Esteves",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Couto De Esteves",
+      "dico": "0117",
+      "lat": 40.756924,
+      "lng": -8.307205,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Couto De Esteves ",
+      "active": true,
+      "sadoId": "20231254867",
+      "sharepointId": 22761384,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1696950964
+      },
+      "updated": {
+        "sec": 1696950975
       }
     }
   ]
