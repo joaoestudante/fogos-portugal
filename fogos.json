@@ -133,8 +133,8 @@
       "location": "Braga, Vila Verde, Vade",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 12,
+      "man": 42,
+      "terrain": 14,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Vade",
@@ -171,7 +171,7 @@
         "sec": 1697022541
       },
       "updated": {
-        "sec": 1697028250
+        "sec": 1697031730
       }
     },
     {
@@ -365,9 +365,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Campelo ",
       "active": true,
@@ -391,7 +391,7 @@
         "sec": 1697029487
       },
       "updated": {
-        "sec": 1697030415
+        "sec": 1697031136
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Aveiro, Vale de Cambra, Arões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 47,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Vale De Cambra",
       "freguesia": "Arões",
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Arões ",
       "active": true,
@@ -505,7 +505,66 @@
         "sec": 1697029804
       },
       "updated": {
-        "sec": 1697030891
+        "sec": 1697031962
+      }
+    },
+    {
+      "_id": {
+        "$id": "6526a71a3ddcb7050f65336a"
+      },
+      "id": "20231259051",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697031600
+      },
+      "date": "11-10-2023",
+      "hour": "14:40",
+      "location": "Braga, Braga, Celeirós, Aveleda E Vimieiro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Celeirós, Aveleda E Vimieiro",
+      "dico": "0303",
+      "lat": 41.5115,
+      "lng": -8.44373,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Celeirós ",
+      "active": true,
+      "sadoId": "20231259051",
+      "sharepointId": 22765568,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 169.242,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.51150200.-8.44373000) - Rua de Andrias 95. 4705-393 Braga. Portugal (Covelo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1697031962
+      },
+      "updated": {
+        "sec": 1697031980
       }
     }
   ]
