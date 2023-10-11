@@ -74,8 +74,8 @@
       "location": "Braga, Vila Verde, Vade",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 10,
+      "man": 20,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Vade",
@@ -116,7 +116,7 @@
         "sec": 1697022541
       },
       "updated": {
-        "sec": 1697048749
+        "sec": 1697051360
       }
     },
     {
@@ -192,8 +192,8 @@
       "location": "Aveiro, Vale de Cambra, Arões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 62,
-      "terrain": 16,
+      "man": 60,
+      "terrain": 15,
       "district": "Aveiro",
       "concelho": "Vale De Cambra",
       "freguesia": "Arões",
@@ -234,7 +234,7 @@
         "sec": 1697029804
       },
       "updated": {
-        "sec": 1697048411
+        "sec": 1697050456
       }
     },
     {
@@ -357,65 +357,6 @@
     },
     {
       "_id": {
-        "$id": "6526c95b8cc4f828f4612a42"
-      },
-      "id": "20231259705",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697040240
-      },
-      "date": "11-10-2023",
-      "hour": "17:04",
-      "location": "Viana Do Castelo, Ponte de Lima, Boalhosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte De Lima",
-      "freguesia": "Boalhosa",
-      "dico": "1607",
-      "lat": 41.731193,
-      "lng": -8.479173,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Boalhosa ",
-      "active": true,
-      "sadoId": "20231259705",
-      "sharepointId": 22766222,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 578.121,
-        "agricola": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Boalhosa",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1697040731
-      },
-      "updated": {
-        "sec": 1697044565
-      }
-    },
-    {
-      "_id": {
         "$id": "6526de0048d06d5f3960a777"
       },
       "id": "20231260075",
@@ -428,8 +369,8 @@
       "location": "Aveiro, Albergaria-a-Velha, São João De Loure E Frossos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "São João De Loure E Frossos",
@@ -444,14 +385,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Frias ",
+      "localidade": "Frossos ",
       "active": true,
       "sadoId": "20231260075",
       "sharepointId": 22766592,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 77.4231,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Frias de Cima (Vale das Silvas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -466,62 +411,7 @@
         "sec": 1697046016
       },
       "updated": {
-        "sec": 1697049496
-      }
-    },
-    {
-      "_id": {
-        "$id": "6526e05b48d06d5f3960a7a2"
-      },
-      "id": "20231260120",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697046420
-      },
-      "date": "11-10-2023",
-      "hour": "18:47",
-      "location": "Viseu, Castro Daire, Castro Daire",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Castro Daire",
-      "freguesia": "Castro Daire",
-      "dico": "1803",
-      "lat": 40.918081,
-      "lng": -7.938447,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Lamelas De Cá ",
-      "active": true,
-      "sadoId": "20231260120",
-      "sharepointId": 22766637,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1697046619
-      },
-      "updated": {
-        "sec": 1697048750
+        "sec": 1697051360
       }
     },
     {
@@ -538,8 +428,8 @@
       "location": "Aveiro, Castelo de Paiva, Sobrado E Bairros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 7,
+      "man": 23,
+      "terrain": 6,
       "district": "Aveiro",
       "concelho": "Castelo De Paiva",
       "freguesia": "Sobrado E Bairros",
@@ -560,8 +450,12 @@
       "sharepointId": 22766669,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 220.887,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Bairros (Quintinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -576,66 +470,7 @@
         "sec": 1697047090
       },
       "updated": {
-        "sec": 1697049251
-      }
-    },
-    {
-      "_id": {
-        "$id": "6526e40bdfb08b0cb4103852"
-      },
-      "id": "20231260174",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697047320
-      },
-      "date": "11-10-2023",
-      "hour": "19:02",
-      "location": "Viana Do Castelo, Viana do Castelo, Areosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Areosa",
-      "dico": "1609",
-      "lat": 41.70743,
-      "lng": -8.85067,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mirante ",
-      "active": true,
-      "sadoId": "20231260174",
-      "sharepointId": 22766691,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 13.9531,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Bairro do Mirante 42. 4900-642 Viana do Castelo. Portugal (Rua do Mirante)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1697047563
-      },
-      "updated": {
-        "sec": 1697049964
+        "sec": 1697051088
       }
     },
     {
@@ -782,9 +617,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lg Sequeira ",
       "active": true,
@@ -792,8 +627,12 @@
       "sharepointId": 22766758,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 210.876,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg Sequeira (Real)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -808,7 +647,7 @@
         "sec": 1697048750
       },
       "updated": {
-        "sec": 1697049251
+        "sec": 1697051360
       }
     },
     {
@@ -837,9 +676,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -847,8 +686,12 @@
       "sharepointId": 22766826,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 216.007,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Junto ao campo de futebol (Penedo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -863,51 +706,51 @@
         "sec": 1697049496
       },
       "updated": {
-        "sec": 1697049964
+        "sec": 1697051360
       }
     },
     {
       "_id": {
-        "$id": "6526ed6c6aa4030ed52aa849"
+        "$id": "6526ee696aa4030ed52aa857"
       },
-      "id": "20231260328",
+      "id": "20231260323",
       "coords": true,
       "dateTime": {
-        "sec": 1697049540
+        "sec": 1697049600
       },
       "date": "11-10-2023",
-      "hour": "19:39",
-      "location": "Porto, Paredes, Lordelo",
+      "hour": "19:40",
+      "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Lordelo",
-      "dico": "1310",
-      "lat": 41.232163,
-      "lng": -8.409851,
+      "man": 7,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Lobão, Gião, Louredo E Guisande",
+      "dico": "0109",
+      "lat": 40.99356,
+      "lng": -8.49489,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Lordelo ",
+      "localidade": "União Das Freguesias De Lobão, Gião, Louredo E Guisande ",
       "active": true,
-      "sadoId": "20231260328",
-      "sharepointId": 22766845,
+      "sadoId": "20231260323",
+      "sharepointId": 22766840,
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 192.21,
+        "altitude": 189.086,
         "fogacho": true,
-        "fontealerta": "Populares"
+        "fontealerta": "112"
       },
-      "detailLocation": "Lugar da Parteira (LORDELO)",
+      "detailLocation": "Rua Principal 1233. 4505-515 Santa Maria da Feira. Portugal (São Martinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -919,10 +762,246 @@
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1697049964
+        "sec": 1697050217
       },
       "updated": {
-        "sec": 1697049988
+        "sec": 1697051468
+      }
+    },
+    {
+      "_id": {
+        "$id": "6526eee06aa4030ed52aa860"
+      },
+      "id": "20231260355",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697050080
+      },
+      "date": "11-10-2023",
+      "hour": "19:48",
+      "location": "Braga, Barcelos, Quintiães E Aguiar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Barcelos",
+      "freguesia": "Quintiães E Aguiar",
+      "dico": "0302",
+      "lat": 41.61373,
+      "lng": -8.6595,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Quintiães E Aguiar ",
+      "active": true,
+      "sadoId": "20231260355",
+      "sharepointId": 22766872,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 118.659,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M1041-4. 4750 Barcelos. Portugal (Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1697050336
+      },
+      "updated": {
+        "sec": 1697051361
+      }
+    },
+    {
+      "_id": {
+        "$id": "6526eee16aa4030ed52aa861"
+      },
+      "id": "20231260357",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697049960
+      },
+      "date": "11-10-2023",
+      "hour": "19:46",
+      "location": "Viseu, Castro Daire, Mezio E Moura Morta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Castro Daire",
+      "freguesia": "Mezio E Moura Morta",
+      "dico": "1803",
+      "lat": 40.985528,
+      "lng": -7.891906,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mézio ",
+      "active": true,
+      "sadoId": "20231260357",
+      "sharepointId": 22766874,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 919.456,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "MEZIO (MÉZIO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1697050337
+      },
+      "updated": {
+        "sec": 1697051269
+      }
+    },
+    {
+      "_id": {
+        "$id": "6526ef586aa4030ed52aa86d"
+      },
+      "id": "20231260356",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697050080
+      },
+      "date": "11-10-2023",
+      "hour": "19:48",
+      "location": "Viana Do Castelo, Viana do Castelo, Darque",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Darque",
+      "dico": "1609",
+      "lat": 41.68332,
+      "lng": -8.7942,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Darque ",
+      "active": true,
+      "sadoId": "20231260356",
+      "sharepointId": 22766873,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 47.0144,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.68332000.-8.79420000) - Avenida 1 de Maio. 4935-114 Viana do Castelo. Portugal (Darque)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1697050456
+      },
+      "updated": {
+        "sec": 1697051361
+      }
+    },
+    {
+      "_id": {
+        "$id": "6526f2e13373e9665833d9f3"
+      },
+      "id": "20231260410",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697050740
+      },
+      "date": "11-10-2023",
+      "hour": "19:59",
+      "location": "Vila Real, Boticas, Ardãos E Bobadela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Boticas",
+      "freguesia": "Ardãos E Bobadela",
+      "dico": "1702",
+      "lat": 41.760209,
+      "lng": -7.611369,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ardãos ",
+      "active": true,
+      "sadoId": "20231260410",
+      "sharepointId": 22766927,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 558.06,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Ardãos",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1697051361
+      },
+      "updated": {
+        "sec": 1697051469
       }
     }
   ]
