@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Pataias E Martingança ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1697005922
       },
       "updated": {
-        "sec": 1697011218
+        "sec": 1697013976
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Lisboa, Cascais, Cascais E Estoril",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Cascais E Estoril",
@@ -255,9 +255,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Cascais E Estoril ",
       "active": true,
@@ -281,7 +281,66 @@
         "sec": 1697012896
       },
       "updated": {
-        "sec": 1697012906
+        "sec": 1697013131
+      }
+    },
+    {
+      "_id": {
+        "$id": "652660d837e1e5724844dd58"
+      },
+      "id": "20231257517",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697013540
+      },
+      "date": "11-10-2023",
+      "hour": "09:39",
+      "location": "Faro, Lagoa, Lagoa E Carvoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Lagoa",
+      "freguesia": "Lagoa E Carvoeiro",
+      "dico": "0806",
+      "lat": 37.108375,
+      "lng": -8.487451,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sesmarias ",
+      "active": true,
+      "sadoId": "20231257517",
+      "sharepointId": 22764034,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 13.19,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Sesmarias (Vale Currais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1697013976
+      },
+      "updated": {
+        "sec": 1697013993
       }
     }
   ]
