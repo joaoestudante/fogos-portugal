@@ -192,16 +192,16 @@
       "location": "Viana Do Castelo, Melgaço, Cousso",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 7,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Melgaço",
       "freguesia": "Cousso",
       "dico": "1603",
       "lat": 42.056058,
       "lng": -8.287427,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 9,
@@ -215,8 +215,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1.5,
+          "agricola": 0,
+          "mato": 1,
+          "total": 2.5
+        },
         "altitude": 551.636,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "CCO"
       },
       "detailLocation": "Lugar de Cela (Coutos da Costa)",
@@ -234,43 +240,102 @@
         "sec": 1697075896
       },
       "updated": {
-        "sec": 1697103252
+        "sec": 1697108562
       }
     },
     {
       "_id": {
-        "$id": "6527c85c0609c5057a13aeee"
+        "$id": "6527d0c50609c5057a13af18"
       },
-      "id": "20231262660",
+      "id": "20231262869",
       "coords": true,
       "dateTime": {
-        "sec": 1697105820
+        "sec": 1697107680
       },
       "date": "12-10-2023",
-      "hour": "11:17",
-      "location": "Lisboa, Cadaval, Cadaval E Pêro Moniz",
+      "hour": "11:48",
+      "location": "Lisboa, Lourinhã, São Bartolomeu Dos Galegos E Moledo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 8,
+      "man": 14,
+      "terrain": 4,
       "district": "Lisboa",
-      "concelho": "Cadaval",
-      "freguesia": "Cadaval E Pêro Moniz",
-      "dico": "1104",
-      "lat": 39.190825,
-      "lng": -9.163244,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "concelho": "Lourinhã",
+      "freguesia": "São Bartolomeu Dos Galegos E Moledo",
+      "dico": "1108",
+      "lat": 39.284539,
+      "lng": -9.256175,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Quinta De São Francisco ",
+      "localidade": "Moledo ",
       "active": true,
-      "sadoId": "20231262660",
-      "sharepointId": 22769182,
+      "sadoId": "20231262869",
+      "sharepointId": 22769391,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 116.477,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "MOLEDO",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1697108165
+      },
+      "updated": {
+        "sec": 1697108687
+      }
+    },
+    {
+      "_id": {
+        "$id": "6527d2cf42d37a32ca088c02"
+      },
+      "id": "20231262904",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697107800
+      },
+      "date": "12-10-2023",
+      "hour": "11:50",
+      "location": "Porto, Felgueiras, Vila Cova Da Lixa E Borba De Godim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Vila Cova Da Lixa E Borba De Godim",
+      "dico": "1303",
+      "lat": 41.316898,
+      "lng": -8.167695,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Vila Cova ",
+      "active": true,
+      "sadoId": "20231262904",
+      "sharepointId": 22769426,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -283,13 +348,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
       "created": {
-        "sec": 1697106012
+        "sec": 1697108687
       },
       "updated": {
-        "sec": 1697107565
+        "sec": 1697108890
       }
     }
   ]
