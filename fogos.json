@@ -269,9 +269,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Moledo ",
       "active": true,
@@ -299,7 +299,7 @@
         "sec": 1697108165
       },
       "updated": {
-        "sec": 1697108687
+        "sec": 1697109855
       }
     },
     {
@@ -328,9 +328,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Cova ",
       "active": true,
@@ -354,7 +354,62 @@
         "sec": 1697108687
       },
       "updated": {
-        "sec": 1697108890
+        "sec": 1697109363
+      }
+    },
+    {
+      "_id": {
+        "$id": "6527d75fc60cf926bd1060a4"
+      },
+      "id": "20231263004",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697109660
+      },
+      "date": "12-10-2023",
+      "hour": "12:21",
+      "location": "Porto, Penafiel, Recezinhos (São Mamede)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Recezinhos (São Mamede)",
+      "dico": "1311",
+      "lat": 41.239681,
+      "lng": -8.201129,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Casal ",
+      "active": true,
+      "sadoId": "20231263004",
+      "sharepointId": 22769526,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1697109855
+      },
+      "updated": {
+        "sec": 1697109865
       }
     }
   ]
