@@ -80,8 +80,8 @@
       "location": "Porto, Santo Tirso, Monte Córdova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Monte Córdova",
@@ -122,7 +122,7 @@
         "sec": 1697303649
       },
       "updated": {
-        "sec": 1697306891
+        "sec": 1697307731
       }
     },
     {
@@ -194,8 +194,8 @@
       "location": "Braga, Vila Nova de Famalicão, Cruz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Cruz",
@@ -206,9 +206,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Cruz ",
       "active": true,
@@ -232,7 +232,172 @@
         "sec": 1697307250
       },
       "updated": {
-        "sec": 1697307263
+        "sec": 1697307963
+      }
+    },
+    {
+      "_id": {
+        "$id": "652adbdf9e19e45c8b754ad2"
+      },
+      "id": "20231273996",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697307300
+      },
+      "date": "14-10-2023",
+      "hour": "19:15",
+      "location": "Porto, Baião, Santa Cruz Do Douro E São Tomé De Covelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
+      "dico": "1302",
+      "lat": 41.11564,
+      "lng": -7.9998,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Santa Cruz Do Douro E São Tomé De Covelas ",
+      "active": true,
+      "sadoId": "20231273996",
+      "sharepointId": 22780518,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1697307615
+      },
+      "updated": {
+        "sec": 1697307627
+      }
+    },
+    {
+      "_id": {
+        "$id": "652adc529e19e45c8b754ade"
+      },
+      "id": "20231273956",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697306460
+      },
+      "date": "14-10-2023",
+      "hour": "19:01",
+      "location": "Viseu, Moimenta da Beira, Sarzedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Moimenta Da Beira",
+      "freguesia": "Sarzedo",
+      "dico": "1807",
+      "lat": 41.015822,
+      "lng": -7.647162,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sarzedo ",
+      "active": true,
+      "sadoId": "20231273956",
+      "sharepointId": 22780478,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1697307730
+      },
+      "updated": {
+        "sec": 1697307963
+      }
+    },
+    {
+      "_id": {
+        "$id": "652add3b9e19e45c8b754ae7"
+      },
+      "id": "20231274021",
+      "coords": true,
+      "dateTime": {
+        "sec": 1697307540
+      },
+      "date": "14-10-2023",
+      "hour": "19:19",
+      "location": "Leiria, Óbidos, Santa Maria, São Pedro E Sobral Da Lagoa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Santa Maria, São Pedro E Sobral Da Lagoa",
+      "dico": "1012",
+      "lat": 39.352636,
+      "lng": -9.198101,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobral Da Lagoa ",
+      "active": true,
+      "sadoId": "20231274021",
+      "sharepointId": 22780543,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1697307963
+      },
+      "updated": {
+        "sec": 1697307963
       }
     }
   ]
