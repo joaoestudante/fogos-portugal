@@ -68,116 +68,6 @@
     },
     {
       "_id": {
-        "$id": "652ad7a8b35d29045b090ca0"
-      },
-      "id": "20231273944",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697306100
-      },
-      "date": "14-10-2023",
-      "hour": "18:55",
-      "location": "Lisboa, Lourinhã, Lourinhã E Atalaia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Lourinhã",
-      "freguesia": "Lourinhã E Atalaia",
-      "dico": "1108",
-      "lat": 39.273052,
-      "lng": -9.324358,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casal De Vale De Adares ",
-      "active": true,
-      "sadoId": "20231273944",
-      "sharepointId": 22780466,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1697306536
-      },
-      "updated": {
-        "sec": 1697307250
-      }
-    },
-    {
-      "_id": {
-        "$id": "652ada729e19e45c8b754ac4"
-      },
-      "id": "20231273985",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697307180
-      },
-      "date": "14-10-2023",
-      "hour": "19:13",
-      "location": "Braga, Vila Nova de Famalicão, Avidos E Lagoa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Vila Nova De Famalicão",
-      "freguesia": "Avidos E Lagoa",
-      "dico": "0312",
-      "lat": 41.384953,
-      "lng": -8.498402,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "S. Claudio ",
-      "active": true,
-      "sadoId": "20231273985",
-      "sharepointId": 22780507,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1697307250
-      },
-      "updated": {
-        "sec": 1697309162
-      }
-    },
-    {
-      "_id": {
         "$id": "652adbdf9e19e45c8b754ad2"
       },
       "id": "20231273996",
@@ -202,9 +92,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Santa Cruz Do Douro E São Tomé De Covelas ",
       "active": true,
@@ -212,8 +102,12 @@
       "sharepointId": 22780518,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 164.541,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lazarim (Quinta da Capela)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -228,7 +122,7 @@
         "sec": 1697307615
       },
       "updated": {
-        "sec": 1697308655
+        "sec": 1697310288
       }
     },
     {
@@ -245,8 +139,8 @@
       "location": "Viseu, Moimenta da Beira, Sarzedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Moimenta Da Beira",
       "freguesia": "Sarzedo",
@@ -267,8 +161,12 @@
       "sharepointId": 22780478,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 711.41,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Sarzedo SARZEDO (Quinta da Arreda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -283,7 +181,7 @@
         "sec": 1697307730
       },
       "updated": {
-        "sec": 1697308655
+        "sec": 1697310609
       }
     },
     {
@@ -312,9 +210,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sobral Da Lagoa ",
       "active": true,
@@ -327,7 +225,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "R Vista Airosa (AMOREIRA)",
+      "detailLocation": "R Vista Airosa (Pinhal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -342,7 +240,7 @@
         "sec": 1697307963
       },
       "updated": {
-        "sec": 1697309162
+        "sec": 1697310310
       }
     },
     {
@@ -359,8 +257,8 @@
       "location": "Viseu, Vila Nova de Paiva, Vila Nova De Paiva, Alhais E Fráguas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 26,
+      "terrain": 6,
       "district": "Viseu",
       "concelho": "Vila Nova De Paiva",
       "freguesia": "Vila Nova De Paiva, Alhais E Fráguas",
@@ -401,62 +299,7 @@
         "sec": 1697308656
       },
       "updated": {
-        "sec": 1697308923
-      }
-    },
-    {
-      "_id": {
-        "$id": "652ae1eb4fb5290ed157a684"
-      },
-      "id": "20231274082",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697308500
-      },
-      "date": "14-10-2023",
-      "hour": "19:35",
-      "location": "Lisboa, Odivelas, Ramada E Caneças",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Ramada E Caneças",
-      "dico": "1116",
-      "lat": 38.811058,
-      "lng": -9.224517,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Caneças ",
-      "active": true,
-      "sadoId": "20231274082",
-      "sharepointId": 22780604,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1697309163
-      },
-      "updated": {
-        "sec": 1697309177
+        "sec": 1697310025
       }
     }
   ]
