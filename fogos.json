@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "652da72a0b86da1e732b1989"
-      },
-      "id": "20231282811",
-      "coords": true,
-      "dateTime": {
-        "sec": 1697490300
-      },
-      "date": "16-10-2023",
-      "hour": "22:05",
-      "location": "Viseu, Carregal do Sal, Oliveira Do Conde",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Carregal Do Sal",
-      "freguesia": "Oliveira Do Conde",
-      "dico": "1802",
-      "lat": 40.436205,
-      "lng": -7.96228,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Oliveira Do Conde ",
-      "active": true,
-      "sadoId": "20231282811",
-      "sharepointId": 22789333,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1697490730
-      },
-      "updated": {
-        "sec": 1697494451
-      }
-    },
-    {
-      "_id": {
         "$id": "652db4c1597558041c683e22"
       },
       "id": "20231282953",
@@ -82,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rans ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 22789475,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 254.931,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Santo António (RÃS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1697494209
       },
       "updated": {
-        "sec": 1697494690
+        "sec": 1697497405
       }
     }
   ]
