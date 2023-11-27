@@ -15,8 +15,8 @@
       "location": "Viseu, Cinfães, Fornelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Fornelos",
@@ -37,8 +37,12 @@
       "sharepointId": 22975277,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 326.142,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Reta Sequeiro (Rio Ardena)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,62 +57,7 @@
         "sec": 1701111484
       },
       "updated": {
-        "sec": 1701113169
-      }
-    },
-    {
-      "_id": {
-        "$id": "6564ee43c2534d0658345b35"
-      },
-      "id": "20231468856",
-      "coords": true,
-      "dateTime": {
-        "sec": 1701113040
-      },
-      "date": "27-11-2023",
-      "hour": "19:24",
-      "location": "Leiria, Bombarral, Bombarral E Vale Covo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
-      "district": "Leiria",
-      "concelho": "Bombarral",
-      "freguesia": "Bombarral E Vale Covo",
-      "dico": "1005",
-      "lat": 39.245053,
-      "lng": -9.142029,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Portela ",
-      "active": true,
-      "sadoId": "20231468856",
-      "sharepointId": 22975395,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1701113411
-      },
-      "updated": {
-        "sec": 1701114362
+        "sec": 1701115337
       }
     }
   ]
