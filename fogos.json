@@ -70,8 +70,8 @@
       "location": "Leiria, Óbidos, Amoreira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Óbidos",
       "freguesia": "Amoreira",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Amoreira ",
       "active": true,
@@ -108,7 +108,66 @@
         "sec": 1702747456
       },
       "updated": {
-        "sec": 1702747470
+        "sec": 1702748648
+      }
+    },
+    {
+      "_id": {
+        "$id": "657de00454696173574f47af"
+      },
+      "id": "20231552837",
+      "coords": true,
+      "dateTime": {
+        "sec": 1702747680
+      },
+      "date": "16-12-2023",
+      "hour": "17:28",
+      "location": "Évora, Portel, Santana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Évora",
+      "concelho": "Portel",
+      "freguesia": "Santana",
+      "dico": "0709",
+      "lat": 38.26847,
+      "lng": -7.79921,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santana ",
+      "active": true,
+      "sadoId": "20231552837",
+      "sharepointId": 23059390,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 297.161,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santana. Portel. Portugal (SANTANA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1702748164
+      },
+      "updated": {
+        "sec": 1702748529
       }
     }
   ]
