@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Povoação ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1703603762
       },
       "updated": {
-        "sec": 1703607252
+        "sec": 1703609298
       }
     },
     {
@@ -74,8 +74,8 @@
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -86,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Cabreiros E Albergaria Da Serra ",
       "active": true,
@@ -112,7 +112,117 @@
         "sec": 1703608822
       },
       "updated": {
-        "sec": 1703608833
+        "sec": 1703609533
+      }
+    },
+    {
+      "_id": {
+        "$id": "658b06223e3c644a6d5ebd40"
+      },
+      "id": "20231598151",
+      "coords": true,
+      "dateTime": {
+        "sec": 1703609580
+      },
+      "date": "26-12-2023",
+      "hour": "16:53",
+      "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Charneca De Caparica E Sobreda",
+      "dico": "1503",
+      "lat": 38.63138,
+      "lng": -9.19244,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Charneca De Caparica E Sobreda ",
+      "active": true,
+      "sadoId": "20231598151",
+      "sharepointId": 23104707,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1703609890
+      },
+      "updated": {
+        "sec": 1703609901
+      }
+    },
+    {
+      "_id": {
+        "$id": "658b07fb95f4f17368403702"
+      },
+      "id": "20231598197",
+      "coords": true,
+      "dateTime": {
+        "sec": 1703609880
+      },
+      "date": "26-12-2023",
+      "hour": "16:58",
+      "location": "Lisboa, Lisboa, Beato",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Beato",
+      "dico": "1106",
+      "lat": 38.732507,
+      "lng": -9.113681,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Beato ",
+      "active": true,
+      "sadoId": "20231598197",
+      "sharepointId": 23104753,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1703610363
+      },
+      "updated": {
+        "sec": 1703610373
       }
     }
   ]
