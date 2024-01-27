@@ -74,8 +74,8 @@
       "location": "Lisboa, Alenquer, Alenquer (Santo Estêvão E Triana)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Alenquer",
       "freguesia": "Alenquer (Santo Estêvão E Triana)",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Casal Pinheiro ",
       "active": true,
@@ -112,7 +112,62 @@
         "sec": 1706354656
       },
       "updated": {
-        "sec": 1706354666
+        "sec": 1706355257
+      }
+    },
+    {
+      "_id": {
+        "$id": "65b4ea39efe093684c011e76"
+      },
+      "id": "20240116312",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706354940
+      },
+      "date": "27-01-2024",
+      "hour": "11:29",
+      "location": "Vila Real, Alijó, Vila Chã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Alijó",
+      "freguesia": "Vila Chã",
+      "dico": "1701",
+      "lat": 41.3359,
+      "lng": -7.469503,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vila Chã ",
+      "active": true,
+      "sadoId": "20240116312",
+      "sharepointId": 23245643,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1706355257
+      },
+      "updated": {
+        "sec": 1706355272
       }
     }
   ]
