@@ -62,61 +62,6 @@
     },
     {
       "_id": {
-        "$id": "65b4e7e0efe093684c011e64"
-      },
-      "id": "20240116264",
-      "coords": true,
-      "dateTime": {
-        "sec": 1706354280
-      },
-      "date": "27-01-2024",
-      "hour": "11:18",
-      "location": "Lisboa, Alenquer, Alenquer (Santo Estêvão E Triana)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Alenquer (Santo Estêvão E Triana)",
-      "dico": "1101",
-      "lat": 39.036361,
-      "lng": -8.995842,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Casal Pinheiro ",
-      "active": true,
-      "sadoId": "20240116264",
-      "sharepointId": 23245595,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1706354656
-      },
-      "updated": {
-        "sec": 1706355257
-      }
-    },
-    {
-      "_id": {
         "$id": "65b4ea39efe093684c011e76"
       },
       "id": "20240116312",
@@ -129,21 +74,21 @@
       "location": "Vila Real, Alijó, Vila Chã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Alijó",
       "freguesia": "Vila Chã",
       "dico": "1701",
-      "lat": 41.3359,
-      "lng": -7.469503,
+      "lat": 41.329697,
+      "lng": -7.471253,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vila Chã ",
       "active": true,
@@ -151,8 +96,12 @@
       "sharepointId": 23245643,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 764.266,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.33589368.-7.46950298) - N212. 5070 Alijó. Portugal (EN212 (EN212) Km 35)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +116,7 @@
         "sec": 1706355257
       },
       "updated": {
-        "sec": 1706355272
+        "sec": 1706357897
       }
     }
   ]
