@@ -74,8 +74,8 @@
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Cabreiros E Albergaria Da Serra ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1706463017
       },
       "updated": {
-        "sec": 1706465411
+        "sec": 1706471060
       }
     },
     {
@@ -176,61 +176,6 @@
     },
     {
       "_id": {
-        "$id": "65b6a17154361914a235d419"
-      },
-      "id": "20240121622",
-      "coords": true,
-      "dateTime": {
-        "sec": 1706467380
-      },
-      "date": "28-01-2024",
-      "hour": "18:43",
-      "location": "Viseu, Penalva do Castelo, Esmolfe",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Penalva Do Castelo",
-      "freguesia": "Esmolfe",
-      "dico": "1811",
-      "lat": 40.67778,
-      "lng": -7.65694,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Esmolfe ",
-      "active": true,
-      "sadoId": "20240121622",
-      "sharepointId": 23250953,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1706467697
-      },
-      "updated": {
-        "sec": 1706469617
-      }
-    },
-    {
-      "_id": {
         "$id": "65b6a25354361914a235d423"
       },
       "id": "20240121636",
@@ -255,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Estrada Cm134 ",
       "active": true,
@@ -281,47 +226,51 @@
         "sec": 1706467923
       },
       "updated": {
-        "sec": 1706468643
+        "sec": 1706470337
       }
     },
     {
       "_id": {
-        "$id": "65b6a34254361914a235d435"
+        "$id": "65b6ab44fad7240e311df293"
       },
-      "id": "20240121644",
+      "id": "20240121751",
       "coords": true,
       "dateTime": {
-        "sec": 1706467980
+        "sec": 1706470020
       },
       "date": "28-01-2024",
-      "hour": "18:53",
-      "location": "Castelo Branco, Castelo Branco, Benquerenças",
+      "hour": "19:27",
+      "location": "Viana Do Castelo, Monção, Riba De Mouro",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 2,
       "terrain": 1,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Benquerenças",
-      "dico": "0502",
-      "lat": 39.801215,
-      "lng": -7.520957,
+      "district": "Viana Do Castelo",
+      "concelho": "Monção",
+      "freguesia": "Riba De Mouro",
+      "dico": "1604",
+      "lat": 42.039612,
+      "lng": -8.312647,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Benquerenças ",
+      "localidade": "Riba De Mouro ",
       "active": true,
-      "sadoId": "20240121644",
-      "sharepointId": 23250975,
+      "sadoId": "20240121751",
+      "sharepointId": 23251082,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 501.137,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Riba de Mouro (Pé de Lombo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -330,13 +279,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
       "created": {
-        "sec": 1706468162
+        "sec": 1706470212
       },
       "updated": {
-        "sec": 1706469851
+        "sec": 1706470690
       }
     }
   ]
