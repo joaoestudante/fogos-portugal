@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "65bbd162bcaef175580ef37c"
-      },
-      "id": "20240137730",
-      "coords": true,
-      "dateTime": {
-        "sec": 1706807100
-      },
-      "date": "01-02-2024",
-      "hour": "17:05",
-      "location": "Aveiro, Estarreja, Beduído E Veiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Beduído E Veiros",
-      "dico": "0108",
-      "lat": 40.750638,
-      "lng": -8.616237,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Veiros ",
-      "active": true,
-      "sadoId": "20240137730",
-      "sharepointId": 23267061,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1706807650
-      },
-      "updated": {
-        "sec": 1706812562
-      }
-    },
-    {
-      "_id": {
         "$id": "65bbeb2b2f09bc606c545271"
       },
       "id": "20240138119",
@@ -76,8 +21,8 @@
       "concelho": "Terras De Bouro",
       "freguesia": "Cibões E Brufe",
       "dico": "0310",
-      "lat": 41.766276,
-      "lng": -8.25768,
+      "lat": 41.766277,
+      "lng": -8.273573,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -92,8 +37,12 @@
       "sharepointId": 23267450,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 674.592,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Gilbarbedo (PENACOVA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1706814251
       },
       "updated": {
-        "sec": 1706816165
+        "sec": 1706817792
       }
     },
     {
@@ -147,8 +96,12 @@
       "sharepointId": 23267554,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 739.121,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Soutelos (Rio da Peneda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +116,239 @@
         "sec": 1706815564
       },
       "updated": {
-        "sec": 1706816164
+        "sec": 1706817805
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bbf5f46e580165a25c5d9b"
+      },
+      "id": "20240138311",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706816520
+      },
+      "date": "01-02-2024",
+      "hour": "19:42",
+      "location": "Viseu, Cinfães, Tendais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Tendais",
+      "dico": "1804",
+      "lat": 41.00945,
+      "lng": -8.05215,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Tendais ",
+      "active": true,
+      "sadoId": "20240138311",
+      "sharepointId": 23267642,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 746.953,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N321 (Ribeiro de Tendais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1706817012
+      },
+      "updated": {
+        "sec": 1706817921
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bbf7536e580165a25c5db3"
+      },
+      "id": "20240138353",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706816940
+      },
+      "date": "01-02-2024",
+      "hour": "19:49",
+      "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Foz Do Sousa E Covelo",
+      "dico": "1304",
+      "lat": 41.0963,
+      "lng": -8.482621,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Foz De Sousa ",
+      "active": true,
+      "sadoId": "20240138353",
+      "sharepointId": 23267684,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 60.2887,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Jancido (Ribeira de Fontão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1706817363
+      },
+      "updated": {
+        "sec": 1706817828
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bbf9396a44121661540d82"
+      },
+      "id": "20240138370",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706817000
+      },
+      "date": "01-02-2024",
+      "hour": "19:50",
+      "location": "Viana Do Castelo, Ponte de Lima, Beiral Do Lima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Beiral Do Lima",
+      "dico": "1607",
+      "lat": 41.762272,
+      "lng": -8.486683,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Chã ",
+      "active": true,
+      "sadoId": "20240138370",
+      "sharepointId": 23267701,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 325.325,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Vila Chã",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1706817849
+      },
+      "updated": {
+        "sec": 1706818043
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bbfb1443b50b13ee1ea799"
+      },
+      "id": "20240138412",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706817600
+      },
+      "date": "01-02-2024",
+      "hour": "20:00",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Rio Frio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Rio Frio",
+      "dico": "1601",
+      "lat": 41.86224,
+      "lng": -8.476395,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rio Frio ",
+      "active": true,
+      "sadoId": "20240138412",
+      "sharepointId": 23267743,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1706818324
+      },
+      "updated": {
+        "sec": 1706818335
       }
     }
   ]
