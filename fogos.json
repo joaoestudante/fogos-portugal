@@ -74,8 +74,8 @@
       "location": "Aveiro, Sever do Vouga, Pessegueiro Do Vouga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 8,
+      "man": 22,
+      "terrain": 9,
       "district": "Aveiro",
       "concelho": "Sever Do Vouga",
       "freguesia": "Pessegueiro Do Vouga",
@@ -116,7 +116,7 @@
         "sec": 1706888885
       },
       "updated": {
-        "sec": 1706894403
+        "sec": 1706896336
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Setúbal, Almada, Caparica E Trafaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 1,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Caparica E Trafaria",
@@ -175,7 +175,7 @@
         "sec": 1706889365
       },
       "updated": {
-        "sec": 1706891771
+        "sec": 1706896336
       }
     },
     {
@@ -247,8 +247,8 @@
       "location": "Viseu, Castro Daire, Cabril",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Cabril",
@@ -259,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Sobreda ",
       "active": true,
@@ -285,7 +285,62 @@
         "sec": 1706895253
       },
       "updated": {
-        "sec": 1706895270
+        "sec": 1706896457
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bd307a3e0e82521404c9ab"
+      },
+      "id": "20240142202",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706897100
+      },
+      "date": "02-02-2024",
+      "hour": "18:05",
+      "location": "Braga, Terras de Bouro, Chorense E Monte",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Chorense E Monte",
+      "dico": "0310",
+      "lat": 41.697798,
+      "lng": -8.267949,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240142202",
+      "sharepointId": 23271533,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1706897530
+      },
+      "updated": {
+        "sec": 1706897541
       }
     }
   ]
