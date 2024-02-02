@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Macieira ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1706871258
       },
       "updated": {
-        "sec": 1706872210
+        "sec": 1706872696
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Porto, Penafiel, Capela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Capela",
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Capela ",
       "active": true,
@@ -167,7 +167,62 @@
         "sec": 1706872091
       },
       "updated": {
-        "sec": 1706872102
+        "sec": 1706872563
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bcd14c1be7177b05125e6b"
+      },
+      "id": "20240140358",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706872440
+      },
+      "date": "02-02-2024",
+      "hour": "11:14",
+      "location": "Viseu, Cinfães, Oliveira Do Douro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Oliveira Do Douro",
+      "dico": "1804",
+      "lat": 41.08809,
+      "lng": -8.04222,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Oliveira Do Douro ",
+      "active": true,
+      "sadoId": "20240140358",
+      "sharepointId": 23269689,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1706873164
+      },
+      "updated": {
+        "sec": 1706873177
       }
     }
   ]
