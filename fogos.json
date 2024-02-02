@@ -72,9 +72,9 @@
       "date": "02-02-2024",
       "hour": "10:50",
       "location": "Vila Real, Ribeira de Pena, Cerva E Limões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 7,
       "terrain": 2,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Macieira ",
       "active": true,
@@ -96,8 +96,12 @@
       "sharepointId": 23269564,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 932.383,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "EN Macieira-Bobal (Macieira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,7 @@
         "sec": 1706871258
       },
       "updated": {
-        "sec": 1706874137
+        "sec": 1706876651
       }
     },
     {
@@ -129,21 +133,21 @@
       "location": "Porto, Penafiel, Capela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 12,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Capela",
       "dico": "1311",
       "lat": 41.10032,
       "lng": -8.3493,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Capela ",
       "active": true,
@@ -151,8 +155,12 @@
       "sharepointId": 23269641,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 259.486,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Capela. Penafiel. Portugal (ER319 (ER319) Km 42)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +175,7 @@
         "sec": 1706872091
       },
       "updated": {
-        "sec": 1706872563
+        "sec": 1706875946
       }
     },
     {
@@ -190,15 +198,15 @@
       "concelho": "Cinfães",
       "freguesia": "Oliveira Do Douro",
       "dico": "1804",
-      "lat": 41.08809,
-      "lng": -8.04222,
+      "lat": 41.081637,
+      "lng": -8.046877,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Oliveira Do Douro ",
       "active": true,
@@ -206,8 +214,12 @@
       "sharepointId": 23269689,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 199.234,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N222.  Cinfães. Portugal (Rebogato)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +234,66 @@
         "sec": 1706873164
       },
       "updated": {
-        "sec": 1706873645
+        "sec": 1706876405
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bcd7641be7177b05125ea2"
+      },
+      "id": "20240140525",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706874180
+      },
+      "date": "02-02-2024",
+      "hour": "11:43",
+      "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Lobão, Gião, Louredo E Guisande",
+      "dico": "0109",
+      "lat": 40.9751,
+      "lng": -8.46487,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Lobão, Gião, Louredo E Guisande ",
+      "active": true,
+      "sadoId": "20240140525",
+      "sharepointId": 23269856,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 193.776,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "A32 Km 15.000 (N-S) (Reguengo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1706874724
+      },
+      "updated": {
+        "sec": 1706875775
       }
     }
   ]
