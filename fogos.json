@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 10,
+          "total": 10
+        },
         "altitude": 912.054,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "CCO"
       },
       "detailLocation": "Sobreda",
@@ -57,7 +63,66 @@
         "sec": 1706895253
       },
       "updated": {
-        "sec": 1706930643
+        "sec": 1706933049
+      }
+    },
+    {
+      "_id": {
+        "$id": "65bdb9d881cc071ae473c62e"
+      },
+      "id": "20240143498",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706932380
+      },
+      "date": "03-02-2024",
+      "hour": "03:53",
+      "location": "Porto, Póvoa de Varzim, Aver-o-mar, Amorim E Terroso",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Póvoa De Varzim",
+      "freguesia": "Aver-o-mar, Amorim E Terroso",
+      "dico": "1313",
+      "lat": 41.42221,
+      "lng": -8.708066,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Aver-o-mar, Amorim E Terroso ",
+      "active": true,
+      "sadoId": "20240143498",
+      "sharepointId": 23272829,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 77.6488,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Sejães. (Sejães)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1706932696
+      },
+      "updated": {
+        "sec": 1706933282
       }
     }
   ]
