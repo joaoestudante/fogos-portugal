@@ -133,8 +133,8 @@
       "location": "Aveiro, Aveiro, Eixo E Eirol",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Eixo E Eirol",
@@ -175,7 +175,7 @@
         "sec": 1706971457
       },
       "updated": {
-        "sec": 1706976961
+        "sec": 1706978657
       }
     },
     {
@@ -322,9 +322,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Cemitério ",
       "active": true,
@@ -352,7 +352,7 @@
         "sec": 1706975297
       },
       "updated": {
-        "sec": 1706976843
+        "sec": 1706978657
       }
     },
     {
@@ -467,6 +467,65 @@
       },
       "updated": {
         "sec": 1706977809
+      }
+    },
+    {
+      "_id": {
+        "$id": "65be6d615bbb08615276bcb8"
+      },
+      "id": "20240145751",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706977680
+      },
+      "date": "03-02-2024",
+      "hour": "16:28",
+      "location": "Bragança, Vinhais, Soeira, Fresulfe E Mofreita",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Soeira, Fresulfe E Mofreita",
+      "dico": "0412",
+      "lat": 41.915724,
+      "lng": -6.914518,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mofreita ",
+      "active": true,
+      "sadoId": "20240145751",
+      "sharepointId": 23275082,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 907.062,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "MOFREITA (FACHO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1706978657
+      },
+      "updated": {
+        "sec": 1706978689
       }
     }
   ]
