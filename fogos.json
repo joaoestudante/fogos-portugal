@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Pousadela        ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1706977443
       },
       "updated": {
-        "sec": 1706982612
+        "sec": 1706987763
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Vilar De Andorinho",
@@ -112,7 +112,7 @@
         "sec": 1706984884
       },
       "updated": {
-        "sec": 1706986697
+        "sec": 1706988010
       }
     },
     {
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sobreiros ",
       "active": true,
@@ -222,7 +222,121 @@
         "sec": 1706986330
       },
       "updated": {
-        "sec": 1706986564
+        "sec": 1706988010
+      }
+    },
+    {
+      "_id": {
+        "$id": "65be90f37014fd73221af64c"
+      },
+      "id": "20240146330",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706987340
+      },
+      "date": "03-02-2024",
+      "hour": "19:09",
+      "location": "Guarda, Mêda, Prova E Casteição",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Prova E Casteição",
+      "dico": "0909",
+      "lat": 40.95416,
+      "lng": -7.327855,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sapateira ",
+      "active": true,
+      "sadoId": "20240146330",
+      "sharepointId": 23275661,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 689.068,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Sapateira/Telhal (Sapateira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1706987763
+      },
+      "updated": {
+        "sec": 1706988010
+      }
+    },
+    {
+      "_id": {
+        "$id": "65be91ea7014fd73221af657"
+      },
+      "id": "20240146340",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706987700
+      },
+      "date": "03-02-2024",
+      "hour": "19:15",
+      "location": "Porto, Santo Tirso, Negrelos (São Tomé)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Negrelos (São Tomé)",
+      "dico": "1314",
+      "lat": 41.346137,
+      "lng": -8.403205,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240146340",
+      "sharepointId": 23275671,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1706988010
+      },
+      "updated": {
+        "sec": 1706988031
       }
     }
   ]
