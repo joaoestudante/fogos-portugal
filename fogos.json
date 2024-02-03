@@ -74,8 +74,8 @@
       "location": "Porto, Paços de Ferreira, Eiriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
       "freguesia": "Eiriz",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Eiriz ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1706965699
       },
       "updated": {
-        "sec": 1706965710
+        "sec": 1706966657
       }
     },
     {
@@ -127,10 +127,10 @@
       "date": "03-02-2024",
       "hour": "13:04",
       "location": "Castelo Branco, Oleiros, Estreito-vilar Barroco",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 28,
+      "terrain": 7,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Estreito-vilar Barroco",
@@ -141,11 +141,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Estreito-vilar Barroco ",
+      "localidade": "Pêro Cabeço  ",
       "active": true,
       "sadoId": "20240144897",
       "sharepointId": 23274228,
@@ -167,7 +167,62 @@
         "sec": 1706965699
       },
       "updated": {
-        "sec": 1706965931
+        "sec": 1706966765
+      }
+    },
+    {
+      "_id": {
+        "$id": "65be3e818e98a367a25e3ad9"
+      },
+      "id": "20240144953",
+      "coords": true,
+      "dateTime": {
+        "sec": 1706966340
+      },
+      "date": "03-02-2024",
+      "hour": "13:19",
+      "location": "Évora, Mora, Cabeção",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Mora",
+      "freguesia": "Cabeção",
+      "dico": "0707",
+      "lat": 38.949469,
+      "lng": -8.074263,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cabeção ",
+      "active": true,
+      "sadoId": "20240144953",
+      "sharepointId": 23274284,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1706966657
+      },
+      "updated": {
+        "sec": 1706966668
       }
     }
   ]
