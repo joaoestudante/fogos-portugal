@@ -12,33 +12,37 @@
       },
       "date": "05-02-2024",
       "hour": "18:38",
-      "location": "Vila Real, Ribeira de Pena, Salvador E Santo Aleixo De Além-tâmega",
+      "location": "Vila Real, Ribeira de Pena, Alvadia",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
-      "freguesia": "Salvador E Santo Aleixo De Além-tâmega",
+      "freguesia": "Alvadia",
       "dico": "1709",
-      "lat": 41.516687,
-      "lng": -7.818551,
+      "lat": 41.468993,
+      "lng": -7.765745,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "União Das Freguesias De Ribeira De Pena (Salvador) E Santo Aleixo De Além-tâmega ",
+      "localidade": "Lamas ",
       "active": true,
       "sadoId": "20240154083",
       "sharepointId": 23283414,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 591.136,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lamas (Ladeira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1707159010
       },
       "updated": {
-        "sec": 1707162261
+        "sec": 1707163850
       }
     },
     {
@@ -82,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Codeçais ",
       "active": true,
@@ -92,8 +96,12 @@
       "sharepointId": 23283590,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 754.497,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "CODEÇAIS (Pombeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +116,7 @@
         "sec": 1707161298
       },
       "updated": {
-        "sec": 1707161657
+        "sec": 1707163624
       }
     },
     {
@@ -181,24 +189,24 @@
       },
       "date": "05-02-2024",
       "hour": "19:30",
-      "location": "Porto, Paços de Ferreira, Figueiró",
+      "location": "Porto, Paços de Ferreira, Sanfins Lamoso Codessos",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 3,
       "terrain": 1,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
-      "freguesia": "Figueiró",
+      "freguesia": "Sanfins Lamoso Codessos",
       "dico": "1309",
-      "lat": 41.305233,
-      "lng": -8.345681,
+      "lat": 41.315915,
+      "lng": -8.349825,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Figueiró ",
       "active": true,
@@ -226,7 +234,66 @@
         "sec": 1707162261
       },
       "updated": {
-        "sec": 1707162279
+        "sec": 1707164182
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c13dd208b6df3024638946"
+      },
+      "id": "20240154375",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707162180
+      },
+      "date": "05-02-2024",
+      "hour": "19:43",
+      "location": "Porto, Baião, Campelo E Ovil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Campelo E Ovil",
+      "dico": "1302",
+      "lat": 41.173195,
+      "lng": -8.023547,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Campelo ",
+      "active": true,
+      "sadoId": "20240154375",
+      "sharepointId": 23283706,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 512.739,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar de Louredo (Quinta)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1707163090
+      },
+      "updated": {
+        "sec": 1707164182
       }
     }
   ]
