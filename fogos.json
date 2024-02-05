@@ -13,10 +13,10 @@
       "date": "05-02-2024",
       "hour": "13:13",
       "location": "Braga, Cabeceiras de Basto, Rio Douro",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 6,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Rio Douro",
@@ -53,7 +53,7 @@
         "sec": 1707139218
       },
       "updated": {
-        "sec": 1707143290
+        "sec": 1707143772
       }
     },
     {
@@ -67,17 +67,17 @@
       },
       "date": "05-02-2024",
       "hour": "13:28",
-      "location": "Viseu, Tondela, Parada De Gonta",
-      "aerial": 1,
+      "location": "Viseu, Viseu, Faíl E Vila Chã De Sá",
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 13,
       "terrain": 3,
       "district": "Viseu",
-      "concelho": "Tondela",
-      "freguesia": "Parada De Gonta",
-      "dico": "1821",
-      "lat": 40.589408,
-      "lng": -7.65527,
+      "concelho": "Viseu",
+      "freguesia": "Faíl E Vila Chã De Sá",
+      "dico": "1823",
+      "lat": 40.591935,
+      "lng": -7.986857,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -108,7 +108,7 @@
         "sec": 1707139931
       },
       "updated": {
-        "sec": 1707143290
+        "sec": 1707144363
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Braga, Vila Verde, Valdreu",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Valdreu",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -222,7 +222,66 @@
         "sec": 1707142811
       },
       "updated": {
-        "sec": 1707142822
+        "sec": 1707144250
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c0f25c5c2a50581b64b990"
+      },
+      "id": "20240152823",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707140460
+      },
+      "date": "05-02-2024",
+      "hour": "13:41",
+      "location": "Castelo Branco, Castelo Branco, Louriçal Do Campo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 4,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Louriçal Do Campo",
+      "dico": "0502",
+      "lat": 40.04471,
+      "lng": -7.51024,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Louriçal Do Campo ",
+      "active": true,
+      "sadoId": "20240152823",
+      "sharepointId": 23282154,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 469.016,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Louriçal do Campo",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1707143772
+      },
+      "updated": {
+        "sec": 1707144363
       }
     }
   ]
