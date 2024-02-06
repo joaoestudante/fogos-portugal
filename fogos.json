@@ -21,8 +21,8 @@
       "concelho": "Amares",
       "freguesia": "Vilela, Seramil E Paredes Secas",
       "dico": "0301",
-      "lat": 41.669324,
-      "lng": -8.320585,
+      "lat": 41.685738,
+      "lng": -8.314932,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -57,7 +57,7 @@
         "sec": 1707245411
       },
       "updated": {
-        "sec": 1707250937
+        "sec": 1707251302
       }
     },
     {
@@ -80,8 +80,8 @@
       "concelho": "Melgaço",
       "freguesia": "Gave",
       "dico": "1603",
-      "lat": 41.992303,
-      "lng": -8.281589,
+      "lat": 41.983165,
+      "lng": -8.283615,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -116,7 +116,7 @@
         "sec": 1707245643
       },
       "updated": {
-        "sec": 1707251164
+        "sec": 1707251404
       }
     },
     {
@@ -139,15 +139,15 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Alvão",
       "dico": "1713",
-      "lat": 41.50203,
-      "lng": -7.705543,
+      "lat": 41.491073,
+      "lng": -7.705052,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Alvão ",
       "active": true,
@@ -175,7 +175,7 @@
         "sec": 1707246857
       },
       "updated": {
-        "sec": 1707250112
+        "sec": 1707252245
       }
     },
     {
@@ -475,65 +475,6 @@
     },
     {
       "_id": {
-        "$id": "65c28f5c1c181a5fb00ea112"
-      },
-      "id": "20240158474",
-      "coords": true,
-      "dateTime": {
-        "sec": 1707249000
-      },
-      "date": "06-02-2024",
-      "hour": "19:50",
-      "location": "Viseu, Vila Nova de Paiva, Vila Cova À Coelheira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Viseu",
-      "concelho": "Vila Nova De Paiva",
-      "freguesia": "Vila Cova À Coelheira",
-      "dico": "1822",
-      "lat": 40.858985,
-      "lng": -7.789415,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vila Cova Coelheira ",
-      "active": true,
-      "sadoId": "20240158474",
-      "sharepointId": 23287805,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 687.535,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Lugar de Cima (Ribeira da Agregada)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1707249500
-      },
-      "updated": {
-        "sec": 1707250358
-      }
-    },
-    {
-      "_id": {
         "$id": "65c2947be5635f798b211c8f"
       },
       "id": "20240158551",
@@ -585,6 +526,65 @@
       },
       "updated": {
         "sec": 1707250822
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c299a2e5635f798b211cac"
+      },
+      "id": "20240158588",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707251580
+      },
+      "date": "06-02-2024",
+      "hour": "20:33",
+      "location": "Lisboa, Sintra, Algueirão-mem Martins",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Algueirão-mem Martins",
+      "dico": "1111",
+      "lat": 38.80512,
+      "lng": -9.348732,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Algueirão-mem Martins ",
+      "active": true,
+      "sadoId": "20240158588",
+      "sharepointId": 23287919,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 178.701,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Francisco Graça (Casal da Cavaleira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1707252130
+      },
+      "updated": {
+        "sec": 1707252172
       }
     }
   ]
