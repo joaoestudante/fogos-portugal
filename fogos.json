@@ -123,9 +123,9 @@
       "date": "06-02-2024",
       "hour": "14:14",
       "location": "Braga, Cabeceiras de Basto, Refojos De Basto, Outeiro E Painzela",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
+      "man": 5,
       "terrain": 1,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
@@ -167,7 +167,7 @@
         "sec": 1707228964
       },
       "updated": {
-        "sec": 1707230643
+        "sec": 1707234362
       }
     },
     {
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Taide ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1707231124
       },
       "updated": {
-        "sec": 1707233058
+        "sec": 1707233891
       }
     },
     {
@@ -239,21 +239,21 @@
       "location": "Leiria, Caldas da Rainha, Tornada E Salir Do Porto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Tornada E Salir Do Porto",
       "dico": "1006",
-      "lat": 39.435014,
-      "lng": -9.151736,
+      "lat": 39.431678,
+      "lng": -9.152037,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Campo ",
       "active": true,
@@ -277,7 +277,7 @@
         "sec": 1707231850
       },
       "updated": {
-        "sec": 1707233058
+        "sec": 1707233903
       }
     },
     {
@@ -333,6 +333,124 @@
       },
       "updated": {
         "sec": 1707233058
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c2508a14126546b164cad2"
+      },
+      "id": "20240157414",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707232980
+      },
+      "date": "06-02-2024",
+      "hour": "15:23",
+      "location": "Porto, Lousada, Cernadelo E Lousada (São Miguel E Santa Margarida)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Cernadelo E Lousada (São Miguel E Santa Margarida)",
+      "dico": "1305",
+      "lat": 41.303308,
+      "lng": -8.242545,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Lousada ",
+      "active": true,
+      "sadoId": "20240157414",
+      "sharepointId": 23286745,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 256.386,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lugar do Mourinho (Lameira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1707233418
+      },
+      "updated": {
+        "sec": 1707234363
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c2508a14126546b164cad3"
+      },
+      "id": "20240157430",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707233220
+      },
+      "date": "06-02-2024",
+      "hour": "15:27",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.62519,
+      "lng": -8.9056,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Pinhal Novo ",
+      "active": true,
+      "sadoId": "20240157430",
+      "sharepointId": 23286761,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 32.3331,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Pinhal Novo (GNR). 2955-401 Palmela. Portugal (Cascalheira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1707233418
+      },
+      "updated": {
+        "sec": 1707234363
       }
     }
   ]
