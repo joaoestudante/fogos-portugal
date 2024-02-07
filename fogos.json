@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "65c38e5a4a842442db3124f4"
-      },
-      "id": "20240161201",
-      "coords": true,
-      "dateTime": {
-        "sec": 1707314280
-      },
-      "date": "07-02-2024",
-      "hour": "13:58",
-      "location": "Lisboa, Alenquer, Abrigada E Cabanas De Torres",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Abrigada E Cabanas De Torres",
-      "dico": "1101",
-      "lat": 39.12748,
-      "lng": -9.03757,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Abrigada E Cabanas De Torres ",
-      "active": true,
-      "sadoId": "20240161201",
-      "sharepointId": 23290532,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1707314778
-      },
-      "updated": {
-        "sec": 1707318736
-      }
-    },
-    {
-      "_id": {
         "$id": "65c397ab4a842442db312550"
       },
       "id": "20240161340",
@@ -78,13 +23,13 @@
       "dico": "0115",
       "lat": 40.873562,
       "lng": -8.577602,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ovar ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 23290671,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 58.5369,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "A29 N/S (Azenha do Borges)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1707317163
       },
       "updated": {
-        "sec": 1707319938
+        "sec": 1707321733
       }
     },
     {
@@ -137,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Santa Cruz Do Douro E São Tomé De Covelas ",
       "active": true,
@@ -147,8 +96,12 @@
       "sharepointId": 23290770,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 332.9,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Escadas da Gaia (Gaia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +116,7 @@
         "sec": 1707317297
       },
       "updated": {
-        "sec": 1707319204
+        "sec": 1707321744
       }
     },
     {
@@ -192,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lobel ",
       "active": true,
@@ -202,8 +155,12 @@
       "sharepointId": 23290911,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 111.906,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lobel",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +175,66 @@
         "sec": 1707320402
       },
       "updated": {
-        "sec": 1707320412
+        "sec": 1707322331
+      }
+    },
+    {
+      "_id": {
+        "$id": "65c3abdcc1d9210703286a25"
+      },
+      "id": "20240161849",
+      "coords": true,
+      "dateTime": {
+        "sec": 1707321600
+      },
+      "date": "07-02-2024",
+      "hour": "16:00",
+      "location": "Castelo Branco, Covilhã, Covilhã E Canhoso",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Covilhã E Canhoso",
+      "dico": "0503",
+      "lat": 40.276354,
+      "lng": -7.519359,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Covilhã ",
+      "active": true,
+      "sadoId": "20240161849",
+      "sharepointId": 23291180,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 748.181,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "COVILHÃ (Carreira de Tiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1707322332
+      },
+      "updated": {
+        "sec": 1707322361
       }
     }
   ]
