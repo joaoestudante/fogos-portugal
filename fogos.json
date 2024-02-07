@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "65c2947be5635f798b211c8f"
-      },
-      "id": "20240158551",
-      "coords": true,
-      "dateTime": {
-        "sec": 1707250620
-      },
-      "date": "06-02-2024",
-      "hour": "20:17",
-      "location": "Braga, Cabeceiras de Basto, Alvite E Passos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Braga",
-      "concelho": "Cabeceiras De Basto",
-      "freguesia": "Alvite E Passos",
-      "dico": "0304",
-      "lat": 41.485888,
-      "lng": -8.035053,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20240158551",
-      "sharepointId": 23287882,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1707250811
-      },
-      "updated": {
-        "sec": 1707262576
-      }
-    },
-    {
-      "_id": {
         "$id": "65c2c4bac351b814aa1f6fca"
       },
       "id": "20240159027",
@@ -70,21 +15,21 @@
       "location": "Porto, Amarante, Louredo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Louredo",
       "dico": "1301",
-      "lat": 41.254107,
-      "lng": -8.116431,
+      "lat": 41.245075,
+      "lng": -8.124388,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Louredo ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 23288358,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 289.667,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN312 (Outeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1707263162
       },
       "updated": {
-        "sec": 1707263174
+        "sec": 1707266411
       }
     }
   ]
