@@ -15,8 +15,8 @@
       "location": "Viseu, São João da Pesqueira, Vilarouco E Pereiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "São João Da Pesqueira",
       "freguesia": "Vilarouco E Pereiros",
@@ -42,7 +42,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Pereiros. São João da Pesqueira. Portugal (PEREIROS)",
+      "detailLocation": "Pereiros. São João da Pesqueira. Portugal (Vale Minhoto)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +57,7 @@
         "sec": 1708366690
       },
       "updated": {
-        "sec": 1708369336
+        "sec": 1708373642
       }
     },
     {
@@ -96,8 +96,12 @@
       "sharepointId": 23341165,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 341.757,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mendiga. Porto de Mós. Portugal (MENDIGA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,7 @@
         "sec": 1708366932
       },
       "updated": {
-        "sec": 1708367889
+        "sec": 1708373313
       }
     },
     {
@@ -129,8 +133,8 @@
       "location": "Aveiro, Santa Maria da Feira, Arrifana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Arrifana",
@@ -141,9 +145,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -151,8 +155,12 @@
       "sharepointId": 23341399,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 203.076,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Gil Vicente (Manhouce)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +175,7 @@
         "sec": 1708370538
       },
       "updated": {
-        "sec": 1708370554
+        "sec": 1708373327
       }
     },
     {
@@ -190,15 +198,15 @@
       "concelho": "Ponte De Lima",
       "freguesia": "Refóios Do Lima",
       "dico": "1607",
-      "lat": 41.800597,
-      "lng": -8.540179,
+      "lat": 41.819845,
+      "lng": -8.539957,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rua Do Miradouro ",
       "active": true,
@@ -206,8 +214,12 @@
       "sharepointId": 23341447,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 102.779,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua do Miradouro (PENEDO BRANCO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +234,125 @@
         "sec": 1708371603
       },
       "updated": {
-        "sec": 1708371859
+        "sec": 1708373339
+      }
+    },
+    {
+      "_id": {
+        "$id": "65d3b35a53553032e62966b1"
+      },
+      "id": "20240212180",
+      "coords": true,
+      "dateTime": {
+        "sec": 1708372440
+      },
+      "date": "19-02-2024",
+      "hour": "19:54",
+      "location": "Setúbal, Palmela, Quinta Do Anjo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Quinta Do Anjo",
+      "dico": "1508",
+      "lat": 38.583894,
+      "lng": -8.970285,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240212180",
+      "sharepointId": 23341514,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 77.4625,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Trs Lagus Campo Resort (Quinta da Marquesa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1708372826
+      },
+      "updated": {
+        "sec": 1708373438
+      }
+    },
+    {
+      "_id": {
+        "$id": "65d3b35a53553032e62966b2"
+      },
+      "id": "20240212183",
+      "coords": true,
+      "dateTime": {
+        "sec": 1708372440
+      },
+      "date": "19-02-2024",
+      "hour": "19:54",
+      "location": "Braga, Terras de Bouro, Cibões E Brufe",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Cibões E Brufe",
+      "dico": "0310",
+      "lat": 41.766276,
+      "lng": -8.25768,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240212183",
+      "sharepointId": 23341517,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 674.592,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Cabenco (Lama)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1708372826
+      },
+      "updated": {
+        "sec": 1708373262
       }
     }
   ]
