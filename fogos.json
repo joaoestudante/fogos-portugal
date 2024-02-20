@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Gralheira ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1708455244
       },
       "updated": {
-        "sec": 1708455853
+        "sec": 1708459683
       }
     },
     {
@@ -80,15 +80,15 @@
       "concelho": "Castro Daire",
       "freguesia": "Pinheiro",
       "dico": "1803",
-      "lat": 40.939746,
-      "lng": -7.974008,
+      "lat": 40.956467,
+      "lng": -7.970765,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cetos ",
       "active": true,
@@ -96,8 +96,12 @@
       "sharepointId": 23345628,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 809.026,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Cetos. Castro Daire (ER321 (ER321) Km 50)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,7 @@
         "sec": 1708457051
       },
       "updated": {
-        "sec": 1708458251
+        "sec": 1708459922
       }
     },
     {
@@ -172,6 +176,65 @@
       },
       "updated": {
         "sec": 1708458003
+      }
+    },
+    {
+      "_id": {
+        "$id": "65d502fcf368874ed56a40a8"
+      },
+      "id": "20240216368",
+      "coords": true,
+      "dateTime": {
+        "sec": 1708458180
+      },
+      "date": "20-02-2024",
+      "hour": "19:43",
+      "location": "Vila Real, Montalegre, Outeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Outeiro",
+      "dico": "1706",
+      "lat": 41.78022,
+      "lng": -7.93984,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Outeiro ",
+      "active": true,
+      "sadoId": "20240216368",
+      "sharepointId": 23345702,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 826.681,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.78022000.-7.93984000) - Castro de Outeiro. 5470 Montalegre. Portugal (ZEBREIRO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1708458748
+      },
+      "updated": {
+        "sec": 1708458773
       }
     }
   ]
