@@ -58,65 +58,6 @@
     },
     {
       "_id": {
-        "$id": "65df715a6efa1d7cda72b0b8"
-      },
-      "id": "20240248658",
-      "coords": true,
-      "dateTime": {
-        "sec": 1709142000
-      },
-      "date": "28-02-2024",
-      "hour": "17:40",
-      "location": "Lisboa, Loures, Moscavide E Portela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Loures",
-      "freguesia": "Moscavide E Portela",
-      "dico": "1107",
-      "lat": 38.78034,
-      "lng": -9.10419,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Moscavide E Portela ",
-      "active": true,
-      "sadoId": "20240248658",
-      "sharepointId": 23377992,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 23.2406,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Avenida de Moscavide 99. 1885-075 Loures. Portugal (OLIVAIS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1709142362
-      },
-      "updated": {
-        "sec": 1709145250
-      }
-    },
-    {
-      "_id": {
         "$id": "65df7e02ebbc3f6556514219"
       },
       "id": "20240248820",
@@ -129,8 +70,8 @@
       "location": "Beja, Almodôvar, São Barnabé",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Beja",
       "concelho": "Almodôvar",
       "freguesia": "São Barnabé",
@@ -141,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São Barnabé ",
       "active": true,
@@ -151,8 +92,12 @@
       "sharepointId": 23378154,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 261.177,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Barnabé. Almodôvar. Portugal (SÃO BARNABÉ)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +112,125 @@
         "sec": 1709145602
       },
       "updated": {
-        "sec": 1709145602
+        "sec": 1709146449
+      }
+    },
+    {
+      "_id": {
+        "$id": "65df82c2eec6b63a7b08c56a"
+      },
+      "id": "20240248967",
+      "coords": true,
+      "dateTime": {
+        "sec": 1709146200
+      },
+      "date": "28-02-2024",
+      "hour": "18:50",
+      "location": "Aveiro, Santa Maria da Feira, Sanguedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Sanguedo",
+      "dico": "0109",
+      "lat": 41.008901,
+      "lng": -8.520164,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240248967",
+      "sharepointId": 23378301,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 162.628,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Sisto (Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1709146818
+      },
+      "updated": {
+        "sec": 1709146839
+      }
+    },
+    {
+      "_id": {
+        "$id": "65df8494eec6b63a7b08c574"
+      },
+      "id": "20240248977",
+      "coords": true,
+      "dateTime": {
+        "sec": 1709146800
+      },
+      "date": "28-02-2024",
+      "hour": "19:00",
+      "location": "Faro, Loulé, Salir",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Salir",
+      "dico": "0808",
+      "lat": 37.318838,
+      "lng": -8.075531,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Éguas ",
+      "active": true,
+      "sadoId": "20240248977",
+      "sharepointId": 23378311,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 409.996,
+        "fogacho": true,
+        "fontealerta": "Sapadores florestais"
+      },
+      "detailLocation": "Éguas",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1709147284
+      },
+      "updated": {
+        "sec": 1709147524
       }
     }
   ]
