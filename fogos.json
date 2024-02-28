@@ -15,8 +15,8 @@
       "location": "Beja, Serpa, Pias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Pias",
@@ -53,7 +53,7 @@
         "sec": 1709140457
       },
       "updated": {
-        "sec": 1709147884
+        "sec": 1709149217
       }
     },
     {
@@ -76,17 +76,17 @@
       "concelho": "Almodôvar",
       "freguesia": "São Barnabé",
       "dico": "0202",
-      "lat": 37.3581,
-      "lng": -8.16453,
+      "lat": 37.327582,
+      "lng": -8.075278,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "São Barnabé ",
+      "localidade": "Carrinca ",
       "active": true,
       "sadoId": "20240248820",
       "sharepointId": 23378154,
@@ -112,7 +112,7 @@
         "sec": 1709145602
       },
       "updated": {
-        "sec": 1709146449
+        "sec": 1709149450
       }
     },
     {
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1709146818
       },
       "updated": {
-        "sec": 1709146839
+        "sec": 1709148850
       }
     },
     {
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Éguas ",
       "active": true,
@@ -230,7 +230,66 @@
         "sec": 1709147284
       },
       "updated": {
-        "sec": 1709147885
+        "sec": 1709148850
+      }
+    },
+    {
+      "_id": {
+        "$id": "65df8a34eec6b63a7b08c5a9"
+      },
+      "id": "20240249067",
+      "coords": true,
+      "dateTime": {
+        "sec": 1709148360
+      },
+      "date": "28-02-2024",
+      "hour": "19:26",
+      "location": "Vila Real, Vila Pouca de Aguiar, Bornes De Aguiar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Bornes De Aguiar",
+      "dico": "1713",
+      "lat": 41.52721,
+      "lng": -7.610997,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bornes De Aguiar ",
+      "active": true,
+      "sadoId": "20240249067",
+      "sharepointId": 23378401,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 666.372,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.52720720.-7.61099680) - Rua Dr. Acácio Ribeiro (Vila Meã)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1709148724
+      },
+      "updated": {
+        "sec": 1709149450
       }
     }
   ]
