@@ -15,8 +15,8 @@
       "location": "Setúbal, Seixal, Seixal, Arrentela E Aldeia De Paio Pires",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Seixal, Arrentela E Aldeia De Paio Pires",
@@ -37,8 +37,12 @@
       "sharepointId": 23403648,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 27.0706,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN10 Casal Marco . 2840-183 Seixal. Portugal (Casal do Marco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,62 +57,7 @@
         "sec": 1709665454
       },
       "updated": {
-        "sec": 1709667250
-      }
-    },
-    {
-      "_id": {
-        "$id": "65e76caede3a9531f57c7016"
-      },
-      "id": "20240274300",
-      "coords": true,
-      "dateTime": {
-        "sec": 1709664960
-      },
-      "date": "05-03-2024",
-      "hour": "18:56",
-      "location": "Lisboa, Oeiras, Barcarena",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Oeiras",
-      "freguesia": "Barcarena",
-      "dico": "1110",
-      "lat": 38.74137,
-      "lng": -9.29282,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Barcarena ",
-      "active": true,
-      "sadoId": "20240274300",
-      "sharepointId": 23403636,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1709665454
-      },
-      "updated": {
-        "sec": 1709666652
+        "sec": 1709669088
       }
     }
   ]
