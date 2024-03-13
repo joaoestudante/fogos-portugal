@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "65f1b07402269d3de0366c5e"
-      },
-      "id": "20240308737",
-      "coords": true,
-      "dateTime": {
-        "sec": 1710337920
-      },
-      "date": "13-03-2024",
-      "hour": "13:52",
-      "location": "Viana Do Castelo, Arcos de Valdevez, São Jorge E Ermelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "São Jorge E Ermelo",
-      "dico": "1601",
-      "lat": 41.826077,
-      "lng": -8.36971,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Pincais ",
-      "active": true,
-      "sadoId": "20240308737",
-      "sharepointId": 23438074,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1710338164
-      },
-      "updated": {
-        "sec": 1710340452
-      }
-    },
-    {
-      "_id": {
         "$id": "65f1b17702269d3de0366c68"
       },
       "id": "20240308767",
@@ -97,7 +42,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Serra das Flores (Covelo)",
+      "detailLocation": "Serra das Flores",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +57,7 @@
         "sec": 1710338423
       },
       "updated": {
-        "sec": 1710342850
+        "sec": 1710346219
       }
     },
     {
@@ -151,8 +96,12 @@
       "sharepointId": 23438576,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 667.182,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "AVELANOSO",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +116,7 @@
         "sec": 1710343452
       },
       "updated": {
-        "sec": 1710344531
+        "sec": 1710346222
       }
     },
     {
@@ -190,15 +139,15 @@
       "concelho": "Paços De Ferreira",
       "freguesia": "Paços De Ferreira",
       "dico": "1309",
-      "lat": 41.25951,
-      "lng": -8.382869,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 41.259603,
+      "lng": -8.383838,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Paços De Ferreira ",
       "active": true,
@@ -206,8 +155,12 @@
       "sharepointId": 23438577,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 333.625,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Boavista 55. 4590-456 Paços de Ferreira. Portugal (Marrocos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +175,7 @@
         "sec": 1710343683
       },
       "updated": {
-        "sec": 1710344164
+        "sec": 1710346450
       }
     }
   ]
