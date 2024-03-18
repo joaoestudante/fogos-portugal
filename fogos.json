@@ -15,8 +15,8 @@
       "location": "Porto, Amarante, Gouveia (São Simão)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Gouveia (São Simão)",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Gouveia (São Simão) ",
       "active": true,
@@ -57,66 +57,7 @@
         "sec": 1710763229
       },
       "updated": {
-        "sec": 1710763314
-      }
-    },
-    {
-      "_id": {
-        "$id": "65f82cddaae9ce16cc321174"
-      },
-      "id": "20240330619",
-      "coords": true,
-      "dateTime": {
-        "sec": 1710762240
-      },
-      "date": "18-03-2024",
-      "hour": "11:44",
-      "location": "Porto, Valongo, Valongo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Valongo",
-      "freguesia": "Valongo",
-      "dico": "1315",
-      "lat": 41.191956,
-      "lng": -8.498295,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Recarei ",
-      "active": true,
-      "sadoId": "20240330619",
-      "sharepointId": 23459956,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 154.137,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Pe. Jerónimo Martins Ol. Macedo. 4585-640 Paredes. Portugal (ED15-3 (ED15-3) Km 3)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1710763229
-      },
-      "updated": {
-        "sec": 1710764651
+        "sec": 1710765130
       }
     },
     {
@@ -131,10 +72,10 @@
       "date": "18-03-2024",
       "hour": "12:19",
       "location": "Faro, Tavira, Luz De Tavira E Santo Estêvão",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 12,
+      "terrain": 2,
       "district": "Faro",
       "concelho": "Tavira",
       "freguesia": "Luz De Tavira E Santo Estêvão",
@@ -145,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Luz De Tavira E Santo Estêvão ",
       "active": true,
@@ -171,7 +112,62 @@
         "sec": 1710764531
       },
       "updated": {
-        "sec": 1710764543
+        "sec": 1710765963
+      }
+    },
+    {
+      "_id": {
+        "$id": "65f8387b0c21d4672d2d3c49"
+      },
+      "id": "20240330947",
+      "coords": true,
+      "dateTime": {
+        "sec": 1710765960
+      },
+      "date": "18-03-2024",
+      "hour": "12:46",
+      "location": "Aveiro, Santa Maria da Feira, Caldas De São Jorge E Pigeiros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Caldas De São Jorge E Pigeiros",
+      "dico": "0109",
+      "lat": 40.966,
+      "lng": -8.49917,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Caldas De São Jorge E Pigeiros ",
+      "active": true,
+      "sadoId": "20240330947",
+      "sharepointId": 23460284,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1710766203
+      },
+      "updated": {
+        "sec": 1710766212
       }
     }
   ]
