@@ -15,8 +15,8 @@
       "location": "Porto, Paredes, Paredes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Paredes",
@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Paredes ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1710857530
       },
       "updated": {
-        "sec": 1710857542
+        "sec": 1710858491
       }
     },
     {
@@ -68,23 +68,23 @@
       "date": "19-03-2024",
       "hour": "14:06",
       "location": "Viseu, Armamar, São Martinho Das Chãs",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Armamar",
       "freguesia": "São Martinho Das Chãs",
       "dico": "1801",
-      "lat": 41.05916,
-      "lng": -7.669577,
+      "lat": 41.058092,
+      "lng": -7.668863,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "São Martinho Das Chãs ",
       "active": true,
@@ -108,7 +108,62 @@
         "sec": 1710857530
       },
       "updated": {
-        "sec": 1710857567
+        "sec": 1710858492
+      }
+    },
+    {
+      "_id": {
+        "$id": "65f9a0fb1772565de903efe9"
+      },
+      "id": "20240335904",
+      "coords": true,
+      "dateTime": {
+        "sec": 1710858180
+      },
+      "date": "19-03-2024",
+      "hour": "14:23",
+      "location": "Viseu, Vila Nova de Paiva, Touro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Touro",
+      "dico": "1822",
+      "lat": 40.89635,
+      "lng": -7.74871,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Touro ",
+      "active": true,
+      "sadoId": "20240335904",
+      "sharepointId": 23465241,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1710858491
+      },
+      "updated": {
+        "sec": 1710858505
       }
     }
   ]
