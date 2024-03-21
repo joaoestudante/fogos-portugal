@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1711046164
       },
       "updated": {
-        "sec": 1711048091
+        "sec": 1711049761
       }
     },
     {
@@ -74,8 +74,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -112,7 +112,7 @@
         "sec": 1711046651
       },
       "updated": {
-        "sec": 1711048091
+        "sec": 1711049530
       }
     },
     {
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Borba De Godim ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1711049044
       },
       "updated": {
-        "sec": 1711049055
+        "sec": 1711049761
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Porto, Vila Nova de Gaia, Santa Marinha E São Pedro Da Afurada",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Santa Marinha E São Pedro Da Afurada",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Santa Marinha E São Pedro Da Afurada ",
       "active": true,
@@ -222,7 +222,180 @@
         "sec": 1711049164
       },
       "updated": {
-        "sec": 1711049175
+        "sec": 1711049761
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fc8b3a13ff500a8a432119"
+      },
+      "id": "20240345979",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711049220
+      },
+      "date": "21-03-2024",
+      "hour": "19:27",
+      "location": "Faro, Castro Marim, Azinhal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Castro Marim",
+      "freguesia": "Azinhal",
+      "dico": "0804",
+      "lat": 37.29472,
+      "lng": -7.505,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Azinhal ",
+      "active": true,
+      "sadoId": "20240345979",
+      "sharepointId": 23475316,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 115.686,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.29472222.-7.50500000) - M512. 8950-088 Castro Marim. Portugal (Sentinela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1711049530
+      },
+      "updated": {
+        "sec": 1711049762
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fc8b3a13ff500a8a43211a"
+      },
+      "id": "20240345994",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711048920
+      },
+      "date": "21-03-2024",
+      "hour": "19:22",
+      "location": "Vila Real, Chaves, Vale De Anta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Vale De Anta",
+      "dico": "1703",
+      "lat": 41.744027,
+      "lng": -7.509219,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vale De Anta ",
+      "active": true,
+      "sadoId": "20240345994",
+      "sharepointId": 23475331,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1711049530
+      },
+      "updated": {
+        "sec": 1711049571
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fc8d9213ff500a8a432135"
+      },
+      "id": "20240345827",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711046700
+      },
+      "date": "21-03-2024",
+      "hour": "18:45",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Grade E Carralcova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Grade E Carralcova",
+      "dico": "1601",
+      "lat": 41.893137,
+      "lng": -8.36209,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carralcova ",
+      "active": true,
+      "sadoId": "20240345827",
+      "sharepointId": 23475164,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 348.506,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "CARRALCOVA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1711050130
+      },
+      "updated": {
+        "sec": 1711050147
       }
     }
   ]
