@@ -74,8 +74,8 @@
       "location": "Viana Do Castelo, Vila Nova de Cerveira, Covas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Vila Nova De Cerveira",
       "freguesia": "Covas",
@@ -112,7 +112,7 @@
         "sec": 1711119364
       },
       "updated": {
-        "sec": 1711119383
+        "sec": 1711122253
       }
     },
     {
@@ -127,9 +127,9 @@
       "date": "22-03-2024",
       "hour": "15:08",
       "location": "Viana Do Castelo, Ponte da Barca, Entre Ambos-os-rios, Ermida E Germil",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
+      "man": 0,
       "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Germil - Serra Amarela ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1711120330
       },
       "updated": {
-        "sec": 1711120922
+        "sec": 1711121402
       }
     },
     {
@@ -182,9 +182,9 @@
       "date": "22-03-2024",
       "hour": "15:03",
       "location": "Viana Do Castelo, Viana do Castelo, São Romão De Neiva",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
+      "man": 17,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Rua Da Lagoa ",
       "active": true,
@@ -226,7 +226,66 @@
         "sec": 1711120922
       },
       "updated": {
-        "sec": 1711120954
+        "sec": 1711122253
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fda5e5013c525ac34e3810"
+      },
+      "id": "20240349226",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711118340
+      },
+      "date": "22-03-2024",
+      "hour": "14:39",
+      "location": "Lisboa, Azambuja, Azambuja",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Azambuja",
+      "dico": "1103",
+      "lat": 39.11385,
+      "lng": -8.910618,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Casais Amarelas ",
+      "active": true,
+      "sadoId": "20240349226",
+      "sharepointId": 23478563,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 72.505,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "casais amarelas (Fazenda Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1711121893
+      },
+      "updated": {
+        "sec": 1711121919
       }
     }
   ]
