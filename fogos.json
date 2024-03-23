@@ -15,8 +15,8 @@
       "location": "Aveiro, Arouca, Alvarenga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Alvarenga",
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 39,
+          "total": 39
+        },
         "altitude": 855.438,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Noninha (Devesas do Paiva)",
@@ -57,7 +63,7 @@
         "sec": 1711155362
       },
       "updated": {
-        "sec": 1711193403
+        "sec": 1711195423
       }
     },
     {
@@ -133,8 +139,8 @@
       "location": "Porto, Penafiel, Luzim E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Luzim E Vila Cova",
@@ -145,9 +151,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Luzim E Vila Cova ",
       "active": true,
@@ -175,66 +181,7 @@
         "sec": 1711193404
       },
       "updated": {
-        "sec": 1711193440
-      }
-    },
-    {
-      "_id": {
-        "$id": "65fec00b045a8d5a423500b5"
-      },
-      "id": "20240352923",
-      "coords": true,
-      "dateTime": {
-        "sec": 1711193340
-      },
-      "date": "23-03-2024",
-      "hour": "11:29",
-      "location": "Vila Real, Santa Marta de Penaguião, Fontes",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Santa Marta De Penaguião",
-      "freguesia": "Fontes",
-      "dico": "1711",
-      "lat": 41.226681,
-      "lng": -7.823046,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Fontes ",
-      "active": true,
-      "sadoId": "20240352923",
-      "sharepointId": 23482261,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 635.902,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Lugar do Castelo (Tabuadelo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1711194123
-      },
-      "updated": {
-        "sec": 1711194155
+        "sec": 1711196044
       }
     }
   ]
