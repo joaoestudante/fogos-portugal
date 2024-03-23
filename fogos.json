@@ -147,8 +147,8 @@
       "dico": "1311",
       "lat": 41.156677,
       "lng": -8.256852,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 5,
@@ -181,7 +181,7 @@
         "sec": 1711193404
       },
       "updated": {
-        "sec": 1711200004
+        "sec": 1711202043
       }
     },
     {
@@ -259,15 +259,15 @@
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Lobão, Gião, Louredo E Guisande",
       "dico": "0109",
-      "lat": 40.981012,
-      "lng": -8.467645,
+      "lat": 40.96546,
+      "lng": -8.484893,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -291,7 +291,7 @@
         "sec": 1711198442
       },
       "updated": {
-        "sec": 1711200363
+        "sec": 1711202043
       }
     },
     {
@@ -367,21 +367,21 @@
       "location": "Porto, Valongo, Alfena",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 4,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Alfena",
       "dico": "1315",
-      "lat": 41.25482,
-      "lng": -8.51849,
+      "lat": 41.25553,
+      "lng": -8.51932,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Alfena ",
       "active": true,
@@ -405,7 +405,125 @@
         "sec": 1711200364
       },
       "updated": {
-        "sec": 1711200605
+        "sec": 1711202043
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fee08071fac161e551a395"
+      },
+      "id": "20240353515",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711202220
+      },
+      "date": "23-03-2024",
+      "hour": "13:57",
+      "location": "Faro, Faro, Conceição E Estoi",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Conceição E Estoi",
+      "dico": "0805",
+      "lat": 37.04565,
+      "lng": -7.892914,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Conceição E Estoi ",
+      "active": true,
+      "sadoId": "20240353515",
+      "sharepointId": 23482853,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -1.56125,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.04565391.-7.89291396) - CM1320. 8005 Faro. Portugal (Ferradeira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1711202432
+      },
+      "updated": {
+        "sec": 1711202764
+      }
+    },
+    {
+      "_id": {
+        "$id": "65fee1cc9e65175b7b1e62f3"
+      },
+      "id": "20240353509",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711202460
+      },
+      "date": "23-03-2024",
+      "hour": "14:01",
+      "location": "Braga, Póvoa de Lanhoso, Travassos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Póvoa De Lanhoso",
+      "freguesia": "Travassos",
+      "dico": "0309",
+      "lat": 41.57486,
+      "lng": -8.2014,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Travassos ",
+      "active": true,
+      "sadoId": "20240353509",
+      "sharepointId": 23482847,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 231.502,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travassos. Póvoa de Lanhoso. Portugal (TRAVASSOS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1711202764
+      },
+      "updated": {
+        "sec": 1711202798
       }
     }
   ]
