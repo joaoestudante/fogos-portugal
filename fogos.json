@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Eiras ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1711226290
       },
       "updated": {
-        "sec": 1711244290
+        "sec": 1711246089
       }
     },
     {
@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cova Do Ouro ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1711240324
       },
       "updated": {
-        "sec": 1711245251
+        "sec": 1711245878
       }
     },
     {
@@ -235,61 +235,6 @@
     },
     {
       "_id": {
-        "$id": "65ff81a5b37cbb22aa04c8e1"
-      },
-      "id": "20240355805",
-      "coords": true,
-      "dateTime": {
-        "sec": 1711243440
-      },
-      "date": "24-03-2024",
-      "hour": "01:24",
-      "location": "Braga, Fafe, Aboim, Felgueiras, Gontim E Pedraído",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
-      "dico": "0307",
-      "lat": 41.54384,
-      "lng": -8.08718,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "União De Freguesias De Aboim, Felgueiras, Gontim E Pedraído ",
-      "active": true,
-      "sadoId": "20240355805",
-      "sharepointId": 23485143,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1711243685
-      },
-      "updated": {
-        "sec": 1711243696
-      }
-    },
-    {
-      "_id": {
         "$id": "65ff8311b37cbb22aa04c8eb"
       },
       "id": "20240355809",
@@ -302,8 +247,8 @@
       "location": "Braga, Terras de Bouro, Chorense E Monte",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Chorense E Monte",
@@ -314,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Chorense E Monte ",
       "active": true,
@@ -340,7 +285,117 @@
         "sec": 1711244049
       },
       "updated": {
-        "sec": 1711244059
+        "sec": 1711246089
+      }
+    },
+    {
+      "_id": {
+        "$id": "65ff8b091c2f71343c63f8c9"
+      },
+      "id": "20240355864",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711245840
+      },
+      "date": "24-03-2024",
+      "hour": "02:04",
+      "location": "Aveiro, Ílhavo, Gafanha Da Encarnação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Ílhavo",
+      "freguesia": "Gafanha Da Encarnação",
+      "dico": "0110",
+      "lat": 40.62004,
+      "lng": -8.73522,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gafanha Da Encarnação ",
+      "active": true,
+      "sadoId": "20240355864",
+      "sharepointId": 23485202,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1711246089
+      },
+      "updated": {
+        "sec": 1711246812
+      }
+    },
+    {
+      "_id": {
+        "$id": "65ff8e531c2f71343c63f8de"
+      },
+      "id": "20240355886",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711246800
+      },
+      "date": "24-03-2024",
+      "hour": "02:20",
+      "location": "Braga, Fafe, Aboim, Felgueiras, Gontim E Pedraído",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
+      "dico": "0307",
+      "lat": 41.531189,
+      "lng": -8.101377,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240355886",
+      "sharepointId": 23485224,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1711246931
+      },
+      "updated": {
+        "sec": 1711247041
       }
     }
   ]
