@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Afife",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 8,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Afife",
@@ -42,7 +42,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Eólicas (Convento de Cabanas)",
+      "detailLocation": "Eólicas 1 (Convento de Cabanas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +57,7 @@
         "sec": 1711280412
       },
       "updated": {
-        "sec": 1711293970
+        "sec": 1711296670
       }
     },
     {
@@ -101,7 +101,7 @@
         "fogacho": true,
         "fontealerta": "Autarquias"
       },
-      "detailLocation": "Politeiro",
+      "detailLocation": "Politeiro (Peneda Velha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -116,7 +116,7 @@
         "sec": 1711282323
       },
       "updated": {
-        "sec": 1711290963
+        "sec": 1711296671
       }
     },
     {
@@ -155,8 +155,12 @@
       "sharepointId": 23486972,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 87.1513,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Eólicas 2 (Serra de Santa Luzia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +175,7 @@
         "sec": 1711284964
       },
       "updated": {
-        "sec": 1711294452
+        "sec": 1711296673
       }
     },
     {
@@ -215,7 +219,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lugar da Barrega (BORBA DA MONTANHA)",
+      "detailLocation": "Lg da Barrega (Carvalhal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,62 +234,7 @@
         "sec": 1711287851
       },
       "updated": {
-        "sec": 1711294092
-      }
-    },
-    {
-      "_id": {
-        "$id": "660039daad612e6d0a0a4b2f"
-      },
-      "id": "20240357982",
-      "coords": true,
-      "dateTime": {
-        "sec": 1711290180
-      },
-      "date": "24-03-2024",
-      "hour": "14:23",
-      "location": "Vila Real, Chaves, Curalha",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Curalha",
-      "dico": "1703",
-      "lat": 41.71825,
-      "lng": -7.5121,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Curalha ",
-      "active": true,
-      "sadoId": "20240357982",
-      "sharepointId": 23487320,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1711290842
-      },
-      "updated": {
-        "sec": 1711291331
+        "sec": 1711296696
       }
     },
     {
@@ -302,8 +251,8 @@
       "location": "Aveiro, Estarreja, Avanca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Estarreja",
       "freguesia": "Avanca",
@@ -324,8 +273,12 @@
       "sharepointId": 23487345,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 32.5706,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Alto das Cabanas (Quintal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -340,7 +293,7 @@
         "sec": 1711290842
       },
       "updated": {
-        "sec": 1711293970
+        "sec": 1711296750
       }
     },
     {
@@ -363,15 +316,15 @@
       "concelho": "Montalegre",
       "freguesia": "Ferral",
       "dico": "1706",
-      "lat": 41.706017,
-      "lng": -7.994975,
+      "lat": 41.708453,
+      "lng": -7.98999,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Santa Marinha ",
       "active": true,
@@ -384,7 +337,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Junto Cemitério (Calvário)",
+      "detailLocation": "Junto Cemitério (Corga dos Barbondas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -399,7 +352,7 @@
         "sec": 1711293482
       },
       "updated": {
-        "sec": 1711294452
+        "sec": 1711296751
       }
     },
     {
@@ -414,9 +367,9 @@
       "date": "24-03-2024",
       "hour": "15:07",
       "location": "Braga, Cabeceiras de Basto, Cavez",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
+      "man": 4,
       "terrain": 1,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
@@ -428,9 +381,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Cavez ",
       "active": true,
@@ -443,7 +396,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(41.51755000.-7.87872000) - N206. 4860-152 Cabeceiras de Basto. Portugal (EN206 (EN206) Km 91)",
+      "detailLocation": "N206 (EN206 (EN206) Km 91)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -458,7 +411,7 @@
         "sec": 1711293482
       },
       "updated": {
-        "sec": 1711293969
+        "sec": 1711296709
       }
     },
     {
@@ -487,9 +440,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -497,8 +450,12 @@
       "sharepointId": 23487543,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 122.131,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Nova (Quinta Nova da Cruz)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -513,7 +470,7 @@
         "sec": 1711293483
       },
       "updated": {
-        "sec": 1711293561
+        "sec": 1711296710
       }
     },
     {
@@ -528,23 +485,23 @@
       "date": "24-03-2024",
       "hour": "15:14",
       "location": "Viana Do Castelo, Ponte de Lima, Rebordões (Souto)",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Rebordões (Souto)",
       "dico": "1607",
-      "lat": 41.713374,
-      "lng": -8.568122,
+      "lat": 41.713583,
+      "lng": -8.572198,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Murjal ",
       "active": true,
@@ -557,7 +514,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Murjal",
+      "detailLocation": "Murjal (Aveleiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -572,7 +529,7 @@
         "sec": 1711293483
       },
       "updated": {
-        "sec": 1711293600
+        "sec": 1711296750
       }
     },
     {
@@ -587,16 +544,16 @@
       "date": "24-03-2024",
       "hour": "15:21",
       "location": "Viana Do Castelo, Viana do Castelo, Afife",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 25,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Afife",
       "dico": "1609",
-      "lat": 41.773817,
-      "lng": -8.845865,
+      "lat": 41.767058,
+      "lng": -8.814522,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -611,8 +568,12 @@
       "sharepointId": 23487583,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 87.1513,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Eólicas 3 (Serra de Santa Luzia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -627,7 +588,7 @@
         "sec": 1711293969
       },
       "updated": {
-        "sec": 1711294452
+        "sec": 1711296751
       }
     },
     {
@@ -644,8 +605,8 @@
       "location": "Aveiro, Vale de Cambra, Macieira De Cambra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Vale De Cambra",
       "freguesia": "Macieira De Cambra",
@@ -656,9 +617,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Porto Novo ",
       "active": true,
@@ -666,8 +627,12 @@
       "sharepointId": 23487612,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 589.859,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lug. Porto Novo (Porto Novo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -682,7 +647,7 @@
         "sec": 1711294452
       },
       "updated": {
-        "sec": 1711294470
+        "sec": 1711296750
       }
     }
   ]
