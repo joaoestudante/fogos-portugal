@@ -133,8 +133,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Afife",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Afife",
@@ -171,7 +171,7 @@
         "sec": 1711284964
       },
       "updated": {
-        "sec": 1711293970
+        "sec": 1711294452
       }
     },
     {
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Borba Da Montanha ",
       "active": true,
@@ -230,7 +230,7 @@
         "sec": 1711287851
       },
       "updated": {
-        "sec": 1711290365
+        "sec": 1711294092
       }
     },
     {
@@ -357,8 +357,8 @@
       "location": "Vila Real, Montalegre, Ferral",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Ferral",
@@ -369,9 +369,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Santa Marinha ",
       "active": true,
@@ -399,7 +399,7 @@
         "sec": 1711293482
       },
       "updated": {
-        "sec": 1711293506
+        "sec": 1711294452
       }
     },
     {
@@ -589,8 +589,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Afife",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Afife",
@@ -601,9 +601,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Eólicas 3 ",
       "active": true,
@@ -627,7 +627,62 @@
         "sec": 1711293969
       },
       "updated": {
-        "sec": 1711293981
+        "sec": 1711294452
+      }
+    },
+    {
+      "_id": {
+        "$id": "660047f4f4c48a0b5c0c3706"
+      },
+      "id": "20240358274",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711293300
+      },
+      "date": "24-03-2024",
+      "hour": "15:15",
+      "location": "Aveiro, Vale de Cambra, Macieira De Cambra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "Macieira De Cambra",
+      "dico": "0119",
+      "lat": 40.873918,
+      "lng": -8.347847,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Porto Novo ",
+      "active": true,
+      "sadoId": "20240358274",
+      "sharepointId": 23487612,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1711294452
+      },
+      "updated": {
+        "sec": 1711294470
       }
     }
   ]
