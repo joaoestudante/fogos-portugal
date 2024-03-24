@@ -605,8 +605,8 @@
       "location": "Guarda, Almeida, Miuzela E Porto De Ovelha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Almeida",
       "freguesia": "Miuzela E Porto De Ovelha",
@@ -617,9 +617,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Miuzela ",
       "active": true,
@@ -647,7 +647,62 @@
         "sec": 1711300203
       },
       "updated": {
-        "sec": 1711300235
+        "sec": 1711301164
+      }
+    },
+    {
+      "_id": {
+        "$id": "6600622d7aa5457baf52e7d3"
+      },
+      "id": "20240358672",
+      "coords": true,
+      "dateTime": {
+        "sec": 1711300800
+      },
+      "date": "24-03-2024",
+      "hour": "17:20",
+      "location": "Viana Do Castelo, Viana do Castelo, Carreço",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Carreço",
+      "dico": "1609",
+      "lat": 41.748756,
+      "lng": -8.853179,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Eólicas - Sub Estação ",
+      "active": true,
+      "sadoId": "20240358672",
+      "sharepointId": 23488010,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1711301165
+      },
+      "updated": {
+        "sec": 1711301179
       }
     }
   ]
