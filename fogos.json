@@ -74,8 +74,8 @@
       "location": "Porto, Vila do Conde, Macieira Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Do Conde",
       "freguesia": "Macieira Da Maia",
@@ -96,8 +96,18 @@
       "sharepointId": 23537963,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.05,
+          "total": 0.05
+        },
+        "altitude": 36.9856,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Nova dos Terreiros (Macieira de Cima)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +122,7 @@
         "sec": 1712331122
       },
       "updated": {
-        "sec": 1712341204
+        "sec": 1712344061
       }
     },
     {
@@ -151,8 +161,12 @@
       "sharepointId": 23537970,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 305.431,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Monte (LUZIM)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +181,7 @@
         "sec": 1712331242
       },
       "updated": {
-        "sec": 1712341452
+        "sec": 1712344404
       }
     },
     {
@@ -243,8 +257,8 @@
       "location": "Viana Do Castelo, Caminha, Venade E Azevedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 9,
+      "man": 46,
+      "terrain": 10,
       "district": "Viana Do Castelo",
       "concelho": "Caminha",
       "freguesia": "Venade E Azevedo",
@@ -285,7 +299,7 @@
         "sec": 1712336424
       },
       "updated": {
-        "sec": 1712342762
+        "sec": 1712343244
       }
     },
     {
@@ -400,6 +414,61 @@
       },
       "updated": {
         "sec": 1712341451
+      }
+    },
+    {
+      "_id": {
+        "$id": "661047700a442b78f227a51f"
+      },
+      "id": "20240409440",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712342460
+      },
+      "date": "05-04-2024",
+      "hour": "19:41",
+      "location": "Lisboa, Loures, Loures",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Loures",
+      "dico": "1107",
+      "lat": 38.86582,
+      "lng": -9.213078,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Loures ",
+      "active": true,
+      "sadoId": "20240409440",
+      "sharepointId": 23538779,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1712342896
+      },
+      "updated": {
+        "sec": 1712342911
       }
     }
   ]
