@@ -15,8 +15,8 @@
       "location": "Santarém, Ourém, Espite",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Espite",
@@ -37,8 +37,12 @@
       "sharepointId": 23537026,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 201.224,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Freiria (Ribeira do Vale da Fontinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1712319962
       },
       "updated": {
-        "sec": 1712325252
+        "sec": 1712329409
       }
     },
     {
@@ -93,11 +97,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.01,
+          "total": 0.01
+        },
         "altitude": 671.5,
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Estrada do Curral do Negro (Mata Rainha)",
+      "detailLocation": "Estrada do Curral do Negro (Cabeço de Maria)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +122,7 @@
         "sec": 1712321163
       },
       "updated": {
-        "sec": 1712327883
+        "sec": 1712329636
       }
     },
     {
@@ -151,8 +161,12 @@
       "sharepointId": 23537235,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 184.107,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua das Travessas (Barroco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,62 +181,7 @@
         "sec": 1712322611
       },
       "updated": {
-        "sec": 1712326442
-      }
-    },
-    {
-      "_id": {
-        "$id": "661001250d1eef25ef4d0520"
-      },
-      "id": "20240408068",
-      "coords": true,
-      "dateTime": {
-        "sec": 1712323740
-      },
-      "date": "05-04-2024",
-      "hour": "14:29",
-      "location": "Porto, Vila Nova de Gaia, Canelas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Canelas",
-      "dico": "1317",
-      "lat": 41.074003,
-      "lng": -8.592425,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Serra De Negrelos ",
-      "active": true,
-      "sadoId": "20240408068",
-      "sharepointId": 23537407,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1712324901
-      },
-      "updated": {
-        "sec": 1712327884
+        "sec": 1712329645
       }
     },
     {
@@ -261,8 +220,12 @@
       "sharepointId": 23537464,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 179.709,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Tapada das Merces (Mercês)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -277,7 +240,7 @@
         "sec": 1712324901
       },
       "updated": {
-        "sec": 1712327884
+        "sec": 1712329649
       }
     },
     {
@@ -316,8 +279,12 @@
       "sharepointId": 23537553,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 889.75,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Qta dos Caetanos (Barrocos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -332,7 +299,7 @@
         "sec": 1712325856
       },
       "updated": {
-        "sec": 1712327883
+        "sec": 1712329660
       }
     },
     {
@@ -355,17 +322,17 @@
       "concelho": "São Pedro Do Sul",
       "freguesia": "Sul",
       "dico": "1816",
-      "lat": 40.841282,
-      "lng": -8.050962,
+      "lat": 40.847882,
+      "lng": -8.012335,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Sul ",
+      "localidade": "Pesos ",
       "active": true,
       "sadoId": "20240408382",
       "sharepointId": 23537721,
@@ -376,7 +343,7 @@
         "agricola": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Pesos (Rio Fogarosa)",
+      "detailLocation": "Pesos (Ribeiro de Seixal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -391,7 +358,239 @@
         "sec": 1712328131
       },
       "updated": {
-        "sec": 1712328156
+        "sec": 1712329692
+      }
+    },
+    {
+      "_id": {
+        "$id": "66100f2cc257cf370909ac40"
+      },
+      "id": "20240408419",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712328300
+      },
+      "date": "05-04-2024",
+      "hour": "15:45",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.75235,
+      "lng": -9.45643,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcabideche ",
+      "active": true,
+      "sadoId": "20240408419",
+      "sharepointId": 23537758,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 169.617,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Almoínhas Velhas. Cascais. Portugal (Arneiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1712328492
+      },
+      "updated": {
+        "sec": 1712329693
+      }
+    },
+    {
+      "_id": {
+        "$id": "66101208c257cf370909ac4e"
+      },
+      "id": "20240408469",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712328600
+      },
+      "date": "05-04-2024",
+      "hour": "15:50",
+      "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
+      "dico": "1305",
+      "lat": 41.339488,
+      "lng": -8.323094,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lustosa ",
+      "active": true,
+      "sadoId": "20240408469",
+      "sharepointId": 23537808,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 413.605,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "LUSTOSA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1712329224
+      },
+      "updated": {
+        "sec": 1712329313
+      }
+    },
+    {
+      "_id": {
+        "$id": "66101208c257cf370909ac4f"
+      },
+      "id": "20240408463",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712328660
+      },
+      "date": "05-04-2024",
+      "hour": "15:51",
+      "location": "Braga, Celorico de Basto, Caçarilhe E Infesta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Celorico De Basto",
+      "freguesia": "Caçarilhe E Infesta",
+      "dico": "0305",
+      "lat": 41.424061,
+      "lng": -8.042718,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Caçarilhe ",
+      "active": true,
+      "sadoId": "20240408463",
+      "sharepointId": 23537802,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 548.084,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Leirinhas (CAÇARILHE)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1712329224
+      },
+      "updated": {
+        "sec": 1712329348
+      }
+    },
+    {
+      "_id": {
+        "$id": "6610154391d3d01df8044738"
+      },
+      "id": "20240408531",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712329740
+      },
+      "date": "05-04-2024",
+      "hour": "16:09",
+      "location": "Porto, Amarante, Candemil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Candemil",
+      "dico": "1301",
+      "lat": 41.254893,
+      "lng": -7.968479,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Espinheiro ",
+      "active": true,
+      "sadoId": "20240408531",
+      "sharepointId": 23537870,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1712330051
+      },
+      "updated": {
+        "sec": 1712330063
       }
     }
   ]
