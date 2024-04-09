@@ -15,8 +15,8 @@
       "location": "Guarda, Trancoso, Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Guarda",
       "concelho": "Trancoso",
       "freguesia": "Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 1,
+          "total": 1
+        },
         "altitude": 921.959,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "V.le dos Porcos (Vale dos Porcos)",
@@ -57,7 +63,7 @@
         "sec": 1712665323
       },
       "updated": {
-        "sec": 1712674915
+        "sec": 1712689313
       }
     },
     {
@@ -101,7 +107,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lg. da Devesa (ABOIM)",
+      "detailLocation": "Lg. da Devesa (Fontelas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -116,7 +122,7 @@
         "sec": 1712680212
       },
       "updated": {
-        "sec": 1712685133
+        "sec": 1712689330
       }
     },
     {
@@ -139,8 +145,8 @@
       "concelho": "Guimarães",
       "freguesia": "Airão Santa Maria, Airão São João E Vermil",
       "dico": "0308",
-      "lat": 41.44667,
-      "lng": -8.39164,
+      "lat": 41.459607,
+      "lng": -8.389883,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -155,8 +161,12 @@
       "sharepointId": 23555767,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 164.278,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vermil. Guimarães. Portugal (Calçada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +181,7 @@
         "sec": 1712686109
       },
       "updated": {
-        "sec": 1712686811
+        "sec": 1712689812
       }
     }
   ]
