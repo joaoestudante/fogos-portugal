@@ -129,8 +129,8 @@
       "location": "Porto, Santo Tirso, Monte Córdova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Monte Córdova",
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -167,7 +167,66 @@
         "sec": 1712868260
       },
       "updated": {
-        "sec": 1712868272
+        "sec": 1712868739
+      }
+    },
+    {
+      "_id": {
+        "$id": "66185135fb3ab307486ec8a2"
+      },
+      "id": "20240436224",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712869200
+      },
+      "date": "11-04-2024",
+      "hour": "22:00",
+      "location": "Aveiro, Albergaria-a-Velha, Albergaria-a-velha E Valmaior",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Albergaria-a-velha",
+      "freguesia": "Albergaria-a-velha E Valmaior",
+      "dico": "0102",
+      "lat": 40.679875,
+      "lng": -8.516366,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "São Marcos ",
+      "active": true,
+      "sadoId": "20240436224",
+      "sharepointId": 23565563,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 95.5344,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Marcos",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1712869685
+      },
+      "updated": {
+        "sec": 1712869711
       }
     }
   ]
