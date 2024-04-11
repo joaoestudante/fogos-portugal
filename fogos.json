@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6617caaa2c45026c40279b88"
-      },
-      "id": "20240433711",
-      "coords": true,
-      "dateTime": {
-        "sec": 1712834820
-      },
-      "date": "11-04-2024",
-      "hour": "12:27",
-      "location": "Lisboa, Odivelas, Ramada E Caneças",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Lisboa",
-      "concelho": "Odivelas",
-      "freguesia": "Ramada E Caneças",
-      "dico": "1116",
-      "lat": 38.811058,
-      "lng": -9.224517,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Caneças ",
-      "active": true,
-      "sadoId": "20240433711",
-      "sharepointId": 23563050,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1712835242
-      },
-      "updated": {
-        "sec": 1712838363
-      }
-    },
-    {
-      "_id": {
         "$id": "6617d4f9ddb8d977f229d543"
       },
       "id": "20240433919",
@@ -190,15 +135,15 @@
       "concelho": "Vieira Do Minho",
       "freguesia": "Vieira Do Minho",
       "dico": "0311",
-      "lat": 41.636384,
-      "lng": -8.141209,
+      "lat": 41.624045,
+      "lng": -8.145065,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vieira Do Minho ",
       "active": true,
@@ -226,7 +171,7 @@
         "sec": 1712841484
       },
       "updated": {
-        "sec": 1712841509
+        "sec": 1712843164
       }
     },
     {
@@ -255,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -285,7 +230,7 @@
         "sec": 1712841485
       },
       "updated": {
-        "sec": 1712841545
+        "sec": 1712842803
       }
     },
     {
@@ -302,8 +247,8 @@
       "location": "Braga, Vila Nova de Famalicão, Arnoso (Santa Maria E Santa Eulália) E Sezures",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Arnoso (Santa Maria E Santa Eulália) E Sezures",
@@ -314,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Arnoso (Santa Maria E Santa Eulália) E Sezures ",
       "active": true,
@@ -340,7 +285,66 @@
         "sec": 1712841485
       },
       "updated": {
-        "sec": 1712841564
+        "sec": 1712842690
+      }
+    },
+    {
+      "_id": {
+        "$id": "6617e7c230677b35060c0001"
+      },
+      "id": "20240434270",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712842140
+      },
+      "date": "11-04-2024",
+      "hour": "14:29",
+      "location": "Leiria, Leiria, Leiria, Pousos, Barreira E Cortes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Leiria, Pousos, Barreira E Cortes",
+      "dico": "1009",
+      "lat": 39.7252,
+      "lng": -8.81417,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Leiria, Pousos, Barreira E Cortes ",
+      "active": true,
+      "sadoId": "20240434270",
+      "sharepointId": 23563609,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 66.0381,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Malaposta. Leiria. Portugal (Rego Travesso)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1712842690
+      },
+      "updated": {
+        "sec": 1712842713
       }
     }
   ]
