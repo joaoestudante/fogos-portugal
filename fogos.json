@@ -13,9 +13,9 @@
       "date": "12-04-2024",
       "hour": "10:39",
       "location": "Viana Do Castelo, Caminha, Dem",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
+      "man": 10,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Caminha",
@@ -42,7 +42,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Dem",
+      "detailLocation": "Fontainhas",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +57,7 @@
         "sec": 1712915042
       },
       "updated": {
-        "sec": 1712917938
+        "sec": 1712919765
       }
     },
     {
@@ -80,15 +80,15 @@
       "concelho": "Marco De Canaveses",
       "freguesia": "Marco",
       "dico": "1307",
-      "lat": 41.179373,
-      "lng": -8.139092,
+      "lat": 41.145645,
+      "lng": -8.160483,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Marco ",
       "active": true,
@@ -101,7 +101,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lugar de Esmoriz (ER210 (ER210) Km 60)",
+      "detailLocation": "Lugar de Esmoriz (Esmoriz)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -116,7 +116,66 @@
         "sec": 1712917563
       },
       "updated": {
-        "sec": 1712917598
+        "sec": 1712919839
+      }
+    },
+    {
+      "_id": {
+        "$id": "661914438647a60e2a3ed012"
+      },
+      "id": "20240438307",
+      "coords": true,
+      "dateTime": {
+        "sec": 1712918820
+      },
+      "date": "12-04-2024",
+      "hour": "11:47",
+      "location": "Faro, Lagoa, Lagoa E Carvoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Lagoa",
+      "freguesia": "Lagoa E Carvoeiro",
+      "dico": "0806",
+      "lat": 37.102176,
+      "lng": -8.449174,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Carvoeiro ",
+      "active": true,
+      "sadoId": "20240438307",
+      "sharepointId": 23567646,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 11.585,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Carvoeiro",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1712919619
+      },
+      "updated": {
+        "sec": 1712920108
       }
     }
   ]
