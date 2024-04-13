@@ -15,8 +15,8 @@
       "location": "Braga, Celorico de Basto, Veade, Gagos E Molares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Veade, Gagos E Molares",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Veade, Gagos E Molares ",
       "active": true,
@@ -53,7 +53,66 @@
         "sec": 1713009002
       },
       "updated": {
-        "sec": 1713009015
+        "sec": 1713011885
+      }
+    },
+    {
+      "_id": {
+        "$id": "661a7acc617f93028616703e"
+      },
+      "id": "20240443481",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713010860
+      },
+      "date": "13-04-2024",
+      "hour": "13:21",
+      "location": "Guarda, Aguiar da Beira, Aguiar Da Beira E Coruche",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Aguiar Da Beira",
+      "freguesia": "Aguiar Da Beira E Coruche",
+      "dico": "0901",
+      "lat": 40.82118,
+      "lng": -7.544046,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Aguiar Da Beira E Coruche ",
+      "active": true,
+      "sadoId": "20240443481",
+      "sharepointId": 23572820,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 792.653,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.82117975.-7.54404587) - N229. 3570-078 Aguiar da Beira. Portugal (EN229 (EN229) Km 49)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1713011404
+      },
+      "updated": {
+        "sec": 1713011764
       }
     }
   ]
