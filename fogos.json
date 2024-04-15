@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lorvão ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1713204853
       },
       "updated": {
-        "sec": 1713205563
+        "sec": 1713206404
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Grade E Carralcova",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Grade E Carralcova",
@@ -163,7 +163,62 @@
         "sec": 1713205330
       },
       "updated": {
-        "sec": 1713205346
+        "sec": 1713206405
+      }
+    },
+    {
+      "_id": {
+        "$id": "661d748451fe5d3088727b52"
+      },
+      "id": "20240454219",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713205560
+      },
+      "date": "15-04-2024",
+      "hour": "19:26",
+      "location": "Porto, Marco de Canaveses, Bem Viver",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Bem Viver",
+      "dico": "1307",
+      "lat": 41.10172,
+      "lng": -8.21269,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Bem Viver ",
+      "active": true,
+      "sadoId": "20240454219",
+      "sharepointId": 23583564,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713206404
+      },
+      "updated": {
+        "sec": 1713206404
       }
     }
   ]
