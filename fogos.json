@@ -37,8 +37,12 @@
       "sharepointId": 23585867,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 930.916,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Avelar - PNPG (Brandas da Lombardinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1713261363
       },
       "updated": {
-        "sec": 1713273252
+        "sec": 1713280396
       }
     },
     {
@@ -92,8 +96,12 @@
       "sharepointId": 23586845,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 594.887,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Avelar - PNPG (Ribeiro do Arroio)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +116,7 @@
         "sec": 1713273252
       },
       "updated": {
-        "sec": 1713277698
+        "sec": 1713280425
       }
     },
     {
@@ -137,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Senhora Do Castelo ",
       "active": true,
@@ -147,8 +155,12 @@
       "sharepointId": 23587178,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 374.359,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "SENHORA DO CASTELO (Quinta da Cavada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +175,7 @@
         "sec": 1713276857
       },
       "updated": {
-        "sec": 1713278532
+        "sec": 1713280439
       }
     },
     {
@@ -192,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Bigorne ",
       "active": true,
@@ -202,8 +214,12 @@
       "sharepointId": 23587215,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 969.491,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Reconcos (BIGORNE)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +234,66 @@
         "sec": 1713277698
       },
       "updated": {
-        "sec": 1713277716
+        "sec": 1713280470
+      }
+    },
+    {
+      "_id": {
+        "$id": "661e95d67b18a00796511215"
+      },
+      "id": "20240458070",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713279840
+      },
+      "date": "16-04-2024",
+      "hour": "16:04",
+      "location": "Bragança, Mogadouro, Vila De Ala",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Mogadouro",
+      "freguesia": "Vila De Ala",
+      "dico": "0408",
+      "lat": 41.32167,
+      "lng": -6.61599,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vila De Ala ",
+      "active": true,
+      "sadoId": "20240458070",
+      "sharepointId": 23587415,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 756.771,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vila de Ala. Mogadouro. Portugal (VILA DE ALÁ)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1713280470
+      },
+      "updated": {
+        "sec": 1713280582
       }
     }
   ]
