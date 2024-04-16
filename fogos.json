@@ -86,9 +86,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Monte De Santa Maria ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1713298803
       },
       "updated": {
-        "sec": 1713300362
+        "sec": 1713301924
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Lisboa, Vila Franca de Xira, Vila Franca De Xira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Vila Franca De Xira",
       "freguesia": "Vila Franca De Xira",
@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Franca De Xira ",
       "active": true,
@@ -171,7 +171,66 @@
         "sec": 1713300004
       },
       "updated": {
-        "sec": 1713300017
+        "sec": 1713301817
+      }
+    },
+    {
+      "_id": {
+        "$id": "661ee939dc015166ff377212"
+      },
+      "id": "20240459439",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713300960
+      },
+      "date": "16-04-2024",
+      "hour": "21:56",
+      "location": "Viseu, Castro Daire, Castro Daire",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Castro Daire",
+      "freguesia": "Castro Daire",
+      "dico": "1803",
+      "lat": 40.8964,
+      "lng": -7.900536,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Folgosa ",
+      "active": true,
+      "sadoId": "20240459439",
+      "sharepointId": 23588784,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 613.576,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "FOLGOSA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1713301817
+      },
+      "updated": {
+        "sec": 1713301839
       }
     }
   ]
