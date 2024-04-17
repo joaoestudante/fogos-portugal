@@ -42,7 +42,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Serapicos",
+      "detailLocation": "Serapicos (Rebolhal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +57,7 @@
         "sec": 1713355093
       },
       "updated": {
-        "sec": 1713357002
+        "sec": 1713366123
       }
     },
     {
@@ -75,7 +75,7 @@
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 14,
-      "terrain": 4,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Cabreiro",
@@ -96,8 +96,12 @@
       "sharepointId": 23591164,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 97.0638,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "LOUREDA (Vale de Branco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,66 @@
         "sec": 1713355802
       },
       "updated": {
-        "sec": 1713364692
+        "sec": 1713366123
+      }
+    },
+    {
+      "_id": {
+        "$id": "661fc66d05119c525a404d9e"
+      },
+      "id": "20240462008",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713357600
+      },
+      "date": "17-04-2024",
+      "hour": "13:40",
+      "location": "Porto, Penafiel, Valpedre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Valpedre",
+      "dico": "1311",
+      "lat": 41.137815,
+      "lng": -8.310597,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Valpedre ",
+      "active": true,
+      "sadoId": "20240462008",
+      "sharepointId": 23591353,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 239.178,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "VALPEDRE",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713358445
+      },
+      "updated": {
+        "sec": 1713366963
       }
     },
     {
@@ -154,9 +217,9 @@
       "icnf": {
         "altitude": 516.306,
         "fogacho": true,
-        "fontealerta": "Populares"
+        "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Coelhoso (Vales)",
+      "detailLocation": "Coelhoso",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,121 +234,7 @@
         "sec": 1713359763
       },
       "updated": {
-        "sec": 1713363364
-      }
-    },
-    {
-      "_id": {
-        "$id": "661fcd749ba19371d013a870"
-      },
-      "id": "20240461730",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713354000
-      },
-      "date": "17-04-2024",
-      "hour": "12:40",
-      "location": "Castelo Branco, Penamacor, Penamacor",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Castelo Branco",
-      "concelho": "Penamacor",
-      "freguesia": "Penamacor",
-      "dico": "0507",
-      "lat": 40.165305,
-      "lng": -7.16916,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Penamacor ",
-      "active": true,
-      "sadoId": "20240461730",
-      "sharepointId": 23591075,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "created": {
-        "sec": 1713360244
-      },
-      "updated": {
-        "sec": 1713360255
-      }
-    },
-    {
-      "_id": {
-        "$id": "661fd56d9ba19371d013a878"
-      },
-      "id": "20240462203",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713360000
-      },
-      "date": "17-04-2024",
-      "hour": "14:20",
-      "location": "Porto, Penafiel, Duas Igrejas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Duas Igrejas",
-      "dico": "1311",
-      "lat": 41.185589,
-      "lng": -8.273778,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Duas Igrejas ",
-      "active": true,
-      "sadoId": "20240462203",
-      "sharepointId": 23591548,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 389.009,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua da Liberdade (Eirô)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1713362285
-      },
-      "updated": {
-        "sec": 1713362312
+        "sec": 1713366149
       }
     },
     {
@@ -325,6 +274,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.03,
+          "total": 0.03
+        },
         "altitude": 64.7519,
         "fogacho": true,
         "fontealerta": "Populares"
@@ -344,7 +299,66 @@
         "sec": 1713363364
       },
       "updated": {
-        "sec": 1713363843
+        "sec": 1713366173
+      }
+    },
+    {
+      "_id": {
+        "$id": "661fe124a3228269033b2893"
+      },
+      "id": "20240462578",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713364560
+      },
+      "date": "17-04-2024",
+      "hour": "15:36",
+      "location": "Porto, Póvoa de Varzim, Balazar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Póvoa De Varzim",
+      "freguesia": "Balazar",
+      "dico": "1313",
+      "lat": 41.39296,
+      "lng": -8.605536,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Balazar ",
+      "active": true,
+      "sadoId": "20240462578",
+      "sharepointId": 23591934,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 113.868,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.39295727.-8.60553503) - Autoestrada do Douro. 4570 Póvoa de Varzim. Portugal (Cortiços)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1713365284
+      },
+      "updated": {
+        "sec": 1713366024
       }
     }
   ]
