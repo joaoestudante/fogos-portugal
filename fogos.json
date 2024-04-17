@@ -3,65 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "661fbc1a4711643fdc17cc4d"
-      },
-      "id": "20240461819",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713355500
-      },
-      "date": "17-04-2024",
-      "hour": "13:05",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Cabreiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Cabreiro",
-      "dico": "1601",
-      "lat": 41.944423,
-      "lng": -8.424755,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Loureda ",
-      "active": true,
-      "sadoId": "20240461819",
-      "sharepointId": 23591164,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 97.0638,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "LOUREDA (Vale de Branco)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1713355802
-      },
-      "updated": {
-        "sec": 1713375371
-      }
-    },
-    {
-      "_id": {
         "$id": "661fcb939ba19371d013a861"
       },
       "id": "20240462142",
@@ -133,8 +74,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Cabreiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 8,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Cabreiro",
@@ -155,8 +96,12 @@
       "sharepointId": 23592405,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 722.173,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Cabreiro (Lobagueira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +116,7 @@
         "sec": 1713370685
       },
       "updated": {
-        "sec": 1713378122
+        "sec": 1713380893
       }
     },
     {
@@ -210,8 +155,18 @@
       "sharepointId": 23592418,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.02,
+          "mato": 0,
+          "total": 0.02
+        },
+        "altitude": 39.8438,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Manuel  fernandes nº 5961 (Casalinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -226,7 +181,7 @@
         "sec": 1713372845
       },
       "updated": {
-        "sec": 1713378123
+        "sec": 1713380564
       }
     }
   ]
