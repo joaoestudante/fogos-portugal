@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6620360cfa1796163c534372"
-      },
-      "id": "20240464072",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713386700
-      },
-      "date": "17-04-2024",
-      "hour": "21:45",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Aguiã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Aguiã",
-      "dico": "1601",
-      "lat": 41.887115,
-      "lng": -8.4461,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cerdeira ",
-      "active": true,
-      "sadoId": "20240464072",
-      "sharepointId": 23593428,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1713387020
-      },
-      "updated": {
-        "sec": 1713393490
-      }
-    },
-    {
-      "_id": {
         "$id": "66203c14c6aced55034b32ce"
       },
       "id": "20240464147",
@@ -70,8 +15,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Fajões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Fajões",
@@ -92,8 +37,12 @@
       "sharepointId": 23593503,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 413.659,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Passos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1713388564
       },
       "updated": {
-        "sec": 1713389643
+        "sec": 1713395643
       }
     }
   ]
