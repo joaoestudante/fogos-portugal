@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Arcozelo ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1713437404
       },
       "updated": {
-        "sec": 1713440165
+        "sec": 1713442323
       }
     },
     {
@@ -74,21 +74,21 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Gavieira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 1,
+      "man": 23,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Gavieira",
       "dico": "1601",
-      "lat": 42.000432,
-      "lng": -8.259882,
+      "lat": 41.991153,
+      "lng": -8.231478,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Bouça Dos Homens - Pnpg ",
       "active": true,
@@ -112,7 +112,66 @@
         "sec": 1713439203
       },
       "updated": {
-        "sec": 1713440660
+        "sec": 1713442931
+      }
+    },
+    {
+      "_id": {
+        "$id": "66210cbba0c5de23f8079991"
+      },
+      "id": "20240466504",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713441600
+      },
+      "date": "18-04-2024",
+      "hour": "13:00",
+      "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Lobão, Gião, Louredo E Guisande",
+      "dico": "0109",
+      "lat": 40.98854,
+      "lng": -8.48831,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Lobão, Gião, Louredo E Guisande ",
+      "active": true,
+      "sadoId": "20240466504",
+      "sharepointId": 23595862,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 207.626,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.98854000.-8.48831000) - Rua de Santa Luzia 100. 4505-838 Santa Maria da Feira. Portugal (Cruz)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1713441979
+      },
+      "updated": {
+        "sec": 1713442932
       }
     }
   ]
