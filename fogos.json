@@ -62,61 +62,6 @@
     },
     {
       "_id": {
-        "$id": "6623b27ce1153e6dfe36ca1d"
-      },
-      "id": "20240475661",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713615360
-      },
-      "date": "20-04-2024",
-      "hour": "13:16",
-      "location": "Braga, Vila Nova de Famalicão, Lousado",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Vila Nova De Famalicão",
-      "freguesia": "Lousado",
-      "dico": "0312",
-      "lat": 41.36477,
-      "lng": -8.530132,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Lousado ",
-      "active": true,
-      "sadoId": "20240475661",
-      "sharepointId": 23605019,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1713615484
-      },
-      "updated": {
-        "sec": 1713617404
-      }
-    },
-    {
-      "_id": {
         "$id": "6623c08ac060ce57684574f5"
       },
       "id": "20240475898",
@@ -137,13 +82,13 @@
       "dico": "1601",
       "lat": 41.81783,
       "lng": -8.47605,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Bemposta ",
       "active": true,
@@ -167,7 +112,7 @@
         "sec": 1713619082
       },
       "updated": {
-        "sec": 1713619564
+        "sec": 1713620642
       }
     },
     {
@@ -184,21 +129,21 @@
       "location": "Porto, Amarante, Ansiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Ansiães",
       "dico": "1301",
-      "lat": 41.24949,
-      "lng": -7.95288,
+      "lat": 41.25139,
+      "lng": -7.95056,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Ansiães ",
       "active": true,
@@ -222,7 +167,176 @@
         "sec": 1713619564
       },
       "updated": {
-        "sec": 1713619576
+        "sec": 1713620294
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623c35cc060ce576845750f"
+      },
+      "id": "20240475954",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713619620
+      },
+      "date": "20-04-2024",
+      "hour": "14:27",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Rio De Moinhos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Rio De Moinhos",
+      "dico": "1601",
+      "lat": 41.88971,
+      "lng": -8.45021,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vinha Nova ",
+      "active": true,
+      "sadoId": "20240475954",
+      "sharepointId": 23605312,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1713619804
+      },
+      "updated": {
+        "sec": 1713619816
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623c546c060ce5768457516"
+      },
+      "id": "20240475936",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713619380
+      },
+      "date": "20-04-2024",
+      "hour": "14:23",
+      "location": "Porto, Gondomar, Lomba",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Lomba",
+      "dico": "1304",
+      "lat": 41.05968,
+      "lng": -8.41085,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lomba ",
+      "active": true,
+      "sadoId": "20240475936",
+      "sharepointId": 23605294,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 46.7694,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lomba. Gondomar. Portugal (LOMBA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1713620294
+      },
+      "updated": {
+        "sec": 1713620318
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623c546c060ce5768457519"
+      },
+      "id": "20240475973",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713620100
+      },
+      "date": "20-04-2024",
+      "hour": "14:35",
+      "location": "Porto, Penafiel, Luzim E Vila Cova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Luzim E Vila Cova",
+      "dico": "1311",
+      "lat": 41.17,
+      "lng": -8.23546,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Luzim E Vila Cova ",
+      "active": true,
+      "sadoId": "20240475973",
+      "sharepointId": 23605331,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713620294
+      },
+      "updated": {
+        "sec": 1713620339
       }
     }
   ]
