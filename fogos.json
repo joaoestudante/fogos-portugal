@@ -72,10 +72,10 @@
       "date": "20-04-2024",
       "hour": "14:14",
       "location": "Viana Do Castelo, Arcos de Valdevez, Távora (Santa Maria E São Vicente)",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Távora (Santa Maria E São Vicente)",
@@ -86,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Bemposta ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1713619082
       },
       "updated": {
-        "sec": 1713620642
+        "sec": 1713621635
       }
     },
     {
@@ -182,9 +182,9 @@
       "date": "20-04-2024",
       "hour": "14:27",
       "location": "Viana Do Castelo, Arcos de Valdevez, Rio De Moinhos",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
+      "man": 6,
       "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vinha Nova ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1713619804
       },
       "updated": {
-        "sec": 1713619816
+        "sec": 1713621635
       }
     },
     {
@@ -298,8 +298,8 @@
       "location": "Porto, Penafiel, Luzim E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Luzim E Vila Cova",
@@ -310,9 +310,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Luzim E Vila Cova ",
       "active": true,
@@ -336,7 +336,66 @@
         "sec": 1713620294
       },
       "updated": {
-        "sec": 1713620339
+        "sec": 1713621635
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623c910c060ce576845753e"
+      },
+      "id": "20240476014",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713620580
+      },
+      "date": "20-04-2024",
+      "hour": "14:43",
+      "location": "Bragança, Carrazeda de Ansiães, Pereiros",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Carrazeda De Ansiães",
+      "freguesia": "Pereiros",
+      "dico": "0403",
+      "lat": 41.33072,
+      "lng": -7.31539,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pereiros ",
+      "active": true,
+      "sadoId": "20240476014",
+      "sharepointId": 23605372,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 390.231,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Codeçais. Carrazeda de Ansiães. Portugal (Codeçais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1713621264
+      },
+      "updated": {
+        "sec": 1713621443
       }
     }
   ]
