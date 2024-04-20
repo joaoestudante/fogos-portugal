@@ -23,8 +23,8 @@
       "dico": "1601",
       "lat": 41.979132,
       "lng": -8.369957,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1.5,
+          "agricola": 0,
+          "mato": 1.5,
+          "total": 3
+        },
         "altitude": 395.384,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Portela de Alvito (Cavadinhas)",
@@ -57,7 +63,7 @@
         "sec": 1713606363
       },
       "updated": {
-        "sec": 1713624122
+        "sec": 1713625311
       }
     },
     {
@@ -71,17 +77,17 @@
       },
       "date": "20-04-2024",
       "hour": "14:14",
-      "location": "Viana Do Castelo, Arcos de Valdevez, São Jorge E Ermelo",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Távora (Santa Maria E São Vicente)",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 4,
       "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
-      "freguesia": "São Jorge E Ermelo",
+      "freguesia": "Távora (Santa Maria E São Vicente)",
       "dico": "1601",
       "lat": 41.81962,
-      "lng": -8.375878,
+      "lng": -8.475878,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -96,8 +102,12 @@
       "sharepointId": 23605256,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 92.0581,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Bemposta",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,62 +122,7 @@
         "sec": 1713619082
       },
       "updated": {
-        "sec": 1713623763
-      }
-    },
-    {
-      "_id": {
-        "$id": "6623c26cc060ce5768457506"
-      },
-      "id": "20240475921",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713619320
-      },
-      "date": "20-04-2024",
-      "hour": "14:22",
-      "location": "Porto, Amarante, Ansiães",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Ansiães",
-      "dico": "1301",
-      "lat": 41.247933,
-      "lng": -7.950277,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ansiães ",
-      "active": true,
-      "sadoId": "20240475921",
-      "sharepointId": 23605279,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1713619564
-      },
-      "updated": {
-        "sec": 1713623042
+        "sec": 1713625327
       }
     },
     {
@@ -206,8 +161,12 @@
       "sharepointId": 23605312,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 143.941,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vinha Nova (Aldeia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +181,7 @@
         "sec": 1713619804
       },
       "updated": {
-        "sec": 1713624122
+        "sec": 1713625338
       }
     },
     {
@@ -266,7 +225,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Lomba. Gondomar. Portugal (LOMBA)",
+      "detailLocation": "Lomba",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -281,7 +240,7 @@
         "sec": 1713620294
       },
       "updated": {
-        "sec": 1713623642
+        "sec": 1713625348
       }
     },
     {
@@ -298,14 +257,14 @@
       "location": "Porto, Penafiel, Luzim E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 7,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Luzim E Vila Cova",
       "dico": "1311",
-      "lat": 41.17,
-      "lng": -8.23546,
+      "lat": 41.17065,
+      "lng": -8.236253,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -320,8 +279,12 @@
       "sharepointId": 23605331,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 292.739,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Quintela 190 (VILA COVA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -336,7 +299,7 @@
         "sec": 1713620294
       },
       "updated": {
-        "sec": 1713624251
+        "sec": 1713625804
       }
     },
     {
@@ -351,9 +314,9 @@
       "date": "20-04-2024",
       "hour": "14:43",
       "location": "Bragança, Carrazeda de Ansiães, Pereiros",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
+      "man": 3,
       "terrain": 1,
       "district": "Bragança",
       "concelho": "Carrazeda De Ansiães",
@@ -395,7 +358,7 @@
         "sec": 1713621264
       },
       "updated": {
-        "sec": 1713624122
+        "sec": 1713625804
       }
     },
     {
@@ -412,21 +375,21 @@
       "location": "Porto, Felgueiras, Idães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Idães",
       "dico": "1303",
-      "lat": 41.338686,
-      "lng": -8.250216,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 41.322455,
+      "lng": -8.277592,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Idães ",
       "active": true,
@@ -439,7 +402,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "alto da nossa senhora (IDÃES)",
+      "detailLocation": "alto da nossa senhora (Granja)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -454,7 +417,7 @@
         "sec": 1713622443
       },
       "updated": {
-        "sec": 1713623642
+        "sec": 1713625564
       }
     },
     {
@@ -471,8 +434,8 @@
       "location": "Viseu, Viseu, Repeses E São Salvador",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Repeses E São Salvador",
@@ -483,9 +446,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Repeses ",
       "active": true,
@@ -493,8 +456,12 @@
       "sharepointId": 23605574,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 461.582,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Repeses",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -509,7 +476,7 @@
         "sec": 1713623763
       },
       "updated": {
-        "sec": 1713624251
+        "sec": 1713625804
       }
     },
     {
@@ -524,9 +491,9 @@
       "date": "20-04-2024",
       "hour": "15:40",
       "location": "Vila Real, Vila Pouca de Aguiar, Vila Pouca De Aguiar",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 13,
       "terrain": 2,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
@@ -548,8 +515,12 @@
       "sharepointId": 23605603,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 942.7,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Guilhado",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -564,7 +535,7 @@
         "sec": 1713624251
       },
       "updated": {
-        "sec": 1713624264
+        "sec": 1713625371
       }
     },
     {
@@ -603,8 +574,12 @@
       "sharepointId": 23605607,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 604.693,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lombadinha",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -619,7 +594,184 @@
         "sec": 1713624251
       },
       "updated": {
-        "sec": 1713624288
+        "sec": 1713625382
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623d5b5738e6058f32e8f46"
+      },
+      "id": "20240476267",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713624000
+      },
+      "date": "20-04-2024",
+      "hour": "15:40",
+      "location": "Viana Do Castelo, Paredes de Coura, Castanheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Paredes De Coura",
+      "freguesia": "Castanheira",
+      "dico": "1605",
+      "lat": 41.879975,
+      "lng": -8.557206,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Coqueira ",
+      "active": true,
+      "sadoId": "20240476267",
+      "sharepointId": 23605625,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 538.694,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Coqueira",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1713624501
+      },
+      "updated": {
+        "sec": 1713625564
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623d784738e6058f32e8f55"
+      },
+      "id": "20240476264",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713624300
+      },
+      "date": "20-04-2024",
+      "hour": "15:45",
+      "location": "Vila Real, Vila Real, Constantim E Vale De Nogueiras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Constantim E Vale De Nogueiras",
+      "dico": "1714",
+      "lat": 41.299964,
+      "lng": -7.66032,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carro Queimado ",
+      "active": true,
+      "sadoId": "20240476264",
+      "sharepointId": 23605622,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 690.376,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Carro Queimado",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1713624964
+      },
+      "updated": {
+        "sec": 1713624999
+      }
+    },
+    {
+      "_id": {
+        "$id": "6623d784738e6058f32e8f56"
+      },
+      "id": "20240476274",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713624540
+      },
+      "date": "20-04-2024",
+      "hour": "15:49",
+      "location": "Porto, Amarante, Lufrei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Lufrei",
+      "dico": "1301",
+      "lat": 41.277832,
+      "lng": -8.064335,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Lufrei ",
+      "active": true,
+      "sadoId": "20240476274",
+      "sharepointId": 23605632,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 106.349,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Barreiros de Baixo (Venda Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713624964
+      },
+      "updated": {
+        "sec": 1713625804
       }
     }
   ]
