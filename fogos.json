@@ -38,11 +38,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 2,
+          "total": 2
+        },
         "altitude": 604.693,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Lombadinha",
+      "detailLocation": "Lombadinha PNPG (Azevedo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -57,7 +63,7 @@
         "sec": 1713624251
       },
       "updated": {
-        "sec": 1713637803
+        "sec": 1713639721
       }
     },
     {
@@ -96,8 +102,12 @@
       "sharepointId": 23605743,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 796.361,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sevivas (Alto do Cristóvão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,66 +122,7 @@
         "sec": 1713626883
       },
       "updated": {
-        "sec": 1713633124
-      }
-    },
-    {
-      "_id": {
-        "$id": "6624004d6e49686d290dda23"
-      },
-      "id": "20240476931",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713633840
-      },
-      "date": "20-04-2024",
-      "hour": "18:24",
-      "location": "Setúbal, Seixal, Corroios",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Corroios",
-      "dico": "1510",
-      "lat": 38.644129,
-      "lng": -9.156509,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Corroios ",
-      "active": true,
-      "sadoId": "20240476931",
-      "sharepointId": 23606289,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 20.4744,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Praceta Ana Albuquerque (CORROIOS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1713635405
-      },
-      "updated": {
-        "sec": 1713637804
+        "sec": 1713639732
       }
     },
     {
@@ -188,8 +139,8 @@
       "location": "Vila Real, Montalegre, Salto",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Salto",
@@ -200,9 +151,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Beçós ",
       "active": true,
@@ -210,8 +161,12 @@
       "sharepointId": 23606306,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 861.853,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Beçós",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -226,7 +181,7 @@
         "sec": 1713635405
       },
       "updated": {
-        "sec": 1713637804
+        "sec": 1713639770
       }
     },
     {
@@ -265,8 +220,12 @@
       "sharepointId": 23606331,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 362.079,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M1300. 4575 Penafiel. Portugal (Vilar)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -281,7 +240,7 @@
         "sec": 1713635650
       },
       "updated": {
-        "sec": 1713637803
+        "sec": 1713639780
       }
     },
     {
@@ -298,21 +257,21 @@
       "location": "Lisboa, Arruda Dos Vinhos, Arranhó",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 14,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Arruda Dos Vinhos",
       "freguesia": "Arranhó",
       "dico": "1102",
-      "lat": 38.966903,
-      "lng": -9.121914,
+      "lat": 38.97889,
+      "lng": -9.12194,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Louriceira De Cima ",
       "active": true,
@@ -320,8 +279,12 @@
       "sharepointId": 23606383,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 295.057,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Travessa do Serrado (Casal do Retiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -336,7 +299,7 @@
         "sec": 1713636364
       },
       "updated": {
-        "sec": 1713637803
+        "sec": 1713640035
       }
     },
     {
@@ -353,8 +316,8 @@
       "location": "Setúbal, Seixal, Amora",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Amora",
@@ -365,9 +328,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Amora ",
       "active": true,
@@ -375,8 +338,12 @@
       "sharepointId": 23606491,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 14.5225,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "A2 S/N Km-16 (A2-S-N Km 13)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -391,7 +358,66 @@
         "sec": 1713638165
       },
       "updated": {
-        "sec": 1713638175
+        "sec": 1713640047
+      }
+    },
+    {
+      "_id": {
+        "$id": "66240edeee74fc178c27033c"
+      },
+      "id": "20240477205",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713638640
+      },
+      "date": "20-04-2024",
+      "hour": "19:44",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Sistelo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Sistelo",
+      "dico": "1601",
+      "lat": 41.973434,
+      "lng": -8.348041,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Portela De Alvito ",
+      "active": true,
+      "sadoId": "20240477205",
+      "sharepointId": 23606563,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 686.774,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Portela de Alvito (Branda do Alhal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1713639134
+      },
+      "updated": {
+        "sec": 1713639440
       }
     }
   ]
