@@ -13,9 +13,9 @@
       "date": "21-04-2024",
       "hour": "13:30",
       "location": "Viana Do Castelo, Arcos de Valdevez, Rio De Moinhos",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
+      "man": 29,
       "terrain": 9,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pedregais ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1713702734
       },
       "updated": {
-        "sec": 1713723852
+        "sec": 1713726732
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Braga, Fafe, Travassós",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Travassós",
@@ -155,8 +155,12 @@
       "sharepointId": 23609923,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 391.419,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "L. de Sanfins (Lestido)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +175,7 @@
         "sec": 1713714364
       },
       "updated": {
-        "sec": 1713723133
+        "sec": 1713726149
       }
     },
     {
@@ -188,8 +192,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Azias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Azias",
@@ -215,7 +219,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Salzeda (Outeiro)",
+      "detailLocation": "Mourelo (Outeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +234,7 @@
         "sec": 1713716292
       },
       "updated": {
-        "sec": 1713723134
+        "sec": 1713726160
       }
     },
     {
@@ -259,9 +263,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Telões ",
       "active": true,
@@ -269,8 +273,12 @@
       "sharepointId": 23610177,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 240.176,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M1185. 4600 Amarante. Portugal (Lodeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -285,66 +293,7 @@
         "sec": 1713718691
       },
       "updated": {
-        "sec": 1713723133
-      }
-    },
-    {
-      "_id": {
-        "$id": "662549d268752013fc709232"
-      },
-      "id": "20240480822",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713718500
-      },
-      "date": "21-04-2024",
-      "hour": "17:55",
-      "location": "Vila Real, Ribeira de Pena, Salvador E Santo Aleixo De Além-tâmega",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Ribeira De Pena",
-      "freguesia": "Salvador E Santo Aleixo De Além-tâmega",
-      "dico": "1709",
-      "lat": 41.50084,
-      "lng": -7.7575,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Ribeira De Pena (Salvador) E Santo Aleixo De Além-tâmega ",
-      "active": true,
-      "sadoId": "20240480822",
-      "sharepointId": 23610180,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 858.769,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(41.50084000.-7.75750000) - Autoestrada do Douro. 4870 Ribeira de Pena. Portugal (EN206 (EN206) Km 106)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1713719762
-      },
-      "updated": {
-        "sec": 1713720610
+        "sec": 1713726160
       }
     },
     {
@@ -404,6 +353,61 @@
       },
       "updated": {
         "sec": 1713724323
+      }
+    },
+    {
+      "_id": {
+        "$id": "66256241ffa1c5256118b2dd"
+      },
+      "id": "20240481198",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713725820
+      },
+      "date": "21-04-2024",
+      "hour": "19:57",
+      "location": "Porto, Valongo, Ermesinde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Ermesinde",
+      "dico": "1315",
+      "lat": 41.21289,
+      "lng": -8.539772,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Ermesinde ",
+      "active": true,
+      "sadoId": "20240481198",
+      "sharepointId": 23610556,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1713726017
+      },
+      "updated": {
+        "sec": 1713726732
       }
     }
   ]
