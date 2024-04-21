@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boticas ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1713690738
       },
       "updated": {
-        "sec": 1713697351
+        "sec": 1713701403
       }
     },
     {
@@ -71,26 +71,26 @@
       },
       "date": "21-04-2024",
       "hour": "12:15",
-      "location": "Santarém, Tomar, São João Baptista E Santa Maria Dos Olivais",
+      "location": "Santarém, Tomar, Madalena E Beselga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 9,
       "terrain": 4,
       "district": "Santarém",
       "concelho": "Tomar",
-      "freguesia": "São João Baptista E Santa Maria Dos Olivais",
+      "freguesia": "Madalena E Beselga",
       "dico": "1418",
-      "lat": 39.602187,
-      "lng": -8.405552,
+      "lat": 39.588473,
+      "lng": -8.398112,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Tomar ",
+      "localidade": "Marmelais De Baixo ",
       "active": true,
       "sadoId": "20240479642",
       "sharepointId": 23609000,
@@ -112,7 +112,7 @@
         "sec": 1713698650
       },
       "updated": {
-        "sec": 1713699731
+        "sec": 1713701403
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Porto, Penafiel, Galegos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Galegos",
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Galegos ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1713699363
       },
       "updated": {
-        "sec": 1713699376
+        "sec": 1713700104
       }
     },
     {
@@ -190,8 +190,8 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
       "dico": "1713",
-      "lat": 41.44494,
-      "lng": -7.69879,
+      "lat": 41.442867,
+      "lng": -7.720367,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -222,7 +222,117 @@
         "sec": 1713699483
       },
       "updated": {
-        "sec": 1713699731
+        "sec": 1713702364
+      }
+    },
+    {
+      "_id": {
+        "$id": "6624fd08a25f922a92081d68"
+      },
+      "id": "20240479732",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713699720
+      },
+      "date": "21-04-2024",
+      "hour": "12:42",
+      "location": "Lisboa, Lisboa, Santa Clara",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Santa Clara",
+      "dico": "1106",
+      "lat": 38.79283,
+      "lng": -9.148275,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Galinheiras ",
+      "active": true,
+      "sadoId": "20240479732",
+      "sharepointId": 23609090,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1713700104
+      },
+      "updated": {
+        "sec": 1713700121
+      }
+    },
+    {
+      "_id": {
+        "$id": "662500b3a25f922a92081e9e"
+      },
+      "id": "20240479763",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713700500
+      },
+      "date": "21-04-2024",
+      "hour": "12:55",
+      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Castelo Branco",
+      "dico": "0502",
+      "lat": 39.799193,
+      "lng": -7.480262,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Castelo Branco ",
+      "active": true,
+      "sadoId": "20240479763",
+      "sharepointId": 23609121,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1713701043
+      },
+      "updated": {
+        "sec": 1713702364
       }
     }
   ]
