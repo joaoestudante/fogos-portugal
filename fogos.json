@@ -15,8 +15,8 @@
       "location": "Porto, Penafiel, Galegos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Galegos",
@@ -53,7 +53,7 @@
         "sec": 1713699363
       },
       "updated": {
-        "sec": 1713705244
+        "sec": 1713709803
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Rio De Moinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Rio De Moinhos",
@@ -108,7 +108,7 @@
         "sec": 1713702734
       },
       "updated": {
-        "sec": 1713707883
+        "sec": 1713710523
       }
     },
     {
@@ -186,15 +186,15 @@
       "concelho": "Fafe",
       "freguesia": "Travassós",
       "dico": "0307",
-      "lat": 41.491929,
-      "lng": -8.200095,
+      "lat": 41.502173,
+      "lng": -8.184582,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Travassos ",
       "active": true,
@@ -218,7 +218,66 @@
         "sec": 1713708843
       },
       "updated": {
-        "sec": 1713708854
+        "sec": 1713710523
+      }
+    },
+    {
+      "_id": {
+        "$id": "66252272730f87437039cba5"
+      },
+      "id": "20240480280",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713709020
+      },
+      "date": "21-04-2024",
+      "hour": "15:17",
+      "location": "Braga, Vila Nova de Famalicão, Lousado",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Lousado",
+      "dico": "0312",
+      "lat": 41.34884,
+      "lng": -8.51991,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lousado ",
+      "active": true,
+      "sadoId": "20240480280",
+      "sharepointId": 23609638,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 41.605,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ponte da Lagoncinha. 4760 Vila Nova de Famalicão. Portugal (Ponte da Lagoncinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1713709682
+      },
+      "updated": {
+        "sec": 1713710523
       }
     }
   ]
