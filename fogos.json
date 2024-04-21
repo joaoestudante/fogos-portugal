@@ -251,8 +251,8 @@
       "location": "Braga, Vila Verde, Valdreu",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Valdreu",
@@ -289,7 +289,7 @@
         "sec": 1713713891
       },
       "updated": {
-        "sec": 1713713901
+        "sec": 1713718923
       }
     },
     {
@@ -318,9 +318,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -344,7 +344,7 @@
         "sec": 1713714364
       },
       "updated": {
-        "sec": 1713716291
+        "sec": 1713718322
       }
     },
     {
@@ -361,8 +361,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Azias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Azias",
@@ -373,9 +373,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Salzeda ",
       "active": true,
@@ -403,66 +403,7 @@
         "sec": 1713716292
       },
       "updated": {
-        "sec": 1713716320
-      }
-    },
-    {
-      "_id": {
-        "$id": "662541dc1c0eb70e430e500a"
-      },
-      "id": "20240480731",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713716220
-      },
-      "date": "21-04-2024",
-      "hour": "17:17",
-      "location": "Aveiro, Vale de Cambra, Macieira De Cambra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Vale De Cambra",
-      "freguesia": "Macieira De Cambra",
-      "dico": "0119",
-      "lat": 40.870286,
-      "lng": -8.367205,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Raposeira ",
-      "active": true,
-      "sadoId": "20240480731",
-      "sharepointId": 23610089,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 407.059,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Raposeira (Ribeira do Porto Novo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1713717724
-      },
-      "updated": {
-        "sec": 1713717764
+        "sec": 1713718458
       }
     },
     {
@@ -479,8 +420,8 @@
       "location": "Vila Real, Vila Real, Borbela E Lamas De Olo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 11,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Borbela E Lamas De Olo",
@@ -491,9 +432,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Lamas De Olo ",
       "active": true,
@@ -521,7 +462,62 @@
         "sec": 1713717724
       },
       "updated": {
-        "sec": 1713717795
+        "sec": 1713718691
+      }
+    },
+    {
+      "_id": {
+        "$id": "662545a31c0eb70e430e502f"
+      },
+      "id": "20240480819",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713718500
+      },
+      "date": "21-04-2024",
+      "hour": "17:55",
+      "location": "Porto, Amarante, Telões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Telões",
+      "dico": "1301",
+      "lat": 41.33335,
+      "lng": -8.10666,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Telões ",
+      "active": true,
+      "sadoId": "20240480819",
+      "sharepointId": 23610177,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713718691
+      },
+      "updated": {
+        "sec": 1713718703
       }
     }
   ]
