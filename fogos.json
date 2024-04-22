@@ -15,8 +15,8 @@
       "location": "Viseu, Viseu, Rio De Loba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Rio De Loba",
@@ -63,7 +63,7 @@
         "sec": 1713792844
       },
       "updated": {
-        "sec": 1713812516
+        "sec": 1713813624
       }
     },
     {
@@ -78,10 +78,10 @@
       "date": "22-04-2024",
       "hour": "16:06",
       "location": "Vila Real, Montalegre, Salto",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 70,
-      "terrain": 21,
+      "man": 73,
+      "terrain": 22,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Salto",
@@ -122,7 +122,7 @@
         "sec": 1713801243
       },
       "updated": {
-        "sec": 1713812539
+        "sec": 1713813624
       }
     },
     {
@@ -245,65 +245,6 @@
     },
     {
       "_id": {
-        "$id": "6626a4b2a32bd63c7c4916b3"
-      },
-      "id": "20240485656",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713807840
-      },
-      "date": "22-04-2024",
-      "hour": "18:44",
-      "location": "Vila Real, Vila Pouca de Aguiar, Soutelo De Aguiar",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Soutelo De Aguiar",
-      "dico": "1713",
-      "lat": 41.462672,
-      "lng": -7.643638,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Soutelo De Aguiar ",
-      "active": true,
-      "sadoId": "20240485656",
-      "sharepointId": 23615014,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 847.271,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Soutelo de Aguiar (Bouça Pinheiro)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1713808562
-      },
-      "updated": {
-        "sec": 1713812566
-      }
-    },
-    {
-      "_id": {
         "$id": "6626a4b2a32bd63c7c4916b9"
       },
       "id": "20240485664",
@@ -328,9 +269,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Valadares ",
       "active": true,
@@ -358,7 +299,66 @@
         "sec": 1713808562
       },
       "updated": {
-        "sec": 1713812578
+        "sec": 1713813624
+      }
+    },
+    {
+      "_id": {
+        "$id": "6626b87883438a0a3c13bf24"
+      },
+      "id": "20240485932",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713812580
+      },
+      "date": "22-04-2024",
+      "hour": "20:03",
+      "location": "Lisboa, Alenquer, Olhalvo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Olhalvo",
+      "dico": "1101",
+      "lat": 39.099698,
+      "lng": -9.075219,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Olhalvo ",
+      "active": true,
+      "sadoId": "20240485932",
+      "sharepointId": 23615290,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 95.8556,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Quinta do Juncalinho (RELVA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1713813624
+      },
+      "updated": {
+        "sec": 1713813654
       }
     }
   ]
