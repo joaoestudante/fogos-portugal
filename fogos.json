@@ -15,8 +15,8 @@
       "location": "Viseu, Viseu, Rio De Loba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Rio De Loba",
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1,
+          "agricola": 0,
+          "mato": 0.34,
+          "total": 1.34
+        },
         "altitude": 499.379,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Bombeiros"
       },
       "detailLocation": "RIO DE LOBA (Quinta do Carvoeiro)",
@@ -57,7 +63,7 @@
         "sec": 1713792844
       },
       "updated": {
-        "sec": 1713809404
+        "sec": 1713812516
       }
     },
     {
@@ -72,10 +78,10 @@
       "date": "22-04-2024",
       "hour": "16:06",
       "location": "Vila Real, Montalegre, Salto",
-      "aerial": 3,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 71,
-      "terrain": 19,
+      "man": 70,
+      "terrain": 21,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Salto",
@@ -101,7 +107,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(41.65361723.-7.84314174) - N311. 5460-418 Boticas. Portugal (Seara)",
+      "detailLocation": "LatLong(41.65361723.-7.84314174) - N311. 5460-418 Boticas. Portugal (Porto do Carvalho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -116,62 +122,7 @@
         "sec": 1713801243
       },
       "updated": {
-        "sec": 1713809404
-      }
-    },
-    {
-      "_id": {
-        "$id": "66268d43c94dd404665ed941"
-      },
-      "id": "20240485276",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713802200
-      },
-      "date": "22-04-2024",
-      "hour": "17:10",
-      "location": "Porto, Felgueiras, Macieira Da Lixa E Caramos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Macieira Da Lixa E Caramos",
-      "dico": "1303",
-      "lat": 41.336825,
-      "lng": -8.148978,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Macieira Da Lixa ",
-      "active": true,
-      "sadoId": "20240485276",
-      "sharepointId": 23614634,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1713802563
-      },
-      "updated": {
-        "sec": 1713805385
+        "sec": 1713812539
       }
     },
     {
@@ -215,7 +166,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "TV Fontenaria (Costa)",
+      "detailLocation": "TV Fontenaria (Gandra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +181,7 @@
         "sec": 1713804245
       },
       "updated": {
-        "sec": 1713809404
+        "sec": 1713812564
       }
     },
     {
@@ -259,9 +210,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Castêlo Da Maia ",
       "active": true,
@@ -274,7 +225,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua de Sá (Rua de Cadeiró)",
+      "detailLocation": "Lg de Sá (Rua de Cadeiró)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -289,7 +240,7 @@
         "sec": 1713808562
       },
       "updated": {
-        "sec": 1713808818
+        "sec": 1713812566
       }
     },
     {
@@ -312,15 +263,15 @@
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Soutelo De Aguiar",
       "dico": "1713",
-      "lat": 41.45282,
-      "lng": -7.645706,
+      "lat": 41.462672,
+      "lng": -7.643638,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Soutelo De Aguiar ",
       "active": true,
@@ -328,8 +279,12 @@
       "sharepointId": 23615014,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 847.271,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Soutelo de Aguiar (Bouça Pinheiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -344,7 +299,7 @@
         "sec": 1713808562
       },
       "updated": {
-        "sec": 1713808691
+        "sec": 1713812566
       }
     },
     {
@@ -358,26 +313,26 @@
       },
       "date": "22-04-2024",
       "hour": "18:44",
-      "location": "Porto, Baião, Campelo E Ovil",
+      "location": "Porto, Baião, Valadares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 3,
+      "man": 20,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Baião",
-      "freguesia": "Campelo E Ovil",
+      "freguesia": "Valadares",
       "dico": "1302",
-      "lat": 41.161323,
-      "lng": -8.034242,
+      "lat": 41.140288,
+      "lng": -8.003368,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Campelo ",
+      "localidade": "Valadares ",
       "active": true,
       "sadoId": "20240485664",
       "sharepointId": 23615022,
@@ -388,7 +343,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Penedo do cão (CAMPELO)",
+      "detailLocation": "Penedo do cão (Roçadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -403,7 +358,7 @@
         "sec": 1713808562
       },
       "updated": {
-        "sec": 1713809404
+        "sec": 1713812578
       }
     }
   ]
