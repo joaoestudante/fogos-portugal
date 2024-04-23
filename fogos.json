@@ -74,8 +74,8 @@
       "location": "Vila Real, Montalegre, Salto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 12,
+      "man": 32,
+      "terrain": 10,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Salto",
@@ -101,7 +101,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Pereira. Montalegre. Portugal (ROSÁRIO 2º)",
+      "detailLocation": "Pereira (ROSÁRIO 2º)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -116,7 +116,7 @@
         "sec": 1713819782
       },
       "updated": {
-        "sec": 1713840137
+        "sec": 1713841329
       }
     },
     {
@@ -214,8 +214,18 @@
       "sharepointId": 23615932,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.002,
+          "mato": 0,
+          "total": 0.002
+        },
+        "altitude": 22.5556,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Nossa Senhora da Atalainha (Barra Cheia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +240,7 @@
         "sec": 1713827412
       },
       "updated": {
-        "sec": 1713831123
+        "sec": 1713841340
       }
     },
     {
@@ -247,8 +257,8 @@
       "location": "Vila Real, Montalegre, Venda Nova E Pondras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Venda Nova E Pondras",
@@ -269,8 +279,12 @@
       "sharepointId": 23615958,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 1010.68,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Fonte Curral",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -285,7 +299,7 @@
         "sec": 1713828244
       },
       "updated": {
-        "sec": 1713840251
+        "sec": 1713841943
       }
     }
   ]
