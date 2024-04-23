@@ -21,15 +21,15 @@
       "concelho": "Valença",
       "freguesia": "Gondomil E Safins",
       "dico": "1608",
-      "lat": 42.019205,
-      "lng": -8.565634,
+      "lat": 41.994837,
+      "lng": -8.563753,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Pedreiras ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 23616385,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 116.216,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Pedreiras (Azenhas do Fojo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,66 @@
         "sec": 1713853701
       },
       "updated": {
-        "sec": 1713853712
+        "sec": 1713856107
+      }
+    },
+    {
+      "_id": {
+        "$id": "66275b898e2b5d56d07f4777"
+      },
+      "id": "20240487103",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713854100
+      },
+      "date": "23-04-2024",
+      "hour": "07:35",
+      "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
+      "dico": "1305",
+      "lat": 41.339488,
+      "lng": -8.323094,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lustosa ",
+      "active": true,
+      "sadoId": "20240487103",
+      "sharepointId": 23616461,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 413.605,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lg. Lustosa (LUSTOSA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1713855369
+      },
+      "updated": {
+        "sec": 1713856035
       }
     }
   ]
