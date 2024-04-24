@@ -62,71 +62,6 @@
     },
     {
       "_id": {
-        "$id": "66289bd838c66f6f096b4dd2"
-      },
-      "id": "20240491511",
-      "coords": true,
-      "dateTime": {
-        "sec": 1713936360
-      },
-      "date": "24-04-2024",
-      "hour": "06:26",
-      "location": "Viseu, Cinfães, Cinfães",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viseu",
-      "concelho": "Cinfães",
-      "freguesia": "Cinfães",
-      "dico": "1804",
-      "lat": 41.072213,
-      "lng": -8.086727,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cinfães ",
-      "active": true,
-      "sadoId": "20240491511",
-      "sharepointId": 23620869,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0.5,
-          "agricola": 0,
-          "mato": 0.5,
-          "total": 1
-        },
-        "altitude": 476.571,
-        "incendio": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Aliviada (Cinfães 1º)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1713937368
-      },
-      "updated": {
-        "sec": 1713957884
-      }
-    },
-    {
-      "_id": {
         "$id": "6628d8c6a3e11d5d137f7855"
       },
       "id": "20240492547",
@@ -220,8 +155,12 @@
       "sharepointId": 23621658,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 752.422,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lagoa (Lameira da Chã)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -236,7 +175,7 @@
         "sec": 1713953098
       },
       "updated": {
-        "sec": 1713958025
+        "sec": 1713958037
       }
     },
     {
@@ -253,8 +192,8 @@
       "location": "Vila Real, Montalegre, Venda Nova E Pondras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Venda Nova E Pondras",
@@ -265,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Pai Afonso ",
       "active": true,
@@ -275,8 +214,12 @@
       "sharepointId": 23621925,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 855.131,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Pai Afonso",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -291,7 +234,7 @@
         "sec": 1713953099
       },
       "updated": {
-        "sec": 1713958015
+        "sec": 1713958447
       }
     },
     {
@@ -306,9 +249,9 @@
       "date": "24-04-2024",
       "hour": "11:15",
       "location": "Viseu, Tarouca, Mondim Da Beira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
+      "man": 9,
       "terrain": 3,
       "district": "Viseu",
       "concelho": "Tarouca",
@@ -330,8 +273,12 @@
       "sharepointId": 23621989,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 531.745,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mondim da Beira",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -346,7 +293,7 @@
         "sec": 1713954047
       },
       "updated": {
-        "sec": 1713958015
+        "sec": 1713958447
       }
     },
     {
@@ -369,8 +316,8 @@
       "concelho": "Ribeira De Pena",
       "freguesia": "Alvadia",
       "dico": "1709",
-      "lat": 41.454307,
-      "lng": -7.763325,
+      "lat": 41.284127,
+      "lng": -7.741562,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -385,8 +332,12 @@
       "sharepointId": 23622081,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 1004.6,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lamas (Bouça dos Moços)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -401,7 +352,7 @@
         "sec": 1713955001
       },
       "updated": {
-        "sec": 1713958015
+        "sec": 1713958447
       }
     },
     {
@@ -440,8 +391,12 @@
       "sharepointId": 23622262,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 778.857,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.72600000.-7.87298000) - Avenida do Emigrante. 5470 Montalegre. Portugal (EN103 (EN103) Km 111)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -456,7 +411,117 @@
         "sec": 1713957328
       },
       "updated": {
-        "sec": 1713958015
+        "sec": 1713958939
+      }
+    },
+    {
+      "_id": {
+        "$id": "6628ee2fe580ca0f4074b702"
+      },
+      "id": "20240492931",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713957180
+      },
+      "date": "24-04-2024",
+      "hour": "12:13",
+      "location": "Porto, Póvoa de Varzim, Laundos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Póvoa De Varzim",
+      "freguesia": "Laundos",
+      "dico": "1313",
+      "lat": 41.438852,
+      "lng": -8.721147,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240492931",
+      "sharepointId": 23622289,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1713958447
+      },
+      "updated": {
+        "sec": 1713958916
+      }
+    },
+    {
+      "_id": {
+        "$id": "6628ee2fe580ca0f4074b705"
+      },
+      "id": "20240492995",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713957960
+      },
+      "date": "24-04-2024",
+      "hour": "12:26",
+      "location": "Vila Real, Montalegre, Vila Da Ponte",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Vila Da Ponte",
+      "dico": "1706",
+      "lat": 41.720499,
+      "lng": -7.896022,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Da Ponte ",
+      "active": true,
+      "sadoId": "20240492995",
+      "sharepointId": 23622353,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1713958447
+      },
+      "updated": {
+        "sec": 1713958916
       }
     }
   ]
