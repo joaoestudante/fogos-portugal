@@ -37,8 +37,18 @@
       "sharepointId": 23620515,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 1,
+          "agricola": 0,
+          "mato": 6,
+          "total": 7
+        },
+        "altitude": 905.383,
+        "incendio": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "CERDEDO (Corga dos Lameiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +63,7 @@
         "sec": 1713915018
       },
       "updated": {
-        "sec": 1713939610
+        "sec": 1713949351
       }
     },
     {
@@ -226,7 +236,62 @@
         "sec": 1713944414
       },
       "updated": {
-        "sec": 1713948335
+        "sec": 1713950125
+      }
+    },
+    {
+      "_id": {
+        "$id": "6628c7c200c5b536d175d8e3"
+      },
+      "id": "20240492096",
+      "coords": true,
+      "dateTime": {
+        "sec": 1713947940
+      },
+      "date": "24-04-2024",
+      "hour": "09:39",
+      "location": "Faro, Olhão, Quelfes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Olhão",
+      "freguesia": "Quelfes",
+      "dico": "0810",
+      "lat": 37.047626,
+      "lng": -7.822793,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Areias ",
+      "active": true,
+      "sadoId": "20240492096",
+      "sharepointId": 23621454,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1713948610
+      },
+      "updated": {
+        "sec": 1713950125
       }
     }
   ]
