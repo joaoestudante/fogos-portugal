@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Capela Stº André ",
       "active": true,
@@ -163,62 +163,7 @@
         "sec": 1714045563
       },
       "updated": {
-        "sec": 1714047492
-      }
-    },
-    {
-      "_id": {
-        "$id": "662a445b9ba412529216c446"
-      },
-      "id": "20240497445",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714045680
-      },
-      "date": "25-04-2024",
-      "hour": "12:48",
-      "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Vila Real",
-      "concelho": "Montalegre",
-      "freguesia": "Viade De Baixo E Fervidelas",
-      "dico": "1706",
-      "lat": 41.7425,
-      "lng": -7.871944,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "União Das Freguesias De Viade De Baixo E Fervidelas ",
-      "active": true,
-      "sadoId": "20240497445",
-      "sharepointId": 23626803,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1714046043
-      },
-      "updated": {
-        "sec": 1714046054
+        "sec": 1714049044
       }
     },
     {
@@ -294,8 +239,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Perre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Perre",
@@ -306,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Caminho Das Portelas ",
       "active": true,
@@ -332,7 +277,66 @@
         "sec": 1714048445
       },
       "updated": {
-        "sec": 1714048456
+        "sec": 1714049044
+      }
+    },
+    {
+      "_id": {
+        "$id": "662a5014794a0f780232ae98"
+      },
+      "id": "20240497613",
+      "coords": true,
+      "dateTime": {
+        "sec": 1714048620
+      },
+      "date": "25-04-2024",
+      "hour": "13:37",
+      "location": "Leiria, Porto de Mós, São Bento",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Porto De Mós",
+      "freguesia": "São Bento",
+      "dico": "1016",
+      "lat": 39.54375,
+      "lng": -8.79852,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "São Bento ",
+      "active": true,
+      "sadoId": "20240497613",
+      "sharepointId": 23626971,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 485.68,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.54375000.-8.79852000) - Rua da Escola. 2480 Porto de Mós. Portugal (Poço da Chainça)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1714049044
+      },
+      "updated": {
+        "sec": 1714049076
       }
     }
   ]
