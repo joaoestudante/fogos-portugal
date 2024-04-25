@@ -15,8 +15,8 @@
       "location": "Braga, Vieira do Minho, Guilhofrei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Guilhofrei",
@@ -57,7 +57,7 @@
         "sec": 1713990018
       },
       "updated": {
-        "sec": 1714020243
+        "sec": 1714023533
       }
     },
     {
@@ -121,61 +121,6 @@
     },
     {
       "_id": {
-        "$id": "6629ce44d8e679735f07f255"
-      },
-      "id": "20240496052",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714015620
-      },
-      "date": "25-04-2024",
-      "hour": "04:27",
-      "location": "Porto, Penafiel, Luzim E Vila Cova",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Luzim E Vila Cova",
-      "dico": "1311",
-      "lat": 41.1739,
-      "lng": -8.23655,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Luzim E Vila Cova ",
-      "active": true,
-      "sadoId": "20240496052",
-      "sharepointId": 23625410,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1714015812
-      },
-      "updated": {
-        "sec": 1714021092
-      }
-    },
-    {
-      "_id": {
         "$id": "6629e9c7699f564a3a14d3d2"
       },
       "id": "20240496138",
@@ -210,8 +155,12 @@
       "sharepointId": 23625496,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 759.819,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Alecrimes. Terras de Bouro. Portugal (Alecrimes)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -226,7 +175,7 @@
         "sec": 1714022855
       },
       "updated": {
-        "sec": 1714022855
+        "sec": 1714024017
       }
     }
   ]
