@@ -3,116 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "662b91a215c2e94b2a11f923"
-      },
-      "id": "20240501394",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714130940
-      },
-      "date": "26-04-2024",
-      "hour": "12:29",
-      "location": "Viseu, Mangualde, Alcafache",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viseu",
-      "concelho": "Mangualde",
-      "freguesia": "Alcafache",
-      "dico": "1806",
-      "lat": 40.473045,
-      "lng": -8.387815,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Lobelhe Do Mato ",
-      "active": true,
-      "sadoId": "20240501394",
-      "sharepointId": 23630752,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1714131362
-      },
-      "updated": {
-        "sec": 1714142523
-      }
-    },
-    {
-      "_id": {
-        "$id": "662bace7129465238510d867"
-      },
-      "id": "20240501941",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714137900
-      },
-      "date": "26-04-2024",
-      "hour": "14:25",
-      "location": "Viseu, Lamego, Lalim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Lamego",
-      "freguesia": "Lalim",
-      "dico": "1805",
-      "lat": 41.045485,
-      "lng": -7.816305,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Lalim ",
-      "active": true,
-      "sadoId": "20240501941",
-      "sharepointId": 23631299,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1714138343
-      },
-      "updated": {
-        "sec": 1714140253
-      }
-    },
-    {
-      "_id": {
         "$id": "662bb09d129465238510d887"
       },
       "id": "20240502018",
@@ -147,8 +37,12 @@
       "sharepointId": 23631376,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 204.638,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar do Casal (Belos Aires)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +57,7 @@
         "sec": 1714139293
       },
       "updated": {
-        "sec": 1714140364
+        "sec": 1714144035
       }
     },
     {
@@ -180,8 +74,8 @@
       "location": "Porto, Maia, Cidade Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Cidade Da Maia",
@@ -192,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cidade Da Maia ",
       "active": true,
@@ -202,8 +96,12 @@
       "sharepointId": 23631571,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 51.2044,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ponte da Pedra (Rua Ponte da Pedra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +116,7 @@
         "sec": 1714141923
       },
       "updated": {
-        "sec": 1714142290
+        "sec": 1714144120
       }
     }
   ]
