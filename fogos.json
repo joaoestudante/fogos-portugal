@@ -15,8 +15,8 @@
       "location": "Santarém, Tomar, Asseiceira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Tomar",
       "freguesia": "Asseiceira",
@@ -57,7 +57,7 @@
         "sec": 1714397051
       },
       "updated": {
-        "sec": 1714403652
+        "sec": 1714404019
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -175,66 +175,7 @@
         "sec": 1714398604
       },
       "updated": {
-        "sec": 1714403358
-      }
-    },
-    {
-      "_id": {
-        "$id": "662fa76bb93fd14c1936e813"
-      },
-      "id": "20240514101",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714398540
-      },
-      "date": "29-04-2024",
-      "hour": "14:49",
-      "location": "Leiria, Pombal, Pombal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Leiria",
-      "concelho": "Pombal",
-      "freguesia": "Pombal",
-      "dico": "1015",
-      "lat": 39.940941,
-      "lng": -8.63973,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Estrada ",
-      "active": true,
-      "sadoId": "20240514101",
-      "sharepointId": 23643459,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 62.7331,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Principal 9. 3100-322 Pombal. Portugal (Estrada)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "created": {
-        "sec": 1714399083
-      },
-      "updated": {
-        "sec": 1714403336
+        "sec": 1714404242
       }
     },
     {
@@ -257,15 +198,15 @@
       "concelho": "Guimarães",
       "freguesia": "Gonça",
       "dico": "0308",
-      "lat": 41.50831,
-      "lng": -8.25093,
+      "lat": 41.51682,
+      "lng": -8.235597,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Gonça ",
       "active": true,
@@ -293,7 +234,7 @@
         "sec": 1714402821
       },
       "updated": {
-        "sec": 1714403358
+        "sec": 1714404378
       }
     },
     {
@@ -322,9 +263,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Carvalheiros ",
       "active": true,
@@ -352,7 +293,62 @@
         "sec": 1714403358
       },
       "updated": {
-        "sec": 1714403652
+        "sec": 1714404019
+      }
+    },
+    {
+      "_id": {
+        "$id": "662fbab3d730fb25765e086b"
+      },
+      "id": "20240514535",
+      "coords": true,
+      "dateTime": {
+        "sec": 1714402980
+      },
+      "date": "29-04-2024",
+      "hour": "16:03",
+      "location": "Porto, Lousada, Caíde De Rei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Caíde De Rei",
+      "dico": "1305",
+      "lat": 41.266677,
+      "lng": -8.223831,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Caíde De Rei ",
+      "active": true,
+      "sadoId": "20240514535",
+      "sharepointId": 23643893,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1714404019
+      },
+      "updated": {
+        "sec": 1714404033
       }
     }
   ]
