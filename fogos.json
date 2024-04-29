@@ -15,8 +15,8 @@
       "location": "Santarém, Tomar, Asseiceira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Tomar",
       "freguesia": "Asseiceira",
@@ -37,8 +37,12 @@
       "sharepointId": 23643323,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 93.1913,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Casal Novo",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1714397051
       },
       "updated": {
-        "sec": 1714400412
+        "sec": 1714403652
       }
     },
     {
@@ -70,8 +74,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Ladoeiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Ladoeiro",
@@ -92,8 +96,12 @@
       "sharepointId": 23643405,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 215.02,
+        "agricola": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Ladoeiro. Saida para Monforte (LADOEIRO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +116,7 @@
         "sec": 1714398002
       },
       "updated": {
-        "sec": 1714401363
+        "sec": 1714403358
       }
     },
     {
@@ -125,8 +133,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 3,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -147,8 +155,12 @@
       "sharepointId": 23643447,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 126.553,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Junto ao Parque de Campismo (Monte das Vinhas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +175,7 @@
         "sec": 1714398604
       },
       "updated": {
-        "sec": 1714401977
+        "sec": 1714403358
       }
     },
     {
@@ -180,7 +192,7 @@
       "location": "Leiria, Pombal, Pombal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
+      "man": 6,
       "terrain": 2,
       "district": "Leiria",
       "concelho": "Pombal",
@@ -192,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Estrada ",
       "active": true,
@@ -202,8 +214,12 @@
       "sharepointId": 23643459,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 62.7331,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Principal 9. 3100-322 Pombal. Portugal (Estrada)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +234,125 @@
         "sec": 1714399083
       },
       "updated": {
-        "sec": 1714400422
+        "sec": 1714403336
+      }
+    },
+    {
+      "_id": {
+        "$id": "662fb605580664063015f757"
+      },
+      "id": "20240514437",
+      "coords": true,
+      "dateTime": {
+        "sec": 1714402440
+      },
+      "date": "29-04-2024",
+      "hour": "15:54",
+      "location": "Braga, Guimarães, Gonça",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Gonça",
+      "dico": "0308",
+      "lat": 41.50831,
+      "lng": -8.25093,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gonça ",
+      "active": true,
+      "sadoId": "20240514437",
+      "sharepointId": 23643795,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 368.559,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Gonça. Guimarães. Portugal (ED207-4 (ED207-4) Km 7)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1714402821
+      },
+      "updated": {
+        "sec": 1714403358
+      }
+    },
+    {
+      "_id": {
+        "$id": "662fb81e1817e87d173cf613"
+      },
+      "id": "20240514470",
+      "coords": true,
+      "dateTime": {
+        "sec": 1714402800
+      },
+      "date": "29-04-2024",
+      "hour": "16:00",
+      "location": "Santarém, Tomar, São João Baptista E Santa Maria Dos Olivais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Tomar",
+      "freguesia": "São João Baptista E Santa Maria Dos Olivais",
+      "dico": "1418",
+      "lat": 39.613468,
+      "lng": -8.381715,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carvalheiros ",
+      "active": true,
+      "sadoId": "20240514470",
+      "sharepointId": 23643828,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 101.376,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua da Capela. 8A (Carvalheiros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1714403358
+      },
+      "updated": {
+        "sec": 1714403652
       }
     }
   ]
