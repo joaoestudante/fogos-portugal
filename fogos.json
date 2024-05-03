@@ -15,14 +15,14 @@
       "location": "Beja, Mértola, S. Mig. Pinheiro, S. Pedro Solis E S. Sebastião Carros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 7,
+      "man": 11,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "S. Mig. Pinheiro, S. Pedro Solis E S. Sebastião Carros",
       "dico": "0209",
-      "lat": 37.50373,
-      "lng": -7.729347,
+      "lat": 37.49815,
+      "lng": -7.717213,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -57,47 +57,51 @@
         "sec": 1714762091
       },
       "updated": {
-        "sec": 1714765443
+        "sec": 1714766043
       }
     },
     {
       "_id": {
-        "$id": "66353ac3debebe56b85b2990"
+        "$id": "663540dbdebebe56b85b29b2"
       },
-      "id": "20240531825",
+      "id": "20240531898",
       "coords": true,
       "dateTime": {
-        "sec": 1714764180
+        "sec": 1714765320
       },
       "date": "03-05-2024",
-      "hour": "20:23",
-      "location": "Lisboa, Vila Franca de Xira, Vila Franca De Xira",
+      "hour": "20:42",
+      "location": "Beja, Mértola, Corte Do Pinto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Vila Franca De Xira",
-      "freguesia": "Vila Franca De Xira",
-      "dico": "1114",
-      "lat": 38.97191,
-      "lng": -9.00808,
+      "man": 15,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Mértola",
+      "freguesia": "Corte Do Pinto",
+      "dico": "0209",
+      "lat": 37.673442,
+      "lng": -7.506593,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Vila Franca De Xira ",
+      "localidade": "Mina De São Domingos ",
       "active": true,
-      "sadoId": "20240531825",
-      "sharepointId": 23661183,
+      "sadoId": "20240531898",
+      "sharepointId": 23661256,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 108.016,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Mina de São Domingos (MINAS 3º)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -106,13 +110,72 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
       "created": {
-        "sec": 1714764483
+        "sec": 1714766043
       },
       "updated": {
-        "sec": 1714765443
+        "sec": 1714767485
+      }
+    },
+    {
+      "_id": {
+        "$id": "663540dbdebebe56b85b29b3"
+      },
+      "id": "20240531900",
+      "coords": true,
+      "dateTime": {
+        "sec": 1714765500
+      },
+      "date": "03-05-2024",
+      "hour": "20:45",
+      "location": "Bragança, Mirandela, Avantos E Romeu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Mirandela",
+      "freguesia": "Avantos E Romeu",
+      "dico": "0407",
+      "lat": 41.5334,
+      "lng": -7.08573,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Avantos E Romeu ",
+      "active": true,
+      "sadoId": "20240531900",
+      "sharepointId": 23661258,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 329.423,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.53340000.-7.08573000) - Autoestrada Transmontana. 5370-040 Mirandela. Portugal (IP4 (IP4) Km 166)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1714766043
+      },
+      "updated": {
+        "sec": 1714766290
       }
     }
   ]
