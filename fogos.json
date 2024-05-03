@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Almograve ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 23659694,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 23.2156,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Barranco das Oliveiras Jt.Monte do Zambujeiro (Parral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1714743074
       },
       "updated": {
-        "sec": 1714747491
+        "sec": 1714748722
       }
     },
     {
@@ -92,8 +96,18 @@
       "sharepointId": 23659719,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.0005,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.0005
+        },
+        "altitude": 300.131,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Ameijoafra (Cerro da Almeijoafra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,62 +122,7 @@
         "sec": 1714743207
       },
       "updated": {
-        "sec": 1714747491
-      }
-    },
-    {
-      "_id": {
-        "$id": "6634e937255626512211a892"
-      },
-      "id": "20240530389",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714743300
-      },
-      "date": "03-05-2024",
-      "hour": "14:35",
-      "location": "Leiria, Bombarral, Carvalhal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Bombarral",
-      "freguesia": "Carvalhal",
-      "dico": "1005",
-      "lat": 39.292545,
-      "lng": -9.094635,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casal Centieiro ",
-      "active": true,
-      "sadoId": "20240530389",
-      "sharepointId": 23659747,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1714743607
-      },
-      "updated": {
-        "sec": 1714747491
+        "sec": 1714748755
       }
     },
     {
@@ -202,8 +161,12 @@
       "sharepointId": 23659748,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 116.477,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Moledo (Casal da Costa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,62 +181,7 @@
         "sec": 1714743607
       },
       "updated": {
-        "sec": 1714747491
-      }
-    },
-    {
-      "_id": {
-        "$id": "6634f4b7d29326209d44f372"
-      },
-      "id": "20240530620",
-      "coords": true,
-      "dateTime": {
-        "sec": 1714746360
-      },
-      "date": "03-05-2024",
-      "hour": "15:26",
-      "location": "Beja, Odemira, São Luís",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Odemira",
-      "freguesia": "São Luís",
-      "dico": "0211",
-      "lat": 37.71876,
-      "lng": -8.65889,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "São Luís ",
-      "active": true,
-      "sadoId": "20240530620",
-      "sharepointId": 23659978,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Litoral",
-      "created": {
-        "sec": 1714746551
-      },
-      "updated": {
-        "sec": 1714747491
+        "sec": 1714748790
       }
     }
   ]
