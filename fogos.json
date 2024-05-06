@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6638d892c8b4dd456b306e62"
-      },
-      "id": "20240542979",
-      "coords": true,
-      "dateTime": {
-        "sec": 1715001060
-      },
-      "date": "06-05-2024",
-      "hour": "14:11",
-      "location": "Vila Real, Montalegre, Cabril",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Vila Real",
-      "concelho": "Montalegre",
-      "freguesia": "Cabril",
-      "dico": "1706",
-      "lat": 41.70277,
-      "lng": -8.08953,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Cabril ",
-      "active": true,
-      "sadoId": "20240542979",
-      "sharepointId": 23672337,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1715001490
-      },
-      "updated": {
-        "sec": 1715002080
-      }
-    },
-    {
-      "_id": {
         "$id": "6638d99af259b05b2005bf42"
       },
       "id": "20240543033",
@@ -70,8 +15,8 @@
       "location": "Faro, Lagos, Lagos (São Sebastião E Santa Maria)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Lagos (São Sebastião E Santa Maria)",
@@ -82,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Gonçalo De Lagos ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 23672391,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 23.5894,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.10747000.-8.68727000) - ALDI. Rua Jaime Bispo Palhinha. 8600 Lagos. Portugal (Vivenda Dias)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1715001754
       },
       "updated": {
-        "sec": 1715002079
+        "sec": 1715003149
       }
     },
     {
@@ -131,24 +80,28 @@
       "concelho": "Campo Maior",
       "freguesia": "São João Baptista",
       "dico": "1204",
-      "lat": 39.0576,
-      "lng": -7.045797,
+      "lat": 39.030135,
+      "lng": -7.06248,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Moinhos De Vento ",
+      "localidade": "Moinhos Do Barreiro ",
       "active": true,
       "sadoId": "20240543035",
       "sharepointId": 23672393,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 147.309,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Moinhos do Barreiro (BARREIRO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +116,7 @@
         "sec": 1715001754
       },
       "updated": {
-        "sec": 1715002080
+        "sec": 1715003022
       }
     }
   ]
