@@ -37,8 +37,18 @@
       "sharepointId": 23676785,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.0992,
+          "total": 0.0992
+        },
+        "altitude": 134.066,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Caxarias (CARVALHAL)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +63,7 @@
         "sec": 1715085963
       },
       "updated": {
-        "sec": 1715090059
+        "sec": 1715094147
       }
     },
     {
@@ -92,8 +102,12 @@
       "sharepointId": 23677111,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 73.9256,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Coiro da Burra (EN2 (EN2) Km 732)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +122,7 @@
         "sec": 1715089817
       },
       "updated": {
-        "sec": 1715092824
+        "sec": 1715094173
       }
     },
     {
@@ -125,21 +139,21 @@
       "location": "Évora, Borba, Rio De Moinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 3,
+      "terrain": 1,
       "district": "Évora",
       "concelho": "Borba",
       "freguesia": "Rio De Moinhos",
       "dico": "0703",
-      "lat": 38.771319,
-      "lng": -7.518633,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "lat": 38.770865,
+      "lng": -7.503535,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rio De Moinhos ",
       "active": true,
@@ -147,8 +161,12 @@
       "sharepointId": 23677356,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 329.429,
+        "agricola": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Largo da Igreja (RIO DE MOINHOS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +181,121 @@
         "sec": 1715092682
       },
       "updated": {
-        "sec": 1715093050
+        "sec": 1715094315
+      }
+    },
+    {
+      "_id": {
+        "$id": "663a42b7f765026daa3fabd3"
+      },
+      "id": "20240548098",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715093100
+      },
+      "date": "07-05-2024",
+      "hour": "15:45",
+      "location": "Setúbal, Sines, Sines",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Sines",
+      "freguesia": "Sines",
+      "dico": "1513",
+      "lat": 37.963534,
+      "lng": -8.854536,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sines ",
+      "active": true,
+      "sadoId": "20240548098",
+      "sharepointId": 23677456,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 34.7894,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Bragada casouto (Bairro de São Pedro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1715094199
+      },
+      "updated": {
+        "sec": 1715094290
+      }
+    },
+    {
+      "_id": {
+        "$id": "663a453ad3cc28727b1f8021"
+      },
+      "id": "20240548163",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715094540
+      },
+      "date": "07-05-2024",
+      "hour": "16:09",
+      "location": "Santarém, Salvaterra de Magos, Glória Do Ribatejo E Granho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Salvaterra De Magos",
+      "freguesia": "Glória Do Ribatejo E Granho",
+      "dico": "1415",
+      "lat": 39.034789,
+      "lng": -8.65397,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240548163",
+      "sharepointId": 23677521,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1715094842
+      },
+      "updated": {
+        "sec": 1715094842
       }
     }
   ]
