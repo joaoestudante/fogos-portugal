@@ -74,8 +74,8 @@
       "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos E Foros De Salvaterra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Salvaterra De Magos",
       "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
@@ -116,7 +116,7 @@
         "sec": 1715100963
       },
       "updated": {
-        "sec": 1715112490
+        "sec": 1715113535
       }
     },
     {
@@ -180,61 +180,6 @@
     },
     {
       "_id": {
-        "$id": "663a79c42cad003ba02f78ce"
-      },
-      "id": "20240549085",
-      "coords": true,
-      "dateTime": {
-        "sec": 1715108040
-      },
-      "date": "07-05-2024",
-      "hour": "19:54",
-      "location": "Faro, Olhão, Pechão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
-      "district": "Faro",
-      "concelho": "Olhão",
-      "freguesia": "Pechão",
-      "dico": "0810",
-      "lat": 37.066195,
-      "lng": -7.861773,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Charneca ",
-      "active": true,
-      "sadoId": "20240549085",
-      "sharepointId": 23678443,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1715108292
-      },
-      "updated": {
-        "sec": 1715110082
-      }
-    },
-    {
-      "_id": {
         "$id": "663a89476e513f6ebf583cf7"
       },
       "id": "20240549299",
@@ -247,21 +192,21 @@
       "location": "Beja, Cuba, Vila Alva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 17,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Cuba",
       "freguesia": "Vila Alva",
       "dico": "0207",
-      "lat": 38.24554,
-      "lng": -7.90232,
+      "lat": 38.248142,
+      "lng": -7.909165,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vila Alva ",
       "active": true,
@@ -285,7 +230,66 @@
         "sec": 1715112263
       },
       "updated": {
-        "sec": 1715112278
+        "sec": 1715113535
+      }
+    },
+    {
+      "_id": {
+        "$id": "663a8b8bbd509950cf502587"
+      },
+      "id": "20240549346",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715112000
+      },
+      "date": "07-05-2024",
+      "hour": "21:00",
+      "location": "Setúbal, Palmela, Quinta Do Anjo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Quinta Do Anjo",
+      "dico": "1508",
+      "lat": 38.56095,
+      "lng": -8.968323,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cabanas ",
+      "active": true,
+      "sadoId": "20240549346",
+      "sharepointId": 23678704,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 84.7869,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Manuel Ferreira Caramelo nas traseiras Restaurante João do Peixe (Cabanas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1715112843
+      },
+      "updated": {
+        "sec": 1715113525
       }
     }
   ]
