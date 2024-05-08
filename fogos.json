@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "663b7a9cfc14ae39b479c264"
-      },
-      "id": "20240552118",
-      "coords": true,
-      "dateTime": {
-        "sec": 1715172780
-      },
-      "date": "08-05-2024",
-      "hour": "13:53",
-      "location": "Aveiro, Estarreja, Canelas E Fermelã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Canelas E Fermelã",
-      "dico": "0108",
-      "lat": 40.703897,
-      "lng": -8.571507,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Fermelã ",
-      "active": true,
-      "sadoId": "20240552118",
-      "sharepointId": 23681476,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1715174044
-      },
-      "updated": {
-        "sec": 1715178004
-      }
-    },
-    {
-      "_id": {
         "$id": "663b7d72fc14ae39b479c29f"
       },
       "id": "20240552195",
@@ -70,21 +15,21 @@
       "location": "Porto, Felgueiras, Macieira Da Lixa E Caramos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Macieira Da Lixa E Caramos",
       "dico": "1303",
-      "lat": 41.35135,
-      "lng": -8.154645,
+      "lat": 41.347,
+      "lng": -8.138387,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Macieira Da Lixa ",
       "active": true,
@@ -92,8 +37,12 @@
       "sharepointId": 23681553,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 383.703,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rª Vila Nova (MACIEIRA DA LIXA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +57,7 @@
         "sec": 1715174770
       },
       "updated": {
-        "sec": 1715178857
+        "sec": 1715180635
       }
     },
     {
@@ -123,9 +72,9 @@
       "date": "08-05-2024",
       "hour": "14:45",
       "location": "Vila Real, Murça, Jou",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 7,
       "terrain": 2,
       "district": "Vila Real",
       "concelho": "Murça",
@@ -137,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Toubres ",
       "active": true,
@@ -147,8 +96,12 @@
       "sharepointId": 23681702,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 617.181,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Toubres",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +116,7 @@
         "sec": 1715176092
       },
       "updated": {
-        "sec": 1715178857
+        "sec": 1715180635
       }
     },
     {
@@ -180,8 +133,8 @@
       "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Beja (salvador E Santa Maria Da Feira)",
@@ -204,7 +157,7 @@
       "disappear": false,
       "icnf": {
         "altitude": 194.678,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
       "detailLocation": "LatLong(38.02128000.-7.86044000) - Rua da Lavoura 36. 7800-148 Beja. Portugal (Beja)",
@@ -222,7 +175,66 @@
         "sec": 1715176092
       },
       "updated": {
-        "sec": 1715178962
+        "sec": 1715180635
+      }
+    },
+    {
+      "_id": {
+        "$id": "663b945b2d33f401e8229e05"
+      },
+      "id": "20240552644",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715179440
+      },
+      "date": "08-05-2024",
+      "hour": "15:44",
+      "location": "Lisboa, Odivelas, Pontinha E Famões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Pontinha E Famões",
+      "dico": "1116",
+      "lat": 38.80105,
+      "lng": -9.21517,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Famões ",
+      "active": true,
+      "sadoId": "20240552644",
+      "sharepointId": 23682002,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 261.15,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Júlio Dinis (Bairro Trigache e Casal Novo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1715180635
+      },
+      "updated": {
+        "sec": 1715180671
       }
     }
   ]
