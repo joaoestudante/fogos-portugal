@@ -15,8 +15,8 @@
       "location": "Porto, Felgueiras, Macieira Da Lixa E Caramos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Macieira Da Lixa E Caramos",
@@ -57,7 +57,7 @@
         "sec": 1715278814
       },
       "updated": {
-        "sec": 1715281707
+        "sec": 1715287443
       }
     },
     {
@@ -192,8 +192,8 @@
       "location": "Évora, Arraiolos, São Gregório E Santa Justa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Évora",
       "concelho": "Arraiolos",
       "freguesia": "São Gregório E Santa Justa",
@@ -204,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale Do Pereiro ",
       "active": true,
@@ -234,7 +234,7 @@
         "sec": 1715285643
       },
       "updated": {
-        "sec": 1715285696
+        "sec": 1715286961
       }
     },
     {
@@ -263,9 +263,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Fernão Ferro ",
       "active": true,
@@ -289,7 +289,66 @@
         "sec": 1715285890
       },
       "updated": {
-        "sec": 1715286364
+        "sec": 1715286733
+      }
+    },
+    {
+      "_id": {
+        "$id": "663d3593523a2e1dd41937d3"
+      },
+      "id": "20240559054",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715286960
+      },
+      "date": "09-05-2024",
+      "hour": "21:36",
+      "location": "Braga, Vieira do Minho, Salamonde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Salamonde",
+      "dico": "0311",
+      "lat": 41.679943,
+      "lng": -8.089782,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240559054",
+      "sharepointId": 23688412,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 556.903,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Lamela (Alamela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1715287443
+      },
+      "updated": {
+        "sec": 1715287464
       }
     }
   ]
