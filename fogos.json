@@ -453,10 +453,10 @@
       "date": "10-05-2024",
       "hour": "13:05",
       "location": "Braga, Cabeceiras de Basto, Cavez",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Cavez",
@@ -467,9 +467,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -493,7 +493,7 @@
         "sec": 1715342958
       },
       "updated": {
-        "sec": 1715344250
+        "sec": 1715345462
       }
     },
     {
@@ -571,15 +571,15 @@
       "concelho": "Vila Verde",
       "freguesia": "Valdreu",
       "dico": "0313",
-      "lat": 41.74335,
-      "lng": -8.331739,
+      "lat": 41.741262,
+      "lng": -8.328335,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -603,7 +603,7 @@
         "sec": 1715343849
       },
       "updated": {
-        "sec": 1715343849
+        "sec": 1715345462
       }
     },
     {
@@ -620,8 +620,8 @@
       "location": "Lisboa, Vila Franca de Xira, Alverca Do Ribatejo E Sobralinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Vila Franca De Xira",
       "freguesia": "Alverca Do Ribatejo E Sobralinho",
@@ -632,9 +632,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Alverca Do Ribatejo E Sobralinho ",
       "active": true,
@@ -658,7 +658,62 @@
         "sec": 1715343849
       },
       "updated": {
-        "sec": 1715343849
+        "sec": 1715345603
+      }
+    },
+    {
+      "_id": {
+        "$id": "663e1962bb574c225c66ca62"
+      },
+      "id": "20240561787",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715345520
+      },
+      "date": "10-05-2024",
+      "hour": "13:52",
+      "location": "Santarém, Santarém, Almoster",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "Almoster",
+      "dico": "1416",
+      "lat": 39.224925,
+      "lng": -8.812867,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Casal Da Charneca ",
+      "active": true,
+      "sadoId": "20240561787",
+      "sharepointId": 23691145,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1715345762
+      },
+      "updated": {
+        "sec": 1715345762
       }
     }
   ]
