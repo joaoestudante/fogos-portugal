@@ -72,7 +72,7 @@
       "date": "11-05-2024",
       "hour": "14:36",
       "location": "Braga, Cabeceiras de Basto, Alvite E Passos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
       "man": 15,
       "terrain": 3,
@@ -80,15 +80,15 @@
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Alvite E Passos",
       "dico": "0304",
-      "lat": 41.489009,
-      "lng": -8.024378,
+      "lat": 41.486272,
+      "lng": -8.010092,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -96,8 +96,12 @@
       "sharepointId": 23696191,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 554.497,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Petimão (Lameiro do Cego)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,7 @@
         "sec": 1715434684
       },
       "updated": {
-        "sec": 1715438291
+        "sec": 1715439807
       }
     },
     {
@@ -151,8 +155,12 @@
       "sharepointId": 23696231,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 407.059,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lug Raposeira (Ribeira do Porto Novo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -167,7 +175,7 @@
         "sec": 1715435164
       },
       "updated": {
-        "sec": 1715436856
+        "sec": 1715440034
       }
     },
     {
@@ -241,23 +249,23 @@
       "date": "11-05-2024",
       "hour": "15:17",
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 7,
       "terrain": 3,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
       "dico": "0805",
-      "lat": 37.020395,
-      "lng": -7.909439,
+      "lat": 37.029055,
+      "lng": -7.910145,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rio Seco ",
       "active": true,
@@ -270,7 +278,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "8005. Faro. Portugal (Gional)",
+      "detailLocation": "Rio Seco (Vidraria Frensex Lda)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -285,7 +293,125 @@
         "sec": 1715437563
       },
       "updated": {
-        "sec": 1715438291
+        "sec": 1715440046
+      }
+    },
+    {
+      "_id": {
+        "$id": "663f88083f8e325c581eb801"
+      },
+      "id": "20240567106",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715438400
+      },
+      "date": "11-05-2024",
+      "hour": "15:40",
+      "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Vila Real",
+      "concelho": "Sabrosa",
+      "freguesia": "São Martinho De Antas E Paradela De Guiães",
+      "dico": "1710",
+      "lat": 41.26654,
+      "lng": -7.61943,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sao Martinho De Antas ",
+      "active": true,
+      "sadoId": "20240567106",
+      "sharepointId": 23696464,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 658.516,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Martinho de Antas",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1715439624
+      },
+      "updated": {
+        "sec": 1715439719
+      }
+    },
+    {
+      "_id": {
+        "$id": "663f88083f8e325c581eb803"
+      },
+      "id": "20240567154",
+      "coords": true,
+      "dateTime": {
+        "sec": 1715438460
+      },
+      "date": "11-05-2024",
+      "hour": "15:41",
+      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Castelo Branco",
+      "dico": "0502",
+      "lat": 39.839423,
+      "lng": -7.492884,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Pereiro ",
+      "active": true,
+      "sadoId": "20240567154",
+      "sharepointId": 23696512,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 344.751,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Bairro do Pereiro (Pereiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1715439624
+      },
+      "updated": {
+        "sec": 1715440047
       }
     }
   ]
