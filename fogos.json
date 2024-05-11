@@ -74,8 +74,8 @@
       "location": "Setúbal, Alcácer do Sal, Torrão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 8,
+      "terrain": 3,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Torrão",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Torrão ",
       "active": true,
@@ -96,8 +96,12 @@
       "sharepointId": 23695554,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 97.5481,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Herdade São Soeiro (Monte de São Soeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -112,7 +116,7 @@
         "sec": 1715425942
       },
       "updated": {
-        "sec": 1715425954
+        "sec": 1715426643
       }
     }
   ]
