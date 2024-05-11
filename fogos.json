@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Refóios Do Lima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Refóios Do Lima",
@@ -37,8 +37,12 @@
       "sharepointId": 23697834,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 102.779,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Penoucos (Real de Cima)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1715461220
       },
       "updated": {
-        "sec": 1715463251
+        "sec": 1715468526
       }
     },
     {
@@ -92,8 +96,18 @@
       "sharepointId": 23697848,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.005,
+          "mato": 0,
+          "total": 0.005
+        },
+        "altitude": 76.3269,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Forcadas",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +122,7 @@
         "sec": 1715461373
       },
       "updated": {
-        "sec": 1715467564
+        "sec": 1715468537
       }
     },
     {
@@ -147,8 +161,18 @@
       "sharepointId": 23697914,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.0001,
+          "total": 0.0001
+        },
+        "altitude": 133.307,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Sonhos (Fonte dos Sonhos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +187,7 @@
         "sec": 1715462763
       },
       "updated": {
-        "sec": 1715464106
+        "sec": 1715468548
       }
     }
   ]
