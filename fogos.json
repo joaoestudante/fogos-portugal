@@ -68,61 +68,6 @@
     },
     {
       "_id": {
-        "$id": "6644d8bb9448c4765134eb99"
-      },
-      "id": "20240584887",
-      "coords": true,
-      "dateTime": {
-        "sec": 1715787600
-      },
-      "date": "15-05-2024",
-      "hour": "16:40",
-      "location": "Faro, Tavira, Tavira (santa Maria E Santiago)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Faro",
-      "concelho": "Tavira",
-      "freguesia": "Tavira (santa Maria E Santiago)",
-      "dico": "0814",
-      "lat": 37.133203,
-      "lng": -7.638447,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Tavira (Santa Maria E Santiago) ",
-      "active": true,
-      "sadoId": "20240584887",
-      "sharepointId": 23714245,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1715787963
-      },
-      "updated": {
-        "sec": 1715791323
-      }
-    },
-    {
-      "_id": {
         "$id": "6644e5da98366515ec0ce7b4"
       },
       "id": "20240585144",
@@ -135,8 +80,8 @@
       "location": "Faro, Olhão, Pechão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 18,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Olhão",
       "freguesia": "Pechão",
@@ -147,9 +92,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Pechão ",
       "active": true,
@@ -157,8 +102,12 @@
       "sharepointId": 23714502,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -29.8169,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.02632000.-7.86402000) - Rua Sem Nome 2. 8700-177 Olhão. Portugal (Moinho do Caliços)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -173,7 +122,7 @@
         "sec": 1715791322
       },
       "updated": {
-        "sec": 1715791322
+        "sec": 1715791563
       }
     }
   ]
