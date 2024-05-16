@@ -15,8 +15,8 @@
       "location": "Braga, Vila Nova de Famalicão, Landim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Landim",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Landim ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 23719926,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 90.635,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa das Searas de Baixo 9. 4770-329 Vila Nova de Famalicão. Portugal (Carriça)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1715895965
       },
       "updated": {
-        "sec": 1715895982
+        "sec": 1715896563
       }
     }
   ]
