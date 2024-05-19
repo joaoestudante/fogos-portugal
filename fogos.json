@@ -37,8 +37,18 @@
       "sharepointId": 23730819,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.003,
+          "total": 0.003
+        },
+        "altitude": 86.3925,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Avenida José Francisco Guerreiro (Pontinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +63,7 @@
         "sec": 1716124812
       },
       "updated": {
-        "sec": 1716128763
+        "sec": 1716130907
       }
     },
     {
@@ -92,8 +102,12 @@
       "sharepointId": 23730809,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 304.938,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Real das Donas (Fermil)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +122,7 @@
         "sec": 1716124812
       },
       "updated": {
-        "sec": 1716130564
+        "sec": 1716130919
       }
     },
     {
@@ -137,9 +151,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ílhavo (São Salvador) ",
       "active": true,
@@ -147,8 +161,12 @@
       "sharepointId": 23730873,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 35.6662,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Lagoa do Junco 110 (Campo Largo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -163,7 +181,7 @@
         "sec": 1716125779
       },
       "updated": {
-        "sec": 1716129618
+        "sec": 1716131025
       }
     },
     {
@@ -180,8 +198,8 @@
       "location": "Setúbal, Palmela, Quinta Do Anjo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Quinta Do Anjo",
@@ -202,8 +220,12 @@
       "sharepointId": 23730952,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 48.0781,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua 48 Marqueza III (Pinhal da Marquesa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +240,7 @@
         "sec": 1716127323
       },
       "updated": {
-        "sec": 1716130322
+        "sec": 1716131523
       }
     },
     {
@@ -321,7 +343,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Ervosas (Rua José Estevão)",
+      "detailLocation": "Ervosas (Campo Largo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -336,7 +358,121 @@
         "sec": 1716128763
       },
       "updated": {
-        "sec": 1716130322
+        "sec": 1716130954
+      }
+    },
+    {
+      "_id": {
+        "$id": "664a14d11e4d1f16fe6cf713"
+      },
+      "id": "20240601842",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716130800
+      },
+      "date": "19-05-2024",
+      "hour": "16:00",
+      "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 4,
+      "district": "Évora",
+      "concelho": "Estremoz",
+      "freguesia": "Estremoz (Santa Maria E Santo André)",
+      "dico": "0704",
+      "lat": 38.843801,
+      "lng": -7.604398,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Estremoz ",
+      "active": true,
+      "sadoId": "20240601842",
+      "sharepointId": 23731201,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1716131025
+      },
+      "updated": {
+        "sec": 1716131524
+      }
+    },
+    {
+      "_id": {
+        "$id": "664a14d11e4d1f16fe6cf714"
+      },
+      "id": "20240601819",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716130440
+      },
+      "date": "19-05-2024",
+      "hour": "15:54",
+      "location": "Lisboa, Sintra, Colares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Colares",
+      "dico": "1111",
+      "lat": 38.77135,
+      "lng": -9.48168,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Colares ",
+      "active": true,
+      "sadoId": "20240601819",
+      "sharepointId": 23731178,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 191.916,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Moinhos (Moinhos da Azoia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1716131025
+      },
+      "updated": {
+        "sec": 1716131524
       }
     }
   ]
