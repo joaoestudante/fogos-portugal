@@ -37,8 +37,18 @@
       "sharepointId": 23734279,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.01,
+          "total": 0.01
+        },
+        "altitude": 643.058,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Meia Légua (ED230 (ED230) Km 0)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +63,7 @@
         "sec": 1716199724
       },
       "updated": {
-        "sec": 1716218483
+        "sec": 1716218792
       }
     },
     {
@@ -108,7 +118,7 @@
         "sec": 1716212608
       },
       "updated": {
-        "sec": 1716218483
+        "sec": 1716219075
       }
     },
     {
@@ -163,7 +173,7 @@
         "sec": 1716214746
       },
       "updated": {
-        "sec": 1716218484
+        "sec": 1716219075
       }
     },
     {
@@ -192,9 +202,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Mós ",
       "active": true,
@@ -218,7 +228,7 @@
         "sec": 1716217656
       },
       "updated": {
-        "sec": 1716218484
+        "sec": 1716219075
       }
     },
     {
@@ -273,7 +283,62 @@
         "sec": 1716217797
       },
       "updated": {
-        "sec": 1716218483
+        "sec": 1716219076
+      }
+    },
+    {
+      "_id": {
+        "$id": "664b6b00de70b7490c259ff2"
+      },
+      "id": "20240606490",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716218220
+      },
+      "date": "20-05-2024",
+      "hour": "16:17",
+      "location": "Porto, Maia, Nogueira E Silva Escura",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Nogueira E Silva Escura",
+      "dico": "1306",
+      "lat": 41.245601,
+      "lng": -8.583457,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240606490",
+      "sharepointId": 23735849,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1716218624
+      },
+      "updated": {
+        "sec": 1716219076
       }
     }
   ]
