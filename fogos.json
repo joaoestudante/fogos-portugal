@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Nossa Senhora Das Misericórdias ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1716297851
       },
       "updated": {
-        "sec": 1716303736
+        "sec": 1716304094
       }
     },
     {
@@ -121,71 +121,6 @@
     },
     {
       "_id": {
-        "$id": "664cad94f5c4787b730bf9db"
-      },
-      "id": "20240610667",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716300060
-      },
-      "date": "21-05-2024",
-      "hour": "15:01",
-      "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Santarém",
-      "concelho": "Santarém",
-      "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
-      "dico": "1416",
-      "lat": 39.223438,
-      "lng": -8.697438,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau ",
-      "active": true,
-      "sadoId": "20240610667",
-      "sharepointId": 23740026,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 0.001,
-          "total": 0.001
-        },
-        "altitude": 76.9413,
-        "fogacho": true,
-        "fontealerta": "Outros"
-      },
-      "detailLocation": "Encosta no CNEMA (Rua Orquestra Tipica Scalabitana)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1716301204
-      },
-      "updated": {
-        "sec": 1716303760
-      }
-    },
-    {
-      "_id": {
         "$id": "664cb1cbf5c4787b730bf9ec"
       },
       "id": "20240610768",
@@ -198,21 +133,21 @@
       "location": "Santarém, Sardoal, Sardoal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 9,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Sardoal",
       "freguesia": "Sardoal",
       "dico": "1417",
-      "lat": 39.548464,
-      "lng": -8.162189,
+      "lat": 39.547417,
+      "lng": -8.164482,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fonte Da Estrada ",
       "active": true,
@@ -240,7 +175,66 @@
         "sec": 1716302283
       },
       "updated": {
-        "sec": 1716302307
+        "sec": 1716305050
+      }
+    },
+    {
+      "_id": {
+        "$id": "664cbc9afd29c61ff7178e01"
+      },
+      "id": "20240610988",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716304380
+      },
+      "date": "21-05-2024",
+      "hour": "16:13",
+      "location": "Portalegre, Ponte de Sor, Ponte De Sor, Tramaga E Vale De Açor",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Portalegre",
+      "concelho": "Ponte De Sor",
+      "freguesia": "Ponte De Sor, Tramaga E Vale De Açor",
+      "dico": "1213",
+      "lat": 39.229104,
+      "lng": -8.028255,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Tramaga ",
+      "active": true,
+      "sadoId": "20240610988",
+      "sharepointId": 23740347,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 120.984,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "estrada da tramaga (PONTE DE SOR)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1716305050
+      },
+      "updated": {
+        "sec": 1716305073
       }
     }
   ]
