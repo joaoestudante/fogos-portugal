@@ -139,8 +139,8 @@
       "location": "Vila Real, Vila Real, Nossa Senhora Da Conceição, São Pedro E São Dinis",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Nossa Senhora Da Conceição, São Pedro E São Dinis",
@@ -177,66 +177,7 @@
         "sec": 1716322212
       },
       "updated": {
-        "sec": 1716324003
-      }
-    },
-    {
-      "_id": {
-        "$id": "664d06a3c2ae8349065492db"
-      },
-      "id": "20240612164",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716323040
-      },
-      "date": "21-05-2024",
-      "hour": "21:24",
-      "location": "Leiria, Caldas da Rainha, Salir De Matos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Salir De Matos",
-      "dico": "1006",
-      "lat": 39.428428,
-      "lng": -9.078475,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Trabalhias ",
-      "active": true,
-      "sadoId": "20240612164",
-      "sharepointId": 23741523,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 70.7356,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Trabalhias",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1716324003
-      },
-      "updated": {
-        "sec": 1716324027
+        "sec": 1716324601
       }
     },
     {
@@ -265,9 +206,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Rogel ",
       "active": true,
@@ -275,8 +216,12 @@
       "sharepointId": 23741518,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -13.6475,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rogel",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -291,7 +236,7 @@
         "sec": 1716324003
       },
       "updated": {
-        "sec": 1716324003
+        "sec": 1716324602
       }
     },
     {
@@ -320,9 +265,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -330,8 +275,12 @@
       "sharepointId": 23741520,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 81.2406,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Conego Leite Rainho (Vidigueira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -346,7 +295,66 @@
         "sec": 1716324003
       },
       "updated": {
-        "sec": 1716324003
+        "sec": 1716324602
+      }
+    },
+    {
+      "_id": {
+        "$id": "664d08f9d30701547f01ce9d"
+      },
+      "id": "20240612197",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716323220
+      },
+      "date": "21-05-2024",
+      "hour": "21:27",
+      "location": "Lisboa, Vila Franca de Xira, Alhandra, São João Dos Montes E Calhandriz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Alhandra, São João Dos Montes E Calhandriz",
+      "dico": "1114",
+      "lat": 38.947736,
+      "lng": -9.042058,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "A-de-freire ",
+      "active": true,
+      "sadoId": "20240612197",
+      "sharepointId": 23741556,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 102.067,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "A-de-Freire",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1716324601
+      },
+      "updated": {
+        "sec": 1716324620
       }
     }
   ]
