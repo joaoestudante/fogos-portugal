@@ -487,9 +487,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fernão Ferro ",
       "active": true,
@@ -513,7 +513,7 @@
         "sec": 1716473765
       },
       "updated": {
-        "sec": 1716474964
+        "sec": 1716475459
       }
     },
     {
@@ -585,8 +585,8 @@
       "location": "Lisboa, Azambuja, Alcoentre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Alcoentre",
@@ -627,7 +627,62 @@
         "sec": 1716474964
       },
       "updated": {
-        "sec": 1716474997
+        "sec": 1716475459
+      }
+    },
+    {
+      "_id": {
+        "$id": "664f5643c35236681902e6af"
+      },
+      "id": "20240620177",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716474600
+      },
+      "date": "23-05-2024",
+      "hour": "15:30",
+      "location": "Aveiro, Sever do Vouga, Sever Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Sever Do Vouga",
+      "dico": "0117",
+      "lat": 40.731116,
+      "lng": -8.378849,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Senhorinha ",
+      "active": true,
+      "sadoId": "20240620177",
+      "sharepointId": 23749537,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1716475459
+      },
+      "updated": {
+        "sec": 1716475474
       }
     }
   ]
