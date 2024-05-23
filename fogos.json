@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Caminha, Caminha (matriz) E Vilarelho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Caminha",
       "freguesia": "Caminha (matriz) E Vilarelho",
@@ -57,7 +57,7 @@
         "sec": 1716465852
       },
       "updated": {
-        "sec": 1716472450
+        "sec": 1716473764
       }
     },
     {
@@ -245,10 +245,10 @@
       "date": "23-05-2024",
       "hour": "14:05",
       "location": "Faro, Vila Real de Santo António, Vila Nova De Cacela",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
       "man": 20,
-      "terrain": 4,
+      "terrain": 7,
       "district": "Faro",
       "concelho": "Vila Real De Santo António",
       "freguesia": "Vila Nova De Cacela",
@@ -289,7 +289,7 @@
         "sec": 1716470404
       },
       "updated": {
-        "sec": 1716472450
+        "sec": 1716473765
       }
     },
     {
@@ -303,17 +303,17 @@
       },
       "date": "23-05-2024",
       "hour": "14:17",
-      "location": "Faro, Alcoutim, Alcoutim E Pereiro",
+      "location": "Faro, Alcoutim, Giões",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 13,
       "terrain": 4,
       "district": "Faro",
       "concelho": "Alcoutim",
-      "freguesia": "Alcoutim E Pereiro",
+      "freguesia": "Giões",
       "dico": "0802",
-      "lat": 37.446524,
-      "lng": -7.605324,
+      "lat": 37.456407,
+      "lng": -7.674662,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -348,7 +348,7 @@
         "sec": 1716470659
       },
       "updated": {
-        "sec": 1716472450
+        "sec": 1716473644
       }
     },
     {
@@ -363,9 +363,9 @@
       "date": "23-05-2024",
       "hour": "14:24",
       "location": "Guarda, Gouveia, Vila Nova De Tazem",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
+      "man": 10,
       "terrain": 4,
       "district": "Guarda",
       "concelho": "Gouveia",
@@ -403,7 +403,7 @@
         "sec": 1716471122
       },
       "updated": {
-        "sec": 1716472450
+        "sec": 1716473644
       }
     },
     {
@@ -426,15 +426,15 @@
       "concelho": "Celorico De Basto",
       "freguesia": "Britelo, Gémeos E Ourilhe",
       "dico": "0305",
-      "lat": 41.393423,
-      "lng": -8.015594,
+      "lat": 41.390843,
+      "lng": -8.019077,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Gémeos ",
       "active": true,
@@ -458,7 +458,117 @@
         "sec": 1716472450
       },
       "updated": {
-        "sec": 1716472472
+        "sec": 1716473644
+      }
+    },
+    {
+      "_id": {
+        "$id": "664f4fa5c35236681902e67b"
+      },
+      "id": "20240620020",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716473340
+      },
+      "date": "23-05-2024",
+      "hour": "15:09",
+      "location": "Setúbal, Seixal, Fernão Ferro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Fernão Ferro",
+      "dico": "1510",
+      "lat": 38.58531,
+      "lng": -9.10539,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fernão Ferro ",
+      "active": true,
+      "sadoId": "20240620020",
+      "sharepointId": 23749380,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1716473765
+      },
+      "updated": {
+        "sec": 1716473782
+      }
+    },
+    {
+      "_id": {
+        "$id": "664f4fa5c35236681902e67c"
+      },
+      "id": "20240620036",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716473340
+      },
+      "date": "23-05-2024",
+      "hour": "15:09",
+      "location": "Setúbal, Seixal, Corroios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Corroios",
+      "dico": "1510",
+      "lat": 38.618466,
+      "lng": -9.155796,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240620036",
+      "sharepointId": 23749396,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1716473765
+      },
+      "updated": {
+        "sec": 1716473806
       }
     }
   ]
