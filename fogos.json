@@ -80,14 +80,14 @@
       "location": "Santarém, Abrantes, São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
       "dico": "1401",
-      "lat": 39.379096,
-      "lng": -8.22943,
+      "lat": 39.3777,
+      "lng": -8.235073,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -103,9 +103,15 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.06,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.06
+        },
         "altitude": 135.886,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "GNR"
       },
       "detailLocation": "Rua Vale das Vinhas (Bicas)",
       "kml": null,
@@ -122,7 +128,7 @@
         "sec": 1716501730
       },
       "updated": {
-        "sec": 1716504253
+        "sec": 1716505360
       }
     },
     {
@@ -139,8 +145,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Albergaria-a-velha E Valmaior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Albergaria-a-velha E Valmaior",
@@ -151,9 +157,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Albergaria-a-velha E Valmaior ",
       "active": true,
@@ -166,7 +172,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "3850-059. Albergaria-a-Velha. Portugal (IC2 (EN1) Km 246)",
+      "detailLocation": "Rua do Covelo (Senhor dos Passos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -181,7 +187,66 @@
         "sec": 1716503052
       },
       "updated": {
-        "sec": 1716504253
+        "sec": 1716505564
+      }
+    },
+    {
+      "_id": {
+        "$id": "664fcbdc468bda1f335c2742"
+      },
+      "id": "20240621971",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716504780
+      },
+      "date": "23-05-2024",
+      "hour": "23:53",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.723512,
+      "lng": -9.423672,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carrascal De Alvide ",
+      "active": true,
+      "sadoId": "20240621971",
+      "sharepointId": 23751331,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 71.6338,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Estrada das Tojas junto 641 (Carrascal de Alvide)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1716505564
+      },
+      "updated": {
+        "sec": 1716505585
       }
     }
   ]
