@@ -38,6 +38,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.2672,
+          "total": 0.2672
+        },
         "altitude": 110.634,
         "fogacho": true,
         "fontealerta": "Bombeiros"
@@ -57,66 +63,7 @@
         "sec": 1716470404
       },
       "updated": {
-        "sec": 1716489490
-      }
-    },
-    {
-      "_id": {
-        "$id": "664f6265ecfaf512397ad72b"
-      },
-      "id": "20240620377",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716477780
-      },
-      "date": "23-05-2024",
-      "hour": "16:23",
-      "location": "Lisboa, Torres Vedras, Turcifal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Torres Vedras",
-      "freguesia": "Turcifal",
-      "dico": "1113",
-      "lat": 39.020647,
-      "lng": -9.238425,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casal Barbas ",
-      "active": true,
-      "sadoId": "20240620377",
-      "sharepointId": 23749737,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 173.559,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Rio do Povo (Fonte de Barbas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1716478565
-      },
-      "updated": {
-        "sec": 1716490562
+        "sec": 1716490916
       }
     },
     {
@@ -155,8 +102,12 @@
       "sharepointId": 23750202,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 321.296,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Vale da Cadela",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +122,7 @@
         "sec": 1716484682
       },
       "updated": {
-        "sec": 1716487115
+        "sec": 1716490948
       }
     },
     {
@@ -211,6 +162,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.0044,
+          "total": 0.0044
+        },
         "altitude": 72.1563,
         "fogacho": true,
         "fontealerta": "112"
@@ -230,7 +187,7 @@
         "sec": 1716486604
       },
       "updated": {
-        "sec": 1716489491
+        "sec": 1716490959
       }
     },
     {
@@ -247,8 +204,8 @@
       "location": "Setúbal, Palmela, Pinhal Novo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Pinhal Novo",
@@ -289,7 +246,7 @@
         "sec": 1716486604
       },
       "updated": {
-        "sec": 1716490332
+        "sec": 1716491310
       }
     },
     {
