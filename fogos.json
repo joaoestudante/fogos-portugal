@@ -332,8 +332,18 @@
       "sharepointId": 23754799,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.2,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.2
+        },
+        "altitude": 282.199,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "VALE DO PESO (Garranchinho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -348,7 +358,7 @@
         "sec": 1716568196
       },
       "updated": {
-        "sec": 1716572633
+        "sec": 1716572692
       }
     },
     {
@@ -387,8 +397,12 @@
       "sharepointId": 23754806,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 24.289,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.07677158.-8.76678938) - M537 388. 8600 Lagos. Portugal (Montinhos do Burgau)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -403,282 +417,7 @@
         "sec": 1716568196
       },
       "updated": {
-        "sec": 1716572633
-      }
-    },
-    {
-      "_id": {
-        "$id": "6650ceb37b0c510bd9054262"
-      },
-      "id": "20240625649",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716570840
-      },
-      "date": "24-05-2024",
-      "hour": "18:14",
-      "location": "Lisboa, Arruda Dos Vinhos, Arranhó",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Arruda Dos Vinhos",
-      "freguesia": "Arranhó",
-      "dico": "1102",
-      "lat": 38.975549,
-      "lng": -9.163575,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "A Do Baço ",
-      "active": true,
-      "sadoId": "20240625649",
-      "sharepointId": 23755009,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1716571827
-      },
-      "updated": {
-        "sec": 1716572633
-      }
-    },
-    {
-      "_id": {
-        "$id": "6650ceb37b0c510bd9054263"
-      },
-      "id": "20240625658",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716570600
-      },
-      "date": "24-05-2024",
-      "hour": "18:10",
-      "location": "Évora, Portel, São Bartolomeu Do Outeiro E Oriola",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 5,
-      "district": "Évora",
-      "concelho": "Portel",
-      "freguesia": "São Bartolomeu Do Outeiro E Oriola",
-      "dico": "0709",
-      "lat": 38.322317,
-      "lng": -7.887168,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "En 384, Monte Da Parreira ",
-      "active": true,
-      "sadoId": "20240625658",
-      "sharepointId": 23755018,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "created": {
-        "sec": 1716571827
-      },
-      "updated": {
-        "sec": 1716572633
-      }
-    },
-    {
-      "_id": {
-        "$id": "6650ceb37b0c510bd9054266"
-      },
-      "id": "20240625716",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716571740
-      },
-      "date": "24-05-2024",
-      "hour": "18:29",
-      "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte Da Barca",
-      "freguesia": "Lavradas",
-      "dico": "1606",
-      "lat": 41.793841,
-      "lng": -8.467607,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Lavradas ",
-      "active": true,
-      "sadoId": "20240625716",
-      "sharepointId": 23755076,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1716571827
-      },
-      "updated": {
-        "sec": 1716572633
-      }
-    },
-    {
-      "_id": {
-        "$id": "6650d040d7350b67f25bd8cd"
-      },
-      "id": "20240625723",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716571860
-      },
-      "date": "24-05-2024",
-      "hour": "18:31",
-      "location": "Porto, Porto, Lordelo Do Ouro E Massarelos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Porto",
-      "freguesia": "Lordelo Do Ouro E Massarelos",
-      "dico": "1312",
-      "lat": 41.15338,
-      "lng": -8.65366,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Lordelo Do Ouro E Massarelos ",
-      "active": true,
-      "sadoId": "20240625723",
-      "sharepointId": 23755083,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1716572224
-      },
-      "updated": {
-        "sec": 1716572633
-      }
-    },
-    {
-      "_id": {
-        "$id": "6650d040d7350b67f25bd8cf"
-      },
-      "id": "20240625719",
-      "coords": true,
-      "dateTime": {
-        "sec": 1716571800
-      },
-      "date": "24-05-2024",
-      "hour": "18:30",
-      "location": "Santarém, Cartaxo, Cartaxo E Vale Da Pinta",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Cartaxo",
-      "freguesia": "Cartaxo E Vale Da Pinta",
-      "dico": "1406",
-      "lat": 39.16794,
-      "lng": -8.82853,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias Do Cartaxo E Vale Da Pinta ",
-      "active": true,
-      "sadoId": "20240625719",
-      "sharepointId": 23755079,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1716572224
-      },
-      "updated": {
-        "sec": 1716572633
+        "sec": 1716572720
       }
     }
   ]
