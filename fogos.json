@@ -97,8 +97,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 1,
+          "mato": 0,
+          "total": 1
+        },
         "altitude": 121.139,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "Bombeiros"
       },
       "detailLocation": "Ledo (ER267 (ER267) Km 123)",
@@ -116,7 +122,7 @@
         "sec": 1716566510
       },
       "updated": {
-        "sec": 1716576245
+        "sec": 1716577310
       }
     },
     {
@@ -198,8 +204,8 @@
       "location": "Faro, Lagos, Luz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Luz",
@@ -240,7 +246,7 @@
         "sec": 1716568196
       },
       "updated": {
-        "sec": 1716576857
+        "sec": 1716577084
       }
     },
     {
@@ -284,7 +290,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua 1 de Maio 28. 2630-011 Arruda dos Vinhos. Portugal (A do Baço)",
+      "detailLocation": "Rua 1 de Maio 28 (Ribeiro de a do Baco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -299,7 +305,7 @@
         "sec": 1716571827
       },
       "updated": {
-        "sec": 1716576245
+        "sec": 1716577322
       }
     },
     {
@@ -461,7 +467,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua dos Lavadouros 1 - Cartaxo (VALE DA PINTA)",
+      "detailLocation": "Rua dos Lavadouros 1 - Cartaxo (Quinta da Providência)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -476,7 +482,7 @@
         "sec": 1716572224
       },
       "updated": {
-        "sec": 1716576857
+        "sec": 1716577323
       }
     },
     {
@@ -505,9 +511,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Junto En 256 | Km 27 ",
       "active": true,
@@ -535,7 +541,62 @@
         "sec": 1716575366
       },
       "updated": {
-        "sec": 1716576245
+        "sec": 1716577084
+      }
+    },
+    {
+      "_id": {
+        "$id": "6650e46dadd90821ec372632"
+      },
+      "id": "20240626138",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716576840
+      },
+      "date": "24-05-2024",
+      "hour": "19:54",
+      "location": "Setúbal, Palmela, Quinta Do Anjo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Quinta Do Anjo",
+      "dico": "1508",
+      "lat": 38.583428,
+      "lng": -8.974322,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Quinta Da Marquesa ",
+      "active": true,
+      "sadoId": "20240626138",
+      "sharepointId": 23755498,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1716577389
+      },
+      "updated": {
+        "sec": 1716577400
       }
     }
   ]
