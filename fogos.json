@@ -74,8 +74,8 @@
       "location": "Leiria, Castanheira de Pêra, Castanheira De Pêra E Coentral",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Castanheira De Pêra",
       "freguesia": "Castanheira De Pêra E Coentral",
@@ -116,7 +116,7 @@
         "sec": 1716634820
       },
       "updated": {
-        "sec": 1716637085
+        "sec": 1716637562
       }
     },
     {
@@ -131,10 +131,10 @@
       "date": "25-05-2024",
       "hour": "12:20",
       "location": "Lisboa, Sintra, São João Das Lampas E Terrugem",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 24,
+      "terrain": 6,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "São João Das Lampas E Terrugem",
@@ -175,7 +175,7 @@
         "sec": 1716637085
       },
       "updated": {
-        "sec": 1716637116
+        "sec": 1716637562
       }
     },
     {
@@ -204,9 +204,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Moita ",
       "active": true,
@@ -234,7 +234,7 @@
         "sec": 1716637324
       },
       "updated": {
-        "sec": 1716637343
+        "sec": 1716637562
       }
     },
     {
@@ -251,8 +251,8 @@
       "location": "Lisboa, Torres Vedras, Ventosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Ventosa",
@@ -293,7 +293,62 @@
         "sec": 1716637324
       },
       "updated": {
-        "sec": 1716637372
+        "sec": 1716637562
+      }
+    },
+    {
+      "_id": {
+        "$id": "6651cf7a9b41de1c5d52bfad"
+      },
+      "id": "20240629032",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716637140
+      },
+      "date": "25-05-2024",
+      "hour": "12:39",
+      "location": "Castelo Branco, Covilhã, São Jorge Da Beira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "São Jorge Da Beira",
+      "dico": "0503",
+      "lat": 40.163846,
+      "lng": -7.742225,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cambões ",
+      "active": true,
+      "sadoId": "20240629032",
+      "sharepointId": 23758392,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1716637562
+      },
+      "updated": {
+        "sec": 1716637573
       }
     }
   ]
