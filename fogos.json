@@ -15,21 +15,21 @@
       "location": "Évora, Reguengos de Monsaraz, Monsaraz",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 25,
+      "terrain": 6,
       "district": "Évora",
       "concelho": "Reguengos De Monsaraz",
       "freguesia": "Monsaraz",
       "dico": "0711",
-      "lat": 38.497745,
-      "lng": -7.408624,
+      "lat": 38.494565,
+      "lng": -7.398883,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Monte Da Travessa ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 23758148,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 163.533,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Herdade da Travessa (Fonte da Rã)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,7 @@
         "sec": 1716633963
       },
       "updated": {
-        "sec": 1716634204
+        "sec": 1716635163
       }
     },
     {
@@ -82,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Praia Das Maçãs ",
       "active": true,
@@ -92,8 +96,12 @@
       "sharepointId": 23758179,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 42.1517,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Pinhal atras da aldeia da Praia (Casal dos Pinheiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +116,66 @@
         "sec": 1716634092
       },
       "updated": {
-        "sec": 1716634105
+        "sec": 1716635163
+      }
+    },
+    {
+      "_id": {
+        "$id": "6651c4c4cac1c0592f1410ff"
+      },
+      "id": "20240628816",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716633960
+      },
+      "date": "25-05-2024",
+      "hour": "11:46",
+      "location": "Leiria, Castanheira de Pêra, Castanheira De Pêra E Coentral",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Leiria",
+      "concelho": "Castanheira De Pêra",
+      "freguesia": "Castanheira De Pêra E Coentral",
+      "dico": "1007",
+      "lat": 40.00667,
+      "lng": -8.193611,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Castanheira De Pêra E Coentral ",
+      "active": true,
+      "sadoId": "20240628816",
+      "sharepointId": 23758176,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 527.583,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N236. 3280 Castanheira de Pêra. Portugal (Cumeada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1716634820
+      },
+      "updated": {
+        "sec": 1716635163
       }
     }
   ]
