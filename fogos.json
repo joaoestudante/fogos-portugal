@@ -72,10 +72,10 @@
       "date": "25-05-2024",
       "hour": "12:20",
       "location": "Lisboa, Sintra, São João Das Lampas E Terrugem",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "São João Das Lampas E Terrugem",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De São João Das Lampas E Terrugem ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1716637085
       },
       "updated": {
-        "sec": 1716638724
+        "sec": 1716641162
       }
     },
     {
@@ -204,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Moutelas ",
       "active": true,
@@ -234,7 +234,7 @@
         "sec": 1716637324
       },
       "updated": {
-        "sec": 1716638724
+        "sec": 1716641162
       }
     },
     {
@@ -251,21 +251,21 @@
       "location": "Castelo Branco, Covilhã, São Jorge Da Beira",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 42,
-      "terrain": 7,
+      "man": 52,
+      "terrain": 11,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "São Jorge Da Beira",
       "dico": "0503",
-      "lat": 40.163846,
-      "lng": -7.742225,
+      "lat": 40.163575,
+      "lng": -7.744898,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Cambões ",
       "active": true,
@@ -289,7 +289,121 @@
         "sec": 1716637562
       },
       "updated": {
-        "sec": 1716638724
+        "sec": 1716641162
+      }
+    },
+    {
+      "_id": {
+        "$id": "6651dd8a7b70f54b394ffa44"
+      },
+      "id": "20240629176",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716639240
+      },
+      "date": "25-05-2024",
+      "hour": "13:14",
+      "location": "Setúbal, Sesimbra, Sesimbra (castelo)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 8,
+      "district": "Setúbal",
+      "concelho": "Sesimbra",
+      "freguesia": "Sesimbra (castelo)",
+      "dico": "1511",
+      "lat": 38.535393,
+      "lng": -9.126293,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Apostiça ",
+      "active": true,
+      "sadoId": "20240629176",
+      "sharepointId": 23758536,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 18.5131,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Herdade da Apostiça (Apostiça)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1716641162
+      },
+      "updated": {
+        "sec": 1716641191
+      }
+    },
+    {
+      "_id": {
+        "$id": "6651dd8a7b70f54b394ffa4a"
+      },
+      "id": "20240629290",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716640860
+      },
+      "date": "25-05-2024",
+      "hour": "13:41",
+      "location": "Viseu, Tondela, Caparrosa E Silvares",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Tondela",
+      "freguesia": "Caparrosa E Silvares",
+      "dico": "1821",
+      "lat": 40.612071,
+      "lng": -8.098855,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Paranho ",
+      "active": true,
+      "sadoId": "20240629290",
+      "sharepointId": 23758650,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1716641162
+      },
+      "updated": {
+        "sec": 1716641217
       }
     }
   ]
