@@ -155,8 +155,12 @@
       "sharepointId": 23759343,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 24.3538,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua das Estevas. 2460-171 Alcobaça. Portugal (Sapateira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -171,7 +175,7 @@
         "sec": 1716650284
       },
       "updated": {
-        "sec": 1716657622
+        "sec": 1716663717
       }
     },
     {
@@ -188,8 +192,8 @@
       "location": "Évora, Mourão, Mourão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Évora",
       "concelho": "Mourão",
       "freguesia": "Mourão",
@@ -211,11 +215,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.1908,
+          "total": 0.1908
+        },
         "altitude": 144.208,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Mourão (Praça da República)",
+      "detailLocation": "Mourão (Travessa dos Currais)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -230,7 +240,7 @@
         "sec": 1716654364
       },
       "updated": {
-        "sec": 1716661096
+        "sec": 1716663839
       }
     },
     {
@@ -269,8 +279,12 @@
       "sharepointId": 23759803,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 199.921,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua da Fonte Velha (Casal do Cochim)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -285,7 +299,7 @@
         "sec": 1716657612
       },
       "updated": {
-        "sec": 1716659043
+        "sec": 1716663745
       }
     },
     {
@@ -302,8 +316,8 @@
       "location": "Vila Real, Murça, Carva E Vilares",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 25,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Carva E Vilares",
@@ -314,9 +328,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Carva E Vilares ",
       "active": true,
@@ -324,8 +338,12 @@
       "sharepointId": 23760144,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 752.532,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.43750000.-7.51777778) - N212. 5090-232 Murça. Portugal (IC5 (EN212) Km 21)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -340,7 +358,180 @@
         "sec": 1716662162
       },
       "updated": {
-        "sec": 1716662175
+        "sec": 1716663839
+      }
+    },
+    {
+      "_id": {
+        "$id": "6652361fe79ff74a721ab052"
+      },
+      "id": "20240630896",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716663480
+      },
+      "date": "25-05-2024",
+      "hour": "19:58",
+      "location": "Leiria, Alcobaça, Cela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Cela",
+      "dico": "1001",
+      "lat": 39.51382,
+      "lng": -9.05789,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cela ",
+      "active": true,
+      "sadoId": "20240630896",
+      "sharepointId": 23760256,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1716663839
+      },
+      "updated": {
+        "sec": 1716664082
+      }
+    },
+    {
+      "_id": {
+        "$id": "6652361fe79ff74a721ab054"
+      },
+      "id": "20240630814",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716662220
+      },
+      "date": "25-05-2024",
+      "hour": "19:37",
+      "location": "Castelo Branco, Fundão, Póvoa De Atalaia E Atalaia Do Campo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 5,
+      "district": "Castelo Branco",
+      "concelho": "Fundão",
+      "freguesia": "Póvoa De Atalaia E Atalaia Do Campo",
+      "dico": "0504",
+      "lat": 40.0641,
+      "lng": -7.43589,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Póvoa De Atalaia E Atalaia Do Campo ",
+      "active": true,
+      "sadoId": "20240630814",
+      "sharepointId": 23760174,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 396.536,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Póvoa de Atalaia. Fundão. Portugal (Póvoa de Atalaia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1716663839
+      },
+      "updated": {
+        "sec": 1716663894
+      }
+    },
+    {
+      "_id": {
+        "$id": "6652361fe79ff74a721ab055"
+      },
+      "id": "20240630825",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716662520
+      },
+      "date": "25-05-2024",
+      "hour": "19:42",
+      "location": "Faro, Tavira, Santa Catarina Da Fonte Do Bispo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Tavira",
+      "freguesia": "Santa Catarina Da Fonte Do Bispo",
+      "dico": "0814",
+      "lat": 37.15365,
+      "lng": -7.78983,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Santa Catarina Da Fonte Do Bispo ",
+      "active": true,
+      "sadoId": "20240630825",
+      "sharepointId": 23760185,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 130.229,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santa Catarina da Fonte do Bispo. Tavira. Portugal (SANTA CATARINA DO BISPO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1716663839
+      },
+      "updated": {
+        "sec": 1716663923
       }
     }
   ]
