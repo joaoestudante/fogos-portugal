@@ -182,23 +182,23 @@
       "date": "28-05-2024",
       "hour": "14:33",
       "location": "Guarda, Vila Nova de Foz Côa, Touça",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
+      "man": 11,
       "terrain": 4,
       "district": "Guarda",
       "concelho": "Vila Nova De Foz Côa",
       "freguesia": "Touça",
       "dico": "0914",
-      "lat": 41.050915,
-      "lng": -7.208957,
+      "lat": 41.039857,
+      "lng": -7.301618,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cedovim ",
       "active": true,
@@ -226,7 +226,7 @@
         "sec": 1716905405
       },
       "updated": {
-        "sec": 1716905467
+        "sec": 1716906373
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Idanha-a-nova E Alcafozes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Idanha-a-nova E Alcafozes",
@@ -285,7 +285,7 @@
         "sec": 1716905405
       },
       "updated": {
-        "sec": 1716905498
+        "sec": 1716906374
       }
     },
     {
@@ -418,23 +418,23 @@
       "date": "28-05-2024",
       "hour": "14:29",
       "location": "Leiria, Pombal, Santiago E S. Simão De Litém E Albergaria Dos Doze",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
+      "man": 19,
       "terrain": 5,
       "district": "Leiria",
       "concelho": "Pombal",
       "freguesia": "Santiago E S. Simão De Litém E Albergaria Dos Doze",
       "dico": "1015",
-      "lat": 39.81149,
-      "lng": -8.60555,
+      "lat": 39.811347,
+      "lng": -8.608982,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Santiago E São Simão De Litém E Albergaria Dos Doze ",
       "active": true,
@@ -462,7 +462,125 @@
         "sec": 1716905405
       },
       "updated": {
-        "sec": 1716905590
+        "sec": 1716906373
+      }
+    },
+    {
+      "_id": {
+        "$id": "6655e985fea0f801ef198891"
+      },
+      "id": "20240643645",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716905340
+      },
+      "date": "28-05-2024",
+      "hour": "15:09",
+      "location": "Lisboa, Azambuja, Azambuja",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Azambuja",
+      "dico": "1103",
+      "lat": 39.077782,
+      "lng": -8.865152,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Azambuja ",
+      "active": true,
+      "sadoId": "20240643645",
+      "sharepointId": 23773005,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -5.79375,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Quinta da Marquesa nac. 3 (Cais da Azambuja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1716906373
+      },
+      "updated": {
+        "sec": 1716906401
+      }
+    },
+    {
+      "_id": {
+        "$id": "6655e986fea0f801ef198898"
+      },
+      "id": "20240643697",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716905940
+      },
+      "date": "28-05-2024",
+      "hour": "15:19",
+      "location": "Lisboa, Sintra, Colares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Colares",
+      "dico": "1111",
+      "lat": 38.768962,
+      "lng": -9.462038,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Peninha ",
+      "active": true,
+      "sadoId": "20240643697",
+      "sharepointId": 23773057,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 380.93,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Teste (PENINHA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1716906374
+      },
+      "updated": {
+        "sec": 1716906441
       }
     }
   ]
