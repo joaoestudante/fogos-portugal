@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
+      "statusCode": 9,
       "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Espiunca ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1716910562
       },
       "updated": {
-        "sec": 1716975494
+        "sec": 1716980283
       }
     },
     {
@@ -72,9 +72,9 @@
       "date": "29-05-2024",
       "hour": "10:25",
       "location": "Braga, Terras de Bouro, Covide",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
+      "man": 17,
       "terrain": 4,
       "district": "Braga",
       "concelho": "Terras De Bouro",
@@ -112,7 +112,7 @@
         "sec": 1716975005
       },
       "updated": {
-        "sec": 1716978845
+        "sec": 1716980283
       }
     },
     {
@@ -127,16 +127,16 @@
       "date": "29-05-2024",
       "hour": "11:10",
       "location": "Viseu, Tondela, Castelões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
+      "man": 26,
       "terrain": 7,
       "district": "Viseu",
       "concelho": "Tondela",
       "freguesia": "Castelões",
       "dico": "1821",
-      "lat": 40.550836,
-      "lng": -8.163817,
+      "lat": 40.550042,
+      "lng": -8.157535,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -171,7 +171,180 @@
         "sec": 1716978845
       },
       "updated": {
-        "sec": 1716978873
+        "sec": 1716980283
+      }
+    },
+    {
+      "_id": {
+        "$id": "66570a3b975ae241e62095e8"
+      },
+      "id": "20240647578",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716979980
+      },
+      "date": "29-05-2024",
+      "hour": "11:53",
+      "location": "Aveiro, Estarreja, Avanca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Avanca",
+      "dico": "0108",
+      "lat": 40.804832,
+      "lng": -8.575154,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avanca ",
+      "active": true,
+      "sadoId": "20240647578",
+      "sharepointId": 23776938,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 13.9637,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Rua Alto das Cabanas (Mato)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1716980283
+      },
+      "updated": {
+        "sec": 1716980312
+      }
+    },
+    {
+      "_id": {
+        "$id": "66570a3b975ae241e62095ea"
+      },
+      "id": "20240647559",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716979800
+      },
+      "date": "29-05-2024",
+      "hour": "11:50",
+      "location": "Viseu, Lamego, Lamego (Almacave E Sé)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Lamego",
+      "freguesia": "Lamego (Almacave E Sé)",
+      "dico": "1805",
+      "lat": 41.10295,
+      "lng": -7.80036,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamego (Almacave E Sé) ",
+      "active": true,
+      "sadoId": "20240647559",
+      "sharepointId": 23776919,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 536.433,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lamego (Almacave e Sé) (Vila Hostilina)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1716980283
+      },
+      "updated": {
+        "sec": 1716980343
+      }
+    },
+    {
+      "_id": {
+        "$id": "66570a3b975ae241e62095eb"
+      },
+      "id": "20240647584",
+      "coords": true,
+      "dateTime": {
+        "sec": 1716980100
+      },
+      "date": "29-05-2024",
+      "hour": "11:55",
+      "location": "Vila Real, Vila Real, Vila Marim",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Vila Marim",
+      "dico": "1714",
+      "lat": 41.30573,
+      "lng": -7.77946,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Marim ",
+      "active": true,
+      "sadoId": "20240647584",
+      "sharepointId": 23776944,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1716980283
+      },
+      "updated": {
+        "sec": 1716980363
       }
     }
   ]
