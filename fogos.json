@@ -15,8 +15,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Branca",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 110,
-      "terrain": 33,
+      "man": 108,
+      "terrain": 32,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Branca",
@@ -53,7 +53,7 @@
         "sec": 1717296501
       },
       "updated": {
-        "sec": 1717318084
+        "sec": 1717319418
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 10,
+      "man": 17,
+      "terrain": 7,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
@@ -108,7 +108,7 @@
         "sec": 1717300571
       },
       "updated": {
-        "sec": 1717316057
+        "sec": 1717319164
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Braga, Guimarães, Souto Santa Maria, Souto São Salvador E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Souto Santa Maria, Souto São Salvador E Gondomar",
@@ -222,7 +222,7 @@
         "sec": 1717313042
       },
       "updated": {
-        "sec": 1717316057
+        "sec": 1717319164
       }
     },
     {
@@ -292,10 +292,10 @@
       "date": "02-06-2024",
       "hour": "09:08",
       "location": "Viseu, Lamego, Sande",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Sande",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sande ",
       "active": true,
@@ -332,7 +332,66 @@
         "sec": 1717316057
       },
       "updated": {
-        "sec": 1717318085
+        "sec": 1717319417
+      }
+    },
+    {
+      "_id": {
+        "$id": "665c35fde3c8250dc512f805"
+      },
+      "id": "20240666151",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717317960
+      },
+      "date": "02-06-2024",
+      "hour": "09:46",
+      "location": "Coimbra, Figueira da Foz, Moinhos Da Gândara",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Figueira Da Foz",
+      "freguesia": "Moinhos Da Gândara",
+      "dico": "0605",
+      "lat": 40.23207,
+      "lng": -8.75099,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Moinhos Da Gândara ",
+      "active": true,
+      "sadoId": "20240666151",
+      "sharepointId": 23795511,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.2719,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Fontita 24 (Barreiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1717319165
+      },
+      "updated": {
+        "sec": 1717319418
       }
     }
   ]
