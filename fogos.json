@@ -123,10 +123,10 @@
       "date": "05-06-2024",
       "hour": "14:50",
       "location": "Portalegre, Fronteira, Cabeço De Vide",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 75,
-      "terrain": 21,
+      "man": 66,
+      "terrain": 20,
       "district": "Portalegre",
       "concelho": "Fronteira",
       "freguesia": "Cabeço De Vide",
@@ -137,9 +137,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Monte Dos Santos ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1717595540
       },
       "updated": {
-        "sec": 1717600444
+        "sec": 1717601522
       }
     },
     {
@@ -247,8 +247,8 @@
       "dico": "0705",
       "lat": 38.554005,
       "lng": -7.892615,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -281,7 +281,7 @@
         "sec": 1717596499
       },
       "updated": {
-        "sec": 1717599244
+        "sec": 1717601764
       }
     },
     {
@@ -296,10 +296,10 @@
       "date": "05-06-2024",
       "hour": "15:18",
       "location": "Bragança, Bragança, Rio Frio E Milhão",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 5,
       "district": "Bragança",
       "concelho": "Bragança",
       "freguesia": "Rio Frio E Milhão",
@@ -340,7 +340,7 @@
         "sec": 1717599244
       },
       "updated": {
-        "sec": 1717600929
+        "sec": 1717601764
       }
     },
     {
@@ -357,8 +357,8 @@
       "location": "Setúbal, Palmela, Quinta Do Anjo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
+      "man": 8,
+      "terrain": 3,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Quinta Do Anjo",
@@ -399,7 +399,7 @@
         "sec": 1717599244
       },
       "updated": {
-        "sec": 1717600443
+        "sec": 1717601764
       }
     },
     {
@@ -487,9 +487,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Valpaços ",
       "active": true,
@@ -517,7 +517,7 @@
         "sec": 1717600929
       },
       "updated": {
-        "sec": 1717601125
+        "sec": 1717601522
       }
     },
     {
@@ -534,8 +534,8 @@
       "location": "Porto, Trofa, Alvarelhos E Guidões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Alvarelhos E Guidões",
@@ -546,9 +546,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Alvarelhos ",
       "active": true,
@@ -572,7 +572,62 @@
         "sec": 1717600929
       },
       "updated": {
-        "sec": 1717601136
+        "sec": 1717601522
+      }
+    },
+    {
+      "_id": {
+        "$id": "666085e49e919d08ab733daf"
+      },
+      "id": "20240682671",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717601520
+      },
+      "date": "05-06-2024",
+      "hour": "16:32",
+      "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
+      "dico": "0105",
+      "lat": 40.56432,
+      "lng": -8.58043,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Requeixo, Nossa Senhora De Fátima E Nariz ",
+      "active": true,
+      "sadoId": "20240682671",
+      "sharepointId": 23812032,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1717601764
+      },
+      "updated": {
+        "sec": 1717601776
       }
     }
   ]
