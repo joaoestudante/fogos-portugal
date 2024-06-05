@@ -113,65 +113,6 @@
     },
     {
       "_id": {
-        "$id": "66604106fd13bc30415f3c24"
-      },
-      "id": "20240681247",
-      "coords": true,
-      "dateTime": {
-        "sec": 1717583460
-      },
-      "date": "05-06-2024",
-      "hour": "11:31",
-      "location": "Setúbal, Sines, Sines",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Sines",
-      "freguesia": "Sines",
-      "dico": "1513",
-      "lat": 37.958207,
-      "lng": -8.849252,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Sines ",
-      "active": true,
-      "sadoId": "20240681247",
-      "sharepointId": 23810608,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 34.7894,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "zil-2 PROXIMO Cenfim (Lameira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Litoral",
-      "created": {
-        "sec": 1717584134
-      },
-      "updated": {
-        "sec": 1717584566
-      }
-    },
-    {
-      "_id": {
         "$id": "666042b6a8a58443b4027984"
       },
       "id": "20240681297",
@@ -182,10 +123,10 @@
       "date": "05-06-2024",
       "hour": "11:44",
       "location": "Vila Real, Vila Real, Nogueira E Ermida",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Nogueira E Ermida",
@@ -200,14 +141,18 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Alfolães ",
+      "localidade": "Alfolões ",
       "active": true,
       "sadoId": "20240681297",
       "sharepointId": 23810658,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 276.77,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Alfolães",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -222,7 +167,66 @@
         "sec": 1717584566
       },
       "updated": {
-        "sec": 1717584566
+        "sec": 1717585924
+      }
+    },
+    {
+      "_id": {
+        "$id": "66604496879f952db37aad84"
+      },
+      "id": "20240681354",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717584660
+      },
+      "date": "05-06-2024",
+      "hour": "11:51",
+      "location": "Lisboa, Loures, Camarate, Unhos E Apelação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Camarate, Unhos E Apelação",
+      "dico": "1107",
+      "lat": 38.802817,
+      "lng": -9.139208,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Camarate ",
+      "active": true,
+      "sadoId": "20240681354",
+      "sharepointId": 23810715,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 25.6525,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "LOURES",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1717585046
+      },
+      "updated": {
+        "sec": 1717585564
       }
     }
   ]
