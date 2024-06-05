@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Póvoa Da Atalaia ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1717616044
       },
       "updated": {
-        "sec": 1717618083
+        "sec": 1717619284
       }
     },
     {
@@ -130,26 +130,26 @@
       },
       "date": "05-06-2024",
       "hour": "21:06",
-      "location": "Beja, Beja, Beja (Santiago Maior E São João Baptista)",
+      "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 14,
       "terrain": 4,
       "district": "Beja",
       "concelho": "Beja",
-      "freguesia": "Beja (Santiago Maior E São João Baptista)",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
       "dico": "0205",
-      "lat": 38.01873,
-      "lng": -7.86654,
+      "lat": 38.028077,
+      "lng": -7.860618,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "União Das Freguesias De Beja (Santiago Maior E São João Baptista) ",
+      "localidade": "Beja ",
       "active": true,
       "sadoId": "20240683728",
       "sharepointId": 23813089,
@@ -171,7 +171,7 @@
         "sec": 1717618564
       },
       "updated": {
-        "sec": 1717618575
+        "sec": 1717619404
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Vila Real, Ribeira de Pena, Salvador E Santo Aleixo De Além-tâmega",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
       "freguesia": "Salvador E Santo Aleixo De Além-tâmega",
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Ribeira De Pena (Salvador) E Santo Aleixo De Além-tâmega ",
       "active": true,
@@ -226,7 +226,125 @@
         "sec": 1717618564
       },
       "updated": {
-        "sec": 1717618594
+        "sec": 1717619284
+      }
+    },
+    {
+      "_id": {
+        "$id": "6660ca53e6c35626c935d0aa"
+      },
+      "id": "20240683767",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717618560
+      },
+      "date": "05-06-2024",
+      "hour": "21:16",
+      "location": "Braga, Celorico de Basto, Canedo De Basto E Corgo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Celorico De Basto",
+      "freguesia": "Canedo De Basto E Corgo",
+      "dico": "0305",
+      "lat": 41.443642,
+      "lng": -7.967532,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Canedo De Basto ",
+      "active": true,
+      "sadoId": "20240683767",
+      "sharepointId": 23813128,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 331.59,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Cerdeirinhas (CANEDO DE BASTO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1717619283
+      },
+      "updated": {
+        "sec": 1717619307
+      }
+    },
+    {
+      "_id": {
+        "$id": "6660ca54e6c35626c935d0ac"
+      },
+      "id": "20240683786",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717618680
+      },
+      "date": "05-06-2024",
+      "hour": "21:18",
+      "location": "Setúbal, Seixal, Corroios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Corroios",
+      "dico": "1510",
+      "lat": 38.58,
+      "lng": -9.15139,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Verdizela ",
+      "active": true,
+      "sadoId": "20240683786",
+      "sharepointId": 23813147,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 55.7169,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "jt Colégio Guadalupe (Verdizela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1717619284
+      },
+      "updated": {
+        "sec": 1717619338
       }
     }
   ]
