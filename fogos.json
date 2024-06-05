@@ -125,8 +125,8 @@
       "location": "Lisboa, Azambuja, Alcoentre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Alcoentre",
@@ -163,7 +163,7 @@
         "sec": 1717590505
       },
       "updated": {
-        "sec": 1717593734
+        "sec": 1717596499
       }
     },
     {
@@ -180,21 +180,21 @@
       "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
       "dico": "1304",
       "lat": 41.192197,
       "lng": -8.535889,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1717595540
       },
       "updated": {
-        "sec": 1717595569
+        "sec": 1717596499
       }
     },
     {
@@ -237,10 +237,10 @@
       "date": "05-06-2024",
       "hour": "14:50",
       "location": "Portalegre, Fronteira, São Saturnino",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 45,
+      "terrain": 11,
       "district": "Portalegre",
       "concelho": "Fronteira",
       "freguesia": "São Saturnino",
@@ -251,9 +251,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Monte Do Cego ",
       "active": true,
@@ -277,7 +277,7 @@
         "sec": 1717595540
       },
       "updated": {
-        "sec": 1717595589
+        "sec": 1717596613
       }
     },
     {
@@ -292,23 +292,23 @@
       "date": "05-06-2024",
       "hour": "14:36",
       "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 12,
+      "man": 23,
       "terrain": 3,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
       "dico": "1111",
-      "lat": 38.757341,
-      "lng": -9.372095,
+      "lat": 38.75167,
+      "lng": -9.35889,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Manique De Cima ",
       "active": true,
@@ -336,7 +336,66 @@
         "sec": 1717595540
       },
       "updated": {
-        "sec": 1717595625
+        "sec": 1717596499
+      }
+    },
+    {
+      "_id": {
+        "$id": "666071534e58ed3c3b518ac3"
+      },
+      "id": "20240682196",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717595520
+      },
+      "date": "05-06-2024",
+      "hour": "14:52",
+      "location": "Évora, Évora, Malagueira E Horta Das Figueiras",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 5,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Malagueira E Horta Das Figueiras",
+      "dico": "0705",
+      "lat": 38.54879,
+      "lng": -7.90494,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "União Das Freguesias De Malagueira E Horta Das Figueiras ",
+      "active": true,
+      "sadoId": "20240682196",
+      "sharepointId": 23811557,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 183.409,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Évora Plaza. Rua Luís Adelino Fonseca. 7005 Évora. Portugal (ESTRADA DE ALMEIRIM)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1717596499
+      },
+      "updated": {
+        "sec": 1717596532
       }
     }
   ]
