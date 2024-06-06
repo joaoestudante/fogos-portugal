@@ -131,8 +131,8 @@
       "concelho": "Santarém",
       "freguesia": "Almoster",
       "dico": "1416",
-      "lat": 39.260105,
-      "lng": -8.803939,
+      "lat": 39.255602,
+      "lng": -8.808698,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -163,7 +163,7 @@
         "sec": 1717671362
       },
       "updated": {
-        "sec": 1717672562
+        "sec": 1717673132
       }
     },
     {
@@ -186,15 +186,15 @@
       "concelho": "Gondomar",
       "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
       "dico": "1304",
-      "lat": 41.129255,
-      "lng": -8.535295,
+      "lat": 41.104425,
+      "lng": -8.508003,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -202,8 +202,12 @@
       "sharepointId": 23815502,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 105.156,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Lugar do Tronco (Alto das Cavadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -218,7 +222,125 @@
         "sec": 1717672562
       },
       "updated": {
-        "sec": 1717672562
+        "sec": 1717673133
+      }
+    },
+    {
+      "_id": {
+        "$id": "66619cace2dd64673d4cdf79"
+      },
+      "id": "20240686162",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717672320
+      },
+      "date": "06-06-2024",
+      "hour": "12:12",
+      "location": "Faro, Loulé, Boliqueime",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Boliqueime",
+      "dico": "0808",
+      "lat": 37.13022,
+      "lng": -8.14863,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Boliqueime ",
+      "active": true,
+      "sadoId": "20240686162",
+      "sharepointId": 23815523,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 37.2775,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EI. Aníbal Cavaco Silva. 8100-069 Loulé. Portugal (Poço de Boliqueime)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1717673132
+      },
+      "updated": {
+        "sec": 1717673171
+      }
+    },
+    {
+      "_id": {
+        "$id": "66619cade2dd64673d4cdf7a"
+      },
+      "id": "20240686183",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717672320
+      },
+      "date": "06-06-2024",
+      "hour": "12:12",
+      "location": "Faro, Lagos, Lagos (São Sebastião E Santa Maria)",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Lagos",
+      "freguesia": "Lagos (São Sebastião E Santa Maria)",
+      "dico": "0807",
+      "lat": 37.130224,
+      "lng": -8.667608,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Chinicato ",
+      "active": true,
+      "sadoId": "20240686183",
+      "sharepointId": 23815544,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 8.02875,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Chinicato",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1717673133
+      },
+      "updated": {
+        "sec": 1717673204
       }
     }
   ]
