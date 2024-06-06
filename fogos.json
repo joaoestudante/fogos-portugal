@@ -58,61 +58,6 @@
     },
     {
       "_id": {
-        "$id": "666195c200dae73f755293a3"
-      },
-      "id": "20240686077",
-      "coords": true,
-      "dateTime": {
-        "sec": 1717671060
-      },
-      "date": "06-06-2024",
-      "hour": "11:51",
-      "location": "Santarém, Santarém, Almoster",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Santarém",
-      "freguesia": "Almoster",
-      "dico": "1416",
-      "lat": 39.255602,
-      "lng": -8.808698,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Louriceira ",
-      "active": true,
-      "sadoId": "20240686077",
-      "sharepointId": 23815438,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1717671362
-      },
-      "updated": {
-        "sec": 1717676005
-      }
-    },
-    {
-      "_id": {
         "$id": "6661a10ce2dd64673d4cdf83"
       },
       "id": "20240686252",
@@ -131,15 +76,15 @@
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Requião",
       "dico": "0312",
-      "lat": 41.41157,
-      "lng": -8.479353,
+      "lat": 41.418445,
+      "lng": -8.463758,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -167,7 +112,7 @@
         "sec": 1717674252
       },
       "updated": {
-        "sec": 1717675804
+        "sec": 1717677844
       }
     },
     {
@@ -190,15 +135,15 @@
       "concelho": "Lousada",
       "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
       "dico": "1305",
-      "lat": 41.339488,
-      "lng": -8.323094,
+      "lat": 41.324642,
+      "lng": -8.328217,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Lustosa ",
       "active": true,
@@ -226,7 +171,7 @@
         "sec": 1717675804
       },
       "updated": {
-        "sec": 1717676003
+        "sec": 1717677844
       }
     },
     {
@@ -243,8 +188,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Loureiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Loureiro",
@@ -255,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Loureiro ",
       "active": true,
@@ -281,7 +226,66 @@
         "sec": 1717676404
       },
       "updated": {
-        "sec": 1717676417
+        "sec": 1717677844
+      }
+    },
+    {
+      "_id": {
+        "$id": "6661af14e65158721518e998"
+      },
+      "id": "20240686528",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717676700
+      },
+      "date": "06-06-2024",
+      "hour": "13:25",
+      "location": "Setúbal, Grândola, Carvalhal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Grândola",
+      "freguesia": "Carvalhal",
+      "dico": "1505",
+      "lat": 38.456316,
+      "lng": -8.853697,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Tróia ",
+      "active": true,
+      "sadoId": "20240686528",
+      "sharepointId": 23815889,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -6.62437,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Junto a Base Naval de Tróia (TRÓIA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1717677844
+      },
+      "updated": {
+        "sec": 1717677884
       }
     }
   ]
