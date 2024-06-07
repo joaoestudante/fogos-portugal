@@ -15,8 +15,8 @@
       "location": "Aveiro, Arouca, Canelas E Espiunca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Canelas E Espiunca",
@@ -53,7 +53,7 @@
         "sec": 1717762451
       },
       "updated": {
-        "sec": 1717786091
+        "sec": 1717789451
       }
     },
     {
@@ -78,8 +78,8 @@
       "dico": "1501",
       "lat": 38.272273,
       "lng": -8.221395,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -112,7 +112,7 @@
         "sec": 1717783803
       },
       "updated": {
-        "sec": 1717788251
+        "sec": 1717789451
       }
     },
     {
@@ -185,24 +185,24 @@
       },
       "date": "07-06-2024",
       "hour": "20:15",
-      "location": "Viana Do Castelo, Monção, Bela",
+      "location": "Viana Do Castelo, Monção, Longos Vales",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 7,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Monção",
-      "freguesia": "Bela",
+      "freguesia": "Longos Vales",
       "dico": "1604",
-      "lat": 42.06768,
-      "lng": -8.43705,
+      "lat": 42.063972,
+      "lng": -8.434643,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Costa ",
       "active": true,
@@ -226,7 +226,121 @@
         "sec": 1717787883
       },
       "updated": {
-        "sec": 1717788842
+        "sec": 1717789563
+      }
+    },
+    {
+      "_id": {
+        "$id": "6663630b15e21875002643b2"
+      },
+      "id": "20240693332",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717788780
+      },
+      "date": "07-06-2024",
+      "hour": "20:33",
+      "location": "Porto, Santo Tirso, Areias, Sequeiró, Lama E Palmeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Areias, Sequeiró, Lama E Palmeira",
+      "dico": "1314",
+      "lat": 41.365293,
+      "lng": -8.459419,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sequeiro ",
+      "active": true,
+      "sadoId": "20240693332",
+      "sharepointId": 23822693,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1717789451
+      },
+      "updated": {
+        "sec": 1717789475
+      }
+    },
+    {
+      "_id": {
+        "$id": "6663655d15e21875002643d6"
+      },
+      "id": "20240693384",
+      "coords": true,
+      "dateTime": {
+        "sec": 1717789320
+      },
+      "date": "07-06-2024",
+      "hour": "20:42",
+      "location": "Aveiro, Santa Maria da Feira, São João De Ver",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São João De Ver",
+      "dico": "0109",
+      "lat": 40.955305,
+      "lng": -8.550029,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São João De Vêr ",
+      "active": true,
+      "sadoId": "20240693384",
+      "sharepointId": 23822745,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 134.859,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Av. do Monumento (SÃO JOÃO DE VÊR)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1717790045
+      },
+      "updated": {
+        "sec": 1717790070
       }
     }
   ]
