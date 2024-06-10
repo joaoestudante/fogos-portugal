@@ -184,8 +184,8 @@
       "location": "Braga, Vieira do Minho, Salamonde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Salamonde",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Salamonde ",
       "active": true,
@@ -226,7 +226,66 @@
         "sec": 1718052243
       },
       "updated": {
-        "sec": 1718052264
+        "sec": 1718052508
+      }
+    },
+    {
+      "_id": {
+        "$id": "6667669c1bfb356759280889"
+      },
+      "id": "20240706276",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718052060
+      },
+      "date": "10-06-2024",
+      "hour": "21:41",
+      "location": "Lisboa, Alenquer, Alenquer (Santo Estêvão E Triana)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Alenquer (Santo Estêvão E Triana)",
+      "dico": "1101",
+      "lat": 39.057711,
+      "lng": -9.034018,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Porto Da Luz ",
+      "active": true,
+      "sadoId": "20240706276",
+      "sharepointId": 23835637,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 66.6906,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Quinta de Pancas (Panças)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1718052508
+      },
+      "updated": {
+        "sec": 1718052527
       }
     }
   ]
