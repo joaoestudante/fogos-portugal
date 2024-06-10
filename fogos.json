@@ -15,8 +15,8 @@
       "location": "Lisboa, Amadora, Encosta Do Sol",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Amadora",
       "freguesia": "Encosta Do Sol",
@@ -57,7 +57,7 @@
         "sec": 1718033163
       },
       "updated": {
-        "sec": 1718036525
+        "sec": 1718038978
       }
     },
     {
@@ -72,9 +72,9 @@
       "date": "10-06-2024",
       "hour": "17:16",
       "location": "Santarém, Chamusca, Chamusca E Pinheiro Grande",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
+      "man": 19,
       "terrain": 5,
       "district": "Santarém",
       "concelho": "Chamusca",
@@ -86,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale Da Vaca ",
       "active": true,
@@ -116,7 +116,66 @@
         "sec": 1718036525
       },
       "updated": {
-        "sec": 1718037484
+        "sec": 1718038978
+      }
+    },
+    {
+      "_id": {
+        "$id": "666731c2c01052533a1e1fa5"
+      },
+      "id": "20240705421",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718038140
+      },
+      "date": "10-06-2024",
+      "hour": "17:49",
+      "location": "Viana Do Castelo, Valença, Gondomil E Safins",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Valença",
+      "freguesia": "Gondomil E Safins",
+      "dico": "1608",
+      "lat": 42.02742,
+      "lng": -8.55316,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Santo Ovideo ",
+      "active": true,
+      "sadoId": "20240705421",
+      "sharepointId": 23834782,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 52.0869,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Santo Ovideo (GONDOMIL)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1718038978
+      },
+      "updated": {
+        "sec": 1718039882
       }
     }
   ]
