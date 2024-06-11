@@ -27,9 +27,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Póvoa De São Miguel ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1718102164
       },
       "updated": {
-        "sec": 1718110987
+        "sec": 1718112364
       }
     },
     {
@@ -192,13 +192,13 @@
       "dico": "1001",
       "lat": 39.628268,
       "lng": -8.947415,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Alpedriz ",
       "active": true,
@@ -226,7 +226,125 @@
         "sec": 1718110987
       },
       "updated": {
-        "sec": 1718111764
+        "sec": 1718112364
+      }
+    },
+    {
+      "_id": {
+        "$id": "6668506ca529f15b324eb71a"
+      },
+      "id": "20240709116",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718111640
+      },
+      "date": "11-06-2024",
+      "hour": "14:14",
+      "location": "Faro, Tavira, Luz De Tavira E Santo Estêvão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 6,
+      "district": "Faro",
+      "concelho": "Tavira",
+      "freguesia": "Luz De Tavira E Santo Estêvão",
+      "dico": "0814",
+      "lat": 37.142417,
+      "lng": -7.71549,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Malhão ",
+      "active": true,
+      "sadoId": "20240709116",
+      "sharepointId": 23838477,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 99.6038,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Malhão (Prego)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1718112364
+      },
+      "updated": {
+        "sec": 1718112396
+      }
+    },
+    {
+      "_id": {
+        "$id": "6668506ca529f15b324eb71c"
+      },
+      "id": "20240708891",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718109000
+      },
+      "date": "11-06-2024",
+      "hour": "13:30",
+      "location": "Coimbra, Cantanhede, Sanguinheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Coimbra",
+      "concelho": "Cantanhede",
+      "freguesia": "Sanguinheira",
+      "dico": "0602",
+      "lat": 40.305466,
+      "lng": -8.685972,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Palhagueira ",
+      "active": true,
+      "sadoId": "20240708891",
+      "sharepointId": 23838252,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 62.6725,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Palhagueira",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1718112364
+      },
+      "updated": {
+        "sec": 1718112430
       }
     }
   ]
