@@ -70,8 +70,8 @@
       "location": "Coimbra, Figueira da Foz, Tavarede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 14,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Tavarede",
@@ -92,8 +92,12 @@
       "sharepointId": 23836685,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 34.0419,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Vasco Traqueia da Gama (Buarcos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +112,66 @@
         "sec": 1718090903
       },
       "updated": {
-        "sec": 1718090903
+        "sec": 1718091454
+      }
+    },
+    {
+      "_id": {
+        "$id": "6667febe5295143b010452f4"
+      },
+      "id": "20240707368",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718090580
+      },
+      "date": "11-06-2024",
+      "hour": "08:23",
+      "location": "Lisboa, Loures, Camarate, Unhos E Apelação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Camarate, Unhos E Apelação",
+      "dico": "1107",
+      "lat": 38.802817,
+      "lng": -9.139208,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Camarate ",
+      "active": true,
+      "sadoId": "20240707368",
+      "sharepointId": 23836729,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 128.042,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua da Republica (Quinta do Redondo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1718091454
+      },
+      "updated": {
+        "sec": 1718091496
       }
     }
   ]
