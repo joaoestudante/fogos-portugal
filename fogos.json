@@ -15,8 +15,8 @@
       "location": "Portalegre, Sousel, Cano",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 8,
+      "man": 5,
+      "terrain": 1,
       "district": "Portalegre",
       "concelho": "Sousel",
       "freguesia": "Cano",
@@ -57,7 +57,7 @@
         "sec": 1718127484
       },
       "updated": {
-        "sec": 1718133206
+        "sec": 1718133964
       }
     },
     {
@@ -72,9 +72,9 @@
       "date": "11-06-2024",
       "hour": "20:05",
       "location": "Beja, Serpa, Pias",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 25,
       "terrain": 5,
       "district": "Beja",
       "concelho": "Serpa",
@@ -86,9 +86,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Pias ",
       "active": true,
@@ -116,7 +116,125 @@
         "sec": 1718132907
       },
       "updated": {
-        "sec": 1718133484
+        "sec": 1718133964
+      }
+    },
+    {
+      "_id": {
+        "$id": "6668a4ccbdb7f876f95eddec"
+      },
+      "id": "20240710681",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718133300
+      },
+      "date": "11-06-2024",
+      "hour": "20:15",
+      "location": "Lisboa, Loures, Santo Antão E São Julião Do Tojal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Santo Antão E São Julião Do Tojal",
+      "dico": "1107",
+      "lat": 38.8496,
+      "lng": -9.15978,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Santo Antão E São Julião Do Tojal ",
+      "active": true,
+      "sadoId": "20240710681",
+      "sharepointId": 23840042,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.5019,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de São Roque. 2660-200 Loures. Portugal (São Roque)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1718133964
+      },
+      "updated": {
+        "sec": 1718133992
+      }
+    },
+    {
+      "_id": {
+        "$id": "6668a4ccbdb7f876f95edded"
+      },
+      "id": "20240710678",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718133240
+      },
+      "date": "11-06-2024",
+      "hour": "20:14",
+      "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "dico": "0205",
+      "lat": 38.028325,
+      "lng": -7.861583,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Beja ",
+      "active": true,
+      "sadoId": "20240710678",
+      "sharepointId": 23840039,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 175.513,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN260 (Beja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1718133964
+      },
+      "updated": {
+        "sec": 1718134442
       }
     }
   ]
