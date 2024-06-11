@@ -365,8 +365,8 @@
       "location": "Beja, Beja, São Matias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "São Matias",
@@ -407,7 +407,7 @@
         "sec": 1718116682
       },
       "updated": {
-        "sec": 1718120532
+        "sec": 1718121624
       }
     },
     {
@@ -424,8 +424,8 @@
       "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Beja (salvador E Santa Maria Da Feira)",
@@ -466,7 +466,7 @@
         "sec": 1718116682
       },
       "updated": {
-        "sec": 1718120897
+        "sec": 1718121624
       }
     },
     {
@@ -554,9 +554,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Rosário  ",
       "active": true,
@@ -580,7 +580,125 @@
         "sec": 1718120404
       },
       "updated": {
-        "sec": 1718120897
+        "sec": 1718121624
+      }
+    },
+    {
+      "_id": {
+        "$id": "66687498abaa9162ff195c2f"
+      },
+      "id": "20240709823",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718120520
+      },
+      "date": "11-06-2024",
+      "hour": "16:42",
+      "location": "Porto, Matosinhos, Perafita, Lavra E Santa Cruz Do Bispo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Matosinhos",
+      "freguesia": "Perafita, Lavra E Santa Cruz Do Bispo",
+      "dico": "1308",
+      "lat": 41.22278,
+      "lng": -8.6825,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Perafita, Lavra E Santa Cruz Do Bispo ",
+      "active": true,
+      "sadoId": "20240709823",
+      "sharepointId": 23839184,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 33.7769,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "L Rua Antero de Quental 300. 4455-586 Matosinhos. Portugal (Farrapas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1718121624
+      },
+      "updated": {
+        "sec": 1718121658
+      }
+    },
+    {
+      "_id": {
+        "$id": "66687498abaa9162ff195c30"
+      },
+      "id": "20240709841",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718120760
+      },
+      "date": "11-06-2024",
+      "hour": "16:46",
+      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Bacelo E Senhora Da Saúde",
+      "dico": "0705",
+      "lat": 38.573685,
+      "lng": -7.898993,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Évora ",
+      "active": true,
+      "sadoId": "20240709841",
+      "sharepointId": 23839202,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 190.867,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Junto \"Pingo Doce Álamos\" (RUA VASCO DA SILVEIRA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1718121624
+      },
+      "updated": {
+        "sec": 1718122037
       }
     }
   ]
