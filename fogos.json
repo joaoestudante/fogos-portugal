@@ -117,65 +117,6 @@
     },
     {
       "_id": {
-        "$id": "66699ce7e516ec57d367cf79"
-      },
-      "id": "20240713633",
-      "coords": true,
-      "dateTime": {
-        "sec": 1718195340
-      },
-      "date": "12-06-2024",
-      "hour": "13:29",
-      "location": "Santarém, Mação, Envendos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
-      "district": "Santarém",
-      "concelho": "Mação",
-      "freguesia": "Envendos",
-      "dico": "1413",
-      "lat": 39.551435,
-      "lng": -7.881912,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Avessada ",
-      "active": true,
-      "sadoId": "20240713633",
-      "sharepointId": 23842994,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 207.581,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Avessada (Ribeira de Rodam)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1718197479
-      },
-      "updated": {
-        "sec": 1718198644
-      }
-    },
-    {
-      "_id": {
         "$id": "66699f92e516ec57d367cf9a"
       },
       "id": "20240713804",
@@ -298,8 +239,8 @@
       "location": "Beja, Castro Verde, São Marcos Da Ataboeira",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 9,
+      "man": 54,
+      "terrain": 14,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "São Marcos Da Ataboeira",
@@ -310,9 +251,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "São Marcos ",
       "active": true,
@@ -340,7 +281,7 @@
         "sec": 1718198644
       },
       "updated": {
-        "sec": 1718200082
+        "sec": 1718201056
       }
     },
     {
@@ -363,8 +304,8 @@
       "concelho": "Montijo",
       "freguesia": "Canha",
       "dico": "1507",
-      "lat": 38.752636,
-      "lng": -8.699073,
+      "lat": 38.74694,
+      "lng": -8.680238,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -399,7 +340,7 @@
         "sec": 1718200082
       },
       "updated": {
-        "sec": 1718200117
+        "sec": 1718201057
       }
     },
     {
@@ -414,10 +355,10 @@
       "date": "12-06-2024",
       "hour": "14:33",
       "location": "Setúbal, Palmela, Quinta Do Anjo",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 43,
+      "terrain": 9,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Quinta Do Anjo",
@@ -458,7 +399,66 @@
         "sec": 1718200082
       },
       "updated": {
-        "sec": 1718200154
+        "sec": 1718201057
+      }
+    },
+    {
+      "_id": {
+        "$id": "6669aae1e516ec57d367d0fa"
+      },
+      "id": "20240714071",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718200440
+      },
+      "date": "12-06-2024",
+      "hour": "14:54",
+      "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Charneca De Caparica E Sobreda",
+      "dico": "1503",
+      "lat": 38.58747,
+      "lng": -9.16896,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Charneca De Caparica E Sobreda ",
+      "active": true,
+      "sadoId": "20240714071",
+      "sharepointId": 23843432,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 59.4131,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida Sacadura Cabral 32. 2820-128 Almada. Portugal (Valbom)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1718201057
+      },
+      "updated": {
+        "sec": 1718201084
       }
     }
   ]
