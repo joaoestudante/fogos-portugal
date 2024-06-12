@@ -184,8 +184,8 @@
       "location": "Santarém, Mação, Envendos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 8,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Mação",
       "freguesia": "Envendos",
@@ -226,7 +226,7 @@
         "sec": 1718197479
       },
       "updated": {
-        "sec": 1718197512
+        "sec": 1718198644
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Aveiro, Espinho, Silvalde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Espinho",
       "freguesia": "Silvalde",
@@ -255,9 +255,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Silvalde ",
       "active": true,
@@ -281,7 +281,7 @@
         "sec": 1718198162
       },
       "updated": {
-        "sec": 1718198177
+        "sec": 1718198644
       }
     },
     {
@@ -298,8 +298,8 @@
       "location": "Guarda, Sabugal, Cerdeira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 28,
+      "terrain": 6,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Cerdeira",
@@ -336,7 +336,66 @@
         "sec": 1718198163
       },
       "updated": {
-        "sec": 1718198200
+        "sec": 1718198644
+      }
+    },
+    {
+      "_id": {
+        "$id": "6669a174e516ec57d367cfaf"
+      },
+      "id": "20240713875",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718197980
+      },
+      "date": "12-06-2024",
+      "hour": "14:13",
+      "location": "Beja, Castro Verde, São Marcos Da Ataboeira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Castro Verde",
+      "freguesia": "São Marcos Da Ataboeira",
+      "dico": "0206",
+      "lat": 37.702503,
+      "lng": -7.930096,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Marcos ",
+      "active": true,
+      "sadoId": "20240713875",
+      "sharepointId": 23843236,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 178.142,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Figueirinha (SÃO MARCOS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1718198644
+      },
+      "updated": {
+        "sec": 1718198676
       }
     }
   ]
