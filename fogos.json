@@ -74,8 +74,8 @@
       "location": "Setúbal, Palmela, Quinta Do Anjo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Quinta Do Anjo",
@@ -116,7 +116,7 @@
         "sec": 1718200082
       },
       "updated": {
-        "sec": 1718218819
+        "sec": 1718219290
       }
     },
     {
@@ -133,8 +133,8 @@
       "location": "Aveiro, Vale de Cambra, São Pedro De Castelões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Vale De Cambra",
       "freguesia": "São Pedro De Castelões",
@@ -175,7 +175,7 @@
         "sec": 1718203204
       },
       "updated": {
-        "sec": 1718218451
+        "sec": 1718219642
       }
     },
     {
@@ -310,8 +310,8 @@
       "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 6,
+      "man": 29,
+      "terrain": 7,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Fânzeres E São Pedro Da Cova",
@@ -322,9 +322,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Pedro Da Cova ",
       "active": true,
@@ -352,7 +352,7 @@
         "sec": 1718215220
       },
       "updated": {
-        "sec": 1718218972
+        "sec": 1718219642
       }
     },
     {
@@ -491,9 +491,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Nora ",
       "active": true,
@@ -521,7 +521,66 @@
         "sec": 1718218084
       },
       "updated": {
-        "sec": 1718218111
+        "sec": 1718219642
+      }
+    },
+    {
+      "_id": {
+        "$id": "6669f37a6ceddb5d3541908d"
+      },
+      "id": "20240715363",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718219100
+      },
+      "date": "12-06-2024",
+      "hour": "20:05",
+      "location": "Leiria, Alvaiázere, Pussos São Pedro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Alvaiázere",
+      "freguesia": "Pussos São Pedro",
+      "dico": "1002",
+      "lat": 39.792389,
+      "lng": -8.364256,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cavadas ",
+      "active": true,
+      "sadoId": "20240715363",
+      "sharepointId": 23844724,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 296.654,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Cavadas (Vale de Cipote)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1718219642
+      },
+      "updated": {
+        "sec": 1718219670
       }
     }
   ]
