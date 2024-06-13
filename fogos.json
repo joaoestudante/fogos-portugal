@@ -15,8 +15,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -53,7 +53,7 @@
         "sec": 1718281685
       },
       "updated": {
-        "sec": 1718283124
+        "sec": 1718284562
       }
     },
     {
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Negrais ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1718283618
       },
       "updated": {
-        "sec": 1718284203
+        "sec": 1718284562
       }
     },
     {
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Almada, Cova Da Piedade, Pragal E Cacilhas ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1718283619
       },
       "updated": {
-        "sec": 1718283896
+        "sec": 1718284562
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Setúbal, Barreiro, Santo António Da Charneca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 23,
+      "terrain": 6,
       "district": "Setúbal",
       "concelho": "Barreiro",
       "freguesia": "Santo António Da Charneca",
@@ -226,7 +226,62 @@
         "sec": 1718284203
       },
       "updated": {
-        "sec": 1718284333
+        "sec": 1718284562
+      }
+    },
+    {
+      "_id": {
+        "$id": "666af11233076c68f65aa9a1"
+      },
+      "id": "20240718433",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718284020
+      },
+      "date": "13-06-2024",
+      "hour": "14:07",
+      "location": "Évora, Vila Viçosa, Bencatel",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Vila Viçosa",
+      "freguesia": "Bencatel",
+      "dico": "0714",
+      "lat": 38.722566,
+      "lng": -7.460133,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bencatel ",
+      "active": true,
+      "sadoId": "20240718433",
+      "sharepointId": 23847794,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1718284562
+      },
+      "updated": {
+        "sec": 1718284578
       }
     }
   ]
