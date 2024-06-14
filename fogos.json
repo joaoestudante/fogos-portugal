@@ -82,9 +82,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1718373499
       },
       "updated": {
-        "sec": 1718387060
+        "sec": 1718388362
       }
     },
     {
@@ -135,8 +135,8 @@
       "concelho": "Benavente",
       "freguesia": "Santo Estêvão",
       "dico": "1405",
-      "lat": 38.89327,
-      "lng": -8.747498,
+      "lat": 38.886755,
+      "lng": -8.741353,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -171,7 +171,7 @@
         "sec": 1718374085
       },
       "updated": {
-        "sec": 1718385251
+        "sec": 1718387764
       }
     },
     {
@@ -230,7 +230,7 @@
         "sec": 1718375892
       },
       "updated": {
-        "sec": 1718381165
+        "sec": 1718388363
       }
     },
     {
@@ -304,10 +304,10 @@
       "date": "14-06-2024",
       "hour": "18:38",
       "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 23,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Fânzeres E São Pedro Da Cova",
@@ -344,7 +344,121 @@
         "sec": 1718387061
       },
       "updated": {
-        "sec": 1718387078
+        "sec": 1718388363
+      }
+    },
+    {
+      "_id": {
+        "$id": "666c8435c64c8970fd1b1f6c"
+      },
+      "id": "20240724354",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718387280
+      },
+      "date": "14-06-2024",
+      "hour": "18:48",
+      "location": "Faro, Loulé, Querença, Tôr E Benafim",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Querença, Tôr E Benafim",
+      "dico": "0808",
+      "lat": 37.1929,
+      "lng": -8.066562,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União De Freguesias De Querença, Tôr E Benafim ",
+      "active": true,
+      "sadoId": "20240724354",
+      "sharepointId": 23853715,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1718387765
+      },
+      "updated": {
+        "sec": 1718388363
+      }
+    },
+    {
+      "_id": {
+        "$id": "666c868b146c5c0535239e24"
+      },
+      "id": "20240724329",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718386920
+      },
+      "date": "14-06-2024",
+      "hour": "18:42",
+      "location": "Porto, Valongo, Valongo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Valongo",
+      "dico": "1315",
+      "lat": 41.14644,
+      "lng": -8.49329,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Valongo ",
+      "active": true,
+      "sadoId": "20240724329",
+      "sharepointId": 23853690,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 87.075,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLonRua de Couce. 4510-237 Gondomar. Portugal (Fragas do Diabo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1718388363
+      },
+      "updated": {
+        "sec": 1718388398
       }
     }
   ]
