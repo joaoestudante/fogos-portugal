@@ -249,10 +249,10 @@
       "date": "15-06-2024",
       "hour": "16:55",
       "location": "Porto, Paredes, Aguiar De Sousa",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Aguiar De Sousa",
@@ -293,7 +293,7 @@
         "sec": 1718467931
       },
       "updated": {
-        "sec": 1718468538
+        "sec": 1718469723
       }
     },
     {
@@ -310,8 +310,8 @@
       "location": "Santarém, Rio Maior, Asseiceira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 19,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Rio Maior",
       "freguesia": "Asseiceira",
@@ -322,9 +322,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Asseiceira ",
       "active": true,
@@ -348,7 +348,184 @@
         "sec": 1718468539
       },
       "updated": {
-        "sec": 1718468565
+        "sec": 1718469723
+      }
+    },
+    {
+      "_id": {
+        "$id": "666dc45b38beb83665146f1d"
+      },
+      "id": "20240728322",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718468820
+      },
+      "date": "15-06-2024",
+      "hour": "17:27",
+      "location": "Faro, Faro, Montenegro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 6,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Montenegro",
+      "dico": "0805",
+      "lat": 37.043022,
+      "lng": -7.971197,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gambelas ",
+      "active": true,
+      "sadoId": "20240728322",
+      "sharepointId": 23857683,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -3.41812,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Quinta do Eucalipto (Gambelas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1718469723
+      },
+      "updated": {
+        "sec": 1718469744
+      }
+    },
+    {
+      "_id": {
+        "$id": "666dc45b38beb83665146f1e"
+      },
+      "id": "20240728354",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718469360
+      },
+      "date": "15-06-2024",
+      "hour": "17:36",
+      "location": "Aveiro, Aveiro, Aradas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Aradas",
+      "dico": "0105",
+      "lat": 40.61522,
+      "lng": -8.63947,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Aradas ",
+      "active": true,
+      "sadoId": "20240728354",
+      "sharepointId": 23857715,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 10.7487,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Direita de Aradas (Buracal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1718469723
+      },
+      "updated": {
+        "sec": 1718469772
+      }
+    },
+    {
+      "_id": {
+        "$id": "666dc45b38beb83665146f23"
+      },
+      "id": "20240728321",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718468880
+      },
+      "date": "15-06-2024",
+      "hour": "17:28",
+      "location": "Braga, Vila Nova de Famalicão, Pousada De Saramagos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Pousada De Saramagos",
+      "dico": "0312",
+      "lat": 41.42792,
+      "lng": -8.43857,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pousada De Saramagos ",
+      "active": true,
+      "sadoId": "20240728321",
+      "sharepointId": 23857682,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 164.697,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.42792000.-8.43857000) - Rua do Monte 110. 4770-417 Vila Nova de Famalicão. Portugal (Matinhos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1718469723
+      },
+      "updated": {
+        "sec": 1718469813
       }
     }
   ]
