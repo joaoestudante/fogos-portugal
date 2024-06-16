@@ -15,8 +15,8 @@
       "location": "Beja, Beja, Albernoa E Trindade",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 6,
+      "man": 13,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Albernoa E Trindade",
@@ -53,7 +53,7 @@
         "sec": 1718535773
       },
       "updated": {
-        "sec": 1718551091
+        "sec": 1718551682
       }
     },
     {
@@ -292,10 +292,10 @@
       "date": "16-06-2024",
       "hour": "16:06",
       "location": "Setúbal, Setúbal, Gâmbia-pontes-alto Da Guerra",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 30,
+      "terrain": 6,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Gâmbia-pontes-alto Da Guerra",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Gâmbia-pontes-alto Da Guerra ",
       "active": true,
@@ -336,7 +336,66 @@
         "sec": 1718551091
       },
       "updated": {
-        "sec": 1718551128
+        "sec": 1718551810
+      }
+    },
+    {
+      "_id": {
+        "$id": "666f04823fed8969f21aa87f"
+      },
+      "id": "20240732313",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718551320
+      },
+      "date": "16-06-2024",
+      "hour": "16:22",
+      "location": "Lisboa, Amadora, Encosta Do Sol",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Amadora",
+      "freguesia": "Encosta Do Sol",
+      "dico": "1115",
+      "lat": 38.77031,
+      "lng": -9.21742,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Encosta Do Sol ",
+      "active": true,
+      "sadoId": "20240732313",
+      "sharepointId": 23861674,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 131.08,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Machado de Castro (Rua José Malhoa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1718551682
+      },
+      "updated": {
+        "sec": 1718551711
       }
     }
   ]
