@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Portel ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1718738284
       },
       "updated": {
-        "sec": 1718738307
+        "sec": 1718738644
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Branca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 17,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Branca",
@@ -171,7 +171,66 @@
         "sec": 1718738284
       },
       "updated": {
-        "sec": 1718738336
+        "sec": 1718738883
+      }
+    },
+    {
+      "_id": {
+        "$id": "6671ded4b59c9663cb2512f6"
+      },
+      "id": "20240741807",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718737500
+      },
+      "date": "18-06-2024",
+      "hour": "20:05",
+      "location": "Lisboa, Alenquer, Abrigada E Cabanas De Torres",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Abrigada E Cabanas De Torres",
+      "dico": "1101",
+      "lat": 39.142276,
+      "lng": -9.044558,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cabanas Do Chão ",
+      "active": true,
+      "sadoId": "20240741807",
+      "sharepointId": 23871168,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 87.9431,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Terra das Compridas (Cabanas do Chão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1718738644
+      },
+      "updated": {
+        "sec": 1718738662
       }
     }
   ]
