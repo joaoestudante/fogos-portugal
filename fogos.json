@@ -15,8 +15,8 @@
       "location": "Santarém, Torres Novas, Chancelaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Torres Novas",
       "freguesia": "Chancelaria",
@@ -53,7 +53,7 @@
         "sec": 1718733637
       },
       "updated": {
-        "sec": 1718735643
+        "sec": 1718739447
       }
     },
     {
@@ -68,10 +68,10 @@
       "date": "18-06-2024",
       "hour": "20:03",
       "location": "Évora, Portel, Portel",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 3,
       "district": "Évora",
       "concelho": "Portel",
       "freguesia": "Portel",
@@ -112,7 +112,7 @@
         "sec": 1718738284
       },
       "updated": {
-        "sec": 1718738644
+        "sec": 1718739447
       }
     },
     {
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
+      "statusCode": 3,
       "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "status": "Despacho",
       "important": false,
       "localidade": "Palhal ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1718738284
       },
       "updated": {
-        "sec": 1718738883
+        "sec": 1718739447
       }
     },
     {
@@ -200,9 +200,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cabanas Do Chão ",
       "active": true,
@@ -230,7 +230,66 @@
         "sec": 1718738644
       },
       "updated": {
-        "sec": 1718738662
+        "sec": 1718739138
+      }
+    },
+    {
+      "_id": {
+        "$id": "6671e0c2b59c9663cb251307"
+      },
+      "id": "20240741889",
+      "coords": true,
+      "dateTime": {
+        "sec": 1718738580
+      },
+      "date": "18-06-2024",
+      "hour": "20:23",
+      "location": "Portalegre, Avis, Alcórrego E Maranhão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Portalegre",
+      "concelho": "Avis",
+      "freguesia": "Alcórrego E Maranhão",
+      "dico": "1203",
+      "lat": 39.018636,
+      "lng": -7.912552,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santo António De Alcorrego ",
+      "active": true,
+      "sadoId": "20240741889",
+      "sharepointId": 23871250,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 146.34,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "N370 (SANTO ANTÓNIO DE ALCORREGO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1718739138
+      },
+      "updated": {
+        "sec": 1718739447
       }
     }
   ]
