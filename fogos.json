@@ -74,8 +74,8 @@
       "location": "Beja, Castro Verde, Castro Verde E Casével",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 12,
+      "man": 22,
+      "terrain": 9,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
@@ -86,9 +86,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Castro Verde ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719156963
+        "sec": 1719160091
       }
     },
     {
@@ -357,6 +357,61 @@
     },
     {
       "_id": {
+        "$id": "667840e30c954560182d404b"
+      },
+      "id": "20240762962",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719155280
+      },
+      "date": "23-06-2024",
+      "hour": "16:08",
+      "location": "Braga, Esposende, Apúlia E Fão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Esposende",
+      "freguesia": "Apúlia E Fão",
+      "dico": "0306",
+      "lat": 41.486577,
+      "lng": -8.764815,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Apúlia E Fão ",
+      "active": true,
+      "sadoId": "20240762962",
+      "sharepointId": 23892323,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1719156963
+      },
+      "updated": {
+        "sec": 1719160091
+      }
+    },
+    {
+      "_id": {
         "$id": "667840e30c954560182d404f"
       },
       "id": "20240763053",
@@ -369,23 +424,23 @@
       "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
       "dico": "1401",
-      "lat": 39.47667,
-      "lng": -8.19376,
+      "lat": 39.476385,
+      "lng": -8.193277,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Abrantes  ",
+      "localidade": "Alferrarede  ",
       "active": true,
       "sadoId": "20240763053",
       "sharepointId": 23892414,
@@ -411,7 +466,121 @@
         "sec": 1719156963
       },
       "updated": {
-        "sec": 1719157014
+        "sec": 1719160091
+      }
+    },
+    {
+      "_id": {
+        "$id": "66784d1bb9ad31067507aa13"
+      },
+      "id": "20240763189",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719158700
+      },
+      "date": "23-06-2024",
+      "hour": "17:05",
+      "location": "Coimbra, Mira, Seixo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Mira",
+      "freguesia": "Seixo",
+      "dico": "0608",
+      "lat": 40.46431,
+      "lng": -8.73925,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Seixo ",
+      "active": true,
+      "sadoId": "20240763189",
+      "sharepointId": 23892550,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 14.5669,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estrada Florestal 3 (Palhais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1719160091
+      },
+      "updated": {
+        "sec": 1719160113
+      }
+    },
+    {
+      "_id": {
+        "$id": "66784d1bb9ad31067507aa15"
+      },
+      "id": "20240763025",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719156120
+      },
+      "date": "23-06-2024",
+      "hour": "16:22",
+      "location": "Porto, Gondomar, Melres E Medas",
+      "aerial": 6,
+      "meios_aquaticos": 0,
+      "man": 66,
+      "terrain": 16,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Melres E Medas",
+      "dico": "1304",
+      "lat": 41.053417,
+      "lng": -8.427935,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "União Das Freguesias De Melres E Medas ",
+      "active": true,
+      "sadoId": "20240763025",
+      "sharepointId": 23892386,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1719160091
+      },
+      "updated": {
+        "sec": 1719160091
       }
     }
   ]
