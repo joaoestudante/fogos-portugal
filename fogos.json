@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Lavradas",
@@ -57,7 +57,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719153724
+        "sec": 1719155164
       }
     },
     {
@@ -72,10 +72,10 @@
       "date": "23-06-2024",
       "hour": "15:05",
       "location": "Beja, Castro Verde, Castro Verde E Casével",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 9,
+      "man": 25,
+      "terrain": 10,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
@@ -86,9 +86,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Castro Verde ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719153724
+        "sec": 1719155164
       }
     },
     {
@@ -139,15 +139,15 @@
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
       "dico": "1304",
-      "lat": 41.19289,
-      "lng": -8.54304,
+      "lat": 41.193003,
+      "lng": -8.545662,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Baguim Do Monte (rio Tinto) ",
       "active": true,
@@ -175,7 +175,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719153724
+        "sec": 1719155164
       }
     },
     {
@@ -235,6 +235,124 @@
       },
       "updated": {
         "sec": 1719154164
+      }
+    },
+    {
+      "_id": {
+        "$id": "667839dc0c954560182d4026"
+      },
+      "id": "20240762878",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719153660
+      },
+      "date": "23-06-2024",
+      "hour": "15:41",
+      "location": "Viana Do Castelo, Ponte de Lima, Beiral Do Lima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Beiral Do Lima",
+      "dico": "1607",
+      "lat": 41.742492,
+      "lng": -8.475495,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Porto Bom ",
+      "active": true,
+      "sadoId": "20240762878",
+      "sharepointId": 23892239,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 568.704,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Porto Bom (Armada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1719155164
+      },
+      "updated": {
+        "sec": 1719155208
+      }
+    },
+    {
+      "_id": {
+        "$id": "667839dc0c954560182d4027"
+      },
+      "id": "20240762880",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719153900
+      },
+      "date": "23-06-2024",
+      "hour": "15:45",
+      "location": "Vila Real, Peso da Régua, Poiares E Canelas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Peso Da Régua",
+      "freguesia": "Poiares E Canelas",
+      "dico": "1708",
+      "lat": 41.14845,
+      "lng": -7.739398,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bagauste ",
+      "active": true,
+      "sadoId": "20240762880",
+      "sharepointId": 23892241,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 121.582,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.14844588.-7.73939809) - N313-1. 5050 Peso da Régua. Portugal (Bagaúste)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1719155164
+      },
+      "updated": {
+        "sec": 1719155236
       }
     }
   ]
