@@ -72,10 +72,10 @@
       "date": "23-06-2024",
       "hour": "17:05",
       "location": "Coimbra, Mira, Seixo",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 11,
+      "man": 39,
+      "terrain": 12,
       "district": "Coimbra",
       "concelho": "Mira",
       "freguesia": "Seixo",
@@ -86,9 +86,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Seixo ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1719160091
       },
       "updated": {
-        "sec": 1719163682
+        "sec": 1719166804
       }
     },
     {
@@ -131,10 +131,10 @@
       "date": "23-06-2024",
       "hour": "16:22",
       "location": "Porto, Gondomar, Melres E Medas",
-      "aerial": 5,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 84,
-      "terrain": 24,
+      "man": 83,
+      "terrain": 26,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Melres E Medas",
@@ -145,11 +145,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "União Das Freguesias De Melres E Medas ",
+      "localidade": " Medas ",
       "active": true,
       "sadoId": "20240763025",
       "sharepointId": 23892386,
@@ -175,7 +175,7 @@
         "sec": 1719160091
       },
       "updated": {
-        "sec": 1719163683
+        "sec": 1719166803
       }
     },
     {
@@ -235,6 +235,175 @@
       },
       "updated": {
         "sec": 1719163707
+      }
+    },
+    {
+      "_id": {
+        "$id": "66786753a5ddd8435d365933"
+      },
+      "id": "20240763647",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719165000
+      },
+      "date": "23-06-2024",
+      "hour": "18:50",
+      "location": "Aveiro, Albergaria-a-Velha, Alquerubim",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Albergaria-a-velha",
+      "freguesia": "Alquerubim",
+      "dico": "0102",
+      "lat": 40.642078,
+      "lng": -8.509056,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fial ",
+      "active": true,
+      "sadoId": "20240763647",
+      "sharepointId": 23893008,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 64.9269,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Vale dos Carvalhos (Fial)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1719166803
+      },
+      "updated": {
+        "sec": 1719166827
+      }
+    },
+    {
+      "_id": {
+        "$id": "66786753a5ddd8435d365935"
+      },
+      "id": "20240763534",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719164340
+      },
+      "date": "23-06-2024",
+      "hour": "18:39",
+      "location": "Aveiro, Sever do Vouga, Rocas Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Rocas Do Vouga",
+      "dico": "0117",
+      "lat": 40.75444,
+      "lng": -8.327222,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Rocas Do Vouga ",
+      "active": true,
+      "sadoId": "20240763534",
+      "sharepointId": 23892895,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1719166803
+      },
+      "updated": {
+        "sec": 1719166803
+      }
+    },
+    {
+      "_id": {
+        "$id": "66786754a5ddd8435d36593c"
+      },
+      "id": "20240763608",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719164820
+      },
+      "date": "23-06-2024",
+      "hour": "18:47",
+      "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Baguim Do Monte (rio Tinto)",
+      "dico": "1304",
+      "lat": 41.192197,
+      "lng": -8.535889,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240763608",
+      "sharepointId": 23892969,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1719166804
+      },
+      "updated": {
+        "sec": 1719166804
       }
     }
   ]
