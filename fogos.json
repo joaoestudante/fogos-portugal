@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Ponte da Barca, Lavradas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Lavradas",
@@ -57,7 +57,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719155164
+        "sec": 1719156963
       }
     },
     {
@@ -74,8 +74,8 @@
       "location": "Beja, Castro Verde, Castro Verde E Casével",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 10,
+      "man": 27,
+      "terrain": 12,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
@@ -116,7 +116,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719155164
+        "sec": 1719156963
       }
     },
     {
@@ -190,23 +190,23 @@
       "date": "23-06-2024",
       "hour": "15:22",
       "location": "Viana Do Castelo, Arcos de Valdevez, Miranda",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
+      "man": 5,
       "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Miranda",
       "dico": "1601",
-      "lat": 41.834244,
-      "lng": -8.503934,
+      "lat": 41.819018,
+      "lng": -8.514547,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Miranda ",
       "active": true,
@@ -234,7 +234,7 @@
         "sec": 1719153724
       },
       "updated": {
-        "sec": 1719154164
+        "sec": 1719156963
       }
     },
     {
@@ -263,9 +263,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Porto Bom ",
       "active": true,
@@ -293,7 +293,7 @@
         "sec": 1719155164
       },
       "updated": {
-        "sec": 1719155208
+        "sec": 1719156963
       }
     },
     {
@@ -308,23 +308,23 @@
       "date": "23-06-2024",
       "hour": "15:45",
       "location": "Vila Real, Peso da Régua, Poiares E Canelas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Peso Da Régua",
       "freguesia": "Poiares E Canelas",
       "dico": "1708",
-      "lat": 41.14845,
-      "lng": -7.739398,
+      "lat": 41.15171,
+      "lng": -7.753153,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Bagauste ",
       "active": true,
@@ -352,7 +352,66 @@
         "sec": 1719155164
       },
       "updated": {
-        "sec": 1719155236
+        "sec": 1719156963
+      }
+    },
+    {
+      "_id": {
+        "$id": "667840e30c954560182d404f"
+      },
+      "id": "20240763053",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719156600
+      },
+      "date": "23-06-2024",
+      "hour": "16:30",
+      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
+      "dico": "1401",
+      "lat": 39.47667,
+      "lng": -8.19376,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Abrantes  ",
+      "active": true,
+      "sadoId": "20240763053",
+      "sharepointId": 23892414,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 54.5056,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Doutor José Amaral (Estação Elevatória)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1719156963
+      },
+      "updated": {
+        "sec": 1719157014
       }
     }
   ]
