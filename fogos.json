@@ -74,8 +74,8 @@
       "location": "Porto, Gondomar, Melres E Medas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 11,
+      "man": 28,
+      "terrain": 9,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Melres E Medas",
@@ -116,7 +116,7 @@
         "sec": 1719160091
       },
       "updated": {
-        "sec": 1719174842
+        "sec": 1719175445
       }
     },
     {
@@ -302,14 +302,14 @@
       "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Évora",
       "concelho": "Estremoz",
       "freguesia": "Estremoz (Santa Maria E Santo André)",
       "dico": "0704",
-      "lat": 38.843801,
-      "lng": -7.604398,
+      "lat": 38.84288,
+      "lng": -7.590753,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -340,7 +340,7 @@
         "sec": 1719171965
       },
       "updated": {
-        "sec": 1719174842
+        "sec": 1719175445
       }
     },
     {
@@ -365,8 +365,8 @@
       "dico": "1606",
       "lat": 41.793317,
       "lng": -8.4649,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -399,7 +399,7 @@
         "sec": 1719171965
       },
       "updated": {
-        "sec": 1719173283
+        "sec": 1719175445
       }
     },
     {
@@ -471,8 +471,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Ossela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Ossela",
@@ -483,9 +483,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -513,7 +513,121 @@
         "sec": 1719174842
       },
       "updated": {
-        "sec": 1719174900
+        "sec": 1719175445
+      }
+    },
+    {
+      "_id": {
+        "$id": "6678891569363338154963fe"
+      },
+      "id": "20240764131",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719174540
+      },
+      "date": "23-06-2024",
+      "hour": "21:29",
+      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Fânzeres E São Pedro Da Cova",
+      "dico": "1304",
+      "lat": 41.14069,
+      "lng": -8.5078,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Fânzeres E São Pedro Da Cova ",
+      "active": true,
+      "sadoId": "20240764131",
+      "sharepointId": 23893492,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 82.4019,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Tardariz (Ribeira da Parada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1719175445
+      },
+      "updated": {
+        "sec": 1719175467
+      }
+    },
+    {
+      "_id": {
+        "$id": "667889156936333815496400"
+      },
+      "id": "20240764181",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719175020
+      },
+      "date": "23-06-2024",
+      "hour": "21:37",
+      "location": "Viana Do Castelo, Vila Nova de Cerveira, Campos E Vila Meã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Vila Nova De Cerveira",
+      "freguesia": "Campos E Vila Meã",
+      "dico": "1610",
+      "lat": 41.974713,
+      "lng": -8.696839,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Miragaia ",
+      "active": true,
+      "sadoId": "20240764181",
+      "sharepointId": 23893542,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1719175445
+      },
+      "updated": {
+        "sec": 1719175487
       }
     }
   ]
