@@ -23,8 +23,8 @@
       "dico": "0206",
       "lat": 37.695602,
       "lng": -8.077387,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -57,7 +57,7 @@
         "sec": 1719152305
       },
       "updated": {
-        "sec": 1719160091
+        "sec": 1719167413
       }
     },
     {
@@ -131,9 +131,9 @@
       "date": "23-06-2024",
       "hour": "16:22",
       "location": "Porto, Gondomar, Melres E Medas",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 83,
+      "man": 81,
       "terrain": 26,
       "district": "Porto",
       "concelho": "Gondomar",
@@ -175,51 +175,47 @@
         "sec": 1719160091
       },
       "updated": {
-        "sec": 1719166803
+        "sec": 1719167413
       }
     },
     {
       "_id": {
-        "$id": "66785b2212a5c828566df8b6"
+        "$id": "66785b2312a5c828566df8c2"
       },
-      "id": "20240763448",
+      "id": "20240763477",
       "coords": true,
       "dateTime": {
-        "sec": 1719162960
+        "sec": 1719163560
       },
       "date": "23-06-2024",
-      "hour": "18:16",
-      "location": "Setúbal, Palmela, Quinta Do Anjo",
+      "hour": "18:26",
+      "location": "Castelo Branco, Idanha-a-Nova, Penha Garcia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Setúbal",
-      "concelho": "Palmela",
-      "freguesia": "Quinta Do Anjo",
-      "dico": "1508",
-      "lat": 38.564763,
-      "lng": -8.938536,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 14,
+      "terrain": 4,
+      "district": "Castelo Branco",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "Penha Garcia",
+      "dico": "0505",
+      "lat": 40.062618,
+      "lng": -7.000881,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Quinta Do Anjo ",
+      "localidade": "Vale Feitoso ",
       "active": true,
-      "sadoId": "20240763448",
-      "sharepointId": 23892809,
+      "sadoId": "20240763477",
+      "sharepointId": 23892838,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 117.438,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "R. José Carvalho Braga (Quinta do Anjo)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -228,13 +224,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
       "created": {
-        "sec": 1719163682
+        "sec": 1719163683
       },
       "updated": {
-        "sec": 1719163707
+        "sec": 1719167413
       }
     },
     {
@@ -251,21 +247,21 @@
       "location": "Aveiro, Albergaria-a-Velha, Alquerubim",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Alquerubim",
       "dico": "0102",
-      "lat": 40.642078,
-      "lng": -8.509056,
+      "lat": 40.646068,
+      "lng": -8.681077,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Fial ",
       "active": true,
@@ -293,7 +289,7 @@
         "sec": 1719166803
       },
       "updated": {
-        "sec": 1719166827
+        "sec": 1719167413
       }
     },
     {
@@ -332,8 +328,12 @@
       "sharepointId": 23892895,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 338.581,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M569-1 (Irijo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -348,7 +348,7 @@
         "sec": 1719166803
       },
       "updated": {
-        "sec": 1719166803
+        "sec": 1719166874
       }
     },
     {
@@ -387,8 +387,12 @@
       "sharepointId": 23892969,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 160.542,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Cabadas (Monte Cantiga)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -403,7 +407,7 @@
         "sec": 1719166804
       },
       "updated": {
-        "sec": 1719166804
+        "sec": 1719166905
       }
     }
   ]
