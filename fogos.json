@@ -121,65 +121,6 @@
     },
     {
       "_id": {
-        "$id": "6679bc1a86c3d75aa8070778"
-      },
-      "id": "20240768548",
-      "coords": true,
-      "dateTime": {
-        "sec": 1719250620
-      },
-      "date": "24-06-2024",
-      "hour": "18:37",
-      "location": "Coimbra, Coimbra, São Martinho De Árvore E Lamarosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Coimbra",
-      "concelho": "Coimbra",
-      "freguesia": "São Martinho De Árvore E Lamarosa",
-      "dico": "0603",
-      "lat": 40.258214,
-      "lng": -8.575093,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casais De Vera Cruz ",
-      "active": true,
-      "sadoId": "20240768548",
-      "sharepointId": 23897909,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 67.2706,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua de Santo António (Casais de Vera Cruz)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "created": {
-        "sec": 1719254042
-      },
-      "updated": {
-        "sec": 1719259443
-      }
-    },
-    {
-      "_id": {
         "$id": "6679bc1a86c3d75aa8070780"
       },
       "id": "20240768627",
@@ -263,9 +204,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Sandim, Olival, Lever E Crestuma ",
       "active": true,
@@ -289,7 +230,7 @@
         "sec": 1719255244
       },
       "updated": {
-        "sec": 1719259443
+        "sec": 1719260893
       }
     },
     {
@@ -318,9 +259,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Algodres ",
       "active": true,
@@ -348,7 +289,7 @@
         "sec": 1719256571
       },
       "updated": {
-        "sec": 1719259443
+        "sec": 1719260893
       }
     },
     {
@@ -365,8 +306,8 @@
       "location": "Setúbal, Sines, Sines",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 15,
+      "terrain": 5,
       "district": "Setúbal",
       "concelho": "Sines",
       "freguesia": "Sines",
@@ -377,9 +318,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Sines ",
       "active": true,
@@ -403,7 +344,66 @@
         "sec": 1719259443
       },
       "updated": {
-        "sec": 1719259461
+        "sec": 1719260893
+      }
+    },
+    {
+      "_id": {
+        "$id": "6679d6ddecbfe5002e38451a"
+      },
+      "id": "20240769030",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719259320
+      },
+      "date": "24-06-2024",
+      "hour": "21:02",
+      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 4,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Fânzeres E São Pedro Da Cova",
+      "dico": "1304",
+      "lat": 41.13524,
+      "lng": -8.495994,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Fânzeres E São Pedro Da Cova ",
+      "active": true,
+      "sadoId": "20240769030",
+      "sharepointId": 23898391,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 33.3763,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rio Ferreira (Carvalhal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1719260893
+      },
+      "updated": {
+        "sec": 1719260921
       }
     }
   ]
