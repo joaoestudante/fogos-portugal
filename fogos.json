@@ -21,8 +21,8 @@
       "concelho": "Beja",
       "freguesia": "Beja (salvador E Santa Maria Da Feira)",
       "dico": "0205",
-      "lat": 38.028907,
-      "lng": -7.862872,
+      "lat": 38.029152,
+      "lng": -7.862397,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -53,7 +53,7 @@
         "sec": 1719603962
       },
       "updated": {
-        "sec": 1719606482
+        "sec": 1719607090
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 2,
       "district": "Portalegre",
       "concelho": "Campo Maior",
       "freguesia": "Nossa Senhora Da Expectação",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Nossa Senhora Da Expectação ",
       "active": true,
@@ -112,7 +112,66 @@
         "sec": 1719606603
       },
       "updated": {
-        "sec": 1719606627
+        "sec": 1719607090
+      }
+    },
+    {
+      "_id": {
+        "$id": "667f1f32b74e216eca1c5ace"
+      },
+      "id": "20240787460",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719606600
+      },
+      "date": "28-06-2024",
+      "hour": "21:30",
+      "location": "Aveiro, Santa Maria da Feira, São João De Ver",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São João De Ver",
+      "dico": "0109",
+      "lat": 40.94839,
+      "lng": -8.52231,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São João De Ver ",
+      "active": true,
+      "sadoId": "20240787460",
+      "sharepointId": 23916835,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 285.528,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Olival (Quinta da Portela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1719607090
+      },
+      "updated": {
+        "sec": 1719607122
       }
     }
   ]
