@@ -133,8 +133,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Angeja",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Angeja",
@@ -145,9 +145,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Angeja ",
       "active": true,
@@ -171,7 +171,121 @@
         "sec": 1719951962
       },
       "updated": {
-        "sec": 1719951979
+        "sec": 1719953045
+      }
+    },
+    {
+      "_id": {
+        "$id": "668466957e674c36eb7de5bd"
+      },
+      "id": "20240805329",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719952620
+      },
+      "date": "02-07-2024",
+      "hour": "21:37",
+      "location": "Setúbal, Seixal, Corroios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Corroios",
+      "dico": "1510",
+      "lat": 38.63703,
+      "lng": -9.158613,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Corroios ",
+      "active": true,
+      "sadoId": "20240805329",
+      "sharepointId": 23934704,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.4744,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua João de Deus (Alto do Moinho)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1719953045
+      },
+      "updated": {
+        "sec": 1719953403
+      }
+    },
+    {
+      "_id": {
+        "$id": "668467827e674c36eb7de5cf"
+      },
+      "id": "20240805347",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719953040
+      },
+      "date": "02-07-2024",
+      "hour": "21:44",
+      "location": "Aveiro, Aveiro, Aradas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Aradas",
+      "dico": "0105",
+      "lat": 40.619932,
+      "lng": -8.6472,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Aradas ",
+      "active": true,
+      "sadoId": "20240805347",
+      "sharepointId": 23934722,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1719953282
+      },
+      "updated": {
+        "sec": 1719953299
       }
     }
   ]
