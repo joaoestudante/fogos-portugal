@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Tresouras ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1719893522
       },
       "updated": {
-        "sec": 1719921010
+        "sec": 1719929522
       }
     },
     {
@@ -186,10 +186,10 @@
       "date": "02-07-2024",
       "hour": "14:11",
       "location": "Évora, Portel, São Bartolomeu Do Outeiro E Oriola",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 9,
+      "man": 22,
+      "terrain": 7,
       "district": "Évora",
       "concelho": "Portel",
       "freguesia": "São Bartolomeu Do Outeiro E Oriola",
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "N 384 ",
       "active": true,
@@ -226,7 +226,7 @@
         "sec": 1719926297
       },
       "updated": {
-        "sec": 1719928443
+        "sec": 1719929291
       }
     },
     {
@@ -255,9 +255,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Grandais ",
       "active": true,
@@ -281,7 +281,184 @@
         "sec": 1719928444
       },
       "updated": {
-        "sec": 1719928482
+        "sec": 1719929291
+      }
+    },
+    {
+      "_id": {
+        "$id": "668409cbb90f596282030293"
+      },
+      "id": "20240803666",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719928020
+      },
+      "date": "02-07-2024",
+      "hour": "14:47",
+      "location": "Évora, Portel, Santana",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Évora",
+      "concelho": "Portel",
+      "freguesia": "Santana",
+      "dico": "0709",
+      "lat": 38.262971,
+      "lng": -7.827979,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Vale Carros ",
+      "active": true,
+      "sadoId": "20240803666",
+      "sharepointId": 23933041,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 253.777,
+        "agricola": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Vale carros (Monte de Vale de Carros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1719929291
+      },
+      "updated": {
+        "sec": 1719929522
+      }
+    },
+    {
+      "_id": {
+        "$id": "668409ccb90f596282030294"
+      },
+      "id": "20240803690",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719928440
+      },
+      "date": "02-07-2024",
+      "hour": "14:54",
+      "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Alcácer Do Sal",
+      "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
+      "dico": "1501",
+      "lat": 38.36222,
+      "lng": -8.48174,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Alcácer Do Sal (Santa Maria Do Castelo E Santiago) E Santa Susana ",
+      "active": true,
+      "sadoId": "20240803690",
+      "sharepointId": 23933065,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 5.13688,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Barrosinha. Alcácer do Sal. Portugal (Barrozinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1719929292
+      },
+      "updated": {
+        "sec": 1719929522
+      }
+    },
+    {
+      "_id": {
+        "$id": "66840ab2b90f5962820302b0"
+      },
+      "id": "20240803747",
+      "coords": true,
+      "dateTime": {
+        "sec": 1719929220
+      },
+      "date": "02-07-2024",
+      "hour": "15:07",
+      "location": "Viana Do Castelo, Monção, Mazedo E Cortes",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Monção",
+      "freguesia": "Mazedo E Cortes",
+      "dico": "1604",
+      "lat": 42.059339,
+      "lng": -8.497996,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mazedo ",
+      "active": true,
+      "sadoId": "20240803747",
+      "sharepointId": 23933122,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 54.925,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "MAZEDO (Veiga)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1719929522
+      },
+      "updated": {
+        "sec": 1719929556
       }
     }
   ]
