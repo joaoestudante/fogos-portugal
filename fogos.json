@@ -74,8 +74,8 @@
       "location": "Beja, Beja, São Matias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 14,
+      "man": 33,
+      "terrain": 11,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "São Matias",
@@ -116,7 +116,7 @@
         "sec": 1720009820
       },
       "updated": {
-        "sec": 1720028163
+        "sec": 1720028883
       }
     },
     {
@@ -369,8 +369,8 @@
       "location": "Bragança, Vinhais, Moimenta E Montouto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Moimenta E Montouto",
@@ -411,7 +411,7 @@
         "sec": 1720022431
       },
       "updated": {
-        "sec": 1720025530
+        "sec": 1720028883
       }
     },
     {
@@ -546,8 +546,8 @@
       "location": "Aveiro, Vale de Cambra, São Pedro De Castelões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 8,
+      "man": 32,
+      "terrain": 7,
       "district": "Aveiro",
       "concelho": "Vale De Cambra",
       "freguesia": "São Pedro De Castelões",
@@ -588,7 +588,7 @@
         "sec": 1720025163
       },
       "updated": {
-        "sec": 1720027564
+        "sec": 1720028883
       }
     },
     {
@@ -603,10 +603,10 @@
       "date": "03-07-2024",
       "hour": "18:05",
       "location": "Aveiro, Oliveira do Bairro, Oiã",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Oliveira Do Bairro",
       "freguesia": "Oiã",
@@ -647,7 +647,7 @@
         "sec": 1720026964
       },
       "updated": {
-        "sec": 1720028163
+        "sec": 1720028883
       }
     },
     {
@@ -676,9 +676,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Nespereira ",
       "active": true,
@@ -702,7 +702,7 @@
         "sec": 1720027564
       },
       "updated": {
-        "sec": 1720028163
+        "sec": 1720028884
       }
     },
     {
@@ -790,9 +790,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -820,7 +820,125 @@
         "sec": 1720028163
       },
       "updated": {
-        "sec": 1720028200
+        "sec": 1720028883
+      }
+    },
+    {
+      "_id": {
+        "$id": "66858ed394b0405a192b89ad"
+      },
+      "id": "20240809375",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720027920
+      },
+      "date": "03-07-2024",
+      "hour": "18:32",
+      "location": "Lisboa, Cascais, Cascais E Estoril",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Cascais E Estoril",
+      "dico": "1105",
+      "lat": 38.716847,
+      "lng": -9.450724,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Birre ",
+      "active": true,
+      "sadoId": "20240809375",
+      "sharepointId": 23938750,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 63.4987,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua das Papoilas 315A (Birre)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1720028883
+      },
+      "updated": {
+        "sec": 1720028911
+      }
+    },
+    {
+      "_id": {
+        "$id": "66858ed494b0405a192b89b0"
+      },
+      "id": "20240809399",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720028220
+      },
+      "date": "03-07-2024",
+      "hour": "18:37",
+      "location": "Viseu, São João da Pesqueira, Vale De Figueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "São João Da Pesqueira",
+      "freguesia": "Vale De Figueira",
+      "dico": "1815",
+      "lat": 41.143359,
+      "lng": -7.343415,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ferradosa ",
+      "active": true,
+      "sadoId": "20240809399",
+      "sharepointId": 23938774,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 171.16,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Ferradosa",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1720028884
+      },
+      "updated": {
+        "sec": 1720028959
       }
     }
   ]
