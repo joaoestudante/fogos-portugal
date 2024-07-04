@@ -129,8 +129,8 @@
       "location": "Portalegre, Elvas, São Vicente E Ventosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 10,
+      "man": 27,
+      "terrain": 8,
       "district": "Portalegre",
       "concelho": "Elvas",
       "freguesia": "São Vicente E Ventosa",
@@ -171,7 +171,7 @@
         "sec": 1720103651
       },
       "updated": {
-        "sec": 1720123564
+        "sec": 1720125252
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Portalegre, Nisa, Espírito Santo, Nossa Senhora Da Graça E São Simão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 25,
+      "terrain": 7,
       "district": "Portalegre",
       "concelho": "Nisa",
       "freguesia": "Espírito Santo, Nossa Senhora Da Graça E São Simão",
@@ -230,7 +230,7 @@
         "sec": 1720106653
       },
       "updated": {
-        "sec": 1720117444
+        "sec": 1720124643
       }
     },
     {
@@ -247,8 +247,8 @@
       "location": "Beja, Ferreira do Alentejo, Figueira Dos Cavaleiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Figueira Dos Cavaleiros",
@@ -289,7 +289,7 @@
         "sec": 1720108685
       },
       "updated": {
-        "sec": 1720124057
+        "sec": 1720124642
       }
     },
     {
@@ -318,9 +318,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -348,7 +348,125 @@
         "sec": 1720123332
       },
       "updated": {
-        "sec": 1720124057
+        "sec": 1720124642
+      }
+    },
+    {
+      "_id": {
+        "$id": "668704e3d6e38854dc5e9f5b"
+      },
+      "id": "20240814958",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720123440
+      },
+      "date": "04-07-2024",
+      "hour": "21:04",
+      "location": "Porto, Trofa, Covelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Trofa",
+      "freguesia": "Covelas",
+      "dico": "1318",
+      "lat": 41.301045,
+      "lng": -8.557005,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Covelas ",
+      "active": true,
+      "sadoId": "20240814958",
+      "sharepointId": 23944333,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 97.6006,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "A3 (COVELAS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1720124643
+      },
+      "updated": {
+        "sec": 1720125004
+      }
+    },
+    {
+      "_id": {
+        "$id": "6687064cd6e38854dc5e9f6a"
+      },
+      "id": "20240814991",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720124280
+      },
+      "date": "04-07-2024",
+      "hour": "21:18",
+      "location": "Porto, Gondomar, Rio Tinto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Rio Tinto",
+      "dico": "1304",
+      "lat": 41.179302,
+      "lng": -8.560102,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240814991",
+      "sharepointId": 23944366,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 86.3406,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Cavadas (RIO TINTO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1720125004
+      },
+      "updated": {
+        "sec": 1720125253
       }
     }
   ]
