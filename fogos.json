@@ -188,8 +188,8 @@
       "location": "Portalegre, Arronches, Esperança",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 12,
+      "terrain": 3,
       "district": "Portalegre",
       "concelho": "Arronches",
       "freguesia": "Esperança",
@@ -226,7 +226,7 @@
         "sec": 1720172051
       },
       "updated": {
-        "sec": 1720172651
+        "sec": 1720173454
       }
     },
     {
@@ -300,10 +300,10 @@
       "date": "05-07-2024",
       "hour": "10:42",
       "location": "Beja, Serpa, Serpa (salvador E Santa Maria)",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Serpa (salvador E Santa Maria)",
@@ -314,9 +314,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Serpa ",
       "active": true,
@@ -340,7 +340,66 @@
         "sec": 1720172890
       },
       "updated": {
-        "sec": 1720172890
+        "sec": 1720173454
+      }
+    },
+    {
+      "_id": {
+        "$id": "6687c1cbca99ba5569168348"
+      },
+      "id": "20240817015",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720172700
+      },
+      "date": "05-07-2024",
+      "hour": "10:45",
+      "location": "Coimbra, Tábua, Covas E Vila Nova De Oliveirinha",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Tábua",
+      "freguesia": "Covas E Vila Nova De Oliveirinha",
+      "dico": "0616",
+      "lat": 40.34584,
+      "lng": -7.932481,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Covas E Vila Nova De Oliveirinha ",
+      "active": true,
+      "sadoId": "20240817015",
+      "sharepointId": 23946390,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 365.002,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "COVAS (Cabreira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1720173003
+      },
+      "updated": {
+        "sec": 1720173455
       }
     }
   ]
