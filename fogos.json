@@ -361,8 +361,8 @@
       "location": "Santarém, Rio Maior, Rio Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 13,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Rio Maior",
       "freguesia": "Rio Maior",
@@ -403,7 +403,7 @@
         "sec": 1720180692
       },
       "updated": {
-        "sec": 1720186202
+        "sec": 1720189804
       }
     },
     {
@@ -420,8 +420,8 @@
       "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 8,
+      "man": 15,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
@@ -462,7 +462,7 @@
         "sec": 1720183685
       },
       "updated": {
-        "sec": 1720187044
+        "sec": 1720189805
       }
     },
     {
@@ -581,61 +581,6 @@
     },
     {
       "_id": {
-        "$id": "6687f3fae33f022e1811294e"
-      },
-      "id": "20240818102",
-      "coords": true,
-      "dateTime": {
-        "sec": 1720185240
-      },
-      "date": "05-07-2024",
-      "hour": "14:14",
-      "location": "Porto, Vila Nova de Gaia, Canidelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Canidelo",
-      "dico": "1317",
-      "lat": 41.12752,
-      "lng": -8.65276,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Canidelo ",
-      "active": true,
-      "sadoId": "20240818102",
-      "sharepointId": 23947477,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1720185850
-      },
-      "updated": {
-        "sec": 1720186091
-      }
-    },
-    {
-      "_id": {
         "$id": "6687f3fae33f022e18112951"
       },
       "id": "20240818110",
@@ -656,15 +601,15 @@
       "dico": "0505",
       "lat": 40.075975,
       "lng": -7.163343,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Medelim ",
+      "localidade": "Cabeço Vermelho ",
       "active": true,
       "sadoId": "20240818110",
       "sharepointId": 23947485,
@@ -690,7 +635,125 @@
         "sec": 1720185850
       },
       "updated": {
-        "sec": 1720186810
+        "sec": 1720189805
+      }
+    },
+    {
+      "_id": {
+        "$id": "6688036d2b23e357e3702043"
+      },
+      "id": "20240818474",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720188780
+      },
+      "date": "05-07-2024",
+      "hour": "15:13",
+      "location": "Aveiro, Vale de Cambra, São Pedro De Castelões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "São Pedro De Castelões",
+      "dico": "0119",
+      "lat": 40.815821,
+      "lng": -8.39388,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240818474",
+      "sharepointId": 23947849,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 401.774,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Felgueira (Bouça de Cartim)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1720189805
+      },
+      "updated": {
+        "sec": 1720189841
+      }
+    },
+    {
+      "_id": {
+        "$id": "6688036d2b23e357e3702047"
+      },
+      "id": "20240818451",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720188480
+      },
+      "date": "05-07-2024",
+      "hour": "15:08",
+      "location": "Porto, Santo Tirso, Aves",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Aves",
+      "dico": "1314",
+      "lat": 41.368477,
+      "lng": -8.407527,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240818451",
+      "sharepointId": 23947826,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 116.048,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Largo Conde de São bento (AVES)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1720189805
+      },
+      "updated": {
+        "sec": 1720189882
       }
     }
   ]
