@@ -133,8 +133,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Anais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Anais",
@@ -171,7 +171,7 @@
         "sec": 1720273803
       },
       "updated": {
-        "sec": 1720280052
+        "sec": 1720284604
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Lisboa, Alenquer, Olhalvo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 83,
-      "terrain": 25,
+      "man": 78,
+      "terrain": 24,
       "district": "Lisboa",
       "concelho": "Alenquer",
       "freguesia": "Olhalvo",
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Surraipes ",
       "active": true,
@@ -226,7 +226,7 @@
         "sec": 1720275964
       },
       "updated": {
-        "sec": 1720282323
+        "sec": 1720284605
       }
     },
     {
@@ -361,8 +361,8 @@
       "location": "Beja, Odemira, Vale De Santiago",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 5,
+      "man": 28,
+      "terrain": 6,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "Vale De Santiago",
@@ -373,9 +373,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Vale De Santiago ",
       "active": true,
@@ -403,7 +403,7 @@
         "sec": 1720283643
       },
       "updated": {
-        "sec": 1720284020
+        "sec": 1720284604
       }
     },
     {
@@ -463,6 +463,65 @@
       },
       "updated": {
         "sec": 1720284020
+      }
+    },
+    {
+      "_id": {
+        "$id": "668975bddb43835ae5189e9a"
+      },
+      "id": "20240823737",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720283220
+      },
+      "date": "06-07-2024",
+      "hour": "17:27",
+      "location": "Viana Do Castelo, Viana do Castelo, Chafé",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Chafé",
+      "dico": "1609",
+      "lat": 41.645926,
+      "lng": -8.799022,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Amorosa ",
+      "active": true,
+      "sadoId": "20240823737",
+      "sharepointId": 23953114,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 39.8887,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Amorosa (Goidinhos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1720284605
+      },
+      "updated": {
+        "sec": 1720284645
       }
     }
   ]
