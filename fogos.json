@@ -15,8 +15,8 @@
       "location": "Beja, Moura, Amareleja",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 46,
-      "terrain": 10,
+      "man": 57,
+      "terrain": 16,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Amareleja",
@@ -57,7 +57,7 @@
         "sec": 1720268765
       },
       "updated": {
-        "sec": 1720269362
+        "sec": 1720270450
       }
     },
     {
@@ -71,17 +71,17 @@
       },
       "date": "06-07-2024",
       "hour": "13:09",
-      "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
+      "location": "Porto, Vila Nova de Gaia, Oliveira Do Douro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
-      "freguesia": "Vilar De Andorinho",
+      "freguesia": "Oliveira Do Douro",
       "dico": "1317",
-      "lat": 41.09994,
-      "lng": -8.57418,
+      "lat": 41.108317,
+      "lng": -8.590893,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -116,7 +116,7 @@
         "sec": 1720268765
       },
       "updated": {
-        "sec": 1720268825
+        "sec": 1720270450
       }
     },
     {
@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santa Maria De Lamas ",
       "active": true,
@@ -175,7 +175,7 @@
         "sec": 1720268765
       },
       "updated": {
-        "sec": 1720268990
+        "sec": 1720270450
       }
     },
     {
@@ -251,8 +251,8 @@
       "location": "Lisboa, Torres Vedras, S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
@@ -293,7 +293,121 @@
         "sec": 1720268765
       },
       "updated": {
-        "sec": 1720268975
+        "sec": 1720269603
+      }
+    },
+    {
+      "_id": {
+        "$id": "66893e72ec06d4452f36f403"
+      },
+      "id": "20240822770",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720269420
+      },
+      "date": "06-07-2024",
+      "hour": "13:37",
+      "location": "Beja, Moura, Sobral Da Adiça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 3,
+      "district": "Beja",
+      "concelho": "Moura",
+      "freguesia": "Sobral Da Adiça",
+      "dico": "0210",
+      "lat": 37.982409,
+      "lng": -7.269159,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Val De Grou ",
+      "active": true,
+      "sadoId": "20240822770",
+      "sharepointId": 23952147,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 237.789,
+        "agricola": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Val de Grou",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1720270450
+      },
+      "updated": {
+        "sec": 1720270480
+      }
+    },
+    {
+      "_id": {
+        "$id": "66893e72ec06d4452f36f405"
+      },
+      "id": "20240822774",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720269960
+      },
+      "date": "06-07-2024",
+      "hour": "13:46",
+      "location": "Setúbal, Santiago do Cacém, Santo André",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Santiago Do Cacém",
+      "freguesia": "Santo André",
+      "dico": "1509",
+      "lat": 38.071303,
+      "lng": -8.756451,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Deixa-o-resto ",
+      "active": true,
+      "sadoId": "20240822774",
+      "sharepointId": 23952151,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1720270450
+      },
+      "updated": {
+        "sec": 1720270450
       }
     }
   ]
