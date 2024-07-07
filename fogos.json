@@ -308,10 +308,10 @@
       "date": "07-07-2024",
       "hour": "11:41",
       "location": "Leiria, Nazaré, Famalicão",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Nazaré",
       "freguesia": "Famalicão",
@@ -322,9 +322,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Famalicão ",
       "active": true,
@@ -348,7 +348,66 @@
         "sec": 1720349284
       },
       "updated": {
-        "sec": 1720349306
+        "sec": 1720350725
+      }
+    },
+    {
+      "_id": {
+        "$id": "668a7547b4f29a6ec4718afc"
+      },
+      "id": "20240826802",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720349700
+      },
+      "date": "07-07-2024",
+      "hour": "11:55",
+      "location": "Vila Real, Vila Pouca de Aguiar, Bornes De Aguiar",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Bornes De Aguiar",
+      "dico": "1713",
+      "lat": 41.521959,
+      "lng": -7.571255,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Tinhela De Cima ",
+      "active": true,
+      "sadoId": "20240826802",
+      "sharepointId": 23956179,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 618.617,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Tenhela de Baixo (Almansor)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1720350023
+      },
+      "updated": {
+        "sec": 1720350603
       }
     }
   ]
