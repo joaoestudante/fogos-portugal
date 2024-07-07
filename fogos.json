@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Caranguejeira ",
       "active": true,
@@ -226,7 +226,7 @@
         "sec": 1720361285
       },
       "updated": {
-        "sec": 1720364578
+        "sec": 1720367645
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Faro, Albufeira, Ferreiras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Albufeira",
       "freguesia": "Ferreiras",
@@ -285,7 +285,66 @@
         "sec": 1720364578
       },
       "updated": {
-        "sec": 1720366083
+        "sec": 1720367645
+      }
+    },
+    {
+      "_id": {
+        "$id": "668aba1d4ba6a749cd0b9dec"
+      },
+      "id": "20240827869",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720366740
+      },
+      "date": "07-07-2024",
+      "hour": "16:39",
+      "location": "Aveiro, Aveiro, Eixo E Eirol",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Eixo E Eirol",
+      "dico": "0105",
+      "lat": 40.639067,
+      "lng": -8.594152,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Azurva ",
+      "active": true,
+      "sadoId": "20240827869",
+      "sharepointId": 23957246,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 23.2531,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Vitorino Nemésio (Azurva)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1720367645
+      },
+      "updated": {
+        "sec": 1720367685
       }
     }
   ]
