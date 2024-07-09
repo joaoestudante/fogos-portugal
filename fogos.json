@@ -74,8 +74,8 @@
       "location": "Porto, Baião, Loivos Da Ribeira E Tresouras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 68,
-      "terrain": 21,
+      "man": 56,
+      "terrain": 18,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Loivos Da Ribeira E Tresouras",
@@ -116,7 +116,7 @@
         "sec": 1720432830
       },
       "updated": {
-        "sec": 1720484164
+        "sec": 1720489458
       }
     },
     {
@@ -1014,8 +1014,8 @@
       "location": "Castelo Branco, Castelo Branco, Póvoa De Rio De Moinhos E Cafede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Póvoa De Rio De Moinhos E Cafede",
@@ -1056,7 +1056,7 @@
         "sec": 1720458472
       },
       "updated": {
-        "sec": 1720486989
+        "sec": 1720489804
       }
     },
     {
@@ -2650,8 +2650,8 @@
       "location": "Aveiro, Ílhavo, Gafanha Da Nazaré",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Ílhavo",
       "freguesia": "Gafanha Da Nazaré",
@@ -2662,9 +2662,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Gafanha Da Nazaré ",
       "active": true,
@@ -2688,7 +2688,125 @@
         "sec": 1720486989
       },
       "updated": {
-        "sec": 1720487300
+        "sec": 1720490043
+      }
+    },
+    {
+      "_id": {
+        "$id": "668c91751e1f9b2343308ec2"
+      },
+      "id": "20240833947",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720477680
+      },
+      "date": "08-07-2024",
+      "hour": "23:28",
+      "location": "Braga, Vila Verde, Pico De Regalados -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Pico De Regalados",
+      "dico": "31336",
+      "lat": 41.6906400002374,
+      "lng": -8.43237000041538,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "CE773C",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Latlong(41.69064000.-8.43237000) - Outeiro-pico De Regalados. 4730-390 Vila Verde. Portugal (outeiro)",
+      "active": true,
+      "sadoId": "20240833947",
+      "sharepointId": 20240833947,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 118.931,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.69064000.-8.43237000) - Outeiro-Pico de Regalados. 4730-390 Vila Verde. Portugal (Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1720488309
+      },
+      "updated": {
+        "sec": 1720488324
+      }
+    },
+    {
+      "_id": {
+        "$id": "668c99311e1f9b2343308ece"
+      },
+      "id": "20240834238",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720489680
+      },
+      "date": "09-07-2024",
+      "hour": "02:48",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.628242,
+      "lng": -8.893113,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Arraiados ",
+      "active": true,
+      "sadoId": "20240834238",
+      "sharepointId": 23963615,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.1594,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Aceiro dos Arraiados (Arraiados)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1720490289
+      },
+      "updated": {
+        "sec": 1720491011
       }
     }
   ]
