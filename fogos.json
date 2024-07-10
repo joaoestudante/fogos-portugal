@@ -74,21 +74,21 @@
       "location": "Aveiro, Espinho, Paramos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Espinho",
       "freguesia": "Paramos",
       "dico": "0107",
       "lat": 40.96806,
       "lng": -8.62397,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Paramos ",
       "active": true,
@@ -116,7 +116,66 @@
         "sec": 1720644723
       },
       "updated": {
-        "sec": 1720644753
+        "sec": 1720645234
+      }
+    },
+    {
+      "_id": {
+        "$id": "668ef672df58a802221273cc"
+      },
+      "id": "20240842933",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720644840
+      },
+      "date": "10-07-2024",
+      "hour": "21:54",
+      "location": "Leiria, Alcobaça, Évora De Alcobaça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Évora De Alcobaça",
+      "dico": "1001",
+      "lat": 39.51468,
+      "lng": -9.005593,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Évora De Alcobaça ",
+      "active": true,
+      "sadoId": "20240842933",
+      "sharepointId": 23972311,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 58.3088,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Fonte. 2460-509 Alcobaça. Portugal (SETE LENÇOS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1720645234
+      },
+      "updated": {
+        "sec": 1720645330
       }
     }
   ]
