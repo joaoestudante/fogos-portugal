@@ -15,8 +15,8 @@
       "location": "Faro, Portimão, Portimão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 8,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Portimão",
       "freguesia": "Portimão",
@@ -57,7 +57,7 @@
         "sec": 1720715403
       },
       "updated": {
-        "sec": 1720715891
+        "sec": 1720717338
       }
     },
     {
@@ -74,8 +74,8 @@
       "location": "Guarda, Trancoso, Rio De Mel",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 6,
+      "man": 38,
+      "terrain": 8,
       "district": "Guarda",
       "concelho": "Trancoso",
       "freguesia": "Rio De Mel",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rio De Mel ",
       "active": true,
@@ -112,7 +112,7 @@
         "sec": 1720715523
       },
       "updated": {
-        "sec": 1720715891
+        "sec": 1720717338
       }
     },
     {
@@ -127,23 +127,23 @@
       "date": "11-07-2024",
       "hour": "17:24",
       "location": "Setúbal, Seixal, Seixal, Arrentela E Aldeia De Paio Pires",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 9,
+      "man": 36,
+      "terrain": 10,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Seixal, Arrentela E Aldeia De Paio Pires",
       "dico": "1510",
       "lat": 38.61344,
       "lng": -9.08165,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias Do Seixal, Arrentela E Aldeia De Paio Pires ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1720715652
       },
       "updated": {
-        "sec": 1720715891
+        "sec": 1720716844
       }
     },
     {
@@ -181,17 +181,17 @@
       },
       "date": "11-07-2024",
       "hour": "17:31",
-      "location": "Guarda, Trancoso, Rio De Mel",
-      "aerial": 0,
+      "location": "Guarda, Mêda, Prova E Casteição",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 26,
+      "terrain": 4,
       "district": "Guarda",
-      "concelho": "Trancoso",
-      "freguesia": "Rio De Mel",
-      "dico": "0913",
-      "lat": 40.80436,
-      "lng": -7.42102,
+      "concelho": "Mêda",
+      "freguesia": "Prova E Casteição",
+      "dico": "0909",
+      "lat": 40.91465,
+      "lng": -7.343765,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -200,7 +200,7 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Rio De Mel ",
+      "localidade": "Prova ",
       "active": true,
       "sadoId": "20240846627",
       "sharepointId": 23976005,
@@ -222,7 +222,66 @@
         "sec": 1720715652
       },
       "updated": {
-        "sec": 1720715891
+        "sec": 1720717083
+      }
+    },
+    {
+      "_id": {
+        "$id": "66900fe8596d12587343cdf2"
+      },
+      "id": "20240846731",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720717080
+      },
+      "date": "11-07-2024",
+      "hour": "17:58",
+      "location": "Setúbal, Barreiro, Barreiro E Lavradio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Barreiro",
+      "freguesia": "Barreiro E Lavradio",
+      "dico": "1504",
+      "lat": 38.6752,
+      "lng": -9.04612,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Barreiro E Lavradio ",
+      "active": true,
+      "sadoId": "20240846731",
+      "sharepointId": 23976109,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -19.6094,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estação Arqueológica da Ponta da Passadeira. 2835 Barreiro. Portugal (U.F.A.)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1720717288
+      },
+      "updated": {
+        "sec": 1720717338
       }
     }
   ]
