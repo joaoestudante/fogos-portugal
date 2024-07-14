@@ -74,8 +74,8 @@
       "location": "Lisboa, Amadora, Águas Livres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Amadora",
       "freguesia": "Águas Livres",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Águas Livres ",
       "active": true,
@@ -112,7 +112,62 @@
         "sec": 1720948810
       },
       "updated": {
-        "sec": 1720948830
+        "sec": 1720949178
+      }
+    },
+    {
+      "_id": {
+        "$id": "66939932dc636057b40361be"
+      },
+      "id": "20240858366",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720948680
+      },
+      "date": "14-07-2024",
+      "hour": "10:18",
+      "location": "Bragança, Mirandela, Mirandela",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Bragança",
+      "concelho": "Mirandela",
+      "freguesia": "Mirandela",
+      "dico": "0407",
+      "lat": 41.464643,
+      "lng": -7.201884,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bronceda ",
+      "active": true,
+      "sadoId": "20240858366",
+      "sharepointId": 23987744,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1720949042
+      },
+      "updated": {
+        "sec": 1720949178
       }
     }
   ]
