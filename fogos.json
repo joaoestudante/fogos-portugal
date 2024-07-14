@@ -15,8 +15,8 @@
       "location": "Castelo Branco, Oleiros, Cambas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 6,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Cambas",
@@ -57,62 +57,7 @@
         "sec": 1720894208
       },
       "updated": {
-        "sec": 1720947123
-      }
-    },
-    {
-      "_id": {
-        "$id": "6693984adc636057b40361b8"
-      },
-      "id": "20240858343",
-      "coords": true,
-      "dateTime": {
-        "sec": 1720948560
-      },
-      "date": "14-07-2024",
-      "hour": "10:16",
-      "location": "Lisboa, Amadora, Águas Livres",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Amadora",
-      "freguesia": "Águas Livres",
-      "dico": "1115",
-      "lat": 38.74092,
-      "lng": -9.219783,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Águas Livres ",
-      "active": true,
-      "sadoId": "20240858343",
-      "sharepointId": 23987721,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1720948810
-      },
-      "updated": {
-        "sec": 1720950253
+        "sec": 1720951223
       }
     },
     {
@@ -129,8 +74,8 @@
       "location": "Bragança, Mirandela, Mirandela",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 7,
+      "man": 47,
+      "terrain": 11,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Mirandela",
@@ -141,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Bronceda ",
       "active": true,
@@ -167,7 +112,7 @@
         "sec": 1720949042
       },
       "updated": {
-        "sec": 1720950602
+        "sec": 1720951684
       }
     },
     {
@@ -196,9 +141,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Verride ",
       "active": true,
@@ -222,7 +167,7 @@
         "sec": 1720950490
       },
       "updated": {
-        "sec": 1720950602
+        "sec": 1720951684
       }
     },
     {
@@ -239,8 +184,8 @@
       "location": "Coimbra, Soure, Alfarelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Soure",
       "freguesia": "Alfarelos",
@@ -277,7 +222,66 @@
         "sec": 1720950602
       },
       "updated": {
-        "sec": 1720950621
+        "sec": 1720951684
+      }
+    },
+    {
+      "_id": {
+        "$id": "6693a3844596e1486c23bc52"
+      },
+      "id": "20240858536",
+      "coords": true,
+      "dateTime": {
+        "sec": 1720951260
+      },
+      "date": "14-07-2024",
+      "hour": "11:01",
+      "location": "Coimbra, Oliveira do Hospital, Alvoco Das Várzeas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Oliveira Do Hospital",
+      "freguesia": "Alvoco Das Várzeas",
+      "dico": "0611",
+      "lat": 40.30294,
+      "lng": -7.83216,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alvoco Das Várzeas ",
+      "active": true,
+      "sadoId": "20240858536",
+      "sharepointId": 23987914,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 290.339,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Alvoco das Várzeas",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1720951684
+      },
+      "updated": {
+        "sec": 1720951711
       }
     }
   ]
