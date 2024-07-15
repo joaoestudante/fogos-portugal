@@ -133,8 +133,8 @@
       "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Vilar De Andorinho",
@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vilar De Andorinho ",
       "active": true,
@@ -175,7 +175,7 @@
         "sec": 1721071814
       },
       "updated": {
-        "sec": 1721071855
+        "sec": 1721072411
       }
     },
     {
@@ -192,8 +192,8 @@
       "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Beja (salvador E Santa Maria Da Feira)",
@@ -204,9 +204,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Beja ",
       "active": true,
@@ -230,7 +230,172 @@
         "sec": 1721071929
       },
       "updated": {
-        "sec": 1721071944
+        "sec": 1721072292
+      }
+    },
+    {
+      "_id": {
+        "$id": "66957aa3ec9b09686140eb22"
+      },
+      "id": "20240865112",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721072100
+      },
+      "date": "15-07-2024",
+      "hour": "20:35",
+      "location": "Faro, Faro, Faro (Sé E São Pedro)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Faro (Sé E São Pedro)",
+      "dico": "0805",
+      "lat": 37.02615,
+      "lng": -7.89696,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Faro (Sé E São Pedro) ",
+      "active": true,
+      "sadoId": "20240865112",
+      "sharepointId": 23994490,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1721072291
+      },
+      "updated": {
+        "sec": 1721072651
+      }
+    },
+    {
+      "_id": {
+        "$id": "66957aa4ec9b09686140eb23"
+      },
+      "id": "20240865118",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721071200
+      },
+      "date": "15-07-2024",
+      "hour": "20:20",
+      "location": "Porto, Vila Nova de Gaia, Pedroso E Seixezelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Pedroso E Seixezelo",
+      "dico": "1317",
+      "lat": 41.067659,
+      "lng": -8.55728,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20240865118",
+      "sharepointId": 23994496,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1721072292
+      },
+      "updated": {
+        "sec": 1721072340
+      }
+    },
+    {
+      "_id": {
+        "$id": "66957aa4ec9b09686140eb24"
+      },
+      "id": "20240865120",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721072100
+      },
+      "date": "15-07-2024",
+      "hour": "20:35",
+      "location": "Viana Do Castelo, Vila Nova de Cerveira, Reboreda E Nogueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Vila Nova De Cerveira",
+      "freguesia": "Reboreda E Nogueira",
+      "dico": "1610",
+      "lat": 41.956919,
+      "lng": -8.714498,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Peru ",
+      "active": true,
+      "sadoId": "20240865120",
+      "sharepointId": 23994498,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1721072292
+      },
+      "updated": {
+        "sec": 1721072651
       }
     }
   ]
