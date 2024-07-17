@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lustosa ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1721224451
       },
       "updated": {
-        "sec": 1721225257
+        "sec": 1721228431
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Guarda, Pinhel, Lamegal",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 6,
+      "man": 24,
+      "terrain": 5,
       "district": "Guarda",
       "concelho": "Pinhel",
       "freguesia": "Lamegal",
@@ -222,7 +222,7 @@
         "sec": 1721226011
       },
       "updated": {
-        "sec": 1721227213
+        "sec": 1721228260
       }
     },
     {
@@ -251,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Aveleiras ",
       "active": true,
@@ -277,7 +277,7 @@
         "sec": 1721227330
       },
       "updated": {
-        "sec": 1721227811
+        "sec": 1721228321
       }
     },
     {
@@ -292,10 +292,10 @@
       "date": "17-07-2024",
       "hour": "15:46",
       "location": "Guarda, Celorico da Beira, Açores E Velosa",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 23,
+      "terrain": 4,
       "district": "Guarda",
       "concelho": "Celorico Da Beira",
       "freguesia": "Açores E Velosa",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Açores ",
       "active": true,
@@ -316,8 +316,12 @@
       "sharepointId": 24002293,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 480.543,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "AÇORES (Quinta da Vinha Grande)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -332,7 +336,62 @@
         "sec": 1721227811
       },
       "updated": {
-        "sec": 1721227811
+        "sec": 1721228891
+      }
+    },
+    {
+      "_id": {
+        "$id": "6697de5b61c0072bfa1ddab5"
+      },
+      "id": "20240873008",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721228700
+      },
+      "date": "17-07-2024",
+      "hour": "16:05",
+      "location": "Viseu, Tabuaço, Longa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Tabuaço",
+      "freguesia": "Longa",
+      "dico": "1819",
+      "lat": 41.059239,
+      "lng": -7.589478,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Longa ",
+      "active": true,
+      "sadoId": "20240873008",
+      "sharepointId": 24002388,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1721228891
+      },
+      "updated": {
+        "sec": 1721228906
       }
     }
   ]
