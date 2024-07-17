@@ -15,8 +15,8 @@
       "location": "Beja, Castro Verde, Castro Verde E Casével",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 41,
-      "terrain": 14,
+      "man": 39,
+      "terrain": 13,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
@@ -53,7 +53,7 @@
         "sec": 1721219170
       },
       "updated": {
-        "sec": 1721223612
+        "sec": 1721233691
       }
     },
     {
@@ -184,7 +184,7 @@
       "location": "Viseu, Tabuaço, Paradela E Granjinha",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 61,
+      "man": 57,
       "terrain": 14,
       "district": "Viseu",
       "concelho": "Tabuaço",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Granjinha ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1721228891
       },
       "updated": {
-        "sec": 1721231658
+        "sec": 1721233932
       }
     },
     {
@@ -300,17 +300,17 @@
       "concelho": "Tomar",
       "freguesia": "Além Da Ribeira E Pedreira",
       "dico": "1418",
-      "lat": 39.667946,
-      "lng": -8.40115,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 39.66957,
+      "lng": -8.395332,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Fervença ",
+      "localidade": "Carvalhal ",
       "active": true,
       "sadoId": "20240873214",
       "sharepointId": 24002594,
@@ -332,7 +332,7 @@
         "sec": 1721232132
       },
       "updated": {
-        "sec": 1721232147
+        "sec": 1721233211
       }
     },
     {
@@ -347,9 +347,9 @@
       "date": "17-07-2024",
       "hour": "16:58",
       "location": "Évora, Portel, Portel",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
+      "man": 18,
       "terrain": 5,
       "district": "Évora",
       "concelho": "Portel",
@@ -361,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Portel ",
       "active": true,
@@ -391,7 +391,121 @@
         "sec": 1721232491
       },
       "updated": {
-        "sec": 1721232618
+        "sec": 1721233810
+      }
+    },
+    {
+      "_id": {
+        "$id": "6697ee4dffd8e026ee1cddc1"
+      },
+      "id": "20240873227",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721232060
+      },
+      "date": "17-07-2024",
+      "hour": "17:01",
+      "location": "Aveiro, Ovar, Ovar, São João, Arada E São Vicente De Pereira Jusã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Aveiro",
+      "concelho": "Ovar",
+      "freguesia": "Ovar, São João, Arada E São Vicente De Pereira Jusã",
+      "dico": "0115",
+      "lat": 40.915479,
+      "lng": -8.603194,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Arada ",
+      "active": true,
+      "sadoId": "20240873227",
+      "sharepointId": 24002607,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 51.2912,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada da Costa da Prata (São Martinho)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1721232973
+      },
+      "updated": {
+        "sec": 1721233810
+      }
+    },
+    {
+      "_id": {
+        "$id": "6697f02cffd8e026ee1cddd5"
+      },
+      "id": "20240873294",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721233260
+      },
+      "date": "17-07-2024",
+      "hour": "17:21",
+      "location": "Viseu, Armamar, São Cosmado",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 5,
+      "district": "Viseu",
+      "concelho": "Armamar",
+      "freguesia": "São Cosmado",
+      "dico": "1801",
+      "lat": 41.05121,
+      "lng": -7.656888,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Cosmado ",
+      "active": true,
+      "sadoId": "20240873294",
+      "sharepointId": 24002674,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1721233452
+      },
+      "updated": {
+        "sec": 1721233932
       }
     }
   ]
