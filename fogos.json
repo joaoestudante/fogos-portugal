@@ -70,8 +70,8 @@
       "location": "Leiria, Pombal, Santiago E S. Simão De Litém E Albergaria Dos Doze",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Pombal",
       "freguesia": "Santiago E S. Simão De Litém E Albergaria Dos Doze",
@@ -112,7 +112,7 @@
         "sec": 1721315711
       },
       "updated": {
-        "sec": 1721391738
+        "sec": 1721395936
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Guarda, Mêda, Mêda, Outeiro De Gatos E Fonte Longa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 5,
+      "terrain": 1,
       "district": "Guarda",
       "concelho": "Mêda",
       "freguesia": "Mêda, Outeiro De Gatos E Fonte Longa",
@@ -387,7 +387,7 @@
         "sec": 1721391738
       },
       "updated": {
-        "sec": 1721394301
+        "sec": 1721396054
       }
     },
     {
@@ -402,9 +402,9 @@
       "date": "19-07-2024",
       "hour": "13:25",
       "location": "Santarém, Ferreira do Zêzere, Águas Belas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
+      "man": 25,
       "terrain": 8,
       "district": "Santarém",
       "concelho": "Ferreira Do Zêzere",
@@ -442,7 +442,7 @@
         "sec": 1721392092
       },
       "updated": {
-        "sec": 1721394852
+        "sec": 1721395556
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Porto, Penafiel, Castelões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Castelões",
@@ -501,7 +501,7 @@
         "sec": 1721392331
       },
       "updated": {
-        "sec": 1721394852
+        "sec": 1721395556
       }
     },
     {
@@ -585,9 +585,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Cipriano ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1721393652
       },
       "updated": {
-        "sec": 1721393668
+        "sec": 1721395556
       }
     },
     {
@@ -634,15 +634,15 @@
       "concelho": "Cinfães",
       "freguesia": "Santiago De Piães",
       "dico": "1804",
-      "lat": 41.065916,
-      "lng": -8.154546,
+      "lat": 41.05933,
+      "lng": -8.154015,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santiago De Piães ",
       "active": true,
@@ -670,7 +670,7 @@
         "sec": 1721394852
       },
       "updated": {
-        "sec": 1721394885
+        "sec": 1721396055
       }
     },
     {
@@ -693,15 +693,15 @@
       "concelho": "Cartaxo",
       "freguesia": "Cartaxo E Vale Da Pinta",
       "dico": "1406",
-      "lat": 39.16173,
-      "lng": -8.7805,
+      "lat": 39.161853,
+      "lng": -8.780585,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cartaxo ",
       "active": true,
@@ -709,8 +709,12 @@
       "sharepointId": 24011006,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 22.5562,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Cartaxo (EN3 (EN3) Km 25)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -725,7 +729,62 @@
         "sec": 1721395095
       },
       "updated": {
-        "sec": 1721395095
+        "sec": 1721396055
+      }
+    },
+    {
+      "_id": {
+        "$id": "669a6b5775dfb50c23124d07"
+      },
+      "id": "20240881714",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721395320
+      },
+      "date": "19-07-2024",
+      "hour": "14:22",
+      "location": "Setúbal, Alcochete, Alcochete",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Alcochete",
+      "freguesia": "Alcochete",
+      "dico": "1502",
+      "lat": 38.693778,
+      "lng": -8.90895,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Passil ",
+      "active": true,
+      "sadoId": "20240881714",
+      "sharepointId": 24011094,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1721396055
+      },
+      "updated": {
+        "sec": 1721396055
       }
     }
   ]
