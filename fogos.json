@@ -239,8 +239,8 @@
       "location": "Santarém, Ferreira do Zêzere, Águas Belas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 5,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Ferreira Do Zêzere",
       "freguesia": "Águas Belas",
@@ -277,7 +277,7 @@
         "sec": 1721392092
       },
       "updated": {
-        "sec": 1721397860
+        "sec": 1721399778
       }
     },
     {
@@ -337,61 +337,6 @@
       },
       "updated": {
         "sec": 1721396055
-      }
-    },
-    {
-      "_id": {
-        "$id": "669a6b5775dfb50c23124d07"
-      },
-      "id": "20240881714",
-      "coords": true,
-      "dateTime": {
-        "sec": 1721395320
-      },
-      "date": "19-07-2024",
-      "hour": "14:22",
-      "location": "Setúbal, Alcochete, Alcochete",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
-      "district": "Setúbal",
-      "concelho": "Alcochete",
-      "freguesia": "Alcochete",
-      "dico": "1502",
-      "lat": 38.729613,
-      "lng": -8.919717,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Passil ",
-      "active": true,
-      "sadoId": "20240881714",
-      "sharepointId": 24011094,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1721396055
-      },
-      "updated": {
-        "sec": 1721398574
       }
     },
     {
@@ -475,13 +420,13 @@
       "dico": "1421",
       "lat": 39.80533,
       "lng": -8.48014,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Junqueira ",
       "active": true,
@@ -509,7 +454,66 @@
         "sec": 1721397980
       },
       "updated": {
-        "sec": 1721399179
+        "sec": 1721399531
+      }
+    },
+    {
+      "_id": {
+        "$id": "669a79e27215b31b131301e2"
+      },
+      "id": "20240881930",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721398860
+      },
+      "date": "19-07-2024",
+      "hour": "15:21",
+      "location": "Castelo Branco, Idanha-a-Nova, São Miguel De Acha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 6,
+      "district": "Castelo Branco",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "São Miguel De Acha",
+      "dico": "0505",
+      "lat": 40.015885,
+      "lng": -7.337803,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "São Miguel De Acha ",
+      "active": true,
+      "sadoId": "20240881930",
+      "sharepointId": 24011310,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 331.568,
+        "agricola": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "São Miguel de Acha (Befa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1721399778
+      },
+      "updated": {
+        "sec": 1721399804
       }
     }
   ]
