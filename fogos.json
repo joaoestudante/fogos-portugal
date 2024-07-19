@@ -15,8 +15,8 @@
       "location": "Beja, Serpa, Serpa (salvador E Santa Maria)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 13,
+      "man": 34,
+      "terrain": 14,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Serpa (salvador E Santa Maria)",
@@ -53,7 +53,7 @@
         "sec": 1721312170
       },
       "updated": {
-        "sec": 1721388370
+        "sec": 1721389210
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Castelo Branco, Covilhã, Peso E Vales Do Rio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Peso E Vales Do Rio",
@@ -222,7 +222,7 @@
         "sec": 1721381051
       },
       "updated": {
-        "sec": 1721386461
+        "sec": 1721389210
       }
     },
     {
@@ -347,10 +347,10 @@
       "date": "19-07-2024",
       "hour": "11:29",
       "location": "Braga, Póvoa de Lanhoso, São João De Rei",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "São João De Rei",
@@ -361,9 +361,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -387,7 +387,7 @@
         "sec": 1721385143
       },
       "updated": {
-        "sec": 1721388971
+        "sec": 1721389699
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Aljubarrota ",
       "active": true,
@@ -442,7 +442,66 @@
         "sec": 1721388497
       },
       "updated": {
-        "sec": 1721388971
+        "sec": 1721389332
+      }
+    },
+    {
+      "_id": {
+        "$id": "669a52059ab7036345659baa"
+      },
+      "id": "20240881220",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721388840
+      },
+      "date": "19-07-2024",
+      "hour": "12:34",
+      "location": "Viseu, Tabuaço, Paradela E Granjinha",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Tabuaço",
+      "freguesia": "Paradela E Granjinha",
+      "dico": "1819",
+      "lat": 41.066084,
+      "lng": -7.518038,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Granjinha ",
+      "active": true,
+      "sadoId": "20240881220",
+      "sharepointId": 24010600,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 502.332,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "GRANJINHA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1721389573
+      },
+      "updated": {
+        "sec": 1721389699
       }
     }
   ]
