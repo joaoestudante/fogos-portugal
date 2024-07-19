@@ -412,8 +412,8 @@
       "location": "Santarém, Ferreira do Zêzere, Águas Belas",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 11,
+      "man": 52,
+      "terrain": 12,
       "district": "Santarém",
       "concelho": "Ferreira Do Zêzere",
       "freguesia": "Águas Belas",
@@ -424,9 +424,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vales ",
       "active": true,
@@ -454,7 +454,7 @@
         "sec": 1721401300
       },
       "updated": {
-        "sec": 1721402176
+        "sec": 1721403132
       }
     },
     {
@@ -526,8 +526,8 @@
       "location": "Faro, Loulé, Loulé (São Clemente)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 8,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Loulé (São Clemente)",
@@ -564,7 +564,7 @@
         "sec": 1721401930
       },
       "updated": {
-        "sec": 1721402650
+        "sec": 1721403379
       }
     },
     {
@@ -581,8 +581,8 @@
       "location": "Coimbra, Coimbra, Eiras E São Paulo De Frades",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 16,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "Eiras E São Paulo De Frades",
@@ -593,9 +593,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Coimbra  ",
       "active": true,
@@ -619,7 +619,66 @@
         "sec": 1721402176
       },
       "updated": {
-        "sec": 1721402530
+        "sec": 1721403132
+      }
+    },
+    {
+      "_id": {
+        "$id": "669a86fc4b1cdb28a00d06c8"
+      },
+      "id": "20240882221",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721402760
+      },
+      "date": "19-07-2024",
+      "hour": "16:26",
+      "location": "Braga, Braga, Arentim E Cunha",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Arentim E Cunha",
+      "dico": "0303",
+      "lat": 41.48061,
+      "lng": -8.505779,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Arentim E Cunha ",
+      "active": true,
+      "sadoId": "20240882221",
+      "sharepointId": 24011601,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 118.791,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.48061169.-8.50577881) - Calçada do Souto. 4705 Braga. Portugal (Souto)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1721403132
+      },
+      "updated": {
+        "sec": 1721403379
       }
     }
   ]
