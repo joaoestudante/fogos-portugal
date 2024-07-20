@@ -172,61 +172,6 @@
     },
     {
       "_id": {
-        "$id": "669bc79b40b4cf2908317d0c"
-      },
-      "id": "20240886512",
-      "coords": true,
-      "dateTime": {
-        "sec": 1721484900
-      },
-      "date": "20-07-2024",
-      "hour": "15:15",
-      "location": "Leiria, Alcobaça, Alcobaça E Vestiaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Alcobaça",
-      "freguesia": "Alcobaça E Vestiaria",
-      "dico": "1001",
-      "lat": 39.556735,
-      "lng": -9.002808,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Fragosas ",
-      "active": true,
-      "sadoId": "20240886512",
-      "sharepointId": 24015892,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1721485211
-      },
-      "updated": {
-        "sec": 1721488931
-      }
-    },
-    {
-      "_id": {
         "$id": "669bd80952831c4a72149d30"
       },
       "id": "20240886779",
@@ -239,8 +184,8 @@
       "location": "Guarda, Sabugal, Bismula",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
+      "man": 48,
+      "terrain": 10,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Bismula",
@@ -251,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Bismula ",
       "active": true,
@@ -277,7 +222,7 @@
         "sec": 1721489417
       },
       "updated": {
-        "sec": 1721489530
+        "sec": 1721490250
       }
     },
     {
@@ -306,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Montijo E Afonsoeiro ",
       "active": true,
@@ -336,7 +281,7 @@
         "sec": 1721489417
       },
       "updated": {
-        "sec": 1721489530
+        "sec": 1721490131
       }
     },
     {
@@ -353,8 +298,8 @@
       "location": "Portalegre, Sousel, Sousel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 6,
+      "man": 31,
+      "terrain": 8,
       "district": "Portalegre",
       "concelho": "Sousel",
       "freguesia": "Sousel",
@@ -365,9 +310,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Sousel ",
       "active": true,
@@ -395,7 +340,66 @@
         "sec": 1721489417
       },
       "updated": {
-        "sec": 1721489530
+        "sec": 1721490372
+      }
+    },
+    {
+      "_id": {
+        "$id": "669bda6952831c4a72149d49"
+      },
+      "id": "20240886787",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721489340
+      },
+      "date": "20-07-2024",
+      "hour": "16:29",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.6644,
+      "lng": -9.21337,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20240886787",
+      "sharepointId": 24016167,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 87.5931,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N377-1 Azinhaga do Chanoca (Costas do Cão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1721490025
+      },
+      "updated": {
+        "sec": 1721490371
       }
     }
   ]
