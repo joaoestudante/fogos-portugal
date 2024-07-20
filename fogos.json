@@ -282,61 +282,6 @@
     },
     {
       "_id": {
-        "$id": "669bf8d1526a4246165ebca0"
-      },
-      "id": "20240887289",
-      "coords": true,
-      "dateTime": {
-        "sec": 1721497500
-      },
-      "date": "20-07-2024",
-      "hour": "18:45",
-      "location": "Faro, Loulé, Almancil",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Faro",
-      "concelho": "Loulé",
-      "freguesia": "Almancil",
-      "dico": "0808",
-      "lat": 37.072072,
-      "lng": -8.0028,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Almancil ",
-      "active": true,
-      "sadoId": "20240887289",
-      "sharepointId": 24016669,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1721497809
-      },
-      "updated": {
-        "sec": 1721499010
-      }
-    },
-    {
-      "_id": {
         "$id": "669bfd82cfa93c2a6d5a5893"
       },
       "id": "20240887355",
@@ -349,8 +294,8 @@
       "location": "Faro, Faro, Santa Bárbara De Nexe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 20,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Santa Bárbara De Nexe",
@@ -387,7 +332,7 @@
         "sec": 1721499010
       },
       "updated": {
-        "sec": 1721499969
+        "sec": 1721500571
       }
     },
     {
@@ -461,10 +406,10 @@
       "date": "20-07-2024",
       "hour": "19:23",
       "location": "Lisboa, Azambuja, Vale Do Paraíso",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 2,
+      "man": 44,
+      "terrain": 7,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Vale Do Paraíso",
@@ -501,7 +446,66 @@
         "sec": 1721499969
       },
       "updated": {
-        "sec": 1721500211
+        "sec": 1721500571
+      }
+    },
+    {
+      "_id": {
+        "$id": "669c0493cfa93c2a6d5a58dc"
+      },
+      "id": "20240887317",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721497800
+      },
+      "date": "20-07-2024",
+      "hour": "18:50",
+      "location": "Faro, Loulé, Almansil -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Almansil",
+      "dico": "80801",
+      "lat": 37.0721400001314,
+      "lng": -8.00305700010724,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Latlong(37.07214394.-8.00305747) - M540. 8135-029 Loulé. Portugal (Aviários)",
+      "active": true,
+      "sadoId": "20240887317",
+      "sharepointId": 20240887317,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -0.941875,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.07214394.-8.00305747) - M540. 8135-029 Loulé. Portugal (Aviários)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1721500819
+      },
+      "updated": {
+        "sec": 1721500845
       }
     }
   ]
