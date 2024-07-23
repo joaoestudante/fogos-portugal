@@ -408,8 +408,8 @@
       "location": "Santarém, Mação, Envendos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 125,
-      "terrain": 34,
+      "man": 120,
+      "terrain": 33,
       "district": "Santarém",
       "concelho": "Mação",
       "freguesia": "Envendos",
@@ -450,7 +450,7 @@
         "sec": 1721739971
       },
       "updated": {
-        "sec": 1721750773
+        "sec": 1721756290
       }
     },
     {
@@ -797,65 +797,6 @@
       },
       "updated": {
         "sec": 1721754037
-      }
-    },
-    {
-      "_id": {
-        "$id": "669fc6e477bc2c5cec2cdfc4"
-      },
-      "id": "20240900702",
-      "coords": true,
-      "dateTime": {
-        "sec": 1721746980
-      },
-      "date": "23-07-2024",
-      "hour": "16:03",
-      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
-      "dico": "1401",
-      "lat": 39.502177,
-      "lng": -8.173048,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casais De Revelhos ",
-      "active": true,
-      "sadoId": "20240900702",
-      "sharepointId": 24030082,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 134.756,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Casais de Revelhos (Vale do Inferno)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "created": {
-        "sec": 1721747172
-      },
-      "updated": {
-        "sec": 1721755811
       }
     },
     {
@@ -1434,8 +1375,8 @@
       "location": "Viseu, Penedono, Antas E Ourozinho",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 21,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Penedono",
       "freguesia": "Antas E Ourozinho",
@@ -1456,8 +1397,12 @@
       "sharepointId": 24030678,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 846.233,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "ANTAS",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1472,7 +1417,7 @@
         "sec": 1721755812
       },
       "updated": {
-        "sec": 1721755834
+        "sec": 1721756289
       }
     },
     {
@@ -1489,8 +1434,8 @@
       "location": "Beja, Castro Verde, Castro Verde E Casével",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 34,
+      "terrain": 7,
       "district": "Beja",
       "concelho": "Castro Verde",
       "freguesia": "Castro Verde E Casével",
@@ -1501,18 +1446,22 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "União Das Freguesias De Castro Verde E Casével ",
+      "localidade": "Ip2 Km 392 ",
       "active": true,
       "sadoId": "20240901261",
       "sharepointId": 24030641,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 182.788,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.68741575.-8.11123569) - E802. 7780 Castro Verde. Portugal (IP2 (EN123) Km 391)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1527,7 +1476,121 @@
         "sec": 1721755812
       },
       "updated": {
-        "sec": 1721755812
+        "sec": 1721756290
+      }
+    },
+    {
+      "_id": {
+        "$id": "669fea829a58ab721f0395b7"
+      },
+      "id": "20240901258",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721755020
+      },
+      "date": "23-07-2024",
+      "hour": "18:17",
+      "location": "Lisboa, Lisboa, Ajuda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Ajuda",
+      "dico": "1106",
+      "lat": 38.71894,
+      "lng": -9.205314,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ajuda ",
+      "active": true,
+      "sadoId": "20240901258",
+      "sharepointId": 24030638,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1721756290
+      },
+      "updated": {
+        "sec": 1721756308
+      }
+    },
+    {
+      "_id": {
+        "$id": "669fea829a58ab721f0395b8"
+      },
+      "id": "20240901274",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721755200
+      },
+      "date": "23-07-2024",
+      "hour": "18:20",
+      "location": "Setúbal, Palmela, Palmela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Palmela",
+      "dico": "1508",
+      "lat": 38.5665,
+      "lng": -8.83843,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Palmela ",
+      "active": true,
+      "sadoId": "20240901274",
+      "sharepointId": 24030654,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 13.8919,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Viúvos 5502. 2950-057 Palmela. Portugal (Quinta Loba)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1721756290
+      },
+      "updated": {
+        "sec": 1721756340
       }
     }
   ]
