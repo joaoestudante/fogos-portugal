@@ -184,8 +184,8 @@
       "location": "Vila Real, Sabrosa, São Lourenço De Ribapinhão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 15,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Lourenço De Ribapinhão",
@@ -222,7 +222,7 @@
         "sec": 1721738290
       },
       "updated": {
-        "sec": 1721820730
+        "sec": 1721821938
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Viseu, Moimenta da Beira, Pêra Velha, Aldeia De Nacomba E Ariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 11,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Moimenta Da Beira",
       "freguesia": "Pêra Velha, Aldeia De Nacomba E Ariz",
@@ -619,7 +619,7 @@
         "sec": 1721817370
       },
       "updated": {
-        "sec": 1721821091
+        "sec": 1721821938
       }
     },
     {
@@ -691,8 +691,8 @@
       "location": "Vila Real, Murça, Jou",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 7,
+      "man": 33,
+      "terrain": 8,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Jou",
@@ -703,9 +703,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Jou ",
       "active": true,
@@ -729,7 +729,7 @@
         "sec": 1721819892
       },
       "updated": {
-        "sec": 1721821691
+        "sec": 1721822861
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Bragança, Bragança, Espinhosela",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Bragança",
       "concelho": "Bragança",
       "freguesia": "Espinhosela",
@@ -758,9 +758,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Terroso ",
       "active": true,
@@ -784,7 +784,62 @@
         "sec": 1721820499
       },
       "updated": {
-        "sec": 1721821331
+        "sec": 1721822860
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a0ee8d60edc2551d796124"
+      },
+      "id": "20240904693",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721822220
+      },
+      "date": "24-07-2024",
+      "hour": "12:57",
+      "location": "Beja, Serpa, Pias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Beja",
+      "concelho": "Serpa",
+      "freguesia": "Pias",
+      "dico": "0213",
+      "lat": 38.11526,
+      "lng": -7.6163,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pias ",
+      "active": true,
+      "sadoId": "20240904693",
+      "sharepointId": 24034073,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1721822861
+      },
+      "updated": {
+        "sec": 1721822861
       }
     }
   ]
