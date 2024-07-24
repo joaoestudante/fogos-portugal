@@ -636,8 +636,8 @@
       "location": "Viseu, Cinfães, Tendais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Tendais",
@@ -678,7 +678,7 @@
         "sec": 1721770690
       },
       "updated": {
-        "sec": 1721787132
+        "sec": 1721789411
       }
     },
     {
@@ -707,9 +707,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Póvoa (Póvoa De São Miguel) ",
       "active": true,
@@ -733,7 +733,7 @@
         "sec": 1721787491
       },
       "updated": {
-        "sec": 1721787970
+        "sec": 1721789892
       }
     },
     {
@@ -762,9 +762,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -788,7 +788,121 @@
         "sec": 1721787730
       },
       "updated": {
-        "sec": 1721788930
+        "sec": 1721789411
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a06c5a0ad5c53e04160638"
+      },
+      "id": "20240902768",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721789160
+      },
+      "date": "24-07-2024",
+      "hour": "03:46",
+      "location": "Beja, Ferreira do Alentejo, Ferreira Do Alentejo E Canhestros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Ferreira Do Alentejo",
+      "freguesia": "Ferreira Do Alentejo E Canhestros",
+      "dico": "0208",
+      "lat": 38.06836,
+      "lng": -8.3152,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Ferreira Do Alentejo E Canhestros ",
+      "active": true,
+      "sadoId": "20240902768",
+      "sharepointId": 24032148,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1721789530
+      },
+      "updated": {
+        "sec": 1721789543
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a06dc40ad5c53e0416063e"
+      },
+      "id": "20240902775",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721789580
+      },
+      "date": "24-07-2024",
+      "hour": "03:53",
+      "location": "Viseu, Resende, Felgueiras E Feirão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Resende",
+      "freguesia": "Felgueiras E Feirão",
+      "dico": "1813",
+      "lat": 41.06395,
+      "lng": -7.935641,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Felgueiras ",
+      "active": true,
+      "sadoId": "20240902775",
+      "sharepointId": 24032155,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 927.244,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Lugar de Pimeirol (FELGUEIRAS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1721789892
+      },
+      "updated": {
+        "sec": 1721789917
       }
     }
   ]
