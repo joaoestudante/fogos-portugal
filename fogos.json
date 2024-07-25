@@ -180,8 +180,8 @@
       "location": "Castelo Branco, Castelo Branco, Almaceda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 96,
-      "terrain": 30,
+      "man": 90,
+      "terrain": 28,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Almaceda",
@@ -218,7 +218,7 @@
         "sec": 1721832492
       },
       "updated": {
-        "sec": 1721938102
+        "sec": 1721940376
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 85,
-      "terrain": 29,
+      "man": 84,
+      "terrain": 28,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
@@ -387,7 +387,7 @@
         "sec": 1721918652
       },
       "updated": {
-        "sec": 1721934731
+        "sec": 1721940376
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 8,
+      "man": 29,
+      "terrain": 9,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Foz Do Sousa E Covelo",
@@ -471,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Foz Do Sousa ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1721923573
       },
       "updated": {
-        "sec": 1721939412
+        "sec": 1721940376
       }
     },
     {
@@ -687,8 +687,8 @@
       "location": "Faro, Castro Marim, Odeleite",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Castro Marim",
       "freguesia": "Odeleite",
@@ -729,7 +729,7 @@
         "sec": 1721933171
       },
       "updated": {
-        "sec": 1721939771
+        "sec": 1721940376
       }
     },
     {
@@ -844,61 +844,6 @@
     },
     {
       "_id": {
-        "$id": "66a2ab09b1183c38ca607cd2"
-      },
-      "id": "20240911687",
-      "coords": true,
-      "dateTime": {
-        "sec": 1721935920
-      },
-      "date": "25-07-2024",
-      "hour": "20:32",
-      "location": "Porto, Maia, Cidade Da Maia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Maia",
-      "freguesia": "Cidade Da Maia",
-      "dico": "1306",
-      "lat": 41.228007,
-      "lng": -8.606342,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cidade Da Maia ",
-      "active": true,
-      "sadoId": "20240911687",
-      "sharepointId": 24041067,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1721936649
-      },
-      "updated": {
-        "sec": 1721939771
-      }
-    },
-    {
-      "_id": {
         "$id": "66a2b46c0702a073bd42c4b9"
       },
       "id": "20240911843",
@@ -950,6 +895,124 @@
       },
       "updated": {
         "sec": 1721939302
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a2b9980702a073bd42c4ee"
+      },
+      "id": "20240911907",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721939640
+      },
+      "date": "25-07-2024",
+      "hour": "21:34",
+      "location": "Setúbal, Seixal, Amora",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Amora",
+      "dico": "1510",
+      "lat": 38.634371,
+      "lng": -9.139143,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Quinta Da Princesa ",
+      "active": true,
+      "sadoId": "20240911907",
+      "sharepointId": 24041287,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 9.49312,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Qta. da Princesa - traseiras das oficionas metro (Santa Marta de Corroios)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1721940376
+      },
+      "updated": {
+        "sec": 1721940403
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a2b9980702a073bd42c4ef"
+      },
+      "id": "20240911911",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721940000
+      },
+      "date": "25-07-2024",
+      "hour": "21:40",
+      "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
+      "dico": "1416",
+      "lat": 39.231938,
+      "lng": -8.678591,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santarém ",
+      "active": true,
+      "sadoId": "20240911911",
+      "sharepointId": 24041291,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 78.2206,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua António Bastos (Estrada de Alfange)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1721940376
+      },
+      "updated": {
+        "sec": 1721940425
       }
     }
   ]
