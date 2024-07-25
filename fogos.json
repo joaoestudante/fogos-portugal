@@ -526,8 +526,8 @@
       "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 11,
+      "man": 29,
+      "terrain": 10,
       "district": "Évora",
       "concelho": "Estremoz",
       "freguesia": "Estremoz (Santa Maria E Santo André)",
@@ -568,7 +568,7 @@
         "sec": 1721910851
       },
       "updated": {
-        "sec": 1721915171
+        "sec": 1721918050
       }
     },
     {
@@ -585,8 +585,8 @@
       "location": "Guarda, Celorico da Beira, Açores E Velosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 64,
-      "terrain": 20,
+      "man": 57,
+      "terrain": 17,
       "district": "Guarda",
       "concelho": "Celorico Da Beira",
       "freguesia": "Açores E Velosa",
@@ -597,9 +597,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Aldeia Rica ",
       "active": true,
@@ -623,7 +623,7 @@
         "sec": 1721911691
       },
       "updated": {
-        "sec": 1721917569
+        "sec": 1721918050
       }
     },
     {
@@ -640,8 +640,8 @@
       "location": "Aveiro, Ovar, Esmoriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Ovar",
       "freguesia": "Esmoriz",
@@ -682,7 +682,7 @@
         "sec": 1721915170
       },
       "updated": {
-        "sec": 1721917090
+        "sec": 1721918050
       }
     },
     {
@@ -756,10 +756,10 @@
       "date": "25-07-2024",
       "hour": "15:02",
       "location": "Santarém, Benavente, Samora Correia",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 9,
+      "man": 32,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Benavente",
       "freguesia": "Samora Correia",
@@ -770,9 +770,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Samora Correia ",
       "active": true,
@@ -800,7 +800,7 @@
         "sec": 1721916731
       },
       "updated": {
-        "sec": 1721917569
+        "sec": 1721918173
       }
     },
     {
@@ -817,8 +817,8 @@
       "location": "Setúbal, Palmela, Palmela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 42,
-      "terrain": 11,
+      "man": 67,
+      "terrain": 18,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Palmela",
@@ -829,9 +829,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Palmela ",
       "active": true,
@@ -855,7 +855,66 @@
         "sec": 1721916731
       },
       "updated": {
-        "sec": 1721917569
+        "sec": 1721918173
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a262dd46dbef4f69331be6"
+      },
+      "id": "20240910465",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721918040
+      },
+      "date": "25-07-2024",
+      "hour": "15:34",
+      "location": "Porto, Lousada, Vilar Do Torno E Alentém",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Vilar Do Torno E Alentém",
+      "dico": "1305",
+      "lat": 41.2792,
+      "lng": -8.20876,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vilar Do Torno E Alentém ",
+      "active": true,
+      "sadoId": "20240910465",
+      "sharepointId": 24039845,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 309.449,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Gibreiros. 4620 Lousada. Portugal (Pinheiros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1721918173
+      },
+      "updated": {
+        "sec": 1721918197
       }
     }
   ]
