@@ -290,8 +290,8 @@
       "location": "Leiria, Porto de Mós, Juncal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 6,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "Juncal",
@@ -302,9 +302,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Juncal ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1721989332
       },
       "updated": {
-        "sec": 1721992937
+        "sec": 1721993535
       }
     },
     {
@@ -361,9 +361,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Reguengos De Monsaraz ",
       "active": true,
@@ -387,7 +387,7 @@
         "sec": 1721990650
       },
       "updated": {
-        "sec": 1721992700
+        "sec": 1721993536
       }
     },
     {
@@ -557,6 +557,120 @@
       },
       "updated": {
         "sec": 1721993054
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a3894097a4ac3cb51313e0"
+      },
+      "id": "20240914367",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721992800
+      },
+      "date": "26-07-2024",
+      "hour": "12:20",
+      "location": "Leiria, Alcobaça, Évora De Alcobaça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Évora De Alcobaça",
+      "dico": "1001",
+      "lat": 39.525441,
+      "lng": -8.996057,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mendalvo ",
+      "active": true,
+      "sadoId": "20240914367",
+      "sharepointId": 24043747,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 57.5594,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Mendes Alves (Mendalvo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1721993536
+      },
+      "updated": {
+        "sec": 1721993563
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a3894097a4ac3cb51313e1"
+      },
+      "id": "20240914357",
+      "coords": true,
+      "dateTime": {
+        "sec": 1721993280
+      },
+      "date": "26-07-2024",
+      "hour": "12:28",
+      "location": "Castelo Branco, Castelo Branco, Sarzedas",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 0,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Sarzedas",
+      "dico": "0502",
+      "lat": 39.9013,
+      "lng": -7.729347,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sarzedas ",
+      "active": true,
+      "sadoId": "20240914357",
+      "sharepointId": 24043737,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1721993536
+      },
+      "updated": {
+        "sec": 1721993579
       }
     }
   ]
