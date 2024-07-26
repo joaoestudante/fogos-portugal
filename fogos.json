@@ -333,42 +333,46 @@
     },
     {
       "_id": {
-        "$id": "66a3a28df0b14a41263a1457"
+        "$id": "66a39bfa8f248f430f3f693e"
       },
-      "id": "20240914819",
+      "id": "20240914661",
       "coords": true,
       "dateTime": {
-        "sec": 1721999760
+        "sec": 1721997840
       },
       "date": "26-07-2024",
-      "hour": "14:16",
-      "location": "Porto, Lousada, Lustosa E Barrosas (Santo Estêvão)",
-      "aerial": 0,
+      "hour": "13:44",
+      "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
-      "district": "Porto",
-      "concelho": "Lousada",
-      "freguesia": "Lustosa E Barrosas (Santo Estêvão)",
-      "dico": "1305",
-      "lat": 41.31827,
-      "lng": -8.31681,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 63,
+      "terrain": 18,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
+      "dico": "0105",
+      "lat": 40.568888,
+      "lng": -8.557412,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 7,
       "statusColor": "6ABF59",
       "status": "Em Resolução",
       "important": false,
-      "localidade": "União Das Freguesias De Lustosa E Barrosas (Santo Estêvão) ",
+      "localidade": "Carregal ",
       "active": true,
-      "sadoId": "20240914819",
-      "sharepointId": 24044199,
+      "sadoId": "20240914661",
+      "sharepointId": 24044041,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 24.9538,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Carregal",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -377,13 +381,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
       "created": {
-        "sec": 1722000013
+        "sec": 1721998330
       },
       "updated": {
-        "sec": 1722002769
+        "sec": 1722003977
       }
     },
     {
@@ -412,9 +416,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Mortágua, Vale De Remígio, Cortegaça E Almaça ",
       "active": true,
@@ -442,7 +446,7 @@
         "sec": 1722001572
       },
       "updated": {
-        "sec": 1722002769
+        "sec": 1722003139
       }
     },
     {
@@ -457,10 +461,10 @@
       "date": "26-07-2024",
       "hour": "14:58",
       "location": "Vila Real, Chaves, Vilarelho Da Raia",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 3,
+      "man": 45,
+      "terrain": 7,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Vilarelho Da Raia",
@@ -497,7 +501,66 @@
         "sec": 1722002534
       },
       "updated": {
-        "sec": 1722002769
+        "sec": 1722003977
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a3aec307ac74284f62e0e4"
+      },
+      "id": "20240915107",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722002820
+      },
+      "date": "26-07-2024",
+      "hour": "15:07",
+      "location": "Santarém, Almeirim, Fazendas De Almeirim",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 76,
+      "terrain": 17,
+      "district": "Santarém",
+      "concelho": "Almeirim",
+      "freguesia": "Fazendas De Almeirim",
+      "dico": "1403",
+      "lat": 39.155909,
+      "lng": -8.549586,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Paço Dos Negros ",
+      "active": true,
+      "sadoId": "20240915107",
+      "sharepointId": 24044487,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 96.0275,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Paço dos negros",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1722003139
+      },
+      "updated": {
+        "sec": 1722003977
       }
     }
   ]
