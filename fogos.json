@@ -188,8 +188,8 @@
       "location": "Guarda, Aguiar da Beira, Souto De Aguiar Da Beira E Valverde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Aguiar Da Beira",
       "freguesia": "Souto De Aguiar Da Beira E Valverde",
@@ -230,7 +230,7 @@
         "sec": 1722085090
       },
       "updated": {
-        "sec": 1722086422
+        "sec": 1722086890
       }
     },
     {
@@ -302,8 +302,8 @@
       "location": "Viseu, São João da Pesqueira, Valongo Dos Azeites",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 9,
+      "man": 45,
+      "terrain": 10,
       "district": "Viseu",
       "concelho": "São João Da Pesqueira",
       "freguesia": "Valongo Dos Azeites",
@@ -314,9 +314,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Valongo Dos Azeites ",
       "active": true,
@@ -344,7 +344,7 @@
         "sec": 1722085943
       },
       "updated": {
-        "sec": 1722086422
+        "sec": 1722086890
       }
     },
     {
@@ -361,8 +361,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Cardielos E Serreleis",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Cardielos E Serreleis",
@@ -403,7 +403,66 @@
         "sec": 1722085943
       },
       "updated": {
-        "sec": 1722086422
+        "sec": 1722086533
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a4f5ea2cd95e60e9135111"
+      },
+      "id": "20240919630",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722086400
+      },
+      "date": "27-07-2024",
+      "hour": "14:20",
+      "location": "Santarém, Benavente, Samora Correia",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Benavente",
+      "freguesia": "Samora Correia",
+      "dico": "1405",
+      "lat": 38.85733,
+      "lng": -8.77737,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Samora Correia ",
+      "active": true,
+      "sadoId": "20240919630",
+      "sharepointId": 24049010,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 27.3263,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Samora Correia (EN10 (EN10) Km 98)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1722086890
+      },
+      "updated": {
+        "sec": 1722086914
       }
     }
   ]
