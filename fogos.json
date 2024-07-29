@@ -223,61 +223,6 @@
     },
     {
       "_id": {
-        "$id": "66a755e28ac2042e293e3366"
-      },
-      "id": "20240927433",
-      "coords": true,
-      "dateTime": {
-        "sec": 1722241920
-      },
-      "date": "29-07-2024",
-      "hour": "09:32",
-      "location": "Évora, Montemor-o-Novo, Santiago Do Escoural",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Évora",
-      "concelho": "Montemor-o-novo",
-      "freguesia": "Santiago Do Escoural",
-      "dico": "0706",
-      "lat": 38.480154,
-      "lng": -8.095267,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Monte Da Lutra ",
-      "active": true,
-      "sadoId": "20240927433",
-      "sharepointId": 24056816,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "created": {
-        "sec": 1722242530
-      },
-      "updated": {
-        "sec": 1722245770
-      }
-    },
-    {
-      "_id": {
         "$id": "66a756d38ac2042e293e336f"
       },
       "id": "20240927479",
@@ -345,8 +290,8 @@
       "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 19,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
@@ -357,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Baguim Do Monte (rio Tinto) ",
       "active": true,
@@ -383,7 +328,125 @@
         "sec": 1722244812
       },
       "updated": {
-        "sec": 1722245174
+        "sec": 1722246493
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a763f4d7ea0a24cb048a72"
+      },
+      "id": "20240927784",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722245340
+      },
+      "date": "29-07-2024",
+      "hour": "10:29",
+      "location": "Aveiro, Vagos, Gafanha Da Boa Hora",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Vagos",
+      "freguesia": "Gafanha Da Boa Hora",
+      "dico": "0118",
+      "lat": 40.55567,
+      "lng": -8.767669,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Gafanha Da Boa Hora ",
+      "active": true,
+      "sadoId": "20240927784",
+      "sharepointId": 24057167,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0.655625,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.55566967.-8.76766900) - M592. 3840-261 Vagos. Portugal (Praia da Vagueira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1722246132
+      },
+      "updated": {
+        "sec": 1722246159
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a763f4d7ea0a24cb048a74"
+      },
+      "id": "20240927824",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722245760
+      },
+      "date": "29-07-2024",
+      "hour": "10:36",
+      "location": "Viseu, Armamar, Armamar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Armamar",
+      "freguesia": "Armamar",
+      "dico": "1801",
+      "lat": 41.10283,
+      "lng": -7.674827,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Reiga ",
+      "active": true,
+      "sadoId": "20240927824",
+      "sharepointId": 24057207,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 586.676,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Reiga",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1722246132
+      },
+      "updated": {
+        "sec": 1722246493
       }
     }
   ]
