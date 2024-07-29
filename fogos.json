@@ -239,8 +239,8 @@
       "location": "Santarém, Chamusca, Parreira E Chouto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 13,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Parreira E Chouto",
@@ -277,7 +277,7 @@
         "sec": 1722259452
       },
       "updated": {
-        "sec": 1722263411
+        "sec": 1722264731
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Portalegre, Ponte de Sor, Ponte De Sor, Tramaga E Vale De Açor",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Portalegre",
       "concelho": "Ponte De Sor",
       "freguesia": "Ponte De Sor, Tramaga E Vale De Açor",
@@ -391,7 +391,7 @@
         "sec": 1722261502
       },
       "updated": {
-        "sec": 1722261972
+        "sec": 1722264731
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Carvalho De Rei ",
       "active": true,
@@ -450,7 +450,7 @@
         "sec": 1722262573
       },
       "updated": {
-        "sec": 1722263410
+        "sec": 1722264612
       }
     },
     {
@@ -483,7 +483,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Assunção ",
+      "localidade": "Mn 515 - Alto Do Cordão ",
       "active": true,
       "sadoId": "20240929296",
       "sharepointId": 24058679,
@@ -505,7 +505,7 @@
         "sec": 1722262811
       },
       "updated": {
-        "sec": 1722264013
+        "sec": 1722264491
       }
     },
     {
@@ -644,9 +644,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rans ",
       "active": true,
@@ -670,7 +670,7 @@
         "sec": 1722263899
       },
       "updated": {
-        "sec": 1722263914
+        "sec": 1722264971
       }
     },
     {
@@ -685,10 +685,10 @@
       "date": "29-07-2024",
       "hour": "15:43",
       "location": "Santarém, Ourém, Nossa Senhora Das Misericórdias",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 27,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Nossa Senhora Das Misericórdias",
@@ -699,9 +699,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Sobral ",
       "active": true,
@@ -725,7 +725,121 @@
         "sec": 1722264252
       },
       "updated": {
-        "sec": 1722264267
+        "sec": 1722264731
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a7ababa2395827b9141d7d"
+      },
+      "id": "20240929452",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722264060
+      },
+      "date": "29-07-2024",
+      "hour": "15:41",
+      "location": "Lisboa, Lisboa, Carnide",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Carnide",
+      "dico": "1106",
+      "lat": 38.768082,
+      "lng": -9.196248,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pontinha ",
+      "active": true,
+      "sadoId": "20240929452",
+      "sharepointId": 24058835,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 86.3925,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bairro Olival Pancas (Rua Professor Tiago Oliveira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1722264491
+      },
+      "updated": {
+        "sec": 1722264851
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a7ac9ba2395827b9141d91"
+      },
+      "id": "20240929468",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722264420
+      },
+      "date": "29-07-2024",
+      "hour": "15:47",
+      "location": "Lisboa, Oeiras, Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "dico": "1110",
+      "lat": 38.70475,
+      "lng": -9.28342,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Oeiras E São Julião Da Barra, Paço De Arcos E Caxias ",
+      "active": true,
+      "sadoId": "20240929468",
+      "sharepointId": 24058851,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1722264731
+      },
+      "updated": {
+        "sec": 1722264746
       }
     }
   ]
