@@ -129,8 +129,8 @@
       "location": "Aveiro, Anadia, Moita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 10,
+      "man": 27,
+      "terrain": 9,
       "district": "Aveiro",
       "concelho": "Anadia",
       "freguesia": "Moita",
@@ -167,7 +167,7 @@
         "sec": 1722341052
       },
       "updated": {
-        "sec": 1722344432
+        "sec": 1722349695
       }
     },
     {
@@ -336,7 +336,7 @@
         "sec": 1722342981
       },
       "updated": {
-        "sec": 1722348971
+        "sec": 1722349694
       }
     },
     {
@@ -560,7 +560,7 @@
         "sec": 1722345731
       },
       "updated": {
-        "sec": 1722348859
+        "sec": 1722349694
       }
     },
     {
@@ -577,21 +577,21 @@
       "location": "Viseu, Viseu, São Cipriano E Vil De Souto",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 39,
+      "man": 36,
       "terrain": 9,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "São Cipriano E Vil De Souto",
       "dico": "1823",
-      "lat": 40.664217,
-      "lng": -7.98885,
+      "lat": 40.637168,
+      "lng": -7.953168,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Vil De Souto ",
       "active": true,
@@ -615,62 +615,7 @@
         "sec": 1722345731
       },
       "updated": {
-        "sec": 1722348031
-      }
-    },
-    {
-      "_id": {
-        "$id": "66a8ef920268c815b70370f3"
-      },
-      "id": "20240934112",
-      "coords": true,
-      "dateTime": {
-        "sec": 1722346800
-      },
-      "date": "30-07-2024",
-      "hour": "14:40",
-      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Fânzeres E São Pedro Da Cova",
-      "dico": "1304",
-      "lat": 41.152442,
-      "lng": -8.514788,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "União Das Freguesias De Fânzeres E São Pedro Da Cova ",
-      "active": true,
-      "sadoId": "20240934112",
-      "sharepointId": 24063495,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1722347410
-      },
-      "updated": {
-        "sec": 1722348860
+        "sec": 1722349694
       }
     },
     {
@@ -699,9 +644,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Águas Santas ",
       "active": true,
@@ -729,7 +674,62 @@
         "sec": 1722348370
       },
       "updated": {
-        "sec": 1722348860
+        "sec": 1722349333
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a8f87e82728f1c3057fbd9"
+      },
+      "id": "20240934318",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722349080
+      },
+      "date": "30-07-2024",
+      "hour": "15:18",
+      "location": "Porto, Amarante, Figueiró (Santiago E Santa Cristina)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Figueiró (Santiago E Santa Cristina)",
+      "dico": "1301",
+      "lat": 41.302727,
+      "lng": -8.160598,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Figueiró ",
+      "active": true,
+      "sadoId": "20240934318",
+      "sharepointId": 24063701,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1722349694
+      },
+      "updated": {
+        "sec": 1722349694
       }
     }
   ]
