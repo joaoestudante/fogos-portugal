@@ -74,8 +74,8 @@
       "location": "Porto, Maia, Cidade Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 2,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Cidade Da Maia",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -116,7 +116,62 @@
         "sec": 1722403810
       },
       "updated": {
-        "sec": 1722403854
+        "sec": 1722404654
+      }
+    },
+    {
+      "_id": {
+        "$id": "66a9d01a88aa4c5c7a27ed9c"
+      },
+      "id": "20240936686",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722404700
+      },
+      "date": "31-07-2024",
+      "hour": "06:45",
+      "location": "Santarém, Benavente, Samora Correia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Benavente",
+      "freguesia": "Samora Correia",
+      "dico": "1405",
+      "lat": 38.921796,
+      "lng": -8.890675,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Porto Alto ",
+      "active": true,
+      "sadoId": "20240936686",
+      "sharepointId": 24066069,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1722404890
+      },
+      "updated": {
+        "sec": 1722405013
       }
     }
   ]
