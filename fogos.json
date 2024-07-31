@@ -82,9 +82,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Espinheira ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1722441732
       },
       "updated": {
-        "sec": 1722462734
+        "sec": 1722463930
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Viseu, Penedono, Penedono E Granja",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 45,
-      "terrain": 14,
+      "man": 14,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Penedono",
       "freguesia": "Penedono E Granja",
@@ -167,7 +167,7 @@
         "sec": 1722442572
       },
       "updated": {
-        "sec": 1722461540
+        "sec": 1722463930
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Évora, Viana do Alentejo, Viana Do Alentejo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 45,
-      "terrain": 13,
+      "man": 32,
+      "terrain": 9,
       "district": "Évora",
       "concelho": "Viana Do Alentejo",
       "freguesia": "Viana Do Alentejo",
@@ -226,7 +226,7 @@
         "sec": 1722445575
       },
       "updated": {
-        "sec": 1722456730
+        "sec": 1722463092
       }
     },
     {
@@ -298,8 +298,8 @@
       "location": "Braga, Barcelos, Carvalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Barcelos",
       "freguesia": "Carvalhal",
@@ -336,7 +336,7 @@
         "sec": 1722460331
       },
       "updated": {
-        "sec": 1722462490
+        "sec": 1722463930
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Castelo Branco, Castelo Branco, São Vicente Da Beira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 11,
+      "man": 47,
+      "terrain": 13,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "São Vicente Da Beira",
@@ -365,9 +365,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Casal Da Serra ",
       "active": true,
@@ -391,7 +391,66 @@
         "sec": 1722461540
       },
       "updated": {
-        "sec": 1722462610
+        "sec": 1722463930
+      }
+    },
+    {
+      "_id": {
+        "$id": "66aab40423394241e635498e"
+      },
+      "id": "20240940857",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722462840
+      },
+      "date": "31-07-2024",
+      "hour": "22:54",
+      "location": "Coimbra, Pampilhosa da Serra, Fajão-vidual",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Pampilhosa Da Serra",
+      "freguesia": "Fajão-vidual",
+      "dico": "0612",
+      "lat": 40.14556,
+      "lng": -7.927778,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fajão-vidual ",
+      "active": true,
+      "sadoId": "20240940857",
+      "sharepointId": 24070240,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 739.662,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Fajão-Vidual (FAJÃO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1722463236
+      },
+      "updated": {
+        "sec": 1722463930
       }
     }
   ]
