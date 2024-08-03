@@ -58,61 +58,6 @@
     },
     {
       "_id": {
-        "$id": "66ae04d228266e3969267deb"
-      },
-      "id": "20240951542",
-      "coords": true,
-      "dateTime": {
-        "sec": 1722680280
-      },
-      "date": "03-08-2024",
-      "hour": "11:18",
-      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Portalegre",
-      "concelho": "Campo Maior",
-      "freguesia": "Nossa Senhora Da Expectação",
-      "dico": "1204",
-      "lat": 38.969003,
-      "lng": -7.0711,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Godinha (sic Caia) ",
-      "active": true,
-      "sadoId": "20240951542",
-      "sharepointId": 24080928,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "created": {
-        "sec": 1722680530
-      },
-      "updated": {
-        "sec": 1722684970
-      }
-    },
-    {
-      "_id": {
         "$id": "66ae07aa28266e3969267dfa"
       },
       "id": "20240951584",
@@ -351,10 +296,10 @@
       "date": "03-08-2024",
       "hour": "12:12",
       "location": "Castelo Branco, Oleiros, Mosteiro",
-      "aerial": 6,
+      "aerial": 8,
       "meios_aquaticos": 0,
-      "man": 47,
-      "terrain": 10,
+      "man": 66,
+      "terrain": 14,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Mosteiro",
@@ -391,7 +336,7 @@
         "sec": 1722683771
       },
       "updated": {
-        "sec": 1722684970
+        "sec": 1722685571
       }
     },
     {
@@ -465,10 +410,10 @@
       "date": "03-08-2024",
       "hour": "12:18",
       "location": "Castelo Branco, Oleiros, Oleiros-amieira",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 12,
+      "terrain": 5,
       "district": "Castelo Branco",
       "concelho": "Oleiros",
       "freguesia": "Oleiros-amieira",
@@ -479,9 +424,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Melrico ",
       "active": true,
@@ -505,7 +450,7 @@
         "sec": 1722684250
       },
       "updated": {
-        "sec": 1722684611
+        "sec": 1722685571
       }
     },
     {
@@ -575,10 +520,10 @@
       "date": "03-08-2024",
       "hour": "12:26",
       "location": "Lisboa, Lourinhã, Reguengo Grande",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 28,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Lourinhã",
       "freguesia": "Reguengo Grande",
@@ -615,7 +560,62 @@
         "sec": 1722684611
       },
       "updated": {
-        "sec": 1722684970
+        "sec": 1722685571
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ae171aa6e5dc28397f25d9"
+      },
+      "id": "20240951864",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722685080
+      },
+      "date": "03-08-2024",
+      "hour": "12:38",
+      "location": "Viana Do Castelo, Ponte de Lima, Correlhã",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Correlhã",
+      "dico": "1607",
+      "lat": 41.757337,
+      "lng": -8.606897,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Senhora Das Neves ",
+      "active": true,
+      "sadoId": "20240951864",
+      "sharepointId": 24081250,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1722685210
+      },
+      "updated": {
+        "sec": 1722685571
       }
     }
   ]
