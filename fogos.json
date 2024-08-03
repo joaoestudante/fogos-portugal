@@ -235,8 +235,8 @@
       "location": "Porto, Vila Nova de Gaia, Grijó E Sermonde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 3,
+      "man": 18,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Grijó E Sermonde",
@@ -273,7 +273,7 @@
         "sec": 1722688811
       },
       "updated": {
-        "sec": 1722691091
+        "sec": 1722692050
       }
     },
     {
@@ -406,8 +406,8 @@
       "concelho": "Caminha",
       "freguesia": "Vilar De Mouros",
       "dico": "1602",
-      "lat": 41.883503,
-      "lng": -8.768065,
+      "lat": 41.877842,
+      "lng": -8.760978,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -438,7 +438,7 @@
         "sec": 1722689900
       },
       "updated": {
-        "sec": 1722691331
+        "sec": 1722691690
       }
     },
     {
@@ -453,10 +453,10 @@
       "date": "03-08-2024",
       "hour": "14:20",
       "location": "Leiria, Caldas da Rainha, Santa Catarina",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 26,
+      "terrain": 7,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Santa Catarina",
@@ -467,9 +467,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Santa Catarina ",
       "active": true,
@@ -493,7 +493,125 @@
         "sec": 1722691451
       },
       "updated": {
-        "sec": 1722691466
+        "sec": 1722692051
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ae30e416dbb65066124d67"
+      },
+      "id": "20240952297",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722691260
+      },
+      "date": "03-08-2024",
+      "hour": "14:21",
+      "location": "Aveiro, Santa Maria da Feira, São Miguel Do Souto E Mosteirô",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São Miguel Do Souto E Mosteirô",
+      "dico": "0109",
+      "lat": 40.90053,
+      "lng": -8.54771,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União De Freguesias De São Miguel De Souto E Mosteirô ",
+      "active": true,
+      "sadoId": "20240952297",
+      "sharepointId": 24081683,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 116.313,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Centro Hípico da Feira Cavalos & Companhia. Rua Principal. 4520-707 Santa Maria da Feira. Portugal (São Gião)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1722691812
+      },
+      "updated": {
+        "sec": 1722691933
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ae31d216dbb65066124d79"
+      },
+      "id": "20240952252",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722690540
+      },
+      "date": "03-08-2024",
+      "hour": "14:09",
+      "location": "Porto, Vila Nova de Gaia, Serzedo E Perosinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Serzedo E Perosinho",
+      "dico": "1317",
+      "lat": 41.05389,
+      "lng": -8.576389,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Serzedo E Perosinho ",
+      "active": true,
+      "sadoId": "20240952252",
+      "sharepointId": 24081638,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 124.275,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.05388889.-8.57638889) - Travessa das Oliveiras. 4415-080 Vila Nova de Gaia. Portugal (Rua de Guimarães)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1722692050
+      },
+      "updated": {
+        "sec": 1722692269
       }
     }
   ]
