@@ -404,7 +404,7 @@
       "location": "Setúbal, Palmela, Quinta Do Anjo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
+      "man": 15,
       "terrain": 4,
       "district": "Setúbal",
       "concelho": "Palmela",
@@ -446,7 +446,7 @@
         "sec": 1722802572
       },
       "updated": {
-        "sec": 1722804251
+        "sec": 1722806170
       }
     },
     {
@@ -463,21 +463,21 @@
       "location": "Lisboa, Cadaval, Lamas E Cercal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 14,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Cadaval",
       "freguesia": "Lamas E Cercal",
       "dico": "1104",
       "lat": 39.206027,
       "lng": -9.069694,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rameleira ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1722804610
       },
       "updated": {
-        "sec": 1722804851
+        "sec": 1722806170
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Aveiro, Oliveira do Bairro, Oiã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 18,
+      "terrain": 5,
       "district": "Aveiro",
       "concelho": "Oliveira Do Bairro",
       "freguesia": "Oiã",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Oiã ",
       "active": true,
@@ -556,7 +556,121 @@
         "sec": 1722804970
       },
       "updated": {
-        "sec": 1722804984
+        "sec": 1722806052
+      }
+    },
+    {
+      "_id": {
+        "$id": "66afeeab5285bc1d3d63150d"
+      },
+      "id": "20240958424",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722805620
+      },
+      "date": "04-08-2024",
+      "hour": "22:07",
+      "location": "Lisboa, Arruda Dos Vinhos, Arranhó",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Arruda Dos Vinhos",
+      "freguesia": "Arranhó",
+      "dico": "1102",
+      "lat": 38.98192,
+      "lng": -9.17066,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Arranhó ",
+      "active": true,
+      "sadoId": "20240958424",
+      "sharepointId": 24087810,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1722805931
+      },
+      "updated": {
+        "sec": 1722806052
+      }
+    },
+    {
+      "_id": {
+        "$id": "66afef9a5285bc1d3d631522"
+      },
+      "id": "20240958443",
+      "coords": true,
+      "dateTime": {
+        "sec": 1722805380
+      },
+      "date": "04-08-2024",
+      "hour": "22:03",
+      "location": "Porto, Baião, Gestaçô",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Gestaçô",
+      "dico": "1302",
+      "lat": 41.170207,
+      "lng": -7.938899,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gestaço ",
+      "active": true,
+      "sadoId": "20240958443",
+      "sharepointId": 24087829,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 630.212,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "LG Furacasas (Casa Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1722806170
+      },
+      "updated": {
+        "sec": 1722806192
       }
     }
   ]
