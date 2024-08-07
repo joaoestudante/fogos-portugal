@@ -353,8 +353,8 @@
       "location": "Porto, Felgueiras, Torrados E Sousa",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 5,
+      "man": 42,
+      "terrain": 8,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Torrados E Sousa",
@@ -391,7 +391,7 @@
         "sec": 1723035491
       },
       "updated": {
-        "sec": 1723037412
+        "sec": 1723038012
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Aveiro, Ovar, Ovar, São João, Arada E São Vicente De Pereira Jusã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 16,
+      "terrain": 5,
       "district": "Aveiro",
       "concelho": "Ovar",
       "freguesia": "Ovar, São João, Arada E São Vicente De Pereira Jusã",
@@ -446,7 +446,7 @@
         "sec": 1723037050
       },
       "updated": {
-        "sec": 1723037411
+        "sec": 1723037651
       }
     },
     {
@@ -471,13 +471,13 @@
       "dico": "1107",
       "lat": 38.816416,
       "lng": -9.129038,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Apelação ",
       "active": true,
@@ -501,7 +501,121 @@
         "sec": 1723037291
       },
       "updated": {
-        "sec": 1723037411
+        "sec": 1723038012
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b3775c53e376714759907b"
+      },
+      "id": "20240970799",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723037220
+      },
+      "date": "07-08-2024",
+      "hour": "14:27",
+      "location": "Faro, Vila Real de Santo António, Vila Nova De Cacela",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 6,
+      "district": "Faro",
+      "concelho": "Vila Real De Santo António",
+      "freguesia": "Vila Nova De Cacela",
+      "dico": "0816",
+      "lat": 37.1675,
+      "lng": -7.51203,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Nova De Cacela ",
+      "active": true,
+      "sadoId": "20240970799",
+      "sharepointId": 24100185,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1723037532
+      },
+      "updated": {
+        "sec": 1723038012
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b3793c53e3767147599089"
+      },
+      "id": "20240970829",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723037040
+      },
+      "date": "07-08-2024",
+      "hour": "14:24",
+      "location": "Porto, Vila Nova de Gaia, Mafamude E Vilar Do Paraíso",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Mafamude E Vilar Do Paraíso",
+      "dico": "1317",
+      "lat": 41.126193,
+      "lng": -8.601126,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Mafamude ",
+      "active": true,
+      "sadoId": "20240970829",
+      "sharepointId": 24100215,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 108.519,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Horto do Roseiral (Praceta de São Cristovão de Mafamude)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1723038012
+      },
+      "updated": {
+        "sec": 1723038048
       }
     }
   ]
