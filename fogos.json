@@ -369,9 +369,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Ovar ",
       "active": true,
@@ -399,7 +399,7 @@
         "sec": 1723041019
       },
       "updated": {
-        "sec": 1723057572
+        "sec": 1723059254
       }
     },
     {
@@ -475,8 +475,8 @@
       "location": "Braga, Vizela, Santa Eulália",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vizela",
       "freguesia": "Santa Eulália",
@@ -517,7 +517,7 @@
         "sec": 1723053972
       },
       "updated": {
-        "sec": 1723056499
+        "sec": 1723059254
       }
     },
     {
@@ -577,61 +577,6 @@
     },
     {
       "_id": {
-        "$id": "66b3bb54d120b77a410fc5f5"
-      },
-      "id": "20240971977",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723054380
-      },
-      "date": "07-08-2024",
-      "hour": "19:13",
-      "location": "Aveiro, Oliveira de Azeméis, Pinheiro Da Bemposta, Travanca E Palmaz",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 9,
-      "district": "Aveiro",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "Pinheiro Da Bemposta, Travanca E Palmaz",
-      "dico": "0113",
-      "lat": 40.785953,
-      "lng": -8.50534,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "União Das Freguesias De Pinheiro Da Bemposta, Travanca E Palmaz ",
-      "active": true,
-      "sadoId": "20240971977",
-      "sharepointId": 24101363,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1723054932
-      },
-      "updated": {
-        "sec": 1723058300
-      }
-    },
-    {
-      "_id": {
         "$id": "66b3bbcbd120b77a410fc605"
       },
       "id": "20240971988",
@@ -642,9 +587,9 @@
       "date": "07-08-2024",
       "hour": "19:17",
       "location": "Castelo Branco, Castelo Branco, Cebolais De Cima E Retaxo",
-      "aerial": 7,
+      "aerial": 5,
       "meios_aquaticos": 0,
-      "man": 106,
+      "man": 94,
       "terrain": 29,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
@@ -682,7 +627,7 @@
         "sec": 1723055051
       },
       "updated": {
-        "sec": 1723058539
+        "sec": 1723059131
       }
     },
     {
@@ -754,8 +699,8 @@
       "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Lobão, Gião, Louredo E Guisande",
@@ -766,9 +711,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Lobão, Gião, Louredo E Guisande ",
       "active": true,
@@ -792,7 +737,66 @@
         "sec": 1723058652
       },
       "updated": {
-        "sec": 1723058652
+        "sec": 1723059131
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b3cbbb6c88e736d843ec5c"
+      },
+      "id": "20240972240",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723058580
+      },
+      "date": "07-08-2024",
+      "hour": "20:23",
+      "location": "Porto, Penafiel, Castelões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Castelões",
+      "dico": "1311",
+      "lat": 41.23351,
+      "lng": -8.198935,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Castelões ",
+      "active": true,
+      "sadoId": "20240972240",
+      "sharepointId": 24101626,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 229.229,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Castelões (Telhado)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723059131
+      },
+      "updated": {
+        "sec": 1723059254
       }
     }
   ]
