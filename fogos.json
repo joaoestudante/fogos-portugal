@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Cernadelo E Lousada (São Miguel E Santa Margarida) ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1723264091
       },
       "updated": {
-        "sec": 1723266492
+        "sec": 1723267090
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casal Da Mira ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1723264930
       },
       "updated": {
-        "sec": 1723266730
+        "sec": 1723267457
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Porto, Amarante, Bustelo, Carneiro E Carvalho De Rei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Bustelo, Carneiro E Carvalho De Rei",
@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Bustelo, Carneiro E Carvalho De Rei ",
       "active": true,
@@ -218,7 +218,62 @@
         "sec": 1723266858
       },
       "updated": {
-        "sec": 1723266872
+        "sec": 1723267810
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b6f901f10dd12c443652da"
+      },
+      "id": "20240983129",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723266540
+      },
+      "date": "10-08-2024",
+      "hour": "06:09",
+      "location": "Aveiro, Sever do Vouga, Sever Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Sever Do Vouga",
+      "dico": "0117",
+      "lat": 40.728947,
+      "lng": -8.343826,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ermida ",
+      "active": true,
+      "sadoId": "20240983129",
+      "sharepointId": 24112515,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1723267329
+      },
+      "updated": {
+        "sec": 1723267810
       }
     }
   ]
