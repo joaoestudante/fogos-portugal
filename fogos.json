@@ -123,10 +123,10 @@
       "date": "10-08-2024",
       "hour": "18:10",
       "location": "Bragança, Vimioso, Caçarelhos E Angueira",
-      "aerial": 0,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 75,
-      "terrain": 31,
+      "man": 102,
+      "terrain": 35,
       "district": "Bragança",
       "concelho": "Vimioso",
       "freguesia": "Caçarelhos E Angueira",
@@ -163,7 +163,7 @@
         "sec": 1723309930
       },
       "updated": {
-        "sec": 1723380256
+        "sec": 1723381098
       }
     },
     {
@@ -218,7 +218,7 @@
         "sec": 1723313061
       },
       "updated": {
-        "sec": 1723380131
+        "sec": 1723381098
       }
     },
     {
@@ -515,14 +515,14 @@
       },
       "date": "11-08-2024",
       "hour": "13:02",
-      "location": "Portalegre, Gavião, Margem",
+      "location": "Portalegre, Gavião, Comenda",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 96,
-      "terrain": 22,
+      "man": 102,
+      "terrain": 25,
       "district": "Portalegre",
       "concelho": "Gavião",
-      "freguesia": "Margem",
+      "freguesia": "Comenda",
       "dico": "1209",
       "lat": 39.362003,
       "lng": -7.953657,
@@ -534,7 +534,7 @@
       "statusColor": "6ABF59",
       "status": "Em Resolução",
       "important": false,
-      "localidade": "São Bartolomeu ",
+      "localidade": "Monte Novo ",
       "active": true,
       "sadoId": "20240989445",
       "sharepointId": 24118831,
@@ -560,7 +560,7 @@
         "sec": 1723378091
       },
       "updated": {
-        "sec": 1723380131
+        "sec": 1723381230
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 10,
+      "man": 42,
+      "terrain": 11,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -589,9 +589,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Abrunhosa ",
       "active": true,
@@ -615,7 +615,117 @@
         "sec": 1723379049
       },
       "updated": {
-        "sec": 1723380256
+        "sec": 1723381098
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b8afc31d9dc2310d2b1fd8"
+      },
+      "id": "20240989422",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723377540
+      },
+      "date": "11-08-2024",
+      "hour": "12:59",
+      "location": "Porto, Lousada, Silvares, Pias, Nogueira E Alvarenga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Silvares, Pias, Nogueira E Alvarenga",
+      "dico": "1305",
+      "lat": 41.280202,
+      "lng": -8.258238,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Aveleda ",
+      "active": true,
+      "sadoId": "20240989422",
+      "sharepointId": 24118808,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723379651
+      },
+      "updated": {
+        "sec": 1723381230
+      }
+    },
+    {
+      "_id": {
+        "$id": "66b8b2931d9dc2310d2b1ff6"
+      },
+      "id": "20240989604",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723380240
+      },
+      "date": "11-08-2024",
+      "hour": "13:44",
+      "location": "Guarda, Guarda, Meios",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 35,
+      "terrain": 7,
+      "district": "Guarda",
+      "concelho": "Guarda",
+      "freguesia": "Meios",
+      "dico": "0907",
+      "lat": 40.493318,
+      "lng": -7.358152,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Meios ",
+      "active": true,
+      "sadoId": "20240989604",
+      "sharepointId": 24118990,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1723380371
+      },
+      "updated": {
+        "sec": 1723381098
       }
     }
   ]
