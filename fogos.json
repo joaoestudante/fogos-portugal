@@ -125,8 +125,8 @@
       "location": "Bragança, Vimioso, Caçarelhos E Angueira",
       "aerial": 7,
       "meios_aquaticos": 0,
-      "man": 197,
-      "terrain": 64,
+      "man": 198,
+      "terrain": 65,
       "district": "Bragança",
       "concelho": "Vimioso",
       "freguesia": "Caçarelhos E Angueira",
@@ -163,7 +163,7 @@
         "sec": 1723309930
       },
       "updated": {
-        "sec": 1723394793
+        "sec": 1723397051
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 9,
+      "man": 16,
+      "terrain": 8,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -332,7 +332,7 @@
         "sec": 1723379049
       },
       "updated": {
-        "sec": 1723391291
+        "sec": 1723397050
       }
     },
     {
@@ -471,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Dadim ",
       "active": true,
@@ -497,7 +497,7 @@
         "sec": 1723384571
       },
       "updated": {
-        "sec": 1723396089
+        "sec": 1723397050
       }
     },
     {
@@ -840,61 +840,6 @@
     },
     {
       "_id": {
-        "$id": "66b8e6a2fea588138455a719"
-      },
-      "id": "20240990496",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723393200
-      },
-      "date": "11-08-2024",
-      "hour": "17:20",
-      "location": "Porto, Póvoa de Varzim, Estela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Póvoa De Varzim",
-      "freguesia": "Estela",
-      "dico": "1313",
-      "lat": 41.463663,
-      "lng": -8.770177,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Apúlia ",
-      "active": true,
-      "sadoId": "20240990496",
-      "sharepointId": 24119882,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1723393698
-      },
-      "updated": {
-        "sec": 1723395904
-      }
-    },
-    {
-      "_id": {
         "$id": "66b8e9ebfea588138455a742"
       },
       "id": "20240990548",
@@ -915,13 +860,13 @@
       "dico": "1313",
       "lat": 41.463567,
       "lng": -8.769943,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Estela ",
       "active": true,
@@ -949,7 +894,7 @@
         "sec": 1723394539
       },
       "updated": {
-        "sec": 1723396691
+        "sec": 1723397050
       }
     },
     {
@@ -1009,6 +954,61 @@
     },
     {
       "_id": {
+        "$id": "66b8ed2bfea588138455a77b"
+      },
+      "id": "20240990596",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723395180
+      },
+      "date": "11-08-2024",
+      "hour": "17:53",
+      "location": "Lisboa, Torres Vedras, Silveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Silveira",
+      "dico": "1113",
+      "lat": 39.118317,
+      "lng": -9.376631,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Silveira ",
+      "active": true,
+      "sadoId": "20240990596",
+      "sharepointId": 24119982,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1723395371
+      },
+      "updated": {
+        "sec": 1723397178
+      }
+    },
+    {
+      "_id": {
         "$id": "66b8ee7660a93658773e6532"
       },
       "id": "20240990598",
@@ -1021,8 +1021,8 @@
       "location": "Porto, Trofa, Coronado (São Romão E São Mamede)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Coronado (São Romão E São Mamede)",
@@ -1063,7 +1063,7 @@
         "sec": 1723395702
       },
       "updated": {
-        "sec": 1723396691
+        "sec": 1723397177
       }
     },
     {
@@ -1092,9 +1092,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Monte De Faro ",
       "active": true,
@@ -1118,7 +1118,7 @@
         "sec": 1723396457
       },
       "updated": {
-        "sec": 1723396473
+        "sec": 1723397051
       }
     }
   ]
