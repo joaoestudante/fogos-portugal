@@ -404,8 +404,8 @@
       "location": "Vila Real, Chaves, Santo Estêvão",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 6,
+      "man": 28,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Santo Estêvão",
@@ -446,7 +446,7 @@
         "sec": 1723535720
       },
       "updated": {
-        "sec": 1723536850
+        "sec": 1723538050
       }
     },
     {
@@ -469,15 +469,15 @@
       "concelho": "Murça",
       "freguesia": "Murça",
       "dico": "1707",
-      "lat": 41.407036,
-      "lng": -7.463415,
+      "lat": 41.395598,
+      "lng": -7.48042,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Murça ",
       "active": true,
@@ -505,7 +505,7 @@
         "sec": 1723536973
       },
       "updated": {
-        "sec": 1723537448
+        "sec": 1723538530
       }
     },
     {
@@ -534,9 +534,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Silveira ",
       "active": true,
@@ -560,7 +560,62 @@
         "sec": 1723537332
       },
       "updated": {
-        "sec": 1723537933
+        "sec": 1723538417
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bb1c623e4cdd27022b5c4b"
+      },
+      "id": "20240997749",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723538280
+      },
+      "date": "13-08-2024",
+      "hour": "09:38",
+      "location": "Aveiro, Santa Maria da Feira, Sanguedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Sanguedo",
+      "dico": "0109",
+      "lat": 41.02112,
+      "lng": -8.52678,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Sanguedo ",
+      "active": true,
+      "sadoId": "20240997749",
+      "sharepointId": 24127135,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1723538530
+      },
+      "updated": {
+        "sec": 1723538546
       }
     }
   ]
