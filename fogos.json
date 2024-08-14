@@ -404,8 +404,8 @@
       "location": "Porto, Penafiel, Croca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 9,
+      "man": 21,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Croca",
@@ -442,7 +442,7 @@
         "sec": 1723646414
       },
       "updated": {
-        "sec": 1723650733
+        "sec": 1723655890
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Foz Do Sousa E Covelo",
@@ -497,7 +497,7 @@
         "sec": 1723648460
       },
       "updated": {
-        "sec": 1723652534
+        "sec": 1723655890
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Fânzeres E São Pedro Da Cova",
@@ -552,7 +552,7 @@
         "sec": 1723650980
       },
       "updated": {
-        "sec": 1723654703
+        "sec": 1723655293
       }
     },
     {
@@ -677,9 +677,9 @@
       "date": "14-08-2024",
       "hour": "17:48",
       "location": "Lisboa, Loures, Loures",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 14,
+      "man": 20,
       "terrain": 4,
       "district": "Lisboa",
       "concelho": "Loures",
@@ -687,13 +687,13 @@
       "dico": "1107",
       "lat": 38.8667,
       "lng": -9.213085,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Loures ",
       "active": true,
@@ -721,7 +721,117 @@
         "sec": 1723654703
       },
       "updated": {
-        "sec": 1723654932
+        "sec": 1723656013
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bce56eb0377208c4248c25"
+      },
+      "id": "20241004750",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723655280
+      },
+      "date": "14-08-2024",
+      "hour": "18:08",
+      "location": "Évora, Redondo, Montoito",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 31,
+      "terrain": 6,
+      "district": "Évora",
+      "concelho": "Redondo",
+      "freguesia": "Montoito",
+      "dico": "0710",
+      "lat": 38.50683,
+      "lng": -7.57203,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Montoito ",
+      "active": true,
+      "sadoId": "20241004750",
+      "sharepointId": 24134136,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1723655534
+      },
+      "updated": {
+        "sec": 1723656134
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bce6d2b0377208c4248c38"
+      },
+      "id": "20241004787",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723655700
+      },
+      "date": "14-08-2024",
+      "hour": "18:15",
+      "location": "Évora, Estremoz, São Bento Do Cortiço E Santo Estêvão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Évora",
+      "concelho": "Estremoz",
+      "freguesia": "São Bento Do Cortiço E Santo Estêvão",
+      "dico": "0704",
+      "lat": 38.91136,
+      "lng": -7.60349,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De São Bento Do Cortiço E Santo Estêvão ",
+      "active": true,
+      "sadoId": "20241004787",
+      "sharepointId": 24134173,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1723655890
+      },
+      "updated": {
+        "sec": 1723656134
       }
     }
   ]
