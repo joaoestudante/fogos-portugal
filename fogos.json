@@ -184,8 +184,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Miranda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 9,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Miranda",
@@ -222,7 +222,7 @@
         "sec": 1723636092
       },
       "updated": {
-        "sec": 1723641850
+        "sec": 1723642931
       }
     },
     {
@@ -687,8 +687,8 @@
       "location": "Lisboa, Sintra, Agualva E Mira-sintra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 13,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Agualva E Mira-sintra",
@@ -699,9 +699,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Mira Sintra ",
       "active": true,
@@ -729,7 +729,7 @@
         "sec": 1723642091
       },
       "updated": {
-        "sec": 1723642127
+        "sec": 1723642932
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 3,
+      "man": 29,
+      "terrain": 5,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Vila Boa De Quires E Maureles",
@@ -788,7 +788,7 @@
         "sec": 1723642218
       },
       "updated": {
-        "sec": 1723642571
+        "sec": 1723642932
       }
     },
     {
@@ -805,8 +805,8 @@
       "location": "Faro, Vila do Bispo, Barão De São Miguel",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 25,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Vila Do Bispo",
       "freguesia": "Barão De São Miguel",
@@ -817,9 +817,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Barão De São Miguel ",
       "active": true,
@@ -847,7 +847,62 @@
         "sec": 1723642218
       },
       "updated": {
-        "sec": 1723642571
+        "sec": 1723642932
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bcb4335b7b261d44721c0d"
+      },
+      "id": "20241003885",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723642140
+      },
+      "date": "14-08-2024",
+      "hour": "14:29",
+      "location": "Lisboa, Torres Vedras, Silveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Silveira",
+      "dico": "1113",
+      "lat": 39.110449,
+      "lng": -9.370168,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Silveira ",
+      "active": true,
+      "sadoId": "20241003885",
+      "sharepointId": 24133271,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1723642932
+      },
+      "updated": {
+        "sec": 1723642946
       }
     }
   ]
