@@ -424,9 +424,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Nespereira ",
       "active": true,
@@ -450,7 +450,7 @@
         "sec": 1723637292
       },
       "updated": {
-        "sec": 1723640780
+        "sec": 1723642571
       }
     },
     {
@@ -522,8 +522,8 @@
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 9,
+      "man": 21,
+      "terrain": 8,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
@@ -560,7 +560,7 @@
         "sec": 1723639212
       },
       "updated": {
-        "sec": 1723642090
+        "sec": 1723642571
       }
     },
     {
@@ -709,8 +709,12 @@
       "sharepointId": 24133168,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 177.847,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Bernardo Santareno. 2735-390 Sintra. Portugal (Mira Sintra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -725,7 +729,125 @@
         "sec": 1723642091
       },
       "updated": {
-        "sec": 1723642091
+        "sec": 1723642127
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bcb16a5b7b261d44721bf3"
+      },
+      "id": "20241003797",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723642020
+      },
+      "date": "14-08-2024",
+      "hour": "14:27",
+      "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Vila Boa De Quires E Maureles",
+      "dico": "1307",
+      "lat": 41.18817,
+      "lng": -8.206423,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Boa De Quires E Maureles ",
+      "active": true,
+      "sadoId": "20241003797",
+      "sharepointId": 24133183,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 285.797,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Caminho do Souto 266. 4635-700 Marco de Canaveses. Portugal (Moutadas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723642218
+      },
+      "updated": {
+        "sec": 1723642571
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bcb16a5b7b261d44721bf4"
+      },
+      "id": "20241003795",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723641840
+      },
+      "date": "14-08-2024",
+      "hour": "14:24",
+      "location": "Faro, Vila do Bispo, Barão De São Miguel",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Vila Do Bispo",
+      "freguesia": "Barão De São Miguel",
+      "dico": "0815",
+      "lat": 37.106174,
+      "lng": -8.791187,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Barão De São Miguel ",
+      "active": true,
+      "sadoId": "20241003795",
+      "sharepointId": 24133181,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 26.9206,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "N125 (BARÃO DE SÃO MIGUEL)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1723642218
+      },
+      "updated": {
+        "sec": 1723642571
       }
     }
   ]
