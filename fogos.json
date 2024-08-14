@@ -294,8 +294,8 @@
       "location": "Braga, Terras de Bouro, Vilar Da Veiga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 3,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Vilar Da Veiga",
@@ -336,7 +336,7 @@
         "sec": 1723637110
       },
       "updated": {
-        "sec": 1723639577
+        "sec": 1723641014
       }
     },
     {
@@ -351,10 +351,10 @@
       "date": "14-08-2024",
       "hour": "13:02",
       "location": "Viana Do Castelo, Arcos de Valdevez, Grade E Carralcova",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 1,
+      "man": 5,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Grade E Carralcova",
@@ -365,9 +365,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Parede Nova ",
       "active": true,
@@ -395,7 +395,7 @@
         "sec": 1723637292
       },
       "updated": {
-        "sec": 1723639331
+        "sec": 1723640295
       }
     },
     {
@@ -410,10 +410,10 @@
       "date": "14-08-2024",
       "hour": "13:06",
       "location": "Viseu, Cinfães, Nespereira",
-      "aerial": 1,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 10,
+      "man": 58,
+      "terrain": 13,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Nespereira",
@@ -450,7 +450,7 @@
         "sec": 1723637292
       },
       "updated": {
-        "sec": 1723639577
+        "sec": 1723640780
       }
     },
     {
@@ -467,8 +467,8 @@
       "location": "Bragança, Vimioso, Argozelo",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 42,
-      "terrain": 9,
+      "man": 82,
+      "terrain": 19,
       "district": "Bragança",
       "concelho": "Vimioso",
       "freguesia": "Argozelo",
@@ -505,7 +505,7 @@
         "sec": 1723638018
       },
       "updated": {
-        "sec": 1723639693
+        "sec": 1723640780
       }
     },
     {
@@ -520,23 +520,23 @@
       "date": "14-08-2024",
       "hour": "13:36",
       "location": "Castelo Branco, Fundão, Vale De Prazeres E Mata Da Rainha",
-      "aerial": 1,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
+      "man": 53,
+      "terrain": 10,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Vale De Prazeres E Mata Da Rainha",
       "dico": "0504",
-      "lat": 40.103145,
-      "lng": -7.323889,
+      "lat": 40.110203,
+      "lng": -7.317162,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mata Da Rainha ",
       "active": true,
@@ -560,7 +560,62 @@
         "sec": 1723639212
       },
       "updated": {
-        "sec": 1723639693
+        "sec": 1723641014
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bca9e6de58856d06123d2c"
+      },
+      "id": "20241003627",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723639980
+      },
+      "date": "14-08-2024",
+      "hour": "13:53",
+      "location": "Porto, Paços de Ferreira, Frazão Arreigada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paços De Ferreira",
+      "freguesia": "Frazão Arreigada",
+      "dico": "1309",
+      "lat": 41.2567,
+      "lng": -8.39416,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Frazão Arreigada ",
+      "active": true,
+      "sadoId": "20241003627",
+      "sharepointId": 24133013,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723640294
+      },
+      "updated": {
+        "sec": 1723640440
       }
     }
   ]
