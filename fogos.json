@@ -345,65 +345,6 @@
     },
     {
       "_id": {
-        "$id": "66bdd52dfc126c22252d0e8e"
-      },
-      "id": "20241007487",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723716480
-      },
-      "date": "15-08-2024",
-      "hour": "11:08",
-      "location": "Porto, Baião, Gove",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Baião",
-      "freguesia": "Gove",
-      "dico": "1302",
-      "lat": 41.12966,
-      "lng": -8.05672,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Gove ",
-      "active": true,
-      "sadoId": "20241007487",
-      "sharepointId": 24136873,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 406.281,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Adro 202. 4640-267 Baião. Portugal (Trincheira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1723716909
-      },
-      "updated": {
-        "sec": 1723717101
-      }
-    },
-    {
-      "_id": {
         "$id": "66bdd83efc126c22252d0eb1"
       },
       "id": "20241007532",
@@ -414,9 +355,9 @@
       "date": "15-08-2024",
       "hour": "11:17",
       "location": "Viseu, Cinfães, Oliveira Do Douro",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
+      "man": 25,
       "terrain": 6,
       "district": "Viseu",
       "concelho": "Cinfães",
@@ -454,7 +395,7 @@
         "sec": 1723717694
       },
       "updated": {
-        "sec": 1723719489
+        "sec": 1723720570
       }
     },
     {
@@ -471,21 +412,21 @@
       "location": "Setúbal, Sines, Sines",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 27,
+      "terrain": 6,
       "district": "Setúbal",
       "concelho": "Sines",
       "freguesia": "Sines",
       "dico": "1513",
-      "lat": 37.92427,
-      "lng": -8.798085,
+      "lat": 37.922243,
+      "lng": -8.795425,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Sines ",
       "active": true,
@@ -509,7 +450,66 @@
         "sec": 1723719260
       },
       "updated": {
-        "sec": 1723719490
+        "sec": 1723720691
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bde379dc03c77e98063904"
+      },
+      "id": "20241007773",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723720080
+      },
+      "date": "15-08-2024",
+      "hour": "12:08",
+      "location": "Setúbal, Seixal, Amora",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Amora",
+      "dico": "1510",
+      "lat": 38.620204,
+      "lng": -9.11024,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Torre Da Marinha ",
+      "active": true,
+      "sadoId": "20241007773",
+      "sharepointId": 24137159,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 7.26438,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Arlinda Vicente (Torre da Marinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1723720569
+      },
+      "updated": {
+        "sec": 1723720691
       }
     }
   ]
