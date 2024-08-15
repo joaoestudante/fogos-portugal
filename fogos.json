@@ -530,8 +530,8 @@
       "location": "Braga, Celorico de Basto, Vale De Bouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 12,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Vale De Bouro",
@@ -542,9 +542,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vale De Bouro ",
       "active": true,
@@ -568,7 +568,117 @@
         "sec": 1723698737
       },
       "updated": {
-        "sec": 1723698751
+        "sec": 1723700049
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bd9103c255284775128761"
+      },
+      "id": "20241006488",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723699140
+      },
+      "date": "15-08-2024",
+      "hour": "06:19",
+      "location": "Aveiro, Santa Maria da Feira, Argoncilhe",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Argoncilhe",
+      "dico": "0109",
+      "lat": 41.01509,
+      "lng": -8.55676,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Argoncilhe ",
+      "active": true,
+      "sadoId": "20241006488",
+      "sharepointId": 24135874,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1723699459
+      },
+      "updated": {
+        "sec": 1723699811
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bd9351c25528477512876f"
+      },
+      "id": "20241006500",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723699500
+      },
+      "date": "15-08-2024",
+      "hour": "06:25",
+      "location": "Porto, Felgueiras, Regilde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Regilde",
+      "dico": "1303",
+      "lat": 41.365681,
+      "lng": -8.265802,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Regilde ",
+      "active": true,
+      "sadoId": "20241006500",
+      "sharepointId": 24135886,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723700049
+      },
+      "updated": {
+        "sec": 1723700064
       }
     }
   ]
