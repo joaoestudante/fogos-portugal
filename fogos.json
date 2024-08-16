@@ -117,116 +117,6 @@
     },
     {
       "_id": {
-        "$id": "66be90783a4e5843ae04611a"
-      },
-      "id": "20241010366",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723763940
-      },
-      "date": "16-08-2024",
-      "hour": "00:19",
-      "location": "Porto, Santo Tirso, Negrelos (São Tomé)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Santo Tirso",
-      "freguesia": "Negrelos (São Tomé)",
-      "dico": "1314",
-      "lat": 41.33771,
-      "lng": -8.411358,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Negrelos (São Tomé) ",
-      "active": true,
-      "sadoId": "20241010366",
-      "sharepointId": 24139752,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1723764856
-      },
-      "updated": {
-        "sec": 1723791490
-      }
-    },
-    {
-      "_id": {
-        "$id": "66bec313e186f54aca682409"
-      },
-      "id": "20241010711",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723777440
-      },
-      "date": "16-08-2024",
-      "hour": "04:04",
-      "location": "Bragança, Vinhais, Moimenta E Montouto",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Bragança",
-      "concelho": "Vinhais",
-      "freguesia": "Moimenta E Montouto",
-      "dico": "0412",
-      "lat": 41.95888,
-      "lng": -6.955663,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Moimenta ",
-      "active": true,
-      "sadoId": "20241010711",
-      "sharepointId": 24140097,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "created": {
-        "sec": 1723777811
-      },
-      "updated": {
-        "sec": 1723792698
-      }
-    },
-    {
-      "_id": {
         "$id": "66beeb0582087730641401f4"
       },
       "id": "20241010889",
@@ -395,7 +285,7 @@
         "sec": 1723791970
       },
       "updated": {
-        "sec": 1723793171
+        "sec": 1723793934
       }
     },
     {
@@ -410,25 +300,25 @@
       "date": "16-08-2024",
       "hour": "08:09",
       "location": "Faro, Aljezur, Aljezur",
-      "aerial": 0,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 46,
+      "terrain": 11,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Aljezur",
       "dico": "0803",
-      "lat": 37.23326,
-      "lng": -8.79327,
+      "lat": 37.234833,
+      "lng": -8.79,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Aljezur ",
+      "localidade": "Amieira ",
       "active": true,
       "sadoId": "20241011068",
       "sharepointId": 24140454,
@@ -450,7 +340,7 @@
         "sec": 1723792338
       },
       "updated": {
-        "sec": 1723793171
+        "sec": 1723794370
       }
     },
     {
@@ -467,8 +357,8 @@
       "location": "Leiria, Figueiró Dos Vinhos, Aguda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 22,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Figueiró Dos Vinhos",
       "freguesia": "Aguda",
@@ -489,8 +379,12 @@
       "sharepointId": 24140490,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 382.32,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada do Pinhal Interior. 3260 Figueiró dos Vinhos. Portugal (Cova do Vale)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -505,7 +399,7 @@
         "sec": 1723793171
       },
       "updated": {
-        "sec": 1723793847
+        "sec": 1723793865
       }
     }
   ]
