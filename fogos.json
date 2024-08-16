@@ -294,8 +294,8 @@
       "location": "Guarda, Fornos de Algodres, Cortiçô E Vila Chã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 122,
-      "terrain": 35,
+      "man": 83,
+      "terrain": 24,
       "district": "Guarda",
       "concelho": "Fornos De Algodres",
       "freguesia": "Cortiçô E Vila Chã",
@@ -332,7 +332,7 @@
         "sec": 1723803732
       },
       "updated": {
-        "sec": 1723846331
+        "sec": 1723848612
       }
     },
     {
@@ -738,8 +738,8 @@
       "location": "Beja, Odemira, São Teotónio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 5,
+      "man": 7,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
@@ -780,7 +780,7 @@
         "sec": 1723834831
       },
       "updated": {
-        "sec": 1723847650
+        "sec": 1723848252
       }
     },
     {
@@ -946,61 +946,6 @@
       },
       "updated": {
         "sec": 1723847060
-      }
-    },
-    {
-      "_id": {
-        "$id": "66bfc99214fa085db1151574"
-      },
-      "id": "20241015130",
-      "coords": true,
-      "dateTime": {
-        "sec": 1723844700
-      },
-      "date": "16-08-2024",
-      "hour": "22:45",
-      "location": "Porto, Penafiel, Sebolido",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Sebolido",
-      "dico": "1311",
-      "lat": 41.044212,
-      "lng": -8.358565,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sebolido ",
-      "active": true,
-      "sadoId": "20241015130",
-      "sharepointId": 24144516,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1723845010
-      },
-      "updated": {
-        "sec": 1723846810
       }
     },
     {
@@ -1198,9 +1143,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mindelo ",
       "active": true,
@@ -1224,7 +1169,7 @@
         "sec": 1723846934
       },
       "updated": {
-        "sec": 1723847531
+        "sec": 1723848613
       }
     },
     {
@@ -1241,8 +1186,8 @@
       "location": "Beja, Odemira, São Luís",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 16,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Luís",
@@ -1279,7 +1224,7 @@
         "sec": 1723847293
       },
       "updated": {
-        "sec": 1723847781
+        "sec": 1723848252
       }
     },
     {
@@ -1296,8 +1241,8 @@
       "location": "Aveiro, Águeda, Préstimo E Macieira De Alcoba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Águeda",
       "freguesia": "Préstimo E Macieira De Alcoba",
@@ -1308,9 +1253,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias Do Préstimo E Macieira De Alcoba ",
       "active": true,
@@ -1318,8 +1263,12 @@
       "sharepointId": 24144689,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 152.402,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Parque (A-dos-Ferreiros-de-Cima)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1334,7 +1283,121 @@
         "sec": 1723848138
       },
       "updated": {
-        "sec": 1723848138
+        "sec": 1723848613
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bfd63d85cd5a5a66708b05"
+      },
+      "id": "20241015292",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723847700
+      },
+      "date": "16-08-2024",
+      "hour": "23:35",
+      "location": "Porto, Lousada, Silvares, Pias, Nogueira E Alvarenga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Silvares, Pias, Nogueira E Alvarenga",
+      "dico": "1305",
+      "lat": 41.27425,
+      "lng": -8.26837,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pias ",
+      "active": true,
+      "sadoId": "20241015292",
+      "sharepointId": 24144678,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1723848253
+      },
+      "updated": {
+        "sec": 1723848266
+      }
+    },
+    {
+      "_id": {
+        "$id": "66bfd6b285cd5a5a66708b0c"
+      },
+      "id": "20241015311",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723848120
+      },
+      "date": "16-08-2024",
+      "hour": "23:42",
+      "location": "Porto, Santo Tirso, Monte Córdova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Monte Córdova",
+      "dico": "1314",
+      "lat": 41.32417,
+      "lng": -8.442778,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Monte Córdova ",
+      "active": true,
+      "sadoId": "20241015311",
+      "sharepointId": 24144697,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 394.717,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Lg Nossa Senhora da Assunção. 4780-145 Santo Tirso. Portugal (Assunção)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1723848370
+      },
+      "updated": {
+        "sec": 1723848399
       }
     }
   ]
