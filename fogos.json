@@ -294,8 +294,8 @@
       "location": "Porto, Penafiel, Lagares E Figueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 148,
-      "terrain": 44,
+      "man": 144,
+      "terrain": 42,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Lagares E Figueira",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Figueira ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1723815618
       },
       "updated": {
-        "sec": 1723873091
+        "sec": 1723876451
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Bragança, Vinhais, Rebordelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 11,
+      "man": 40,
+      "terrain": 12,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Rebordelo",
@@ -387,7 +387,7 @@
         "sec": 1723849503
       },
       "updated": {
-        "sec": 1723874891
+        "sec": 1723876451
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Coimbra, Miranda do Corvo, Miranda Do Corvo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Miranda Do Corvo",
       "freguesia": "Miranda Do Corvo",
@@ -552,7 +552,7 @@
         "sec": 1723865650
       },
       "updated": {
-        "sec": 1723874650
+        "sec": 1723876337
       }
     },
     {
@@ -683,8 +683,8 @@
       "location": "Guarda, Guarda, Benespera",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 52,
-      "terrain": 14,
+      "man": 57,
+      "terrain": 15,
       "district": "Guarda",
       "concelho": "Guarda",
       "freguesia": "Benespera",
@@ -721,7 +721,7 @@
         "sec": 1723869971
       },
       "updated": {
-        "sec": 1723875130
+        "sec": 1723875730
       }
     },
     {
@@ -738,8 +738,8 @@
       "location": "Lisboa, Odivelas, Odivelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Odivelas",
       "freguesia": "Odivelas",
@@ -750,9 +750,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Odivelas ",
       "active": true,
@@ -776,7 +776,62 @@
         "sec": 1723875377
       },
       "updated": {
-        "sec": 1723875391
+        "sec": 1723876212
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c04192ff9d7276a51264c3"
+      },
+      "id": "20241016054",
+      "coords": true,
+      "dateTime": {
+        "sec": 1723874340
+      },
+      "date": "17-08-2024",
+      "hour": "06:59",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Rio Frio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Rio Frio",
+      "dico": "1601",
+      "lat": 41.848721,
+      "lng": -8.481139,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Aveleiras ",
+      "active": true,
+      "sadoId": "20241016054",
+      "sharepointId": 24145440,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1723875730
+      },
+      "updated": {
+        "sec": 1723875744
       }
     }
   ]
