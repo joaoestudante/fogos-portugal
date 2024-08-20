@@ -180,8 +180,8 @@
       "location": "Viseu, Mangualde, Tavares (Chãs, Várzea E Travanca)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Tavares (Chãs, Várzea E Travanca)",
@@ -218,7 +218,7 @@
         "sec": 1724001731
       },
       "updated": {
-        "sec": 1724138890
+        "sec": 1724152405
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Ribeira Do Neiva",
@@ -552,7 +552,7 @@
         "sec": 1724147653
       },
       "updated": {
-        "sec": 1724150964
+        "sec": 1724152930
       }
     },
     {
@@ -569,8 +569,8 @@
       "location": "Leiria, Leiria, Regueira De Pontes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 19,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Regueira De Pontes",
@@ -607,7 +607,7 @@
         "sec": 1724148498
       },
       "updated": {
-        "sec": 1724151730
+        "sec": 1724152698
       }
     },
     {
@@ -667,61 +667,6 @@
     },
     {
       "_id": {
-        "$id": "66c47213e5151a25122c238d"
-      },
-      "id": "20241030918",
-      "coords": true,
-      "dateTime": {
-        "sec": 1724150040
-      },
-      "date": "20-08-2024",
-      "hour": "11:34",
-      "location": "Vila Real, Chaves, Vale De Anta",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Vale De Anta",
-      "dico": "1703",
-      "lat": 41.751515,
-      "lng": -7.494905,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vale De Anta ",
-      "active": true,
-      "sadoId": "20241030918",
-      "sharepointId": 24160309,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1724150291
-      },
-      "updated": {
-        "sec": 1724151641
-      }
-    },
-    {
-      "_id": {
         "$id": "66c474cd31e2ee75176f820a"
       },
       "id": "20241030931",
@@ -740,15 +685,15 @@
       "concelho": "Penafiel",
       "freguesia": "Recezinhos (São Martinho)",
       "dico": "1311",
-      "lat": 41.222044,
-      "lng": -8.198038,
+      "lat": 41.222398,
+      "lng": -8.197792,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Recezinhos (São Martinho) ",
       "active": true,
@@ -772,7 +717,7 @@
         "sec": 1724150989
       },
       "updated": {
-        "sec": 1724151379
+        "sec": 1724152406
       }
     },
     {
@@ -787,10 +732,10 @@
       "date": "20-08-2024",
       "hour": "12:00",
       "location": "Leiria, Leiria, Caranguejeira",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 21,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Caranguejeira",
@@ -801,9 +746,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Caranguejeira ",
       "active": true,
@@ -811,8 +756,12 @@
       "sharepointId": 24160427,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 109.793,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Caranguejeira. Leiria. Portugal (CARANGUEJEIRA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -827,7 +776,62 @@
         "sec": 1724152090
       },
       "updated": {
-        "sec": 1724152090
+        "sec": 1724152930
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c47b7b6d7883013833377b"
+      },
+      "id": "20241031101",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724152440
+      },
+      "date": "20-08-2024",
+      "hour": "12:14",
+      "location": "Santarém, Chamusca, Parreira E Chouto",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 33,
+      "terrain": 7,
+      "district": "Santarém",
+      "concelho": "Chamusca",
+      "freguesia": "Parreira E Chouto",
+      "dico": "1407",
+      "lat": 39.127352,
+      "lng": -8.46731,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vale Da Lama ",
+      "active": true,
+      "sadoId": "20241031101",
+      "sharepointId": 24160492,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1724152699
+      },
+      "updated": {
+        "sec": 1724152930
       }
     }
   ]
