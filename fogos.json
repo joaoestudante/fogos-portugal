@@ -125,8 +125,8 @@
       "location": "Guarda, Aguiar da Beira, Souto De Aguiar Da Beira E Valverde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Aguiar Da Beira",
       "freguesia": "Souto De Aguiar Da Beira E Valverde",
@@ -163,7 +163,7 @@
         "sec": 1723985651
       },
       "updated": {
-        "sec": 1724144170
+        "sec": 1724152091
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Portalegre, Elvas, Terrugem E Vila Boim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 16,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Elvas",
       "freguesia": "Terrugem E Vila Boim",
@@ -273,7 +273,7 @@
         "sec": 1724079736
       },
       "updated": {
-        "sec": 1724148029
+        "sec": 1724151379
       }
     },
     {
@@ -288,9 +288,9 @@
       "date": "19-08-2024",
       "hour": "20:54",
       "location": "Santarém, Torres Novas, Pedrógão",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 46,
+      "man": 48,
       "terrain": 13,
       "district": "Santarém",
       "concelho": "Torres Novas",
@@ -332,7 +332,7 @@
         "sec": 1724097630
       },
       "updated": {
-        "sec": 1724149210
+        "sec": 1724151252
       }
     },
     {
@@ -575,8 +575,8 @@
       "concelho": "Leiria",
       "freguesia": "Regueira De Pontes",
       "dico": "1009",
-      "lat": 39.79885,
-      "lng": -8.80982,
+      "lat": 39.799297,
+      "lng": -8.807635,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -607,7 +607,7 @@
         "sec": 1724148498
       },
       "updated": {
-        "sec": 1724150964
+        "sec": 1724151730
       }
     },
     {
@@ -685,15 +685,15 @@
       "concelho": "Chaves",
       "freguesia": "Vale De Anta",
       "dico": "1703",
-      "lat": 41.75129,
-      "lng": -7.494464,
+      "lat": 41.751515,
+      "lng": -7.494905,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale De Anta ",
       "active": true,
@@ -717,7 +717,7 @@
         "sec": 1724150291
       },
       "updated": {
-        "sec": 1724150411
+        "sec": 1724151641
       }
     },
     {
@@ -746,9 +746,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Recezinhos (São Martinho) ",
       "active": true,
@@ -772,7 +772,62 @@
         "sec": 1724150989
       },
       "updated": {
-        "sec": 1724151132
+        "sec": 1724151379
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c4791a93833262377acbcd"
+      },
+      "id": "20241031036",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724151600
+      },
+      "date": "20-08-2024",
+      "hour": "12:00",
+      "location": "Leiria, Leiria, Caranguejeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Caranguejeira",
+      "dico": "1009",
+      "lat": 39.74654,
+      "lng": -8.70919,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Caranguejeira ",
+      "active": true,
+      "sadoId": "20241031036",
+      "sharepointId": 24160427,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1724152090
+      },
+      "updated": {
+        "sec": 1724152090
       }
     }
   ]
