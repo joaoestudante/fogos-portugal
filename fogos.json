@@ -125,8 +125,8 @@
       "location": "Santarém, Torres Novas, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 102,
-      "terrain": 33,
+      "man": 100,
+      "terrain": 32,
       "district": "Santarém",
       "concelho": "Torres Novas",
       "freguesia": "Pedrógão",
@@ -167,7 +167,7 @@
         "sec": 1724182938
       },
       "updated": {
-        "sec": 1724216441
+        "sec": 1724217610
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ferreiros ",
       "active": true,
@@ -442,7 +442,7 @@
         "sec": 1724212690
       },
       "updated": {
-        "sec": 1724216300
+        "sec": 1724217490
       }
     },
     {
@@ -514,23 +514,23 @@
       "location": "Viseu, Vila Nova de Paiva, Queiriga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 25,
+      "terrain": 7,
       "district": "Viseu",
       "concelho": "Vila Nova De Paiva",
       "freguesia": "Queiriga",
       "dico": "1822",
-      "lat": 40.802332,
-      "lng": -7.744441,
+      "lat": 40.775277,
+      "lng": -7.732753,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Queiriga ",
+      "localidade": "Lousadela ",
       "active": true,
       "sadoId": "20241034265",
       "sharepointId": 24163656,
@@ -552,7 +552,117 @@
         "sec": 1724216178
       },
       "updated": {
-        "sec": 1724216777
+        "sec": 1724217850
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c5790ab3d41625794d9138"
+      },
+      "id": "20241034292",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724217240
+      },
+      "date": "21-08-2024",
+      "hour": "06:14",
+      "location": "Porto, Amarante, Ansiães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Ansiães",
+      "dico": "1301",
+      "lat": 41.25121,
+      "lng": -7.9644,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Ansiães ",
+      "active": true,
+      "sadoId": "20241034292",
+      "sharepointId": 24163683,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724217610
+      },
+      "updated": {
+        "sec": 1724217630
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c579fab3d41625794d913e"
+      },
+      "id": "20241034299",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724217600
+      },
+      "date": "21-08-2024",
+      "hour": "06:20",
+      "location": "Coimbra, Lousã, Foz De Arouce E Casal De Ermio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Coimbra",
+      "concelho": "Lousã",
+      "freguesia": "Foz De Arouce E Casal De Ermio",
+      "dico": "0607",
+      "lat": 40.153628,
+      "lng": -8.25635,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Casal De Ermio ",
+      "active": true,
+      "sadoId": "20241034299",
+      "sharepointId": 24163690,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1724217850
+      },
+      "updated": {
+        "sec": 1724217864
       }
     }
   ]
