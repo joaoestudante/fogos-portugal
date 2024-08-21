@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Soalhães ",
       "active": true,
@@ -505,7 +505,7 @@
         "sec": 1724231898
       },
       "updated": {
-        "sec": 1724237659
+        "sec": 1724241012
       }
     },
     {
@@ -675,61 +675,6 @@
       },
       "updated": {
         "sec": 1724240892
-      }
-    },
-    {
-      "_id": {
-        "$id": "66c5bdfbae3f4b0dad50a8b9"
-      },
-      "id": "20241035518",
-      "coords": true,
-      "dateTime": {
-        "sec": 1724234940
-      },
-      "date": "21-08-2024",
-      "hour": "11:09",
-      "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Lobão, Gião, Louredo E Guisande",
-      "dico": "0109",
-      "lat": 40.964623,
-      "lng": -8.48408,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Guisande ",
-      "active": true,
-      "sadoId": "20241035518",
-      "sharepointId": 24164909,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1724235259
-      },
-      "updated": {
-        "sec": 1724240529
       }
     },
     {
@@ -911,8 +856,8 @@
       "location": "Coimbra, Condeixa-a-Nova, Condeixa-a-velha E Condeixa-a-nova",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 8,
+      "man": 37,
+      "terrain": 9,
       "district": "Coimbra",
       "concelho": "Condeixa-a-nova",
       "freguesia": "Condeixa-a-velha E Condeixa-a-nova",
@@ -953,7 +898,7 @@
         "sec": 1724240298
       },
       "updated": {
-        "sec": 1724240892
+        "sec": 1724241012
       }
     },
     {
@@ -1106,8 +1051,12 @@
       "sharepointId": 24165178,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 99.7019,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Espargo (Remolha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1122,7 +1071,7 @@
         "sec": 1724240891
       },
       "updated": {
-        "sec": 1724240906
+        "sec": 1724240923
       }
     },
     {
@@ -1151,9 +1100,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Graça ",
       "active": true,
@@ -1161,8 +1110,12 @@
       "sharepointId": 24165337,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 316.729,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "GRAÇA (Pereira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1177,7 +1130,7 @@
         "sec": 1724240891
       },
       "updated": {
-        "sec": 1724240891
+        "sec": 1724241013
       }
     },
     {
@@ -1216,8 +1169,12 @@
       "sharepointId": 24165346,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 195.462,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Álvora",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1232,7 +1189,62 @@
         "sec": 1724240892
       },
       "updated": {
-        "sec": 1724240892
+        "sec": 1724240982
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c5d474af2054335704576f"
+      },
+      "id": "20241035972",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724240760
+      },
+      "date": "21-08-2024",
+      "hour": "12:46",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Monte Redondo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Monte Redondo",
+      "dico": "1601",
+      "lat": 41.834463,
+      "lng": -8.455332,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Monte Redondo ",
+      "active": true,
+      "sadoId": "20241035972",
+      "sharepointId": 24165363,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1724241012
+      },
+      "updated": {
+        "sec": 1724241036
       }
     }
   ]
