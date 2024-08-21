@@ -70,8 +70,8 @@
       "location": "Santarém, Ourém, Nossa Senhora Das Misericórdias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Nossa Senhora Das Misericórdias",
@@ -112,7 +112,7 @@
         "sec": 1724172370
       },
       "updated": {
-        "sec": 1724211969
+        "sec": 1724212931
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Santarém, Torres Novas, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 115,
-      "terrain": 37,
+      "man": 108,
+      "terrain": 35,
       "district": "Santarém",
       "concelho": "Torres Novas",
       "freguesia": "Pedrógão",
@@ -226,7 +226,7 @@
         "sec": 1724182938
       },
       "updated": {
-        "sec": 1724208852
+        "sec": 1724213170
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Vila Real, Valpaços, Friões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 10,
+      "man": 24,
+      "terrain": 6,
       "district": "Vila Real",
       "concelho": "Valpaços",
       "freguesia": "Friões",
@@ -281,7 +281,7 @@
         "sec": 1724185570
       },
       "updated": {
-        "sec": 1724211611
+        "sec": 1724214251
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Viseu, Sernancelhe, Lamosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Sernancelhe",
       "freguesia": "Lamosa",
@@ -446,7 +446,7 @@
         "sec": 1724209931
       },
       "updated": {
-        "sec": 1724212578
+        "sec": 1724214251
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Eiras ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1724210292
       },
       "updated": {
-        "sec": 1724212690
+        "sec": 1724213650
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Santarém, Ourém, Alburitel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 50,
+      "terrain": 13,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Alburitel",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Toucinhos ",
       "active": true,
@@ -556,7 +556,7 @@
         "sec": 1724212098
       },
       "updated": {
-        "sec": 1724212330
+        "sec": 1724214138
       }
     },
     {
@@ -585,9 +585,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Ferreiros ",
       "active": true,
@@ -611,7 +611,62 @@
         "sec": 1724212690
       },
       "updated": {
-        "sec": 1724212690
+        "sec": 1724213538
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c5682ad08ef279f61cfd25"
+      },
+      "id": "20241034226",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724213040
+      },
+      "date": "21-08-2024",
+      "hour": "05:04",
+      "location": "Faro, Loulé, Almancil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 7,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Almancil",
+      "dico": "0808",
+      "lat": 37.063796,
+      "lng": -8.01388,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Ludo ",
+      "active": true,
+      "sadoId": "20241034226",
+      "sharepointId": 24163617,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1724213290
+      },
+      "updated": {
+        "sec": 1724214138
       }
     }
   ]
