@@ -184,8 +184,8 @@
       "location": "Santarém, Ourém, Alburitel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Alburitel",
@@ -222,7 +222,7 @@
         "sec": 1724212098
       },
       "updated": {
-        "sec": 1724227450
+        "sec": 1724230217
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Faro, Loulé, Almancil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 11,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Almancil",
@@ -332,7 +332,7 @@
         "sec": 1724213290
       },
       "updated": {
-        "sec": 1724226731
+        "sec": 1724229969
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Vila Seca ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1724225410
       },
       "updated": {
-        "sec": 1724229252
+        "sec": 1724230217
       }
     },
     {
@@ -573,8 +573,8 @@
       "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
@@ -611,7 +611,7 @@
         "sec": 1724228171
       },
       "updated": {
-        "sec": 1724229252
+        "sec": 1724230331
       }
     },
     {
@@ -628,7 +628,7 @@
       "location": "Porto, Maia, Cidade Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 8,
       "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
@@ -666,7 +666,7 @@
         "sec": 1724228530
       },
       "updated": {
-        "sec": 1724229252
+        "sec": 1724230217
       }
     },
     {
@@ -681,10 +681,10 @@
       "date": "21-08-2024",
       "hour": "09:34",
       "location": "Aveiro, Arouca, Alvarenga",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 28,
+      "terrain": 5,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Alvarenga",
@@ -721,7 +721,62 @@
         "sec": 1724229491
       },
       "updated": {
-        "sec": 1724229506
+        "sec": 1724229970
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c5aabbcc669402ef2764b9"
+      },
+      "id": "20241035043",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724229900
+      },
+      "date": "21-08-2024",
+      "hour": "09:45",
+      "location": "Aveiro, Vale de Cambra, Arões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "Arões",
+      "dico": "0119",
+      "lat": 40.800158,
+      "lng": -8.300208,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Arões ",
+      "active": true,
+      "sadoId": "20241035043",
+      "sharepointId": 24164434,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1724230331
+      },
+      "updated": {
+        "sec": 1724230345
       }
     }
   ]
