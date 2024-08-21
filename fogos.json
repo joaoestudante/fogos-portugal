@@ -522,13 +522,13 @@
       "dico": "1822",
       "lat": 40.775277,
       "lng": -7.732753,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Lousadela ",
       "active": true,
@@ -552,7 +552,7 @@
         "sec": 1724216178
       },
       "updated": {
-        "sec": 1724217850
+        "sec": 1724218337
       }
     },
     {
@@ -569,8 +569,8 @@
       "location": "Porto, Amarante, Ansiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Ansiães",
@@ -581,9 +581,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Ansiães ",
       "active": true,
@@ -607,7 +607,7 @@
         "sec": 1724217610
       },
       "updated": {
-        "sec": 1724217630
+        "sec": 1724218570
       }
     },
     {
@@ -624,8 +624,8 @@
       "location": "Coimbra, Lousã, Foz De Arouce E Casal De Ermio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Foz De Arouce E Casal De Ermio",
@@ -636,9 +636,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Casal De Ermio ",
       "active": true,
@@ -662,7 +662,62 @@
         "sec": 1724217850
       },
       "updated": {
-        "sec": 1724217864
+        "sec": 1724218450
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c57be1b3d41625794d9149"
+      },
+      "id": "20241034311",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724218080
+      },
+      "date": "21-08-2024",
+      "hour": "06:28",
+      "location": "Viana Do Castelo, Melgaço, Alvaredo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Melgaço",
+      "freguesia": "Alvaredo",
+      "dico": "1603",
+      "lat": 42.095157,
+      "lng": -8.305665,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ferreira ",
+      "active": true,
+      "sadoId": "20241034311",
+      "sharepointId": 24163702,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1724218337
+      },
+      "updated": {
+        "sec": 1724218351
       }
     }
   ]
