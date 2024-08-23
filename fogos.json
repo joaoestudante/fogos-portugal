@@ -579,9 +579,9 @@
       "date": "23-08-2024",
       "hour": "13:30",
       "location": "Castelo Branco, Covilhã, Unhais Da Serra",
-      "aerial": 4,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 100,
+      "man": 94,
       "terrain": 23,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
@@ -593,9 +593,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Unhais Da Serra ",
       "active": true,
@@ -619,7 +619,7 @@
         "sec": 1724416336
       },
       "updated": {
-        "sec": 1724419346
+        "sec": 1724420532
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Braga, Fafe, Aboim, Felgueiras, Gontim E Pedraído",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 0,
+      "man": 31,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
@@ -758,9 +758,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -784,7 +784,62 @@
         "sec": 1724419458
       },
       "updated": {
-        "sec": 1724419472
+        "sec": 1724420657
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c891b5ecae4040d75cadb2"
+      },
+      "id": "20241045602",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724420040
+      },
+      "date": "23-08-2024",
+      "hour": "14:34",
+      "location": "Porto, Paredes, Sobreira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 4,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Sobreira",
+      "dico": "1310",
+      "lat": 41.1144,
+      "lng": -8.392919,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobreira ",
+      "active": true,
+      "sadoId": "20241045602",
+      "sharepointId": 24174993,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1724420533
+      },
+      "updated": {
+        "sec": 1724420657
       }
     }
   ]
