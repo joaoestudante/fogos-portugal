@@ -133,8 +133,8 @@
       "location": "Guarda, Sabugal, Casteleiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 54,
-      "terrain": 14,
+      "man": 49,
+      "terrain": 13,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Casteleiro",
@@ -171,7 +171,7 @@
         "sec": 1724348414
       },
       "updated": {
-        "sec": 1724401330
+        "sec": 1724406742
       }
     },
     {
@@ -412,7 +412,7 @@
       "location": "Lisboa, Vila Franca de Xira, Alhandra, São João Dos Montes E Calhandriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
+      "man": 12,
       "terrain": 3,
       "district": "Lisboa",
       "concelho": "Vila Franca De Xira",
@@ -454,7 +454,7 @@
         "sec": 1724403985
       },
       "updated": {
-        "sec": 1724406502
+        "sec": 1724406616
       }
     },
     {
@@ -468,19 +468,19 @@
       },
       "date": "23-08-2024",
       "hour": "10:22",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Távora (Santa Maria E São Vicente)",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Cendufe",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 1,
+      "man": 22,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
-      "freguesia": "Távora (Santa Maria E São Vicente)",
+      "freguesia": "Cendufe",
       "dico": "1601",
-      "lat": 41.818798,
-      "lng": -8.466456,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 41.815148,
+      "lng": -8.490885,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 5,
@@ -509,7 +509,7 @@
         "sec": 1724405060
       },
       "updated": {
-        "sec": 1724406259
+        "sec": 1724407570
       }
     },
     {
@@ -526,8 +526,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Miranda",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Miranda",
@@ -538,9 +538,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Miranda ",
       "active": true,
@@ -568,7 +568,7 @@
         "sec": 1724406021
       },
       "updated": {
-        "sec": 1724406502
+        "sec": 1724407238
       }
     },
     {
@@ -583,10 +583,10 @@
       "date": "23-08-2024",
       "hour": "10:41",
       "location": "Faro, Faro, Conceição E Estoi",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 26,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Conceição E Estoi",
@@ -597,9 +597,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Conceição E Estoi ",
       "active": true,
@@ -623,7 +623,62 @@
         "sec": 1724406259
       },
       "updated": {
-        "sec": 1724406502
+        "sec": 1724407571
+      }
+    },
+    {
+      "_id": {
+        "$id": "66c85f13cfcafe21235a2a42"
+      },
+      "id": "20241044619",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724407320
+      },
+      "date": "23-08-2024",
+      "hour": "11:02",
+      "location": "Braga, Guimarães, Longos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Longos",
+      "dico": "0308",
+      "lat": 41.522127,
+      "lng": -8.368634,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Eira Velha ",
+      "active": true,
+      "sadoId": "20241044619",
+      "sharepointId": 24174010,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1724407571
+      },
+      "updated": {
+        "sec": 1724407589
       }
     }
   ]
