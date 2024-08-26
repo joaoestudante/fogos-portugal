@@ -369,9 +369,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Felgueiras ",
       "active": true,
@@ -399,7 +399,7 @@
         "sec": 1724642177
       },
       "updated": {
-        "sec": 1724657418
+        "sec": 1724667131
       }
     },
     {
@@ -471,8 +471,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Rio Frio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Rio Frio",
@@ -509,7 +509,7 @@
         "sec": 1724661610
       },
       "updated": {
-        "sec": 1724664010
+        "sec": 1724667858
       }
     },
     {
@@ -585,8 +585,8 @@
       "location": "Santarém, Alcanena, Minde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 7,
+      "man": 5,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Alcanena",
       "freguesia": "Minde",
@@ -623,7 +623,7 @@
         "sec": 1724663771
       },
       "updated": {
-        "sec": 1724666770
+        "sec": 1724667977
       }
     },
     {
@@ -683,46 +683,42 @@
     },
     {
       "_id": {
-        "$id": "66cc5357ea279156ac7f6402"
+        "$id": "66cc58bbea279156ac7f6425"
       },
-      "id": "20241057542",
+      "id": "20241057690",
       "coords": true,
       "dateTime": {
-        "sec": 1724666100
+        "sec": 1724667840
       },
       "date": "26-08-2024",
-      "hour": "10:55",
-      "location": "Lisboa, Vila Franca de Xira, Vialonga",
+      "hour": "11:24",
+      "location": "Aveiro, Santa Maria da Feira, Caldas De São Jorge E Pigeiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Vila Franca De Xira",
-      "freguesia": "Vialonga",
-      "dico": "1114",
-      "lat": 38.878017,
-      "lng": -9.087262,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Caldas De São Jorge E Pigeiros",
+      "dico": "0109",
+      "lat": 40.94748,
+      "lng": -8.493676,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
+      "statusCode": 3,
       "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "status": "Despacho",
       "important": false,
-      "localidade": "Vialonga ",
+      "localidade": "União Das Freguesias De Caldas De São Jorge E Pigeiros ",
       "active": true,
-      "sadoId": "20241057542",
-      "sharepointId": 24186933,
+      "sadoId": "20241057690",
+      "sharepointId": 24187081,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 78.305,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Estrada da Alfarrobeira (Quinta da Flamenga)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -731,13 +727,72 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1724666711
+        "sec": 1724668091
       },
       "updated": {
-        "sec": 1724666770
+        "sec": 1724668105
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cc593aea279156ac7f642f"
+      },
+      "id": "20241057707",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724667960
+      },
+      "date": "26-08-2024",
+      "hour": "11:26",
+      "location": "Porto, Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "dico": "1303",
+      "lat": 41.37109,
+      "lng": -8.202531,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure ",
+      "active": true,
+      "sadoId": "20241057707",
+      "sharepointId": 24187098,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 392.967,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida Doutor Magalhães Lemos. 4610-106 Felgueiras. Portugal (Quinta de Samoca)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724668218
+      },
+      "updated": {
+        "sec": 1724668251
       }
     }
   ]
