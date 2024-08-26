@@ -522,8 +522,8 @@
       "location": "Beja, Moura, Santo Agostinho E São João Baptista E Santo Amador",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Santo Agostinho E São João Baptista E Santo Amador",
@@ -560,7 +560,7 @@
         "sec": 1724641570
       },
       "updated": {
-        "sec": 1724643131
+        "sec": 1724645651
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Braga, Póvoa de Lanhoso, Calvos E Frades",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 5,
+      "man": 18,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Calvos E Frades",
@@ -589,9 +589,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Frades ",
       "active": true,
@@ -619,7 +619,7 @@
         "sec": 1724642177
       },
       "updated": {
-        "sec": 1724643731
+        "sec": 1724645651
       }
     },
     {
@@ -642,15 +642,15 @@
       "concelho": "Resende",
       "freguesia": "Felgueiras E Feirão",
       "dico": "1813",
-      "lat": 41.066329,
-      "lng": -7.928439,
+      "lat": 41.051517,
+      "lng": -7.927235,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Felgueiras ",
       "active": true,
@@ -678,7 +678,7 @@
         "sec": 1724642177
       },
       "updated": {
-        "sec": 1724643731
+        "sec": 1724644937
       }
     },
     {
@@ -707,9 +707,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santa Cristina ",
       "active": true,
@@ -733,7 +733,7 @@
         "sec": 1724642769
       },
       "updated": {
-        "sec": 1724643494
+        "sec": 1724645771
       }
     },
     {
@@ -747,26 +747,26 @@
       },
       "date": "26-08-2024",
       "hour": "04:45",
-      "location": "Viseu, Cinfães, Souselo",
+      "location": "Viseu, Cinfães, Alhões, Bustelo, Gralheira E Ramires",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 16,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Cinfães",
-      "freguesia": "Souselo",
+      "freguesia": "Alhões, Bustelo, Gralheira E Ramires",
       "dico": "1804",
-      "lat": 41.06032,
-      "lng": -8.2128,
+      "lat": 41.051449,
+      "lng": -8.011804,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Souselo ",
+      "localidade": "Ramires ",
       "active": true,
       "sadoId": "20241056358",
       "sharepointId": 24185749,
@@ -788,7 +788,66 @@
         "sec": 1724644337
       },
       "updated": {
-        "sec": 1724644352
+        "sec": 1724645651
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cbfdef12ae7a346842abd1"
+      },
+      "id": "20241056362",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724644200
+      },
+      "date": "26-08-2024",
+      "hour": "04:50",
+      "location": "Viseu, Resende, Felgueiras E Feirão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Resende",
+      "freguesia": "Felgueiras E Feirão",
+      "dico": "1813",
+      "lat": 41.060338,
+      "lng": -7.929703,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Barreiro ",
+      "active": true,
+      "sadoId": "20241056362",
+      "sharepointId": 24185753,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 896.663,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Barreiro",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724644847
+      },
+      "updated": {
+        "sec": 1724645292
       }
     }
   ]
