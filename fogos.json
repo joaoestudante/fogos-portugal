@@ -239,8 +239,8 @@
       "location": "Porto, Amarante, Ansiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 12,
+      "man": 40,
+      "terrain": 11,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Ansiães",
@@ -281,7 +281,7 @@
         "sec": 1724595370
       },
       "updated": {
-        "sec": 1724666897
+        "sec": 1724672771
       }
     },
     {
@@ -695,8 +695,8 @@
       "location": "Porto, Paços de Ferreira, Ferreira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 13,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
       "freguesia": "Ferreira",
@@ -733,7 +733,7 @@
         "sec": 1724669290
       },
       "updated": {
-        "sec": 1724671098
+        "sec": 1724672771
       }
     },
     {
@@ -750,8 +750,8 @@
       "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 8,
+      "man": 45,
+      "terrain": 10,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
@@ -788,7 +788,7 @@
         "sec": 1724669779
       },
       "updated": {
-        "sec": 1724672171
+        "sec": 1724672298
       }
     },
     {
@@ -817,9 +817,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Ancede E Ribadouro ",
       "active": true,
@@ -843,7 +843,7 @@
         "sec": 1724670490
       },
       "updated": {
-        "sec": 1724671099
+        "sec": 1724672771
       }
     },
     {
@@ -872,9 +872,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Mancelos ",
       "active": true,
@@ -898,7 +898,7 @@
         "sec": 1724670490
       },
       "updated": {
-        "sec": 1724671331
+        "sec": 1724672650
       }
     },
     {
@@ -927,9 +927,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lage ",
       "active": true,
@@ -937,8 +937,12 @@
       "sharepointId": 24187417,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 37.8381,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Moinho da Torre (Areia)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -953,7 +957,62 @@
         "sec": 1724672171
       },
       "updated": {
-        "sec": 1724672185
+        "sec": 1724672771
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cc6a8a60eeea5a9130f729"
+      },
+      "id": "20241058063",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724672460
+      },
+      "date": "26-08-2024",
+      "hour": "12:41",
+      "location": "Bragança, Vila Flor, Freixiel",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Vila Flor",
+      "freguesia": "Freixiel",
+      "dico": "0410",
+      "lat": 41.33674,
+      "lng": -7.247694,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Freixiel ",
+      "active": true,
+      "sadoId": "20241058063",
+      "sharepointId": 24187454,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1724672650
+      },
+      "updated": {
+        "sec": 1724672772
       }
     }
   ]
