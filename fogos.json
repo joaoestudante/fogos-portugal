@@ -520,15 +520,15 @@
       "concelho": "Tabuaço",
       "freguesia": "Tabuaço",
       "dico": "1819",
-      "lat": 41.117674,
-      "lng": -7.569946,
+      "lat": 41.067938,
+      "lng": -7.527605,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Tabuaço ",
       "active": true,
@@ -552,7 +552,7 @@
         "sec": 1724757972
       },
       "updated": {
-        "sec": 1724758932
+        "sec": 1724759298
       }
     },
     {
@@ -569,7 +569,7 @@
       "location": "Vila Real, Montalegre, Ferral",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
+      "man": 16,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Montalegre",
@@ -581,9 +581,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Ferral ",
       "active": true,
@@ -607,7 +607,7 @@
         "sec": 1724757973
       },
       "updated": {
-        "sec": 1724758933
+        "sec": 1724759771
       }
     },
     {
@@ -624,8 +624,8 @@
       "location": "Braga, Cabeceiras de Basto, Rio Douro",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 4,
+      "man": 40,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Rio Douro",
@@ -636,9 +636,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Rio Douro ",
       "active": true,
@@ -666,7 +666,117 @@
         "sec": 1724758330
       },
       "updated": {
-        "sec": 1724758933
+        "sec": 1724759771
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cdbedb117a2a4d554b347b"
+      },
+      "id": "20241062716",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724759700
+      },
+      "date": "27-08-2024",
+      "hour": "12:55",
+      "location": "Guarda, Celorico da Beira, Lajeosa Do Mondego",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Celorico Da Beira",
+      "freguesia": "Lajeosa Do Mondego",
+      "dico": "0903",
+      "lat": 40.627929,
+      "lng": -7.337808,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lageosa Do Mondego ",
+      "active": true,
+      "sadoId": "20241062716",
+      "sharepointId": 24192107,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1724759771
+      },
+      "updated": {
+        "sec": 1724759788
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cdbedb117a2a4d554b347c"
+      },
+      "id": "20241062701",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724759460
+      },
+      "date": "27-08-2024",
+      "hour": "12:51",
+      "location": "Lisboa, Amadora, Alfragide",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Amadora",
+      "freguesia": "Alfragide",
+      "dico": "1115",
+      "lat": 38.73333,
+      "lng": -9.217778,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alfragide ",
+      "active": true,
+      "sadoId": "20241062701",
+      "sharepointId": 24192092,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1724759771
+      },
+      "updated": {
+        "sec": 1724759813
       }
     }
   ]
