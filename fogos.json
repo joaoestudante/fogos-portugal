@@ -518,7 +518,7 @@
       "location": "Viana Do Castelo, Ponte da Barca, Sampriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
+      "man": 6,
       "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
@@ -556,7 +556,7 @@
         "sec": 1724867418
       },
       "updated": {
-        "sec": 1724870170
+        "sec": 1724874010
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Portalegre, Elvas, Caia, São Pedro E Alcáçova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Portalegre",
       "concelho": "Elvas",
       "freguesia": "Caia, São Pedro E Alcáçova",
@@ -666,7 +666,7 @@
         "sec": 1724871489
       },
       "updated": {
-        "sec": 1724873050
+        "sec": 1724874010
       }
     },
     {
@@ -695,9 +695,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Peto De Lagarelhos ",
       "active": true,
@@ -725,7 +725,7 @@
         "sec": 1724871640
       },
       "updated": {
-        "sec": 1724873172
+        "sec": 1724874130
       }
     },
     {
@@ -803,15 +803,15 @@
       "concelho": "Ferreira Do Zêzere",
       "freguesia": "Nossa Senhora Do Pranto",
       "dico": "1411",
-      "lat": 39.749,
-      "lng": -8.3053,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 39.747837,
+      "lng": -8.303842,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casal Do Carril ",
       "active": true,
@@ -835,7 +835,7 @@
         "sec": 1724873050
       },
       "updated": {
-        "sec": 1724873650
+        "sec": 1724874129
       }
     },
     {
@@ -970,8 +970,8 @@
       "location": "Viseu, Cinfães, Tendais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 28,
+      "terrain": 6,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Tendais",
@@ -1008,7 +1008,176 @@
         "sec": 1724873173
       },
       "updated": {
-        "sec": 1724873298
+        "sec": 1724874129
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cf7ca36bf0011ce4196758"
+      },
+      "id": "20241069001",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724873580
+      },
+      "date": "28-08-2024",
+      "hour": "20:33",
+      "location": "Porto, Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "dico": "1303",
+      "lat": 41.36172,
+      "lng": -8.200521,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure ",
+      "active": true,
+      "sadoId": "20241069001",
+      "sharepointId": 24198393,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 305.173,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.36172016.-8.20052031) - Rua Dr. Gomes de Aciegas. 4610-171 Felgueiras. Portugal (Fontela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724873891
+      },
+      "updated": {
+        "sec": 1724874129
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cf7d1b6bf0011ce4196761"
+      },
+      "id": "20241069032",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724873400
+      },
+      "date": "28-08-2024",
+      "hour": "20:30",
+      "location": "Porto, Vila Nova de Gaia, Avintes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Avintes",
+      "dico": "1317",
+      "lat": 41.11378,
+      "lng": -8.551032,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avintes ",
+      "active": true,
+      "sadoId": "20241069032",
+      "sharepointId": 24198424,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1724874011
+      },
+      "updated": {
+        "sec": 1724874033
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cf7d926bf0011ce4196767"
+      },
+      "id": "20241069034",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724873700
+      },
+      "date": "28-08-2024",
+      "hour": "20:35",
+      "location": "Viseu, Lamego, Lamego (Almacave E Sé)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Lamego",
+      "freguesia": "Lamego (Almacave E Sé)",
+      "dico": "1805",
+      "lat": 41.09878,
+      "lng": -7.808172,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamego ",
+      "active": true,
+      "sadoId": "20241069034",
+      "sharepointId": 24198426,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1724874130
+      },
+      "updated": {
+        "sec": 1724874130
       }
     }
   ]
