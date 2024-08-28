@@ -290,8 +290,8 @@
       "location": "Bragança, Alfândega da Fé, Gebelim E Soeima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Bragança",
       "concelho": "Alfândega Da Fé",
       "freguesia": "Gebelim E Soeima",
@@ -328,7 +328,7 @@
         "sec": 1724802130
       },
       "updated": {
-        "sec": 1724838618
+        "sec": 1724838738
       }
     },
     {
@@ -400,8 +400,8 @@
       "location": "Porto, Amarante, Salvador Do Monte",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 22,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Salvador Do Monte",
@@ -412,9 +412,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vila Nova ",
       "active": true,
@@ -442,7 +442,7 @@
         "sec": 1724836339
       },
       "updated": {
-        "sec": 1724838130
+        "sec": 1724839692
       }
     },
     {
@@ -512,10 +512,10 @@
       "date": "28-08-2024",
       "hour": "10:47",
       "location": "Porto, Penafiel, Lagares E Figueira",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 26,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Lagares E Figueira",
@@ -526,9 +526,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Lagares ",
       "active": true,
@@ -552,7 +552,117 @@
         "sec": 1724838617
       },
       "updated": {
-        "sec": 1724838641
+        "sec": 1724839332
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cef3c2c51250311158d7b7"
+      },
+      "id": "20241066579",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724837880
+      },
+      "date": "28-08-2024",
+      "hour": "10:38",
+      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Fânzeres E São Pedro Da Cova",
+      "dico": "1304",
+      "lat": 41.135602,
+      "lng": -8.488049,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Beloi ",
+      "active": true,
+      "sadoId": "20241066579",
+      "sharepointId": 24195971,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1724838850
+      },
+      "updated": {
+        "sec": 1724839572
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cef5a5c51250311158d7c4"
+      },
+      "id": "20241066608",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724838900
+      },
+      "date": "28-08-2024",
+      "hour": "10:55",
+      "location": "Porto, Penafiel, Abragão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Abragão",
+      "dico": "1311",
+      "lat": 41.171236,
+      "lng": -8.220123,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vez De Aviz ",
+      "active": true,
+      "sadoId": "20241066608",
+      "sharepointId": 24196000,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724839333
+      },
+      "updated": {
+        "sec": 1724839692
       }
     }
   ]
