@@ -235,8 +235,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 6,
       "meios_aquaticos": 0,
-      "man": 151,
-      "terrain": 46,
+      "man": 152,
+      "terrain": 47,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -273,7 +273,7 @@
         "sec": 1724777538
       },
       "updated": {
-        "sec": 1724856018
+        "sec": 1724856971
       }
     },
     {
@@ -689,15 +689,15 @@
       "concelho": "Viana Do Castelo",
       "freguesia": "Mazarefes E Vila Fria",
       "dico": "1609",
-      "lat": 41.669174,
-      "lng": -8.763235,
+      "lat": 41.655502,
+      "lng": -8.74718,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rua Do Canhões ",
       "active": true,
@@ -725,7 +725,7 @@
         "sec": 1724853980
       },
       "updated": {
-        "sec": 1724854002
+        "sec": 1724856971
       }
     },
     {
@@ -813,9 +813,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Paredes ",
       "active": true,
@@ -839,7 +839,7 @@
         "sec": 1724856018
       },
       "updated": {
-        "sec": 1724856041
+        "sec": 1724856731
       }
     },
     {
@@ -856,8 +856,8 @@
       "location": "Porto, Penafiel, Duas Igrejas",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Duas Igrejas",
@@ -878,8 +878,12 @@
       "sharepointId": 24197256,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 387.669,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida Central de Duas Igrejas (Padrão)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -894,7 +898,66 @@
         "sec": 1724856377
       },
       "updated": {
-        "sec": 1724856377
+        "sec": 1724856971
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cf399b9c31051c7d07f14e"
+      },
+      "id": "20241067904",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724856300
+      },
+      "date": "28-08-2024",
+      "hour": "15:45",
+      "location": "Aveiro, Águeda, Recardães E Espinhel",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Aveiro",
+      "concelho": "Águeda",
+      "freguesia": "Recardães E Espinhel",
+      "dico": "0101",
+      "lat": 40.56736,
+      "lng": -8.50037,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Espinhel ",
+      "active": true,
+      "sadoId": "20241067904",
+      "sharepointId": 24197296,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0.93375,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Miradouros da Pateira de Espinhel. Rua da Pateira. 3750-650 Águeda. Portugal (Fermentelos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1724856731
+      },
+      "updated": {
+        "sec": 1724856971
       }
     }
   ]
