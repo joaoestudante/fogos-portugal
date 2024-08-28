@@ -180,8 +180,8 @@
       "location": "Portalegre, Portalegre, Fortios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 62,
-      "terrain": 19,
+      "man": 64,
+      "terrain": 20,
       "district": "Portalegre",
       "concelho": "Portalegre",
       "freguesia": "Fortios",
@@ -218,7 +218,7 @@
         "sec": 1724767450
       },
       "updated": {
-        "sec": 1724840410
+        "sec": 1724842570
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 48,
-      "terrain": 12,
+      "man": 29,
+      "terrain": 9,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Fânzeres E São Pedro Da Cova",
@@ -526,9 +526,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Beloi ",
       "active": true,
@@ -552,7 +552,7 @@
         "sec": 1724838850
       },
       "updated": {
-        "sec": 1724841733
+        "sec": 1724843290
       }
     },
     {
@@ -569,8 +569,8 @@
       "location": "Porto, Penafiel, Abragão",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 5,
+      "man": 29,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Abragão",
@@ -607,7 +607,7 @@
         "sec": 1724839333
       },
       "updated": {
-        "sec": 1724841850
+        "sec": 1724842570
       }
     },
     {
@@ -622,9 +622,9 @@
       "date": "28-08-2024",
       "hour": "11:05",
       "location": "Portalegre, Crato, Crato E Mártires, Flor Da Rosa E Vale Do Peso",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
+      "man": 37,
       "terrain": 10,
       "district": "Portalegre",
       "concelho": "Crato",
@@ -666,7 +666,7 @@
         "sec": 1724839939
       },
       "updated": {
-        "sec": 1724841611
+        "sec": 1724843095
       }
     },
     {
@@ -683,8 +683,8 @@
       "location": "Évora, Reguengos de Monsaraz, Reguengos De Monsaraz",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 2,
+      "man": 24,
+      "terrain": 5,
       "district": "Évora",
       "concelho": "Reguengos De Monsaraz",
       "freguesia": "Reguengos De Monsaraz",
@@ -695,11 +695,11 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Reguengos De Monsaraz ",
+      "localidade": "Caridade ",
       "active": true,
       "sadoId": "20241066843",
       "sharepointId": 24196235,
@@ -721,7 +721,62 @@
         "sec": 1724841733
       },
       "updated": {
-        "sec": 1724842098
+        "sec": 1724843291
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cf051af019451f0005a58d"
+      },
+      "id": "20241066947",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724842920
+      },
+      "date": "28-08-2024",
+      "hour": "12:02",
+      "location": "Vila Real, Vila Pouca de Aguiar, Telões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Telões",
+      "dico": "1713",
+      "lat": 41.42424,
+      "lng": -7.67562,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Telões ",
+      "active": true,
+      "sadoId": "20241066947",
+      "sharepointId": 24196339,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1724843290
+      },
+      "updated": {
+        "sec": 1724843307
       }
     }
   ]
