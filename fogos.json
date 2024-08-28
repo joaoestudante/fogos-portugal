@@ -412,9 +412,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Vila Nova ",
       "active": true,
@@ -442,62 +442,7 @@
         "sec": 1724836339
       },
       "updated": {
-        "sec": 1724837291
-      }
-    },
-    {
-      "_id": {
-        "$id": "66cee9f377963b339301e88b"
-      },
-      "id": "20241066384",
-      "coords": true,
-      "dateTime": {
-        "sec": 1724836140
-      },
-      "date": "28-08-2024",
-      "hour": "10:09",
-      "location": "Braga, Barcelos, Sequeade E Bastuço (São João E Santo Estevão)",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Barcelos",
-      "freguesia": "Sequeade E Bastuço (São João E Santo Estevão)",
-      "dico": "0302",
-      "lat": 41.505919,
-      "lng": -8.528374,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Bastuço S. João ",
-      "active": true,
-      "sadoId": "20241066384",
-      "sharepointId": 24195776,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "created": {
-        "sec": 1724836339
-      },
-      "updated": {
-        "sec": 1724837051
+        "sec": 1724837844
       }
     },
     {
@@ -536,8 +481,12 @@
       "sharepointId": 24195867,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 80.7856,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Talude Militar (Catujal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -552,7 +501,62 @@
         "sec": 1724837290
       },
       "updated": {
-        "sec": 1724837290
+        "sec": 1724837902
+      }
+    },
+    {
+      "_id": {
+        "$id": "66cef081c51250311158d78e"
+      },
+      "id": "20241066533",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724837760
+      },
+      "date": "28-08-2024",
+      "hour": "10:36",
+      "location": "Portalegre, Ponte de Sor, Ponte De Sor, Tramaga E Vale De Açor",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Portalegre",
+      "concelho": "Ponte De Sor",
+      "freguesia": "Ponte De Sor, Tramaga E Vale De Açor",
+      "dico": "1213",
+      "lat": 39.248463,
+      "lng": -8.004513,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ponte De Sor ",
+      "active": true,
+      "sadoId": "20241066533",
+      "sharepointId": 24195925,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1724838017
+      },
+      "updated": {
+        "sec": 1724838040
       }
     }
   ]
