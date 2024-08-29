@@ -70,7 +70,7 @@
       "location": "Portalegre, Portalegre, Fortios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 15,
       "terrain": 3,
       "district": "Portalegre",
       "concelho": "Portalegre",
@@ -108,7 +108,7 @@
         "sec": 1724767450
       },
       "updated": {
-        "sec": 1724928970
+        "sec": 1724930651
       }
     },
     {
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boelhe ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1724924410
       },
       "updated": {
-        "sec": 1724929240
+        "sec": 1724930293
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Santarém, Alcanena, Minde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 31,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Alcanena",
       "freguesia": "Minde",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Covão Do Coelho ",
       "active": true,
@@ -540,8 +540,12 @@
       "sharepointId": 24200761,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 252.028,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Covão do Coelho (EN243 (EN243) Km 22)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -556,7 +560,117 @@
         "sec": 1724929938
       },
       "updated": {
-        "sec": 1724929955
+        "sec": 1724930530
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d05a5b584e51409214d405"
+      },
+      "id": "20241071419",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724930340
+      },
+      "date": "29-08-2024",
+      "hour": "12:19",
+      "location": "Lisboa, Loures, Loures",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Loures",
+      "dico": "1107",
+      "lat": 38.828612,
+      "lng": -9.176421,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Loures ",
+      "active": true,
+      "sadoId": "20241071419",
+      "sharepointId": 24200811,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1724930651
+      },
+      "updated": {
+        "sec": 1724930666
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d05a5b584e51409214d406"
+      },
+      "id": "20241071432",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724930040
+      },
+      "date": "29-08-2024",
+      "hour": "12:14",
+      "location": "Aveiro, Estarreja, Salreu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Salreu",
+      "dico": "0108",
+      "lat": 40.737334,
+      "lng": -8.565235,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Salreu ",
+      "active": true,
+      "sadoId": "20241071432",
+      "sharepointId": 24200824,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1724930651
+      },
+      "updated": {
+        "sec": 1724930688
       }
     }
   ]
