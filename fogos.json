@@ -70,8 +70,8 @@
       "location": "Portalegre, Portalegre, Fortios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Portalegre",
       "freguesia": "Fortios",
@@ -108,7 +108,7 @@
         "sec": 1724767450
       },
       "updated": {
-        "sec": 1724916131
+        "sec": 1724926450
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 45,
-      "terrain": 17,
+      "man": 50,
+      "terrain": 18,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -163,7 +163,7 @@
         "sec": 1724777538
       },
       "updated": {
-        "sec": 1724926101
+        "sec": 1724926820
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Porto, Penafiel, Boelhe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 27,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Boelhe",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Boelhe ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1724924410
       },
       "updated": {
-        "sec": 1724925258
+        "sec": 1724927051
       }
     },
     {
@@ -349,14 +349,14 @@
       "location": "Faro, Loulé, Almancil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Almancil",
       "dico": "0808",
-      "lat": 37.0709,
-      "lng": -7.97754,
+      "lat": 37.070715,
+      "lng": -7.977468,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -391,7 +391,7 @@
         "sec": 1724925021
       },
       "updated": {
-        "sec": 1724926101
+        "sec": 1724927412
       }
     },
     {
@@ -406,10 +406,10 @@
       "date": "29-08-2024",
       "hour": "10:59",
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Cabreiros E Albergaria Da Serra ",
       "active": true,
@@ -450,7 +450,62 @@
         "sec": 1724926101
       },
       "updated": {
-        "sec": 1724926125
+        "sec": 1724927170
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d04bd228f77d64607878dd"
+      },
+      "id": "20241071145",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724926680
+      },
+      "date": "29-08-2024",
+      "hour": "11:18",
+      "location": "Viseu, Nelas, Canas De Senhorim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Nelas",
+      "freguesia": "Canas De Senhorim",
+      "dico": "1809",
+      "lat": 40.502898,
+      "lng": -7.908972,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Canas De Senhorim ",
+      "active": true,
+      "sadoId": "20241071145",
+      "sharepointId": 24200537,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1724926930
+      },
+      "updated": {
+        "sec": 1724927290
       }
     }
   ]
