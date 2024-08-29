@@ -294,8 +294,8 @@
       "location": "Porto, Penafiel, Boelhe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Boelhe",
@@ -332,7 +332,7 @@
         "sec": 1724924410
       },
       "updated": {
-        "sec": 1724944570
+        "sec": 1724945654
       }
     },
     {
@@ -406,9 +406,9 @@
       "date": "29-08-2024",
       "hour": "12:46",
       "location": "Bragança, Vila Flor, Roios",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 122,
+      "man": 124,
       "terrain": 40,
       "district": "Bragança",
       "concelho": "Vila Flor",
@@ -446,7 +446,7 @@
         "sec": 1724932330
       },
       "updated": {
-        "sec": 1724945298
+        "sec": 1724946010
       }
     },
     {
@@ -636,8 +636,8 @@
       "location": "Faro, Lagos, Luz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Luz",
@@ -678,7 +678,7 @@
         "sec": 1724940610
       },
       "updated": {
-        "sec": 1724944931
+        "sec": 1724945413
       }
     },
     {
@@ -707,9 +707,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ligares ",
       "active": true,
@@ -733,7 +733,7 @@
         "sec": 1724943372
       },
       "updated": {
-        "sec": 1724945298
+        "sec": 1724945413
       }
     },
     {
@@ -803,16 +803,16 @@
       "date": "29-08-2024",
       "hour": "16:11",
       "location": "Aveiro, Águeda, Aguada De Cima",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 7,
+      "man": 21,
+      "terrain": 6,
       "district": "Aveiro",
       "concelho": "Águeda",
       "freguesia": "Aguada De Cima",
       "dico": "0101",
-      "lat": 40.513566,
-      "lng": -8.417482,
+      "lat": 40.509122,
+      "lng": -8.416845,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -847,7 +847,7 @@
         "sec": 1724944570
       },
       "updated": {
-        "sec": 1724945050
+        "sec": 1724946010
       }
     },
     {
@@ -870,15 +870,15 @@
       "concelho": "Vagos",
       "freguesia": "Vagos E Santo António",
       "dico": "0118",
-      "lat": 40.524243,
-      "lng": -8.69721,
+      "lat": 40.517753,
+      "lng": -8.714607,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lomba ",
       "active": true,
@@ -902,7 +902,7 @@
         "sec": 1724944570
       },
       "updated": {
-        "sec": 1724945298
+        "sec": 1724946011
       }
     },
     {
@@ -919,8 +919,8 @@
       "location": "Porto, Baião, Gestaçô",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
+      "man": 26,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Gestaçô",
@@ -957,7 +957,7 @@
         "sec": 1724944930
       },
       "updated": {
-        "sec": 1724945050
+        "sec": 1724946011
       }
     },
     {
@@ -1013,6 +1013,175 @@
       },
       "updated": {
         "sec": 1724945314
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d0940547333210ea14e800"
+      },
+      "id": "20241072517",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724945280
+      },
+      "date": "29-08-2024",
+      "hour": "16:28",
+      "location": "Porto, Penafiel, Abragão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Abragão",
+      "dico": "1311",
+      "lat": 41.17131,
+      "lng": -8.21887,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Abragão ",
+      "active": true,
+      "sadoId": "20241072517",
+      "sharepointId": 24201909,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 229.206,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua São João de Vez de Aviz. 4560-034 Penafiel. Portugal (Vez de Aviz)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724945413
+      },
+      "updated": {
+        "sec": 1724946011
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d0965b47333210ea14e819"
+      },
+      "id": "20241072566",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724945760
+      },
+      "date": "29-08-2024",
+      "hour": "16:36",
+      "location": "Porto, Penafiel, Boelhe",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Boelhe",
+      "dico": "1311",
+      "lat": 41.133392,
+      "lng": -8.248655,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Samarda ",
+      "active": true,
+      "sadoId": "20241072566",
+      "sharepointId": 24201958,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1724946011
+      },
+      "updated": {
+        "sec": 1724946011
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d0965b47333210ea14e81a"
+      },
+      "id": "20241072561",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724945580
+      },
+      "date": "29-08-2024",
+      "hour": "16:33",
+      "location": "Faro, Portimão, Mexilhoeira Grande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Mexilhoeira Grande",
+      "dico": "0811",
+      "lat": 37.176362,
+      "lng": -8.625145,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Monte Velho ",
+      "active": true,
+      "sadoId": "20241072561",
+      "sharepointId": 24201953,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1724946011
+      },
+      "updated": {
+        "sec": 1724946011
       }
     }
   ]
