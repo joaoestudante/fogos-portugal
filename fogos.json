@@ -349,8 +349,8 @@
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -391,7 +391,7 @@
         "sec": 1724926101
       },
       "updated": {
-        "sec": 1724931018
+        "sec": 1724931492
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Lisboa, Odivelas, Pontinha E Famões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Odivelas",
       "freguesia": "Pontinha E Famões",
@@ -501,7 +501,7 @@
         "sec": 1724928970
       },
       "updated": {
-        "sec": 1724929496
+        "sec": 1724931970
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Santarém, Alcanena, Minde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 8,
+      "man": 16,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Alcanena",
       "freguesia": "Minde",
@@ -560,7 +560,7 @@
         "sec": 1724929938
       },
       "updated": {
-        "sec": 1724931252
+        "sec": 1724931734
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Aveiro, Estarreja, Salreu",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Estarreja",
       "freguesia": "Salreu",
@@ -589,9 +589,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Salreu ",
       "active": true,
@@ -615,7 +615,125 @@
         "sec": 1724930651
       },
       "updated": {
-        "sec": 1724930688
+        "sec": 1724931970
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d05da5584e51409214d422"
+      },
+      "id": "20241071473",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724931120
+      },
+      "date": "29-08-2024",
+      "hour": "12:32",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.63697,
+      "lng": -9.2093,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20241071473",
+      "sharepointId": 24200865,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 78.9887,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Hortense Luz (Robalo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1724931493
+      },
+      "updated": {
+        "sec": 1724931610
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d05f82584e51409214d42c"
+      },
+      "id": "20241071515",
+      "coords": true,
+      "dateTime": {
+        "sec": 1724931720
+      },
+      "date": "29-08-2024",
+      "hour": "12:42",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Miranda",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Miranda",
+      "dico": "1601",
+      "lat": 41.823397,
+      "lng": -8.517111,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Soutelinhos ",
+      "active": true,
+      "sadoId": "20241071515",
+      "sharepointId": 24200907,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 428.147,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Soutelinhos (Eido)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1724931970
+      },
+      "updated": {
+        "sec": 1724931993
       }
     }
   ]
