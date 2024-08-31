@@ -353,8 +353,8 @@
       "location": "Beja, Ferreira do Alentejo, Alfundão E Peroguarda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Alfundão E Peroguarda",
@@ -395,62 +395,7 @@
         "sec": 1725118091
       },
       "updated": {
-        "sec": 1725120258
-      }
-    },
-    {
-      "_id": {
-        "$id": "66d338e431d22755590e6e88"
-      },
-      "id": "20241081014",
-      "coords": true,
-      "dateTime": {
-        "sec": 1725118200
-      },
-      "date": "31-08-2024",
-      "hour": "16:30",
-      "location": "Vila Real, Vila Pouca de Aguiar, Telões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Vila Real",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Telões",
-      "dico": "1713",
-      "lat": 41.423195,
-      "lng": -7.687255,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Telões ",
-      "active": true,
-      "sadoId": "20241081014",
-      "sharepointId": 24210406,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "created": {
-        "sec": 1725118692
-      },
-      "updated": {
-        "sec": 1725121332
+        "sec": 1725122297
       }
     },
     {
@@ -479,9 +424,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Barbeitos ",
       "active": true,
@@ -505,7 +450,7 @@
         "sec": 1725119773
       },
       "updated": {
-        "sec": 1725120034
+        "sec": 1725122538
       }
     },
     {
@@ -616,6 +561,65 @@
       },
       "updated": {
         "sec": 1725122052
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d347ea3029e557ac3d3a60"
+      },
+      "id": "20241081265",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725122280
+      },
+      "date": "31-08-2024",
+      "hour": "17:38",
+      "location": "Aveiro, Aveiro, Esgueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Esgueira",
+      "dico": "0105",
+      "lat": 40.64264,
+      "lng": -8.613883,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Esgueira ",
+      "active": true,
+      "sadoId": "20241081265",
+      "sharepointId": 24210657,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 24.1819,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.64263840.-8.61388290) - Praceta Mário Nascimento LT13. 3800-395 Aveiro. Portugal (IP5 (IP5) Km 13)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1725122538
+      },
+      "updated": {
+        "sec": 1725122562
       }
     }
   ]
