@@ -412,7 +412,7 @@
       "location": "Beja, Ferreira do Alentejo, Alfundão E Peroguarda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 20,
       "terrain": 5,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
@@ -424,9 +424,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Herdade Zambujeira ",
       "active": true,
@@ -454,7 +454,7 @@
         "sec": 1725118091
       },
       "updated": {
-        "sec": 1725119178
+        "sec": 1725120258
       }
     },
     {
@@ -469,23 +469,23 @@
       "date": "31-08-2024",
       "hour": "16:30",
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
+      "man": 20,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
       "dico": "1713",
-      "lat": 41.42798,
-      "lng": -7.69459,
+      "lat": 41.423195,
+      "lng": -7.687255,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Telões ",
       "active": true,
@@ -509,7 +509,7 @@
         "sec": 1725118692
       },
       "updated": {
-        "sec": 1725119418
+        "sec": 1725120371
       }
     },
     {
@@ -526,8 +526,8 @@
       "location": "Lisboa, Sintra, Queluz E Belas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Queluz E Belas",
@@ -564,7 +564,117 @@
         "sec": 1725119293
       },
       "updated": {
-        "sec": 1725119308
+        "sec": 1725119773
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d33d1d31d22755590e6eb9"
+      },
+      "id": "20241081088",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725119460
+      },
+      "date": "31-08-2024",
+      "hour": "16:51",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Alvora E Loureda",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Alvora E Loureda",
+      "dico": "1601",
+      "lat": 41.948383,
+      "lng": -8.440253,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Barbeitos ",
+      "active": true,
+      "sadoId": "20241081088",
+      "sharepointId": 24210480,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725119773
+      },
+      "updated": {
+        "sec": 1725120034
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d33e8931d22755590e6ed4"
+      },
+      "id": "20241081127",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725120000
+      },
+      "date": "31-08-2024",
+      "hour": "17:00",
+      "location": "Braga, Vieira do Minho, Rossas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Rossas",
+      "dico": "0311",
+      "lat": 41.586948,
+      "lng": -8.073845,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20241081127",
+      "sharepointId": 24210519,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1725120137
+      },
+      "updated": {
+        "sec": 1725120618
       }
     }
   ]
