@@ -184,8 +184,8 @@
       "location": "Guarda, Figueira de Castelo Rodrigo, Almofala E Escarigo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Almofala E Escarigo",
@@ -222,7 +222,7 @@
         "sec": 1725092530
       },
       "updated": {
-        "sec": 1725109499
+        "sec": 1725119293
       }
     },
     {
@@ -418,15 +418,15 @@
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Alfundão E Peroguarda",
       "dico": "0208",
-      "lat": 38.114566,
-      "lng": -8.044592,
+      "lat": 38.08683,
+      "lng": -8.030932,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Herdade Zambujeira ",
       "active": true,
@@ -454,7 +454,7 @@
         "sec": 1725118091
       },
       "updated": {
-        "sec": 1725118115
+        "sec": 1725119178
       }
     },
     {
@@ -471,8 +471,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 26,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -483,9 +483,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Telões ",
       "active": true,
@@ -509,7 +509,62 @@
         "sec": 1725118692
       },
       "updated": {
-        "sec": 1725118706
+        "sec": 1725119418
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d33b3d31d22755590e6ea8"
+      },
+      "id": "20241081039",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725118380
+      },
+      "date": "31-08-2024",
+      "hour": "16:33",
+      "location": "Lisboa, Sintra, Queluz E Belas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Queluz E Belas",
+      "dico": "1111",
+      "lat": 38.77098,
+      "lng": -9.271079,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Idanha ",
+      "active": true,
+      "sadoId": "20241081039",
+      "sharepointId": 24210431,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1725119293
+      },
+      "updated": {
+        "sec": 1725119308
       }
     }
   ]
