@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Melgaço, Castro Laboreiro E Lamas De Mouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 3,
+      "man": 3,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Melgaço",
       "freguesia": "Castro Laboreiro E Lamas De Mouro",
@@ -53,7 +53,7 @@
         "sec": 1725197653
       },
       "updated": {
-        "sec": 1725224049
+        "sec": 1725226219
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Viseu, Resende, São Martinho De Mouros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Resende",
       "freguesia": "São Martinho De Mouros",
@@ -112,7 +112,7 @@
         "sec": 1725198017
       },
       "updated": {
-        "sec": 1725224430
+        "sec": 1725226331
       }
     },
     {
@@ -239,8 +239,8 @@
       "location": "Bragança, Vinhais, Rebordelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 198,
-      "terrain": 69,
+      "man": 200,
+      "terrain": 70,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Rebordelo",
@@ -277,7 +277,7 @@
         "sec": 1725204251
       },
       "updated": {
-        "sec": 1725225257
+        "sec": 1725226331
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Braga, Barcelos, Barqueiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Barcelos",
       "freguesia": "Barqueiros",
@@ -758,9 +758,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Barqueiros ",
       "active": true,
@@ -784,7 +784,66 @@
         "sec": 1725225738
       },
       "updated": {
-        "sec": 1725225755
+        "sec": 1725226219
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d4dcebc6d5ce62cd34e731"
+      },
+      "id": "20241086234",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725225660
+      },
+      "date": "01-09-2024",
+      "hour": "22:21",
+      "location": "Viana Do Castelo, Melgaço, Paderne",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Melgaço",
+      "freguesia": "Paderne",
+      "dico": "1603",
+      "lat": 42.063182,
+      "lng": -8.281892,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pomares ",
+      "active": true,
+      "sadoId": "20241086234",
+      "sharepointId": 24215626,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 585.448,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Pomares (Regueiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725226219
+      },
+      "updated": {
+        "sec": 1725226331
       }
     }
   ]
