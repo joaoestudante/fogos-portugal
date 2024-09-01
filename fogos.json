@@ -70,8 +70,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Sistelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Sistelo",
@@ -108,7 +108,7 @@
         "sec": 1725175690
       },
       "updated": {
-        "sec": 1725179770
+        "sec": 1725183261
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Lisboa, Mafra, Mafra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Mafra",
       "freguesia": "Mafra",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Mafra ",
       "active": true,
@@ -167,7 +167,62 @@
         "sec": 1725183011
       },
       "updated": {
-        "sec": 1725183061
+        "sec": 1725183731
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d4351daeb9865df65aa091"
+      },
+      "id": "20241083647",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725182700
+      },
+      "date": "01-09-2024",
+      "hour": "10:25",
+      "location": "Beja, Ourique, Garvão E Santa Luzia",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Ourique",
+      "freguesia": "Garvão E Santa Luzia",
+      "dico": "0212",
+      "lat": 37.693514,
+      "lng": -8.321288,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Besteiros ",
+      "active": true,
+      "sadoId": "20241083647",
+      "sharepointId": 24213039,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1725183261
+      },
+      "updated": {
+        "sec": 1725183731
       }
     }
   ]
