@@ -744,10 +744,10 @@
       "date": "01-09-2024",
       "hour": "18:04",
       "location": "Lisboa, Loures, Santo António Dos Cavaleiros E Frielas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Santo António Dos Cavaleiros E Frielas",
@@ -784,7 +784,7 @@
         "sec": 1725210500
       },
       "updated": {
-        "sec": 1725216130
+        "sec": 1725219010
       }
     },
     {
@@ -912,17 +912,17 @@
       },
       "date": "01-09-2024",
       "hour": "19:44",
-      "location": "Évora, Évora, Canaviais",
+      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 9,
       "terrain": 3,
       "district": "Évora",
       "concelho": "Évora",
-      "freguesia": "Canaviais",
+      "freguesia": "Bacelo E Senhora Da Saúde",
       "dico": "0705",
-      "lat": 38.608777,
-      "lng": -7.913806,
+      "lat": 38.593644,
+      "lng": -7.869122,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -931,7 +931,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Bairro Dos Canaviais ",
+      "localidade": "Évora ",
       "active": true,
       "sadoId": "20241085723",
       "sharepointId": 24215115,
@@ -953,7 +953,7 @@
         "sec": 1725216498
       },
       "updated": {
-        "sec": 1725217229
+        "sec": 1725218778
       }
     },
     {
@@ -1025,8 +1025,8 @@
       "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 19,
+      "terrain": 4,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Charneca De Caparica E Sobreda",
@@ -1037,9 +1037,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Charneca De Caparica E Sobreda ",
       "active": true,
@@ -1063,7 +1063,117 @@
         "sec": 1725218410
       },
       "updated": {
-        "sec": 1725218410
+        "sec": 1725219011
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d4bee3a46d513d096de73d"
+      },
+      "id": "20241085838",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725217680
+      },
+      "date": "01-09-2024",
+      "hour": "20:08",
+      "location": "Porto, Paredes, Paredes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Paredes",
+      "dico": "1310",
+      "lat": 41.22961,
+      "lng": -8.339471,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gondalães ",
+      "active": true,
+      "sadoId": "20241085838",
+      "sharepointId": 24215230,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1725218531
+      },
+      "updated": {
+        "sec": 1725218745
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d4c04a34b935595a5b2165"
+      },
+      "id": "20241085831",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725218280
+      },
+      "date": "01-09-2024",
+      "hour": "20:18",
+      "location": "Aveiro, Aveiro, Esgueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Esgueira",
+      "dico": "0105",
+      "lat": 40.64268,
+      "lng": -8.61358,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Esgueira ",
+      "active": true,
+      "sadoId": "20241085831",
+      "sharepointId": 24215223,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1725218890
+      },
+      "updated": {
+        "sec": 1725218894
       }
     }
   ]
