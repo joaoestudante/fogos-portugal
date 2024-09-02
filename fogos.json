@@ -13,9 +13,9 @@
       "date": "01-09-2024",
       "hour": "16:21",
       "location": "Bragança, Vinhais, Rebordelo",
-      "aerial": 2,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 260,
+      "man": 259,
       "terrain": 90,
       "district": "Bragança",
       "concelho": "Vinhais",
@@ -53,7 +53,7 @@
         "sec": 1725204251
       },
       "updated": {
-        "sec": 1725286097
+        "sec": 1725287417
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -332,7 +332,7 @@
         "sec": 1725280817
       },
       "updated": {
-        "sec": 1725285370
+        "sec": 1725286578
       }
     },
     {
@@ -585,9 +585,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Resende ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1725284172
       },
       "updated": {
-        "sec": 1725286334
+        "sec": 1725287050
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 3,
       "district": "Évora",
       "concelho": "Évora",
       "freguesia": "Bacelo E Senhora Da Saúde",
@@ -666,7 +666,7 @@
         "sec": 1725284897
       },
       "updated": {
-        "sec": 1725285970
+        "sec": 1725287050
       }
     },
     {
@@ -695,9 +695,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -721,7 +721,7 @@
         "sec": 1725285011
       },
       "updated": {
-        "sec": 1725286335
+        "sec": 1725287170
       }
     },
     {
@@ -791,25 +791,25 @@
       "date": "02-09-2024",
       "hour": "15:08",
       "location": "Castelo Branco, Castelo Branco, Almaceda",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 60,
+      "terrain": 12,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Almaceda",
       "dico": "0502",
-      "lat": 39.94616,
-      "lng": -7.628229,
+      "lat": 39.948196,
+      "lng": -7.635799,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Almaceda ",
+      "localidade": "Martim Branco ",
       "active": true,
       "sadoId": "20241089035",
       "sharepointId": 24218427,
@@ -831,7 +831,66 @@
         "sec": 1725286335
       },
       "updated": {
-        "sec": 1725286349
+        "sec": 1725287417
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d5c8b2b2a40659c645ce26"
+      },
+      "id": "20241089051",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725286260
+      },
+      "date": "02-09-2024",
+      "hour": "15:11",
+      "location": "Lisboa, Odivelas, Odivelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Odivelas",
+      "dico": "1116",
+      "lat": 38.78337,
+      "lng": -9.189785,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Odivelas ",
+      "active": true,
+      "sadoId": "20241089051",
+      "sharepointId": 24218443,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 33.5225,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua António Feijó 17. 2675-472 Odivelas. Portugal (Pombais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1725286578
+      },
+      "updated": {
+        "sec": 1725287417
       }
     }
   ]
