@@ -479,9 +479,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Barão De São Miguel ",
       "active": true,
@@ -509,7 +509,7 @@
         "sec": 1725393978
       },
       "updated": {
-        "sec": 1725396250
+        "sec": 1725396490
       }
     },
     {
@@ -538,9 +538,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Porto ",
       "active": true,
@@ -564,7 +564,176 @@
         "sec": 1725395057
       },
       "updated": {
-        "sec": 1725395651
+        "sec": 1725396618
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d7768a7480725aa44b0bb3"
+      },
+      "id": "20241094724",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725396060
+      },
+      "date": "03-09-2024",
+      "hour": "21:41",
+      "location": "Porto, Gondomar, Rio Tinto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Rio Tinto",
+      "dico": "1304",
+      "lat": 41.16955,
+      "lng": -8.56533,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rio Tinto ",
+      "active": true,
+      "sadoId": "20241094724",
+      "sharepointId": 24224118,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1725396618
+      },
+      "updated": {
+        "sec": 1725396640
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d7768a7480725aa44b0bb4"
+      },
+      "id": "20241094744",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725396420
+      },
+      "date": "03-09-2024",
+      "hour": "21:47",
+      "location": "Bragança, Vila Flor, Roios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Vila Flor",
+      "freguesia": "Roios",
+      "dico": "0410",
+      "lat": 41.31936,
+      "lng": -7.135202,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Roios ",
+      "active": true,
+      "sadoId": "20241094744",
+      "sharepointId": 24224138,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1725396618
+      },
+      "updated": {
+        "sec": 1725396663
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d7768a7480725aa44b0bb5"
+      },
+      "id": "20241094746",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725396480
+      },
+      "date": "03-09-2024",
+      "hour": "21:48",
+      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "Nossa Senhora Da Expectação",
+      "dico": "1204",
+      "lat": 39.01507,
+      "lng": -7.0679,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Nossa Senhora Da Expectação ",
+      "active": true,
+      "sadoId": "20241094746",
+      "sharepointId": 24224140,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 174.5,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Bairro de S Sebastião (Nossa Senhora da Expectação)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1725396618
+      },
+      "updated": {
+        "sec": 1725396850
       }
     }
   ]
