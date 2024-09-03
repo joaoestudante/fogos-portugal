@@ -123,10 +123,10 @@
       "date": "02-09-2024",
       "hour": "21:57",
       "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
-      "aerial": 1,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 53,
-      "terrain": 15,
+      "man": 59,
+      "terrain": 16,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Aboim Da Nóbrega E Gondomar",
@@ -163,7 +163,7 @@
         "sec": 1725311096
       },
       "updated": {
-        "sec": 1725362298
+        "sec": 1725363737
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Beja, Odemira, Colos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 10,
+      "man": 40,
+      "terrain": 11,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "Colos",
@@ -357,9 +357,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Colos ",
       "active": true,
@@ -383,7 +383,7 @@
         "sec": 1725360739
       },
       "updated": {
-        "sec": 1725362779
+        "sec": 1725363737
       }
     },
     {
@@ -400,14 +400,14 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Vale",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 18,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Vale",
       "dico": "1601",
-      "lat": 41.8413,
-      "lng": -8.37266,
+      "lat": 41.841473,
+      "lng": -8.361292,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -442,7 +442,125 @@
         "sec": 1725361933
       },
       "updated": {
-        "sec": 1725362898
+        "sec": 1725363737
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d6f619a504465c591b0529"
+      },
+      "id": "20241092601",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725363360
+      },
+      "date": "03-09-2024",
+      "hour": "12:36",
+      "location": "Coimbra, Coimbra, São Martinho Do Bispo E Ribeira De Frades",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Coimbra",
+      "freguesia": "São Martinho Do Bispo E Ribeira De Frades",
+      "dico": "0603",
+      "lat": 40.21465,
+      "lng": -8.506207,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ribeira De Frades ",
+      "active": true,
+      "sadoId": "20241092601",
+      "sharepointId": 24221993,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -2.0075,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ribeira de Frades (Vala da Tasneira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1725363737
+      },
+      "updated": {
+        "sec": 1725363769
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d6f619a504465c591b052a"
+      },
+      "id": "20241092603",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725363360
+      },
+      "date": "03-09-2024",
+      "hour": "12:36",
+      "location": "Castelo Branco, Fundão, Soalheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Castelo Branco",
+      "concelho": "Fundão",
+      "freguesia": "Soalheira",
+      "dico": "0504",
+      "lat": 40.033945,
+      "lng": -7.491072,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Soalheira ",
+      "active": true,
+      "sadoId": "20241092603",
+      "sharepointId": 24221995,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 438.566,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "SOALHEIRA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1725363737
+      },
+      "updated": {
+        "sec": 1725363791
       }
     }
   ]
