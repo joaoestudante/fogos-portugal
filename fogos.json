@@ -343,16 +343,16 @@
       "date": "03-09-2024",
       "hour": "11:48",
       "location": "Beja, Odemira, Colos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
+      "man": 34,
       "terrain": 11,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "Colos",
       "dico": "0211",
-      "lat": 37.733951,
-      "lng": -8.486577,
+      "lat": 37.736925,
+      "lng": -8.489687,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -383,7 +383,7 @@
         "sec": 1725360739
       },
       "updated": {
-        "sec": 1725363737
+        "sec": 1725364330
       }
     },
     {
@@ -400,8 +400,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Vale",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 24,
+      "terrain": 5,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Vale",
@@ -442,7 +442,7 @@
         "sec": 1725361933
       },
       "updated": {
-        "sec": 1725363737
+        "sec": 1725364571
       }
     },
     {
@@ -459,21 +459,21 @@
       "location": "Coimbra, Coimbra, São Martinho Do Bispo E Ribeira De Frades",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 2,
+      "man": 23,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "São Martinho Do Bispo E Ribeira De Frades",
       "dico": "0603",
-      "lat": 40.21465,
-      "lng": -8.506207,
+      "lat": 40.21472,
+      "lng": -8.50444,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Ribeira De Frades ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1725363737
       },
       "updated": {
-        "sec": 1725363769
+        "sec": 1725364570
       }
     },
     {
@@ -516,10 +516,10 @@
       "date": "03-09-2024",
       "hour": "12:36",
       "location": "Castelo Branco, Fundão, Soalheira",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 42,
+      "terrain": 7,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Soalheira",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Soalheira ",
       "active": true,
@@ -560,7 +560,62 @@
         "sec": 1725363737
       },
       "updated": {
-        "sec": 1725363791
+        "sec": 1725364451
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d6f95ba504465c591b0558"
+      },
+      "id": "20241092655",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725364380
+      },
+      "date": "03-09-2024",
+      "hour": "12:53",
+      "location": "Braga, Vieira do Minho, Ruivães E Campos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Ruivães E Campos",
+      "dico": "0311",
+      "lat": 41.66004,
+      "lng": -8.019536,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Ruivães E Campos ",
+      "active": true,
+      "sadoId": "20241092655",
+      "sharepointId": 24222047,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1725364571
+      },
+      "updated": {
+        "sec": 1725364588
       }
     }
   ]
