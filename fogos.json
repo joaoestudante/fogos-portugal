@@ -13,9 +13,9 @@
       "date": "01-09-2024",
       "hour": "16:21",
       "location": "Bragança, Vinhais, Rebordelo",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 276,
+      "man": 273,
       "terrain": 99,
       "district": "Bragança",
       "concelho": "Vinhais",
@@ -53,7 +53,7 @@
         "sec": 1725204251
       },
       "updated": {
-        "sec": 1725358931
+        "sec": 1725362411
       }
     },
     {
@@ -123,9 +123,9 @@
       "date": "02-09-2024",
       "hour": "21:57",
       "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 51,
+      "man": 53,
       "terrain": 15,
       "district": "Braga",
       "concelho": "Vila Verde",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Boivivo ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1725311096
       },
       "updated": {
-        "sec": 1725360131
+        "sec": 1725362298
       }
     },
     {
@@ -290,8 +290,8 @@
       "location": "Viana Do Castelo, Vila Nova de Cerveira, Sopo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Vila Nova De Cerveira",
       "freguesia": "Sopo",
@@ -328,7 +328,7 @@
         "sec": 1725356538
       },
       "updated": {
-        "sec": 1725361581
+        "sec": 1725361932
       }
     },
     {
@@ -357,9 +357,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Jovim ",
       "active": true,
@@ -383,7 +383,7 @@
         "sec": 1725357251
       },
       "updated": {
-        "sec": 1725359178
+        "sec": 1725361932
       }
     },
     {
@@ -400,8 +400,8 @@
       "location": "Beja, Odemira, Colos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 8,
+      "man": 39,
+      "terrain": 10,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "Colos",
@@ -412,9 +412,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Colos ",
       "active": true,
@@ -438,7 +438,66 @@
         "sec": 1725360739
       },
       "updated": {
-        "sec": 1725361582
+        "sec": 1725362539
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d6ef0da504465c591b04e3"
+      },
+      "id": "20241092492",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725361680
+      },
+      "date": "03-09-2024",
+      "hour": "12:08",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Vale",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Vale",
+      "dico": "1601",
+      "lat": 41.8413,
+      "lng": -8.37266,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vale ",
+      "active": true,
+      "sadoId": "20241092492",
+      "sharepointId": 24221884,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 194.342,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vale (Moinhos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725361933
+      },
+      "updated": {
+        "sec": 1725362412
       }
     }
   ]
