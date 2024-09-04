@@ -351,10 +351,10 @@
       "date": "04-09-2024",
       "hour": "11:22",
       "location": "Porto, Penafiel, Luzim E Vila Cova",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 4,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Luzim E Vila Cova",
@@ -365,9 +365,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Luzim E Vila Cova ",
       "active": true,
@@ -395,7 +395,7 @@
         "sec": 1725446891
       },
       "updated": {
-        "sec": 1725447069
+        "sec": 1725447901
       }
     },
     {
@@ -412,8 +412,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Guilhadeses E Santar",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 11,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Guilhadeses E Santar",
@@ -454,7 +454,7 @@
         "sec": 1725446891
       },
       "updated": {
-        "sec": 1725447070
+        "sec": 1725447371
       }
     },
     {
@@ -471,8 +471,8 @@
       "location": "Viseu, Viseu, Rio De Loba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
+      "man": 14,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Rio De Loba",
@@ -513,7 +513,7 @@
         "sec": 1725446891
       },
       "updated": {
-        "sec": 1725447006
+        "sec": 1725447371
       }
     },
     {
@@ -587,9 +587,9 @@
       "date": "04-09-2024",
       "hour": "10:09",
       "location": "Vila Real, Ribeira de Pena, Alvadia",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
+      "man": 16,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
@@ -631,7 +631,7 @@
         "sec": 1725446891
       },
       "updated": {
-        "sec": 1725447060
+        "sec": 1725447371
       }
     },
     {
@@ -646,25 +646,25 @@
       "date": "04-09-2024",
       "hour": "11:48",
       "location": "Coimbra, Mira, Mira",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 26,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Mira",
       "freguesia": "Mira",
       "dico": "0608",
-      "lat": 40.39283,
-      "lng": -8.704,
+      "lat": 40.396297,
+      "lng": -8.711451,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Mira ",
+      "localidade": "Lentisqueira ",
       "active": true,
       "sadoId": "20241096861",
       "sharepointId": 24226257,
@@ -686,7 +686,121 @@
         "sec": 1725447069
       },
       "updated": {
-        "sec": 1725447123
+        "sec": 1725447972
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d83dcfb94f387a4c0b46e4"
+      },
+      "id": "20241096905",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725447420
+      },
+      "date": "04-09-2024",
+      "hour": "11:57",
+      "location": "Viana Do Castelo, Ponte da Barca, Azias",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Azias",
+      "dico": "1606",
+      "lat": 41.772504,
+      "lng": -8.356847,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mourelo ",
+      "active": true,
+      "sadoId": "20241096905",
+      "sharepointId": 24226301,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 480.421,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Azias (Igreja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725447631
+      },
+      "updated": {
+        "sec": 1725447901
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d83edd0e225174e467a982"
+      },
+      "id": "20241096899",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725447600
+      },
+      "date": "04-09-2024",
+      "hour": "12:00",
+      "location": "Viana Do Castelo, Ponte de Lima, Ardegão, Freixo E Mato",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Ardegão, Freixo E Mato",
+      "dico": "1607",
+      "lat": 41.65982,
+      "lng": -8.58688,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Antigo Campo Futebol ",
+      "active": true,
+      "sadoId": "20241096899",
+      "sharepointId": 24226295,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725447901
+      },
+      "updated": {
+        "sec": 1725447918
       }
     }
   ]
