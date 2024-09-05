@@ -455,8 +455,8 @@
       "location": "Porto, Amarante, Figueiró (Santiago E Santa Cristina)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Figueiró (Santiago E Santa Cristina)",
@@ -493,7 +493,7 @@
         "sec": 1725566652
       },
       "updated": {
-        "sec": 1725579250
+        "sec": 1725579970
       }
     },
     {
@@ -731,17 +731,17 @@
       },
       "date": "05-09-2024",
       "hour": "22:17",
-      "location": "Braga, Fafe, Antime E Silvares (São Clemente)",
+      "location": "Braga, Fafe, Quinchães",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 31,
       "terrain": 8,
       "district": "Braga",
       "concelho": "Fafe",
-      "freguesia": "Antime E Silvares (São Clemente)",
+      "freguesia": "Quinchães",
       "dico": "0307",
-      "lat": 41.43269,
-      "lng": -8.158647,
+      "lat": 41.423512,
+      "lng": -8.14356,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -772,7 +772,7 @@
         "sec": 1725571210
       },
       "updated": {
-        "sec": 1725576498
+        "sec": 1725579731
       }
     },
     {
@@ -915,9 +915,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Senhora Das Neves ",
       "active": true,
@@ -941,7 +941,7 @@
         "sec": 1725576859
       },
       "updated": {
-        "sec": 1725578890
+        "sec": 1725579971
       }
     },
     {
@@ -970,9 +970,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cepela ",
       "active": true,
@@ -996,7 +996,7 @@
         "sec": 1725577930
       },
       "updated": {
-        "sec": 1725579249
+        "sec": 1725579610
       }
     },
     {
@@ -1013,8 +1013,8 @@
       "location": "Porto, Penafiel, Luzim E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Luzim E Vila Cova",
@@ -1025,9 +1025,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Luzim E Vila Cova ",
       "active": true,
@@ -1051,7 +1051,62 @@
         "sec": 1725578890
       },
       "updated": {
-        "sec": 1725578905
+        "sec": 1725579731
+      }
+    },
+    {
+      "_id": {
+        "$id": "66da3ff20bea1756b84f659f"
+      },
+      "id": "20241104138",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725579000
+      },
+      "date": "06-09-2024",
+      "hour": "00:30",
+      "location": "Braga, Braga, Arentim E Cunha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Arentim E Cunha",
+      "dico": "0303",
+      "lat": 41.491948,
+      "lng": -8.520298,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cunha ",
+      "active": true,
+      "sadoId": "20241104138",
+      "sharepointId": 24233549,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1725579250
+      },
+      "updated": {
+        "sec": 1725580099
       }
     }
   ]
