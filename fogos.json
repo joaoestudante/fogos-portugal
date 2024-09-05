@@ -294,8 +294,8 @@
       "location": "Braga, Vieira do Minho, Rossas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 82,
-      "terrain": 25,
+      "man": 54,
+      "terrain": 17,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Rossas",
@@ -332,7 +332,7 @@
         "sec": 1725461658
       },
       "updated": {
-        "sec": 1725544690
+        "sec": 1725547091
       }
     },
     {
@@ -952,9 +952,9 @@
       "date": "05-09-2024",
       "hour": "14:11",
       "location": "Braga, Vila Verde, Dossãos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 15,
       "terrain": 5,
       "district": "Braga",
       "concelho": "Vila Verde",
@@ -996,7 +996,7 @@
         "sec": 1725542172
       },
       "updated": {
-        "sec": 1725545050
+        "sec": 1725546851
       }
     },
     {
@@ -1133,15 +1133,15 @@
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Calvos E Frades",
       "dico": "0309",
-      "lat": 41.604337,
-      "lng": -8.246933,
+      "lat": 41.612685,
+      "lng": -8.248325,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Frades    ",
       "active": true,
@@ -1165,7 +1165,7 @@
         "sec": 1725543730
       },
       "updated": {
-        "sec": 1725546133
+        "sec": 1725546851
       }
     },
     {
@@ -1249,9 +1249,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Ramada  ",
       "active": true,
@@ -1275,7 +1275,121 @@
         "sec": 1725544690
       },
       "updated": {
-        "sec": 1725546257
+        "sec": 1725546612
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d9c074b2809d5fc6678a0b"
+      },
+      "id": "20241102347",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725546060
+      },
+      "date": "05-09-2024",
+      "hour": "15:21",
+      "location": "Porto, Paredes, Rebordosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Rebordosa",
+      "dico": "1310",
+      "lat": 41.217556,
+      "lng": -8.413867,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20241102347",
+      "sharepointId": 24231757,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 216.568,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar Outeiro do Cabo (Lama)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1725546612
+      },
+      "updated": {
+        "sec": 1725546851
+      }
+    },
+    {
+      "_id": {
+        "$id": "66d9c253b2809d5fc6678a26"
+      },
+      "id": "20241102382",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725547020
+      },
+      "date": "05-09-2024",
+      "hour": "15:37",
+      "location": "Braga, Vila Nova de Famalicão, Vale (São Martinho)",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Vale (São Martinho)",
+      "dico": "0312",
+      "lat": 41.428369,
+      "lng": -8.477875,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20241102382",
+      "sharepointId": 24231792,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1725547091
+      },
+      "updated": {
+        "sec": 1725547218
       }
     }
   ]
