@@ -15,7 +15,7 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, São Jorge E Ermelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 95,
+      "man": 96,
       "terrain": 29,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
@@ -53,7 +53,7 @@
         "sec": 1725391457
       },
       "updated": {
-        "sec": 1725603252
+        "sec": 1725603730
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Braga, Terras de Bouro, Chamoim E Vilar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 89,
-      "terrain": 29,
+      "man": 91,
+      "terrain": 30,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Chamoim E Vilar",
@@ -108,7 +108,7 @@
         "sec": 1725504849
       },
       "updated": {
-        "sec": 1725586210
+        "sec": 1725604578
       }
     },
     {
@@ -236,7 +236,7 @@
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
-      "terrain": 1,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Calheiros",
@@ -273,7 +273,7 @@
         "sec": 1725567611
       },
       "updated": {
-        "sec": 1725600498
+        "sec": 1725604693
       }
     },
     {
@@ -290,8 +290,8 @@
       "location": "Braga, Fafe, Quinchães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 9,
+      "man": 38,
+      "terrain": 10,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Quinchães",
@@ -328,7 +328,7 @@
         "sec": 1725571210
       },
       "updated": {
-        "sec": 1725602291
+        "sec": 1725604090
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Vila Real, Murça, Jou",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 7,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Jou",
@@ -383,7 +383,7 @@
         "sec": 1725592457
       },
       "updated": {
-        "sec": 1725603130
+        "sec": 1725603977
       }
     },
     {
@@ -400,8 +400,8 @@
       "location": "Braga, Guimarães, Guardizela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 14,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Guardizela",
@@ -412,9 +412,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Guardizela ",
       "active": true,
@@ -438,7 +438,117 @@
         "sec": 1725603252
       },
       "updated": {
-        "sec": 1725603267
+        "sec": 1725604457
+      }
+    },
+    {
+      "_id": {
+        "$id": "66daa089c332555fb058607e"
+      },
+      "id": "20241104569",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725603480
+      },
+      "date": "06-09-2024",
+      "hour": "07:18",
+      "location": "Viana Do Castelo, Ponte da Barca, Touvedo (São Lourenço E Salvador)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Touvedo (São Lourenço E Salvador)",
+      "dico": "1606",
+      "lat": 41.80443,
+      "lng": -8.36997,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Romão ",
+      "active": true,
+      "sadoId": "20241104569",
+      "sharepointId": 24233980,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1725603977
+      },
+      "updated": {
+        "sec": 1725604578
+      }
+    },
+    {
+      "_id": {
+        "$id": "66daa0fac332555fb0586085"
+      },
+      "id": "20241104584",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725603900
+      },
+      "date": "06-09-2024",
+      "hour": "07:25",
+      "location": "Vila Real, Vila Real, Andrães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Andrães",
+      "dico": "1714",
+      "lat": 41.250593,
+      "lng": -7.698854,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mosteirô ",
+      "active": true,
+      "sadoId": "20241104584",
+      "sharepointId": 24233995,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1725604090
+      },
+      "updated": {
+        "sec": 1725604693
       }
     }
   ]
