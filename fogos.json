@@ -168,61 +168,6 @@
     },
     {
       "_id": {
-        "$id": "66da208abb026e53214b911e"
-      },
-      "id": "20241103878",
-      "coords": true,
-      "dateTime": {
-        "sec": 1725571020
-      },
-      "date": "05-09-2024",
-      "hour": "22:17",
-      "location": "Braga, Fafe, Quinchães",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Quinchães",
-      "dico": "0307",
-      "lat": 41.426497,
-      "lng": -8.151002,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "União De Freguesias De Antime E Silvares (São Clemente) ",
-      "active": true,
-      "sadoId": "20241103878",
-      "sharepointId": 24233288,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1725571210
-      },
-      "updated": {
-        "sec": 1725635653
-      }
-    },
-    {
-      "_id": {
         "$id": "66db054ab9425b1f4512070a"
       },
       "id": "20241106446",
@@ -294,8 +239,8 @@
       "location": "Faro, Vila do Bispo, Budens",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Vila Do Bispo",
       "freguesia": "Budens",
@@ -332,7 +277,7 @@
         "sec": 1725630370
       },
       "updated": {
-        "sec": 1725636610
+        "sec": 1725638429
       }
     },
     {
@@ -630,9 +575,9 @@
       "date": "06-09-2024",
       "hour": "15:50",
       "location": "Lisboa, Alenquer, Carnota",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
+      "man": 21,
       "terrain": 6,
       "district": "Lisboa",
       "concelho": "Alenquer",
@@ -674,7 +619,66 @@
         "sec": 1725634698
       },
       "updated": {
-        "sec": 1725637570
+        "sec": 1725638429
+      }
+    },
+    {
+      "_id": {
+        "$id": "66db271d90d4e038c93be963"
+      },
+      "id": "20241107077",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725638160
+      },
+      "date": "06-09-2024",
+      "hour": "16:56",
+      "location": "Faro, Lagos, Lagos (São Sebastião E Santa Maria)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Lagos",
+      "freguesia": "Lagos (São Sebastião E Santa Maria)",
+      "dico": "0807",
+      "lat": 37.09204,
+      "lng": -8.691698,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Gonçalo De Lagos ",
+      "active": true,
+      "sadoId": "20241107077",
+      "sharepointId": 24236488,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 24.3062,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.09204557.-8.69169826) - Rua Baden Powell 9. 8600-291 Lagos. Portugal (Porto de Mós)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1725638429
+      },
+      "updated": {
+        "sec": 1725639010
       }
     }
   ]
