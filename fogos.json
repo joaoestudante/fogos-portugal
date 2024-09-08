@@ -15,8 +15,8 @@
       "location": "Bragança, Vinhais, Vale Das Fontes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Vale Das Fontes",
@@ -53,7 +53,7 @@
         "sec": 1725729617
       },
       "updated": {
-        "sec": 1725784930
+        "sec": 1725797891
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Santarém, Coruche, Couço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Couço",
@@ -108,7 +108,7 @@
         "sec": 1725790218
       },
       "updated": {
-        "sec": 1725796699
+        "sec": 1725798019
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Porto, Santo Tirso, Água Longa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 13,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Água Longa",
@@ -277,7 +277,7 @@
         "sec": 1725793091
       },
       "updated": {
-        "sec": 1725796090
+        "sec": 1725797058
       }
     },
     {
@@ -347,23 +347,23 @@
       "date": "08-09-2024",
       "hour": "12:49",
       "location": "Setúbal, Grândola, Grândola E Santa Margarida Da Serra",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 26,
+      "terrain": 6,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Grândola E Santa Margarida Da Serra",
       "dico": "1505",
-      "lat": 38.15001,
-      "lng": -8.465224,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "lat": 38.141957,
+      "lng": -8.451895,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Grândola E Santa Margarida Da Serra ",
       "active": true,
@@ -387,7 +387,7 @@
         "sec": 1725796699
       },
       "updated": {
-        "sec": 1725796715
+        "sec": 1725798731
       }
     },
     {
@@ -404,23 +404,23 @@
       "location": "Santarém, Ourém, Fátima",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Fátima",
       "dico": "1421",
-      "lat": 39.61722,
-      "lng": -8.68659,
+      "lat": 39.648058,
+      "lng": -8.696002,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Fátima ",
+      "localidade": "Loureira ",
       "active": true,
       "sadoId": "20241114429",
       "sharepointId": 24243840,
@@ -442,7 +442,62 @@
         "sec": 1725796699
       },
       "updated": {
-        "sec": 1725796737
+        "sec": 1725797771
+      }
+    },
+    {
+      "_id": {
+        "$id": "66dd958b670e153a71326b4e"
+      },
+      "id": "20241114482",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725796680
+      },
+      "date": "08-09-2024",
+      "hour": "12:58",
+      "location": "Lisboa, Odivelas, Ramada E Caneças",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Ramada E Caneças",
+      "dico": "1116",
+      "lat": 38.801427,
+      "lng": -9.194441,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ramada ",
+      "active": true,
+      "sadoId": "20241114482",
+      "sharepointId": 24243893,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1725797771
+      },
+      "updated": {
+        "sec": 1725798491
       }
     }
   ]
