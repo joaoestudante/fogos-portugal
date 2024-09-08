@@ -125,8 +125,8 @@
       "location": "Vila Real, Chaves, Águas Frias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 8,
+      "man": 28,
+      "terrain": 7,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Águas Frias",
@@ -163,7 +163,7 @@
         "sec": 1725815420
       },
       "updated": {
-        "sec": 1725820571
+        "sec": 1725831611
       }
     },
     {
@@ -282,61 +282,6 @@
     },
     {
       "_id": {
-        "$id": "66de0682cbf758153d4882c2"
-      },
-      "id": "20241116200",
-      "coords": true,
-      "dateTime": {
-        "sec": 1725826380
-      },
-      "date": "08-09-2024",
-      "hour": "21:13",
-      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Portalegre",
-      "concelho": "Campo Maior",
-      "freguesia": "Nossa Senhora Da Expectação",
-      "dico": "1204",
-      "lat": 39.00824,
-      "lng": -7.04862,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Nossa Senhora Da Expectação ",
-      "active": true,
-      "sadoId": "20241116200",
-      "sharepointId": 24245611,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "created": {
-        "sec": 1725826690
-      },
-      "updated": {
-        "sec": 1725826707
-      }
-    },
-    {
-      "_id": {
         "$id": "66de0863cbf758153d4882cd"
       },
       "id": "20241116214",
@@ -404,8 +349,8 @@
       "location": "Braga, Terras de Bouro, Cibões E Brufe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 22,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Cibões E Brufe",
@@ -416,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Cibões ",
       "active": true,
@@ -442,7 +387,7 @@
         "sec": 1725829697
       },
       "updated": {
-        "sec": 1725829937
+        "sec": 1725831443
       }
     },
     {
@@ -459,8 +404,8 @@
       "location": "Lisboa, Azambuja, Vila Nova Da Rainha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 24,
+      "terrain": 6,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Vila Nova Da Rainha",
@@ -471,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vila Nova Da Rainha ",
       "active": true,
@@ -481,8 +426,12 @@
       "sharepointId": 24245797,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 40.9669,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.04493000.-8.92602000) - Casal Novo. 2050 Azambuja. Portugal (EN3 (EN3) Km 5)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -497,7 +446,7 @@
         "sec": 1725830890
       },
       "updated": {
-        "sec": 1725830890
+        "sec": 1725831504
       }
     }
   ]
