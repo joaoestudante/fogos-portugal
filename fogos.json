@@ -290,8 +290,8 @@
       "location": "Castelo Branco, Vila Velha de Ródão, Vila Velha De Ródão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 20,
+      "terrain": 6,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Vila Velha De Ródão",
@@ -332,7 +332,7 @@
         "sec": 1725804498
       },
       "updated": {
-        "sec": 1725808210
+        "sec": 1725809771
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Santarém, Chamusca, Parreira E Chouto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 11,
+      "man": 30,
+      "terrain": 9,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Parreira E Chouto",
@@ -391,7 +391,7 @@
         "sec": 1725804498
       },
       "updated": {
-        "sec": 1725809300
+        "sec": 1725810014
       }
     },
     {
@@ -561,65 +561,6 @@
     },
     {
       "_id": {
-        "$id": "66ddbe52c9b46d7a00230254"
-      },
-      "id": "20241115138",
-      "coords": true,
-      "dateTime": {
-        "sec": 1725807180
-      },
-      "date": "08-09-2024",
-      "hour": "15:53",
-      "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Évora",
-      "concelho": "Estremoz",
-      "freguesia": "Estremoz (Santa Maria E Santo André)",
-      "dico": "0704",
-      "lat": 38.843801,
-      "lng": -7.604398,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Estremoz ",
-      "active": true,
-      "sadoId": "20241115138",
-      "sharepointId": 24244549,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 279.06,
-        "agricola": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "São Lourenço. zona dos Mares (Papa Toucinho)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "created": {
-        "sec": 1725808210
-      },
-      "updated": {
-        "sec": 1725809299
-      }
-    },
-    {
-      "_id": {
         "$id": "66ddbe52c9b46d7a00230255"
       },
       "id": "20241115130",
@@ -630,10 +571,10 @@
       "date": "08-09-2024",
       "hour": "16:04",
       "location": "Braga, Terras de Bouro, Cibões E Brufe",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 19,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Cibões E Brufe",
@@ -644,9 +585,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
+      "statusCode": 6,
       "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Brufe ",
       "active": true,
@@ -670,7 +611,176 @@
         "sec": 1725808210
       },
       "updated": {
-        "sec": 1725809300
+        "sec": 1725810014
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ddc46bc9b46d7a0023029e"
+      },
+      "id": "20241115249",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725809520
+      },
+      "date": "08-09-2024",
+      "hour": "16:32",
+      "location": "Santarém, Santarém, São Vicente Do Paul E Vale De Figueira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "São Vicente Do Paul E Vale De Figueira",
+      "dico": "1416",
+      "lat": 39.364601,
+      "lng": -8.620447,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobral ",
+      "active": true,
+      "sadoId": "20241115249",
+      "sharepointId": 24244660,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 32.4531,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Sobral",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1725809771
+      },
+      "updated": {
+        "sec": 1725810015
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ddc55ec9b46d7a002302aa"
+      },
+      "id": "20241115263",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725809700
+      },
+      "date": "08-09-2024",
+      "hour": "16:35",
+      "location": "Guarda, Mêda, Mêda, Outeiro De Gatos E Fonte Longa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Mêda, Outeiro De Gatos E Fonte Longa",
+      "dico": "0909",
+      "lat": 40.96112,
+      "lng": -7.26393,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Mêda, Outeiro De Gatos E Fonte Longa ",
+      "active": true,
+      "sadoId": "20241115263",
+      "sharepointId": 24244674,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1725810014
+      },
+      "updated": {
+        "sec": 1725810039
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ddc55fc9b46d7a002302ab"
+      },
+      "id": "20241115267",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725809760
+      },
+      "date": "08-09-2024",
+      "hour": "16:36",
+      "location": "Porto, Amarante, Vila Garcia, Aboim E Chapa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Vila Garcia, Aboim E Chapa",
+      "dico": "1301",
+      "lat": 41.327024,
+      "lng": -8.068634,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Aboim ",
+      "active": true,
+      "sadoId": "20241115267",
+      "sharepointId": 24244678,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1725810015
+      },
+      "updated": {
+        "sec": 1725810061
       }
     }
   ]
