@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
+      "statusCode": 6,
       "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Peneda De Cima ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1725973230
       },
       "updated": {
-        "sec": 1725974891
+        "sec": 1725975732
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Lisboa, Sintra, Rio De Mouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 22,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Rio De Mouro",
@@ -230,7 +230,66 @@
         "sec": 1725974891
       },
       "updated": {
-        "sec": 1725975131
+        "sec": 1725975370
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e04cb4670eb43acc281445"
+      },
+      "id": "20241123548",
+      "coords": true,
+      "dateTime": {
+        "sec": 1725975360
+      },
+      "date": "10-09-2024",
+      "hour": "14:36",
+      "location": "Lisboa, Alenquer, Carregado E Cadafais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Carregado E Cadafais",
+      "dico": "1101",
+      "lat": 39.01646,
+      "lng": -8.97261,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carregado E Cadafais ",
+      "active": true,
+      "sadoId": "20241123548",
+      "sharepointId": 24252965,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 3.43062,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N1. 2580-491 Alenquer. Portugal (Ponte da Couraça)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1725975732
+      },
+      "updated": {
+        "sec": 1725975755
       }
     }
   ]
