@@ -74,8 +74,8 @@
       "location": "Braga, Celorico de Basto, Caçarilhe E Infesta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 11,
+      "man": 23,
+      "terrain": 7,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Caçarilhe E Infesta",
@@ -112,7 +112,7 @@
         "sec": 1725988212
       },
       "updated": {
-        "sec": 1726014971
+        "sec": 1726018097
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Aveiro, Arouca, Moldes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 81,
-      "terrain": 23,
+      "man": 83,
+      "terrain": 24,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Moldes",
@@ -141,9 +141,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1726008131
       },
       "updated": {
-        "sec": 1726013414
+        "sec": 1726015810
       }
     },
     {
@@ -181,24 +181,24 @@
       },
       "date": "11-09-2024",
       "hour": "01:29",
-      "location": "Braga, Fafe, Passos",
+      "location": "Braga, Fafe, Golães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 14,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Fafe",
-      "freguesia": "Passos",
+      "freguesia": "Golães",
       "dico": "0307",
-      "lat": 41.479571,
-      "lng": -8.202719,
+      "lat": 41.470515,
+      "lng": -8.210783,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -226,7 +226,62 @@
         "sec": 1726014612
       },
       "updated": {
-        "sec": 1726014660
+        "sec": 1726018568
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e0f5013f847f29551fb509"
+      },
+      "id": "20241125661",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726018320
+      },
+      "date": "11-09-2024",
+      "hour": "02:32",
+      "location": "Braga, Braga, Priscos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Priscos",
+      "dico": "0303",
+      "lat": 41.48982,
+      "lng": -8.471,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Priscos ",
+      "active": true,
+      "sadoId": "20241125661",
+      "sharepointId": 24255094,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1726018817
+      },
+      "updated": {
+        "sec": 1726019538
       }
     }
   ]
