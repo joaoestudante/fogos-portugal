@@ -15,8 +15,8 @@
       "location": "Setúbal, Seixal, Amora",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 177,
-      "terrain": 68,
+      "man": 178,
+      "terrain": 69,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Amora",
@@ -57,7 +57,7 @@
         "sec": 1726056259
       },
       "updated": {
-        "sec": 1726203370
+        "sec": 1726210990
       }
     },
     {
@@ -298,8 +298,8 @@
       "location": "Castelo Branco, Covilhã, Erada",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Erada",
@@ -336,7 +336,7 @@
         "sec": 1726145772
       },
       "updated": {
-        "sec": 1726167133
+        "sec": 1726211177
       }
     },
     {
@@ -872,9 +872,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rio Tinto ",
       "active": true,
@@ -898,7 +898,117 @@
         "sec": 1726208650
       },
       "updated": {
-        "sec": 1726208890
+        "sec": 1726210690
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e3e40a56a49065553ac112"
+      },
+      "id": "20241135039",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726210920
+      },
+      "date": "13-09-2024",
+      "hour": "08:02",
+      "location": "Castelo Branco, Covilhã, Unhais Da Serra",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Unhais Da Serra",
+      "dico": "0503",
+      "lat": 40.258875,
+      "lng": -7.630011,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Unhais Da Serra ",
+      "active": true,
+      "sadoId": "20241135039",
+      "sharepointId": 24266339,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1726211082
+      },
+      "updated": {
+        "sec": 1726211532
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e3e55456a49065553ac122"
+      },
+      "id": "20241135054",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726211160
+      },
+      "date": "13-09-2024",
+      "hour": "08:06",
+      "location": "Santarém, Abrantes, Pego",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Pego",
+      "dico": "1401",
+      "lat": 39.4602,
+      "lng": -8.144722,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pego ",
+      "active": true,
+      "sadoId": "20241135054",
+      "sharepointId": 24266354,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1726211412
+      },
+      "updated": {
+        "sec": 1726211532
       }
     }
   ]
