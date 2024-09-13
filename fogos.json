@@ -15,8 +15,8 @@
       "location": "Setúbal, Seixal, Amora",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 62,
-      "terrain": 31,
+      "man": 64,
+      "terrain": 32,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Amora",
@@ -57,7 +57,7 @@
         "sec": 1726056259
       },
       "updated": {
-        "sec": 1726222211
+        "sec": 1726224730
       }
     },
     {
@@ -695,8 +695,8 @@
       "location": "Coimbra, Tábua, Mouronho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Tábua",
       "freguesia": "Mouronho",
@@ -733,7 +733,7 @@
         "sec": 1726178058
       },
       "updated": {
-        "sec": 1726193531
+        "sec": 1726224250
       }
     },
     {
@@ -860,8 +860,8 @@
       "location": "Porto, Felgueiras, Revinhade",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Revinhade",
@@ -898,7 +898,7 @@
         "sec": 1726216819
       },
       "updated": {
-        "sec": 1726219810
+        "sec": 1726224730
       }
     },
     {
@@ -972,9 +972,9 @@
       "date": "13-09-2024",
       "hour": "10:50",
       "location": "Vila Real, Montalegre, Sarraquinhos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
+      "man": 18,
       "terrain": 4,
       "district": "Vila Real",
       "concelho": "Montalegre",
@@ -986,9 +986,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sarraquinhos ",
       "active": true,
@@ -1016,7 +1016,7 @@
         "sec": 1726221493
       },
       "updated": {
-        "sec": 1726223052
+        "sec": 1726224620
       }
     },
     {
@@ -1089,17 +1089,17 @@
       },
       "date": "13-09-2024",
       "hour": "11:03",
-      "location": "Porto, Penafiel, Penafiel",
+      "location": "Porto, Penafiel, Croca",
       "aerial": 1,
       "meios_aquaticos": 0,
       "man": 34,
       "terrain": 7,
       "district": "Porto",
       "concelho": "Penafiel",
-      "freguesia": "Penafiel",
+      "freguesia": "Croca",
       "dico": "1311",
-      "lat": 41.20977,
-      "lng": -8.256505,
+      "lat": 41.210172,
+      "lng": -8.251277,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1134,7 +1134,7 @@
         "sec": 1726222100
       },
       "updated": {
-        "sec": 1726223657
+        "sec": 1726224250
       }
     },
     {
@@ -1163,9 +1163,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -1193,7 +1193,121 @@
         "sec": 1726223417
       },
       "updated": {
-        "sec": 1726223457
+        "sec": 1726224730
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e4177b81f50b47a517a2b5"
+      },
+      "id": "20241136107",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726223700
+      },
+      "date": "13-09-2024",
+      "hour": "11:35",
+      "location": "Santarém, Ourém, Alburitel",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Alburitel",
+      "dico": "1421",
+      "lat": 39.633345,
+      "lng": -8.531476,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Toucinhos ",
+      "active": true,
+      "sadoId": "20241136107",
+      "sharepointId": 24267407,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 214.391,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Toucinhos",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1726224251
+      },
+      "updated": {
+        "sec": 1726224370
+      }
+    },
+    {
+      "_id": {
+        "$id": "66e418eb81f50b47a517a2cc"
+      },
+      "id": "20241136147",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726224300
+      },
+      "date": "13-09-2024",
+      "hour": "11:45",
+      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
+      "dico": "1401",
+      "lat": 39.46532,
+      "lng": -8.19596,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Abrantes (São Vicente E São João) E Alferrarede ",
+      "active": true,
+      "sadoId": "20241136147",
+      "sharepointId": 24267447,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1726224619
+      },
+      "updated": {
+        "sec": 1726224642
       }
     }
   ]
