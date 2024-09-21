@@ -1100,9 +1100,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casal Do Casco ",
       "active": true,
@@ -1126,7 +1126,7 @@
         "sec": 1726927934
       },
       "updated": {
-        "sec": 1726928538
+        "sec": 1726929851
       }
     },
     {
@@ -1155,9 +1155,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Jovim ",
       "active": true,
@@ -1181,7 +1181,7 @@
         "sec": 1726928412
       },
       "updated": {
-        "sec": 1726928441
+        "sec": 1726929852
       }
     },
     {
@@ -1198,8 +1198,8 @@
       "location": "Évora, Reguengos de Monsaraz, Corval",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 25,
+      "terrain": 5,
       "district": "Évora",
       "concelho": "Reguengos De Monsaraz",
       "freguesia": "Corval",
@@ -1210,9 +1210,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "São Pedro Do Corval ",
       "active": true,
@@ -1236,7 +1236,117 @@
         "sec": 1726929258
       },
       "updated": {
-        "sec": 1726929374
+        "sec": 1726929852
+      }
+    },
+    {
+      "_id": {
+        "$id": "66eedbbb671db2632a21cbd1"
+      },
+      "id": "20241178420",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726929480
+      },
+      "date": "21-09-2024",
+      "hour": "15:38",
+      "location": "Lisboa, Oeiras, Carnaxide E Queijas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Carnaxide E Queijas",
+      "dico": "1110",
+      "lat": 38.72012,
+      "lng": -9.23016,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Carnaxide E Queijas ",
+      "active": true,
+      "sadoId": "20241178420",
+      "sharepointId": 24309724,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1726929851
+      },
+      "updated": {
+        "sec": 1726929866
+      }
+    },
+    {
+      "_id": {
+        "$id": "66eedbbc671db2632a21cbd3"
+      },
+      "id": "20241178442",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726929360
+      },
+      "date": "21-09-2024",
+      "hour": "15:36",
+      "location": "Aveiro, Vale de Cambra, São Pedro De Castelões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "São Pedro De Castelões",
+      "dico": "0119",
+      "lat": 40.815821,
+      "lng": -8.39388,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Pedro De Castelões ",
+      "active": true,
+      "sadoId": "20241178442",
+      "sharepointId": 24309746,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1726929852
+      },
+      "updated": {
+        "sec": 1726929893
       }
     }
   ]
