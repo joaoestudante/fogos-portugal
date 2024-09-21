@@ -919,8 +919,8 @@
       "location": "Setúbal, Almada, Caparica E Trafaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Caparica E Trafaria",
@@ -957,7 +957,7 @@
         "sec": 1726903097
       },
       "updated": {
-        "sec": 1726905490
+        "sec": 1726907658
       }
     },
     {
@@ -1029,8 +1029,8 @@
       "location": "Lisboa, Cascais, São Domingos De Rana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "São Domingos De Rana",
@@ -1041,9 +1041,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São Domingos De Rana ",
       "active": true,
@@ -1067,7 +1067,7 @@
         "sec": 1726906932
       },
       "updated": {
-        "sec": 1726906946
+        "sec": 1726907658
       }
     },
     {
@@ -1082,10 +1082,10 @@
       "date": "21-09-2024",
       "hour": "09:19",
       "location": "Faro, Albufeira, Paderne",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 22,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Albufeira",
       "freguesia": "Paderne",
@@ -1096,9 +1096,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Paderne ",
       "active": true,
@@ -1122,7 +1122,62 @@
         "sec": 1726907051
       },
       "updated": {
-        "sec": 1726907172
+        "sec": 1726907898
+      }
+    },
+    {
+      "_id": {
+        "$id": "66ee850a1e4d8a7bf441afca"
+      },
+      "id": "20241176814",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726907340
+      },
+      "date": "21-09-2024",
+      "hour": "09:29",
+      "location": "Porto, Santo Tirso, Aves",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Aves",
+      "dico": "1314",
+      "lat": 41.36785,
+      "lng": -8.4116,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Aves ",
+      "active": true,
+      "sadoId": "20241176814",
+      "sharepointId": 24308118,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1726907658
+      },
+      "updated": {
+        "sec": 1726907674
       }
     }
   ]
