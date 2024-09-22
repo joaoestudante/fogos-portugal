@@ -239,8 +239,8 @@
       "location": "Viseu, Penalva do Castelo, Vila Cova Do Covelo/mareco",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Penalva Do Castelo",
       "freguesia": "Vila Cova Do Covelo/mareco",
@@ -281,7 +281,7 @@
         "sec": 1726442414
       },
       "updated": {
-        "sec": 1727027410
+        "sec": 1727028971
       }
     },
     {
@@ -471,8 +471,8 @@
       "location": "Viseu, Castro Daire, Mões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 155,
-      "terrain": 50,
+      "man": 154,
+      "terrain": 49,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Mões",
@@ -513,7 +513,7 @@
         "sec": 1726518373
       },
       "updated": {
-        "sec": 1727028139
+        "sec": 1727028612
       }
     },
     {
@@ -803,9 +803,9 @@
       "date": "22-09-2024",
       "hour": "13:09",
       "location": "Vila Real, Peso da Régua, Sedielos",
-      "aerial": 5,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 67,
+      "man": 63,
       "terrain": 16,
       "district": "Vila Real",
       "concelho": "Peso Da Régua",
@@ -843,7 +843,7 @@
         "sec": 1727007131
       },
       "updated": {
-        "sec": 1727025492
+        "sec": 1727029221
       }
     },
     {
@@ -923,8 +923,8 @@
       "dico": "1609",
       "lat": 41.663332,
       "lng": -8.743022,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -953,7 +953,7 @@
         "sec": 1727024778
       },
       "updated": {
-        "sec": 1727028491
+        "sec": 1727029221
       }
     },
     {
@@ -968,10 +968,10 @@
       "date": "22-09-2024",
       "hour": "18:36",
       "location": "Viseu, Vouzela, Alcofra",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Alcofra",
@@ -1008,43 +1008,102 @@
         "sec": 1727026820
       },
       "updated": {
-        "sec": 1727027770
+        "sec": 1727029453
       }
     },
     {
       "_id": {
-        "$id": "66f05babe8691727ac010231"
+        "$id": "66f05eeb4b6da53c4e00959f"
       },
-      "id": "20241183174",
+      "id": "20241183212",
       "coords": true,
       "dateTime": {
-        "sec": 1727027940
+        "sec": 1727028660
       },
       "date": "22-09-2024",
-      "hour": "18:59",
-      "location": "Coimbra, Penacova, Penacova",
-      "aerial": 1,
+      "hour": "19:11",
+      "location": "Porto, Vila Nova de Gaia, Canelas",
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
-      "district": "Coimbra",
-      "concelho": "Penacova",
-      "freguesia": "Penacova",
-      "dico": "0613",
-      "lat": 40.2709,
-      "lng": -8.28314,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Canelas",
+      "dico": "1317",
+      "lat": 41.074003,
+      "lng": -8.592425,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Penacova ",
+      "localidade": "Serra De Negrelos ",
       "active": true,
-      "sadoId": "20241183174",
-      "sharepointId": 24314481,
+      "sadoId": "20241183212",
+      "sharepointId": 24314519,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 161.19,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Serra de Negrelos (Travessa de Negrelos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1727028971
+      },
+      "updated": {
+        "sec": 1727029578
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f05eeb4b6da53c4e0095a0"
+      },
+      "id": "20241183217",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727028840
+      },
+      "date": "22-09-2024",
+      "hour": "19:14",
+      "location": "Porto, Felgueiras, Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure",
+      "dico": "1303",
+      "lat": 41.34782,
+      "lng": -8.177008,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Margaride (Santa Eulália), Várzea, Lagares, Varziela E Moure ",
+      "active": true,
+      "sadoId": "20241183217",
+      "sharepointId": 24314524,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1057,13 +1116,68 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
       "created": {
-        "sec": 1727028139
+        "sec": 1727028971
       },
       "updated": {
-        "sec": 1727028259
+        "sec": 1727029453
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f05fe54b6da53c4e0095ab"
+      },
+      "id": "20241183219",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727028840
+      },
+      "date": "22-09-2024",
+      "hour": "19:14",
+      "location": "Aveiro, Santa Maria da Feira, Nogueira Da Regedoura",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Nogueira Da Regedoura",
+      "dico": "0109",
+      "lat": 41.01376,
+      "lng": -8.57262,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Nogueira Da Regedoura ",
+      "active": true,
+      "sadoId": "20241183219",
+      "sharepointId": 24314526,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1727029221
+      },
+      "updated": {
+        "sec": 1727029453
       }
     }
   ]
