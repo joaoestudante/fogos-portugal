@@ -860,8 +860,8 @@
       "location": "Porto, Santo Tirso, Roriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Roriz",
@@ -872,9 +872,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Roriz ",
       "active": true,
@@ -898,7 +898,62 @@
         "sec": 1727010858
       },
       "updated": {
-        "sec": 1727010874
+        "sec": 1727011332
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f01af981f29364da24c011"
+      },
+      "id": "20241182218",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727011080
+      },
+      "date": "22-09-2024",
+      "hour": "14:18",
+      "location": "Coimbra, Soure, Soure",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Soure",
+      "freguesia": "Soure",
+      "dico": "0615",
+      "lat": 40.055319,
+      "lng": -8.639406,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Soure ",
+      "active": true,
+      "sadoId": "20241182218",
+      "sharepointId": 24313525,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1727011577
+      },
+      "updated": {
+        "sec": 1727011814
       }
     }
   ]
