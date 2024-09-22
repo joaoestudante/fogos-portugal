@@ -251,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Miuzela ",
       "active": true,
@@ -281,7 +281,7 @@
         "sec": 1726442414
       },
       "updated": {
-        "sec": 1726969458
+        "sec": 1726985050
       }
     },
     {
@@ -424,9 +424,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Folhadal ",
       "active": true,
@@ -454,7 +454,7 @@
         "sec": 1726484187
       },
       "updated": {
-        "sec": 1726951570
+        "sec": 1726985050
       }
     },
     {
@@ -864,8 +864,8 @@
       "location": "Viseu, Vouzela, Queirã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Queirã",
@@ -902,7 +902,62 @@
         "sec": 1726980250
       },
       "updated": {
-        "sec": 1726983490
+        "sec": 1726984833
+      }
+    },
+    {
+      "_id": {
+        "$id": "66efb44d62f9d839d91f5e96"
+      },
+      "id": "20241180661",
+      "coords": true,
+      "dateTime": {
+        "sec": 1726985160
+      },
+      "date": "22-09-2024",
+      "hour": "07:06",
+      "location": "Lisboa, Amadora, Mina De Água",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Amadora",
+      "freguesia": "Mina De Água",
+      "dico": "1115",
+      "lat": 38.77489,
+      "lng": -9.23372,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Mina De Água ",
+      "active": true,
+      "sadoId": "20241180661",
+      "sharepointId": 24311968,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1726985293
+      },
+      "updated": {
+        "sec": 1726985308
       }
     }
   ]
