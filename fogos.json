@@ -937,15 +937,15 @@
       "concelho": "Gondomar",
       "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
       "dico": "1304",
-      "lat": 41.10007,
-      "lng": -8.52153,
+      "lat": 41.09794,
+      "lng": -8.521127,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Gondomar (São Cosme), Valbom E Jovim ",
       "active": true,
@@ -973,7 +973,7 @@
         "sec": 1727118621
       },
       "updated": {
-        "sec": 1727118659
+        "sec": 1727119450
       }
     },
     {
@@ -990,8 +990,8 @@
       "location": "Braga, Vila Nova de Famalicão, Nine",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Nine",
@@ -1032,7 +1032,7 @@
         "sec": 1727118621
       },
       "updated": {
-        "sec": 1727118971
+        "sec": 1727119450
       }
     },
     {
@@ -1061,9 +1061,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Sarilhos Grandes ",
       "active": true,
@@ -1087,7 +1087,7 @@
         "sec": 1727118621
       },
       "updated": {
-        "sec": 1727119091
+        "sec": 1727119450
       }
     },
     {
@@ -1101,24 +1101,24 @@
       },
       "date": "23-09-2024",
       "hour": "20:15",
-      "location": "Santarém, Ourém, Caxarias",
+      "location": "Santarém, Ourém, Urqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 24,
+      "terrain": 6,
       "district": "Santarém",
       "concelho": "Ourém",
-      "freguesia": "Caxarias",
+      "freguesia": "Urqueira",
       "dico": "1421",
-      "lat": 39.7127,
-      "lng": -8.53577,
+      "lat": 39.723418,
+      "lng": -8.56578,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Caxarias ",
       "active": true,
@@ -1142,7 +1142,121 @@
         "sec": 1727119091
       },
       "updated": {
-        "sec": 1727119108
+        "sec": 1727119450
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f1c05a6bf57150eb23e47c"
+      },
+      "id": "20241188015",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727118960
+      },
+      "date": "23-09-2024",
+      "hour": "20:16",
+      "location": "Porto, Maia, Cidade Da Maia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Cidade Da Maia",
+      "dico": "1306",
+      "lat": 41.2338,
+      "lng": -8.61958,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Cidade Da Maia ",
+      "active": true,
+      "sadoId": "20241188015",
+      "sharepointId": 24319332,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 77.3962,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "R D João Iv 386. Maia. PO. Portugal (Praceta Dom João IV)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1727119450
+      },
+      "updated": {
+        "sec": 1727119478
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f1c0d46bf57150eb23e497"
+      },
+      "id": "20241188029",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727119200
+      },
+      "date": "23-09-2024",
+      "hour": "20:20",
+      "location": "Porto, Penafiel, Recezinhos (São Martinho)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Recezinhos (São Martinho)",
+      "dico": "1311",
+      "lat": 41.21956,
+      "lng": -8.199653,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Recezinhos (São Martinho) ",
+      "active": true,
+      "sadoId": "20241188029",
+      "sharepointId": 24319346,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1727119572
+      },
+      "updated": {
+        "sec": 1727119586
       }
     }
   ]
