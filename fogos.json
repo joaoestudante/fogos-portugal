@@ -347,9 +347,9 @@
       "date": "28-09-2024",
       "hour": "18:02",
       "location": "Vila Real, Vila Real, Torgueda",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 15,
       "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Real",
@@ -387,7 +387,7 @@
         "sec": 1727543092
       },
       "updated": {
-        "sec": 1727543426
+        "sec": 1727544973
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Porto, Vila Nova de Gaia, Pedroso E Seixezelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Pedroso E Seixezelo",
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Pedroso E Seixezelo ",
       "active": true,
@@ -442,7 +442,121 @@
         "sec": 1727544372
       },
       "updated": {
-        "sec": 1727544387
+        "sec": 1727544853
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f83d28b3d51d78e23a2139"
+      },
+      "id": "20241209806",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727544420
+      },
+      "date": "28-09-2024",
+      "hour": "18:27",
+      "location": "Leiria, Caldas da Rainha, Landal",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Landal",
+      "dico": "1006",
+      "lat": 39.319074,
+      "lng": -9.010905,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santa Susana ",
+      "active": true,
+      "sadoId": "20241209806",
+      "sharepointId": 24341139,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 98.8644,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "SANTA SUSANA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1727544616
+      },
+      "updated": {
+        "sec": 1727544973
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f83e8db3d51d78e23a2149"
+      },
+      "id": "20241209827",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727544840
+      },
+      "date": "28-09-2024",
+      "hour": "18:34",
+      "location": "Aveiro, Águeda, Travassô E Óis Da Ribeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Águeda",
+      "freguesia": "Travassô E Óis Da Ribeira",
+      "dico": "0101",
+      "lat": 40.59673,
+      "lng": -8.50494,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Travassô E Óis Da Ribeira ",
+      "active": true,
+      "sadoId": "20241209827",
+      "sharepointId": 24341160,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1727544973
+      },
+      "updated": {
+        "sec": 1727544990
       }
     }
   ]
