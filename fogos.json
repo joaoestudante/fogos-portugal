@@ -141,9 +141,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Estremoz ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1727539571
       },
       "updated": {
-        "sec": 1727541618
+        "sec": 1727542572
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Braga, Esposende, Vila Chã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Esposende",
       "freguesia": "Vila Chã",
@@ -222,7 +222,7 @@
         "sec": 1727540652
       },
       "updated": {
-        "sec": 1727541974
+        "sec": 1727542931
       }
     },
     {
@@ -282,65 +282,6 @@
     },
     {
       "_id": {
-        "$id": "66f832d6b96ea360bd4ae0f4"
-      },
-      "id": "20241209642",
-      "coords": true,
-      "dateTime": {
-        "sec": 1727541600
-      },
-      "date": "28-09-2024",
-      "hour": "17:40",
-      "location": "Viana Do Castelo, Ponte de Lima, Beiral Do Lima",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte De Lima",
-      "freguesia": "Beiral Do Lima",
-      "dico": "1607",
-      "lat": 41.74689,
-      "lng": -8.482813,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Beiral Do Lima ",
-      "active": true,
-      "sadoId": "20241209642",
-      "sharepointId": 24340975,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 480.369,
-        "agricola": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Rua da Armada (ED307 (ED307) Km 12)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1727541974
-      },
-      "updated": {
-        "sec": 1727542011
-      }
-    },
-    {
-      "_id": {
         "$id": "66f833c6b96ea360bd4ae102"
       },
       "id": "20241209650",
@@ -353,8 +294,8 @@
       "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos E Foros De Salvaterra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 22,
+      "terrain": 7,
       "district": "Santarém",
       "concelho": "Salvaterra De Magos",
       "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
@@ -365,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Salvaterra De Magos E Foros De Salvaterra ",
       "active": true,
@@ -391,7 +332,62 @@
         "sec": 1727542214
       },
       "updated": {
-        "sec": 1727542242
+        "sec": 1727543290
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f83734b3d51d78e23a2102"
+      },
+      "id": "20241209713",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727542920
+      },
+      "date": "28-09-2024",
+      "hour": "18:02",
+      "location": "Vila Real, Vila Real, Torgueda",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Torgueda",
+      "dico": "1714",
+      "lat": 41.2678,
+      "lng": -7.800036,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Torgueda ",
+      "active": true,
+      "sadoId": "20241209713",
+      "sharepointId": 24341046,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1727543092
+      },
+      "updated": {
+        "sec": 1727543426
       }
     }
   ]
