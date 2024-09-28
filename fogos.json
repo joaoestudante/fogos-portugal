@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Chã ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1727540652
       },
       "updated": {
-        "sec": 1727541132
+        "sec": 1727541974
       }
     },
     {
@@ -239,8 +239,8 @@
       "location": "Porto, Felgueiras, Torrados E Sousa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Torrados E Sousa",
@@ -251,9 +251,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Torrados E Sousa ",
       "active": true,
@@ -277,7 +277,121 @@
         "sec": 1727541132
       },
       "updated": {
-        "sec": 1727541147
+        "sec": 1727541974
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f832d6b96ea360bd4ae0f4"
+      },
+      "id": "20241209642",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727541600
+      },
+      "date": "28-09-2024",
+      "hour": "17:40",
+      "location": "Viana Do Castelo, Ponte de Lima, Beiral Do Lima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Beiral Do Lima",
+      "dico": "1607",
+      "lat": 41.74689,
+      "lng": -8.482813,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Beiral Do Lima ",
+      "active": true,
+      "sadoId": "20241209642",
+      "sharepointId": 24340975,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 480.369,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua da Armada (ED307 (ED307) Km 12)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1727541974
+      },
+      "updated": {
+        "sec": 1727542011
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f833c6b96ea360bd4ae102"
+      },
+      "id": "20241209650",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727541840
+      },
+      "date": "28-09-2024",
+      "hour": "17:44",
+      "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos E Foros De Salvaterra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Salvaterra De Magos",
+      "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
+      "dico": "1415",
+      "lat": 39.0038,
+      "lng": -8.73919,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Salvaterra De Magos E Foros De Salvaterra ",
+      "active": true,
+      "sadoId": "20241209650",
+      "sharepointId": 24340983,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1727542214
+      },
+      "updated": {
+        "sec": 1727542242
       }
     }
   ]
