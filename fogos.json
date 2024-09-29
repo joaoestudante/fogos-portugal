@@ -227,61 +227,6 @@
     },
     {
       "_id": {
-        "$id": "66f98c4e4df1164901101186"
-      },
-      "id": "20241213881",
-      "coords": true,
-      "dateTime": {
-        "sec": 1727629920
-      },
-      "date": "29-09-2024",
-      "hour": "18:12",
-      "location": "Viseu, Viseu, São Pedro De France",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Viseu",
-      "freguesia": "São Pedro De France",
-      "dico": "1823",
-      "lat": 40.728318,
-      "lng": -7.786902,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Carcavelos ",
-      "active": true,
-      "sadoId": "20241213881",
-      "sharepointId": 24345214,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1727630414
-      },
-      "updated": {
-        "sec": 1727639172
-      }
-    },
-    {
-      "_id": {
         "$id": "66f9a7f5483ed97df64d9ab4"
       },
       "id": "20241214307",
@@ -353,21 +298,21 @@
       "location": "Beja, Vidigueira, Selmes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 17,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Selmes",
       "dico": "0214",
-      "lat": 38.2012,
-      "lng": -7.74229,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "lat": 38.20396,
+      "lng": -7.776083,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Selmes ",
       "active": true,
@@ -391,7 +336,7 @@
         "sec": 1727638452
       },
       "updated": {
-        "sec": 1727639770
+        "sec": 1727641091
       }
     },
     {
@@ -408,8 +353,8 @@
       "location": "Aveiro, Sever do Vouga, Talhadas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Sever Do Vouga",
       "freguesia": "Talhadas",
@@ -420,9 +365,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Silveira ",
       "active": true,
@@ -446,7 +391,66 @@
         "sec": 1727639891
       },
       "updated": {
-        "sec": 1727639907
+        "sec": 1727640131
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f9b58a1fa6717e5f47475a"
+      },
+      "id": "20241214484",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727640660
+      },
+      "date": "29-09-2024",
+      "hour": "21:11",
+      "location": "Lisboa, Cascais, São Domingos De Rana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "São Domingos De Rana",
+      "dico": "1105",
+      "lat": 38.70304,
+      "lng": -9.34735,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "São Domingos De Rana ",
+      "active": true,
+      "sadoId": "20241214484",
+      "sharepointId": 24345817,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 69.715,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Fernando Pessoa (Bairro Novo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1727640970
+      },
+      "updated": {
+        "sec": 1727640991
       }
     }
   ]
