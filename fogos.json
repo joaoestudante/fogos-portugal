@@ -306,9 +306,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Ribafria E Pereiro De Palhacana ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1727617213
       },
       "updated": {
-        "sec": 1727617932
+        "sec": 1727621424
       }
     },
     {
@@ -461,9 +461,9 @@
       "date": "29-09-2024",
       "hour": "14:55",
       "location": "Vila Real, Montalegre, Solveira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
+      "man": 10,
       "terrain": 2,
       "district": "Vila Real",
       "concelho": "Montalegre",
@@ -505,7 +505,7 @@
         "sec": 1727619011
       },
       "updated": {
-        "sec": 1727620932
+        "sec": 1727621424
       }
     },
     {
@@ -522,8 +522,8 @@
       "location": "Viseu, Tabuaço, Barcos E Santa Leocádia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Tabuaço",
       "freguesia": "Barcos E Santa Leocádia",
@@ -560,7 +560,62 @@
         "sec": 1727620091
       },
       "updated": {
-        "sec": 1727620451
+        "sec": 1727621424
+      }
+    },
+    {
+      "_id": {
+        "$id": "66f96930cbe37000ff73531d"
+      },
+      "id": "20241213323",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727621160
+      },
+      "date": "29-09-2024",
+      "hour": "15:46",
+      "location": "Viseu, Armamar, São Romão E Santiago",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Armamar",
+      "freguesia": "São Romão E Santiago",
+      "dico": "1801",
+      "lat": 41.078611,
+      "lng": -7.698794,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santiago ",
+      "active": true,
+      "sadoId": "20241213323",
+      "sharepointId": 24344656,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1727621424
+      },
+      "updated": {
+        "sec": 1727621424
       }
     }
   ]
