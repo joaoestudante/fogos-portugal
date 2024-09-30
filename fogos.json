@@ -129,8 +129,8 @@
       "location": "Faro, Tavira, Tavira (santa Maria E Santiago)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Tavira",
       "freguesia": "Tavira (santa Maria E Santiago)",
@@ -167,62 +167,7 @@
         "sec": 1727689451
       },
       "updated": {
-        "sec": 1727693772
-      }
-    },
-    {
-      "_id": {
-        "$id": "66fa7906a628044a2e5ffb66"
-      },
-      "id": "20241216465",
-      "coords": true,
-      "dateTime": {
-        "sec": 1727690820
-      },
-      "date": "30-09-2024",
-      "hour": "11:07",
-      "location": "Viseu, Viseu, São Pedro De France",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viseu",
-      "concelho": "Viseu",
-      "freguesia": "São Pedro De France",
-      "dico": "1823",
-      "lat": 40.722328,
-      "lng": -7.788698,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Carcavelos ",
-      "active": true,
-      "sadoId": "20241216465",
-      "sharepointId": 24347807,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1727691014
-      },
-      "updated": {
-        "sec": 1727693532
+        "sec": 1727694850
       }
     },
     {
@@ -251,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Palheiros ",
       "active": true,
@@ -281,7 +226,7 @@
         "sec": 1727691372
       },
       "updated": {
-        "sec": 1727693172
+        "sec": 1727695091
       }
     },
     {
@@ -295,29 +240,88 @@
       },
       "date": "30-09-2024",
       "hour": "11:52",
-      "location": "Portalegre, Nisa, Alpalhão -> Número de meios -1. Sem informação disponivel de momento.",
-      "aerial": -1,
-      "meios_aquaticos": -1,
-      "man": -1,
-      "terrain": -1,
+      "location": "Portalegre, Nisa, Alpalhão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 7,
       "district": "Portalegre",
       "concelho": "Nisa",
       "freguesia": "Alpalhão",
-      "dico": "121201",
-      "lat": 39.4042260000441,
-      "lng": -7.64199699984656,
+      "dico": "1212",
+      "lat": 39.414673,
+      "lng": -7.624633,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Alpalhão (Senhora Da Redonda)",
+      "localidade": "Senhora Da Redonda ",
       "active": true,
       "sadoId": "20241216763",
-      "sharepointId": 20241216763,
+      "sharepointId": 24348105,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 284.148,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Alpalhão (Senhora da Redonda)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1727694124
+      },
+      "updated": {
+        "sec": 1727694851
+      }
+    },
+    {
+      "_id": {
+        "$id": "66fa8802a8f08d0ccf7bc380"
+      },
+      "id": "20241216818",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727694600
+      },
+      "date": "30-09-2024",
+      "hour": "12:10",
+      "location": "Faro, Lagos, Bensafrim E Barão De São João",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Lagos",
+      "freguesia": "Bensafrim E Barão De São João",
+      "dico": "0807",
+      "lat": 37.168856,
+      "lng": -8.751876,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Espinhaço De Cão ",
+      "active": true,
+      "sadoId": "20241216818",
+      "sharepointId": 24348160,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -330,13 +334,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": false,
-      "sub_regiao": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
       "created": {
-        "sec": 1727694124
+        "sec": 1727694850
       },
       "updated": {
-        "sec": 1727694124
+        "sec": 1727695091
       }
     }
   ]
