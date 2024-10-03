@@ -129,8 +129,8 @@
       "location": "Faro, Faro, Conceição E Estoi",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Conceição E Estoi",
@@ -167,7 +167,7 @@
         "sec": 1727969291
       },
       "updated": {
-        "sec": 1727971233
+        "sec": 1727972172
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Lisboa, Mafra, Enxara Do Bispo, Gradil E Vila Franca Do Rosário",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Mafra",
       "freguesia": "Enxara Do Bispo, Gradil E Vila Franca Do Rosário",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Pero Negro ",
       "active": true,
@@ -222,7 +222,62 @@
         "sec": 1727971451
       },
       "updated": {
-        "sec": 1727971470
+        "sec": 1727971811
+      }
+    },
+    {
+      "_id": {
+        "$id": "66fec1e3862deb7fb20ba39a"
+      },
+      "id": "20241231613",
+      "coords": true,
+      "dateTime": {
+        "sec": 1727970600
+      },
+      "date": "03-10-2024",
+      "hour": "16:50",
+      "location": "Setúbal, Montijo, Pegões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Pegões",
+      "dico": "1507",
+      "lat": 38.661208,
+      "lng": -8.5961,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Craveira Do Sul ",
+      "active": true,
+      "sadoId": "20241231613",
+      "sharepointId": 24362963,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1727971811
+      },
+      "updated": {
+        "sec": 1727972300
       }
     }
   ]
