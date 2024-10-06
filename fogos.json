@@ -74,8 +74,8 @@
       "location": "Évora, Évora, Canaviais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Évora",
       "concelho": "Évora",
       "freguesia": "Canaviais",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Évora ",
       "active": true,
@@ -112,7 +112,62 @@
         "sec": 1728240252
       },
       "updated": {
-        "sec": 1728240268
+        "sec": 1728240492
+      }
+    },
+    {
+      "_id": {
+        "$id": "6702dbe7fdfc6c6cb31a7396"
+      },
+      "id": "20241245002",
+      "coords": true,
+      "dateTime": {
+        "sec": 1728240120
+      },
+      "date": "06-10-2024",
+      "hour": "19:42",
+      "location": "Santarém, Coruche, Biscainho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Santarém",
+      "concelho": "Coruche",
+      "freguesia": "Biscainho",
+      "dico": "1409",
+      "lat": 38.90863,
+      "lng": -8.625513,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Biscainho ",
+      "active": true,
+      "sadoId": "20241245002",
+      "sharepointId": 24376361,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1728240615
+      },
+      "updated": {
+        "sec": 1728240732
       }
     }
   ]
