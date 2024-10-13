@@ -129,8 +129,8 @@
       "location": "Setúbal, Seixal, Amora",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Amora",
@@ -141,9 +141,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Belverde ",
       "active": true,
@@ -167,7 +167,62 @@
         "sec": 1728840972
       },
       "updated": {
-        "sec": 1728840987
+        "sec": 1728841214
+      }
+    },
+    {
+      "_id": {
+        "$id": "670c06f408f19666355eeb71"
+      },
+      "id": "20241279024",
+      "coords": true,
+      "dateTime": {
+        "sec": 1728841080
+      },
+      "date": "13-10-2024",
+      "hour": "18:38",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.637902,
+      "lng": -8.91294,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Pinhal Novo ",
+      "active": true,
+      "sadoId": "20241279024",
+      "sharepointId": 24410385,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1728841460
+      },
+      "updated": {
+        "sec": 1728841474
       }
     }
   ]
