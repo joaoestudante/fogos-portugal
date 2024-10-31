@@ -15,8 +15,8 @@
       "location": "Porto, Penafiel, Canelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Canelas",
@@ -53,7 +53,7 @@
         "sec": 1730390775
       },
       "updated": {
-        "sec": 1730395215
+        "sec": 1730399053
       }
     },
     {
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Carreira ",
       "active": true,
@@ -108,7 +108,62 @@
         "sec": 1730397973
       },
       "updated": {
-        "sec": 1730397988
+        "sec": 1730399532
+      }
+    },
+    {
+      "_id": {
+        "$id": "6723cd2c44342c33bc6bbc78"
+      },
+      "id": "20241356807",
+      "coords": true,
+      "dateTime": {
+        "sec": 1730398800
+      },
+      "date": "31-10-2024",
+      "hour": "18:20",
+      "location": "Porto, Paredes, Vandoma",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Vandoma",
+      "dico": "1310",
+      "lat": 41.192556,
+      "lng": -8.404916,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vandoma ",
+      "active": true,
+      "sadoId": "20241356807",
+      "sharepointId": 24488186,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1730399532
+      },
+      "updated": {
+        "sec": 1730399549
       }
     }
   ]
