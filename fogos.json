@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Outeiro ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1731514093
       },
       "updated": {
-        "sec": 1731514452
+        "sec": 1731519493
       }
     },
     {
@@ -180,23 +180,23 @@
       "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 2,
       "district": "Évora",
       "concelho": "Évora",
       "freguesia": "Bacelo E Senhora Da Saúde",
       "dico": "0705",
-      "lat": 38.59061,
-      "lng": -7.91254,
+      "lat": 38.593644,
+      "lng": -7.869122,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "União Das Freguesias De Bacelo E Senhora Da Saúde ",
+      "localidade": "Évora ",
       "active": true,
       "sadoId": "20241412111",
       "sharepointId": 24543492,
@@ -218,7 +218,117 @@
         "sec": 1731518899
       },
       "updated": {
-        "sec": 1731518915
+        "sec": 1731519613
+      }
+    },
+    {
+      "_id": {
+        "$id": "6734e314199b3308b04b5113"
+      },
+      "id": "20241412094",
+      "coords": true,
+      "dateTime": {
+        "sec": 1731518340
+      },
+      "date": "13-11-2024",
+      "hour": "17:19",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.6665,
+      "lng": -9.20516,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20241412094",
+      "sharepointId": 24543475,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1731519252
+      },
+      "updated": {
+        "sec": 1731519613
+      }
+    },
+    {
+      "_id": {
+        "$id": "6734e47d199b3308b04b5125"
+      },
+      "id": "20241412162",
+      "coords": true,
+      "dateTime": {
+        "sec": 1731518400
+      },
+      "date": "13-11-2024",
+      "hour": "17:20",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.671372,
+      "lng": -9.231582,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Trafaria ",
+      "active": true,
+      "sadoId": "20241412162",
+      "sharepointId": 24543543,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1731519613
+      },
+      "updated": {
+        "sec": 1731519644
       }
     }
   ]
