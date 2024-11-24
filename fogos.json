@@ -400,8 +400,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Santa Maria Maior E Monserrate E Meadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Santa Maria Maior E Monserrate E Meadela",
@@ -412,9 +412,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Junto Ponte Nova ",
       "active": true,
@@ -438,7 +438,7 @@
         "sec": 1732447332
       },
       "updated": {
-        "sec": 1732447348
+        "sec": 1732448412
       }
     },
     {
@@ -461,8 +461,8 @@
       "concelho": "Caminha",
       "freguesia": "Venade E Azevedo",
       "dico": "1602",
-      "lat": 41.847246,
-      "lng": -8.813032,
+      "lat": 41.83916,
+      "lng": -8.814072,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -493,7 +493,7 @@
         "sec": 1732447690
       },
       "updated": {
-        "sec": 1732448053
+        "sec": 1732448177
       }
     },
     {
@@ -549,6 +549,61 @@
       },
       "updated": {
         "sec": 1732447968
+      }
+    },
+    {
+      "_id": {
+        "$id": "6743109d9b66983aaf212b6d"
+      },
+      "id": "20241458709",
+      "coords": true,
+      "dateTime": {
+        "sec": 1732445940
+      },
+      "date": "24-11-2024",
+      "hour": "10:59",
+      "location": "Aveiro, Santa Maria da Feira, Fiães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Fiães",
+      "dico": "0109",
+      "lat": 40.985785,
+      "lng": -8.522206,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20241458709",
+      "sharepointId": 24590097,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1732448413
+      },
+      "updated": {
+        "sec": 1732448443
       }
     }
   ]
