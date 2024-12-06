@@ -15,8 +15,8 @@
       "location": "Lisboa, Arruda Dos Vinhos, Arruda Dos Vinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Arruda Dos Vinhos",
       "freguesia": "Arruda Dos Vinhos",
@@ -27,9 +27,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Corredoira ",
       "active": true,
@@ -53,7 +53,66 @@
         "sec": 1733506093
       },
       "updated": {
-        "sec": 1733506453
+        "sec": 1733507412
+      }
+    },
+    {
+      "_id": {
+        "$id": "67533bbd3478f1184a4a39a4"
+      },
+      "id": "20241513176",
+      "coords": true,
+      "dateTime": {
+        "sec": 1733507340
+      },
+      "date": "06-12-2024",
+      "hour": "17:49",
+      "location": "Beja, Ourique, Panoias E Conceição",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Beja",
+      "concelho": "Ourique",
+      "freguesia": "Panoias E Conceição",
+      "dico": "0212",
+      "lat": 37.78741,
+      "lng": -8.32648,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ici Monte Fonte Da Rata ",
+      "active": true,
+      "sadoId": "20241513176",
+      "sharepointId": 24644603,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 109.036,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "IC1 Monte da Fonte da Rata (Malha Ferro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1733508029
+      },
+      "updated": {
+        "sec": 1733508302
       }
     }
   ]
