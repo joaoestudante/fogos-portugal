@@ -15,8 +15,8 @@
       "location": "Porto, Paredes, Aguiar De Sousa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Aguiar De Sousa",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -53,7 +53,72 @@
         "sec": 1734089299
       },
       "updated": {
-        "sec": 1734089315
+        "sec": 1734089778
+      }
+    },
+    {
+      "_id": {
+        "$id": "675c1d24a81694315a185cfb"
+      },
+      "id": "20241542180",
+      "coords": true,
+      "dateTime": {
+        "sec": 1734089100
+      },
+      "date": "13-12-2024",
+      "hour": "11:25",
+      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
+      "dico": "1401",
+      "lat": 39.50646,
+      "lng": -8.197768,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Sentieiras ",
+      "active": true,
+      "sadoId": "20241542180",
+      "sharepointId": 24673607,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.002,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.002
+        },
+        "altitude": 146.893,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Sentieiras (Vale do Inferno)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1734090020
+      },
+      "updated": {
+        "sec": 1734090053
       }
     }
   ]
