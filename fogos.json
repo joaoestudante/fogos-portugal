@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Barros ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1734276492
       },
       "updated": {
-        "sec": 1734279132
+        "sec": 1734283814
       }
     },
     {
@@ -245,15 +245,15 @@
       "concelho": "Guimarães",
       "freguesia": "Guardizela",
       "dico": "0308",
-      "lat": 41.387901,
-      "lng": -8.365091,
+      "lat": 41.383645,
+      "lng": -8.374432,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -277,7 +277,121 @@
         "sec": 1734283333
       },
       "updated": {
-        "sec": 1734283350
+        "sec": 1734284292
+      }
+    },
+    {
+      "_id": {
+        "$id": "675f11aeea603f2d6254b709"
+      },
+      "id": "20241552423",
+      "coords": true,
+      "dateTime": {
+        "sec": 1734283440
+      },
+      "date": "15-12-2024",
+      "hour": "17:24",
+      "location": "Faro, Lagoa, Estômbar E Parchal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Lagoa",
+      "freguesia": "Estômbar E Parchal",
+      "dico": "0806",
+      "lat": 37.14204,
+      "lng": -8.504995,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Parchal ",
+      "active": true,
+      "sadoId": "20241552423",
+      "sharepointId": 24683850,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1734283694
+      },
+      "updated": {
+        "sec": 1734284292
+      }
+    },
+    {
+      "_id": {
+        "$id": "675f1357ea603f2d6254b713"
+      },
+      "id": "20241552441",
+      "coords": true,
+      "dateTime": {
+        "sec": 1734283440
+      },
+      "date": "15-12-2024",
+      "hour": "17:24",
+      "location": "Viana Do Castelo, Ponte da Barca, Azias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Azias",
+      "dico": "1606",
+      "lat": 41.772154,
+      "lng": -8.344961,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Campo De Futebol ",
+      "active": true,
+      "sadoId": "20241552441",
+      "sharepointId": 24683868,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 500.359,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Campo de Futebol (Mourelo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1734284119
+      },
+      "updated": {
+        "sec": 1734284292
       }
     }
   ]
