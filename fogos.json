@@ -15,8 +15,8 @@
       "location": "Santarém, Torres Novas, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Torres Novas",
       "freguesia": "Pedrógão",
@@ -27,9 +27,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Pedrógão ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 24719086,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 151.876,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Principal 18. 2350-255 Torres Novas. Portugal (Casal do João Dias)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,62 @@
         "sec": 1734952813
       },
       "updated": {
-        "sec": 1734952813
+        "sec": 1734953531
+      }
+    },
+    {
+      "_id": {
+        "$id": "676948a72070f6339d5809a2"
+      },
+      "id": "20241587671",
+      "coords": true,
+      "dateTime": {
+        "sec": 1734952320
+      },
+      "date": "23-12-2024",
+      "hour": "11:12",
+      "location": "Lisboa, Oeiras, Carnaxide E Queijas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Carnaxide E Queijas",
+      "dico": "1110",
+      "lat": 38.722457,
+      "lng": -9.25881,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Queijas ",
+      "active": true,
+      "sadoId": "20241587671",
+      "sharepointId": 24719110,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1734953127
+      },
+      "updated": {
+        "sec": 1734953532
       }
     }
   ]
