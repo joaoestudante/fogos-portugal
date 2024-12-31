@@ -125,8 +125,8 @@
       "location": "Lisboa, Sintra, Rio De Mouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 8,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Rio De Mouro",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Rio De Mouro ",
       "active": true,
@@ -163,66 +163,7 @@
         "sec": 1735675933
       },
       "updated": {
-        "sec": 1735676179
-      }
-    },
-    {
-      "_id": {
-        "$id": "67745113b0166a45472b8d2c"
-      },
-      "id": "20241624533",
-      "coords": true,
-      "dateTime": {
-        "sec": 1735675440
-      },
-      "date": "31-12-2024",
-      "hour": "20:04",
-      "location": "Lisboa, Sintra, Queluz E Belas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "Queluz E Belas",
-      "dico": "1111",
-      "lat": 38.753134,
-      "lng": -9.253541,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Queluz ",
-      "active": true,
-      "sadoId": "20241624533",
-      "sharepointId": 24755985,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 121.923,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Largo do mercado (QUELUZ)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1735676179
-      },
-      "updated": {
-        "sec": 1735676418
+        "sec": 1735676892
       }
     },
     {
@@ -239,8 +180,8 @@
       "location": "Beja, Beja, Beja (Santiago Maior E São João Baptista)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Beja (Santiago Maior E São João Baptista)",
@@ -251,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "En 121 ",
       "active": true,
@@ -277,7 +218,62 @@
         "sec": 1735676418
       },
       "updated": {
-        "sec": 1735676453
+        "sec": 1735677132
+      }
+    },
+    {
+      "_id": {
+        "$id": "677453dcb0166a45472b8d5a"
+      },
+      "id": "20241624558",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735676700
+      },
+      "date": "31-12-2024",
+      "hour": "20:25",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.72721,
+      "lng": -9.375276,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alcabideche ",
+      "active": true,
+      "sadoId": "20241624558",
+      "sharepointId": 24756010,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1735676892
+      },
+      "updated": {
+        "sec": 1735676907
       }
     }
   ]
