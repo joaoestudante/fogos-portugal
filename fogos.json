@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Choupal ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1735659493
       },
       "updated": {
-        "sec": 1735661293
+        "sec": 1735662254
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Guarda, Guarda, Corujeira E Trinta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Guarda",
       "freguesia": "Corujeira E Trinta",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União De Freguesias De Corujeira E Trinta ",
       "active": true,
@@ -108,7 +108,121 @@
         "sec": 1735661293
       },
       "updated": {
-        "sec": 1735661293
+        "sec": 1735661772
+      }
+    },
+    {
+      "_id": {
+        "$id": "677418ccc85aaa7d417acf44"
+      },
+      "id": "20241623756",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735660320
+      },
+      "date": "31-12-2024",
+      "hour": "15:52",
+      "location": "Évora, Vendas Novas, Landeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Vendas Novas",
+      "freguesia": "Landeira",
+      "dico": "0712",
+      "lat": 38.595686,
+      "lng": -8.606644,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Nicolaus ",
+      "active": true,
+      "sadoId": "20241623756",
+      "sharepointId": 24755208,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 116.291,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Nicolaus (CERÂMICA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1735661772
+      },
+      "updated": {
+        "sec": 1735662255
+      }
+    },
+    {
+      "_id": {
+        "$id": "67741944c85aaa7d417acf52"
+      },
+      "id": "20241623753",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735661580
+      },
+      "date": "31-12-2024",
+      "hour": "16:13",
+      "location": "Guarda, Sabugal, Sortelha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Sabugal",
+      "freguesia": "Sortelha",
+      "dico": "0911",
+      "lat": 40.3298,
+      "lng": -7.21179,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sortelha ",
+      "active": true,
+      "sadoId": "20241623753",
+      "sharepointId": 24755205,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1735661892
+      },
+      "updated": {
+        "sec": 1735662254
       }
     }
   ]
