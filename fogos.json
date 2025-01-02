@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ouca ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1735830252
       },
       "updated": {
-        "sec": 1735834332
+        "sec": 1735839373
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Viseu, Castro Daire, Castro Daire",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Castro Daire",
@@ -226,7 +226,7 @@
         "sec": 1735835414
       },
       "updated": {
-        "sec": 1735839016
+        "sec": 1735839737
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Sistelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Sistelo",
@@ -391,7 +391,7 @@
         "sec": 1735838051
       },
       "updated": {
-        "sec": 1735838068
+        "sec": 1735839737
       }
     },
     {
@@ -451,6 +451,120 @@
       },
       "updated": {
         "sec": 1735839015
+      }
+    },
+    {
+      "_id": {
+        "$id": "6776ce8e95f54414676ad7db"
+      },
+      "id": "20250007884",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735838880
+      },
+      "date": "02-01-2025",
+      "hour": "17:28",
+      "location": "Setúbal, Barreiro, Palhais E Coina",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Barreiro",
+      "freguesia": "Palhais E Coina",
+      "dico": "1504",
+      "lat": 38.595522,
+      "lng": -9.043332,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Coina ",
+      "active": true,
+      "sadoId": "20250007884",
+      "sharepointId": 24764525,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -1.71125,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Estrada Quinta da Areia (COINA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1735839374
+      },
+      "updated": {
+        "sec": 1735839738
+      }
+    },
+    {
+      "_id": {
+        "$id": "6776cffa95f54414676ad7f7"
+      },
+      "id": "20250007927",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735839540
+      },
+      "date": "02-01-2025",
+      "hour": "17:39",
+      "location": "Viseu, Castro Daire, Picão E Ermida",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Castro Daire",
+      "freguesia": "Picão E Ermida",
+      "dico": "1803",
+      "lat": 40.936993,
+      "lng": -7.939579,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Codeçais ",
+      "active": true,
+      "sadoId": "20250007927",
+      "sharepointId": 24764568,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1735839738
+      },
+      "updated": {
+        "sec": 1735839738
       }
     }
   ]
