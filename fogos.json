@@ -15,8 +15,8 @@
       "location": "Faro, Lagos, Bensafrim E Barão De São João",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Bensafrim E Barão De São João",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Bensafrim E Barão De São João ",
       "active": true,
@@ -53,7 +53,121 @@
         "sec": 1735901534
       },
       "updated": {
-        "sec": 1735901549
+        "sec": 1735902495
+      }
+    },
+    {
+      "_id": {
+        "$id": "6777c24e9fb02953672286e5"
+      },
+      "id": "20250010609",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735900200
+      },
+      "date": "03-01-2025",
+      "hour": "10:30",
+      "location": "Braga, Barcelos, Areias De Vilar E Encourados",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Barcelos",
+      "freguesia": "Areias De Vilar E Encourados",
+      "dico": "0302",
+      "lat": 41.537153,
+      "lng": -8.540498,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Areias De Vilar ",
+      "active": true,
+      "sadoId": "20250010609",
+      "sharepointId": 24767251,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1735901774
+      },
+      "updated": {
+        "sec": 1735903093
+      }
+    },
+    {
+      "_id": {
+        "$id": "6777c4a90e6ce65f19315fd2"
+      },
+      "id": "20250010703",
+      "coords": true,
+      "dateTime": {
+        "sec": 1735901760
+      },
+      "date": "03-01-2025",
+      "hour": "10:56",
+      "location": "Setúbal, Sesimbra, Quinta Do Conde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Sesimbra",
+      "freguesia": "Quinta Do Conde",
+      "dico": "1511",
+      "lat": 38.54853,
+      "lng": -9.09986,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Quinta Do Conde ",
+      "active": true,
+      "sadoId": "20250010703",
+      "sharepointId": 24767345,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 69.6969,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N378. 2970 Sesimbra. Portugal (EN378 (EN378) Km 12)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1735902377
+      },
+      "updated": {
+        "sec": 1735902397
       }
     }
   ]
