@@ -70,8 +70,8 @@
       "location": "Castelo Branco, Belmonte, Maçainhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 2,
       "district": "Castelo Branco",
       "concelho": "Belmonte",
       "freguesia": "Maçainhas",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Maçainhas ",
       "active": true,
@@ -108,7 +108,66 @@
         "sec": 1737025818
       },
       "updated": {
-        "sec": 1737025835
+        "sec": 1737026174
+      }
+    },
+    {
+      "_id": {
+        "$id": "6788ea7e74a536390b35f954"
+      },
+      "id": "20250069574",
+      "coords": true,
+      "dateTime": {
+        "sec": 1737025320
+      },
+      "date": "16-01-2025",
+      "hour": "11:02",
+      "location": "Lisboa, Vila Franca de Xira, Vila Franca De Xira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Vila Franca De Xira",
+      "dico": "1114",
+      "lat": 38.962603,
+      "lng": -8.99851,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vila Franca De Xira ",
+      "active": true,
+      "sadoId": "20250069574",
+      "sharepointId": 24826220,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 125.734,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estrada da Serralheira de Baixo. 2600 Vila Franca de Xira. Portugal (Casal do Cravo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1737026174
+      },
+      "updated": {
+        "sec": 1737026197
       }
     }
   ]
