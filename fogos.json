@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "678be52931c15070eb0cd724"
-      },
-      "id": "20250080495",
-      "coords": true,
-      "dateTime": {
-        "sec": 1737221040
-      },
-      "date": "18-01-2025",
-      "hour": "17:24",
-      "location": "Leiria, Caldas da Rainha, Foz Do Arelho",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Leiria",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Foz Do Arelho",
-      "dico": "1006",
-      "lat": 39.449831,
-      "lng": -9.206552,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Serra Do Bouro ",
-      "active": true,
-      "sadoId": "20250080495",
-      "sharepointId": 24837141,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1737221417
-      },
-      "updated": {
-        "sec": 1737223092
-      }
-    },
-    {
-      "_id": {
         "$id": "678beac431c15070eb0cd76b"
       },
       "id": "20250080582",
@@ -70,8 +15,8 @@
       "location": "Faro, Silves, São Bartolomeu De Messines",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "São Bartolomeu De Messines",
@@ -108,7 +53,7 @@
         "sec": 1737222852
       },
       "updated": {
-        "sec": 1737224415
+        "sec": 1737225255
       }
     },
     {
@@ -235,8 +180,8 @@
       "location": "Porto, Lousada, Nevogilde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Nevogilde",
@@ -247,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Nevogilde ",
       "active": true,
@@ -277,7 +222,7 @@
         "sec": 1737224102
       },
       "updated": {
-        "sec": 1737224172
+        "sec": 1737225133
       }
     },
     {
@@ -337,42 +282,46 @@
     },
     {
       "_id": {
-        "$id": "678bf1ccd73a58729f206b59"
+        "$id": "678bf49ed73a58729f206b80"
       },
-      "id": "20250080714",
+      "id": "20250080748",
       "coords": true,
       "dateTime": {
-        "sec": 1737224280
+        "sec": 1737224820
       },
       "date": "18-01-2025",
-      "hour": "18:18",
-      "location": "Setúbal, Almada, Costa Da Caparica",
+      "hour": "18:27",
+      "location": "Setúbal, Montijo, Sarilhos Grandes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 2,
       "district": "Setúbal",
-      "concelho": "Almada",
-      "freguesia": "Costa Da Caparica",
-      "dico": "1503",
-      "lat": 38.63957,
-      "lng": -9.23175,
+      "concelho": "Montijo",
+      "freguesia": "Sarilhos Grandes",
+      "dico": "1507",
+      "lat": 38.68073,
+      "lng": -8.96487,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Costa Da Caparica ",
+      "localidade": "Sarilhos Grandes ",
       "active": true,
-      "sadoId": "20250080714",
-      "sharepointId": 24837360,
+      "sadoId": "20250080748",
+      "sharepointId": 24837394,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -9.26875,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sarilhos Grandes. Montijo. Portugal (SARILHOS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -384,10 +333,10 @@
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Península de Setúbal",
       "created": {
-        "sec": 1737224652
+        "sec": 1737225374
       },
       "updated": {
-        "sec": 1737224671
+        "sec": 1737225393
       }
     }
   ]
