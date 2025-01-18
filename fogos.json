@@ -76,15 +76,15 @@
       "concelho": "Odemira",
       "freguesia": "São Martinho Das Amoreiras",
       "dico": "0211",
-      "lat": 37.60474,
-      "lng": -8.35001,
+      "lat": 37.553508,
+      "lng": -8.334368,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "São Martinho Das Amoreiras ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1737212172
       },
       "updated": {
-        "sec": 1737214331
+        "sec": 1737216496
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1737214220
       },
       "updated": {
-        "sec": 1737214331
+        "sec": 1737216496
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Bragança, Freixo de Espada à Cinta, Lagoaça E Fornos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Bragança",
       "concelho": "Freixo De Espada À Cinta",
       "freguesia": "Lagoaça E Fornos",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Lagoaça E Fornos ",
       "active": true,
@@ -226,7 +226,62 @@
         "sec": 1737214221
       },
       "updated": {
-        "sec": 1737214331
+        "sec": 1737215896
+      }
+    },
+    {
+      "_id": {
+        "$id": "678bcf1f8ae56b116159d9c6"
+      },
+      "id": "20250080118",
+      "coords": true,
+      "dateTime": {
+        "sec": 1737215400
+      },
+      "date": "18-01-2025",
+      "hour": "15:50",
+      "location": "Faro, Monchique, Monchique",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Monchique",
+      "freguesia": "Monchique",
+      "dico": "0809",
+      "lat": 37.301742,
+      "lng": -8.590998,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Estaço ",
+      "active": true,
+      "sadoId": "20250080118",
+      "sharepointId": 24836764,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1737215775
+      },
+      "updated": {
+        "sec": 1737216615
       }
     }
   ]
