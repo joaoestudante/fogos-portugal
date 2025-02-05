@@ -27,9 +27,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Tubaral  ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1738766503
       },
       "updated": {
-        "sec": 1738768816
+        "sec": 1738769892
       }
     },
     {
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Valbom  ",
       "active": true,
@@ -108,7 +108,66 @@
         "sec": 1738768997
       },
       "updated": {
-        "sec": 1738769171
+        "sec": 1738769657
+      }
+    },
+    {
+      "_id": {
+        "$id": "67a385e4123cfb6a57478b5d"
+      },
+      "id": "20250162570",
+      "coords": true,
+      "dateTime": {
+        "sec": 1738769460
+      },
+      "date": "05-02-2025",
+      "hour": "15:31",
+      "location": "Aveiro, Estarreja, Pardilhó",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Pardilhó",
+      "dico": "0108",
+      "lat": 40.788447,
+      "lng": -8.618881,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Canedo ",
+      "active": true,
+      "sadoId": "20250162570",
+      "sharepointId": 24919227,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -2.83812,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Canedo. Estarreja. Portugal (Canedo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1738769892
+      },
+      "updated": {
+        "sec": 1738769913
       }
     }
   ]
