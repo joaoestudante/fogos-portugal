@@ -15,8 +15,8 @@
       "location": "Porto, Vila do Conde, Bagunte, Ferreiró, Outeiro Maior E Parada",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Do Conde",
       "freguesia": "Bagunte, Ferreiró, Outeiro Maior E Parada",
@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Bagunte, Ferreiró, Outeiro Maior E Parada ",
       "active": true,
@@ -53,7 +53,66 @@
         "sec": 1739817462
       },
       "updated": {
-        "sec": 1739817481
+        "sec": 1739817948
+      }
+    },
+    {
+      "_id": {
+        "$id": "67b38523924c51177941b527"
+      },
+      "id": "20250217101",
+      "coords": true,
+      "dateTime": {
+        "sec": 1739817600
+      },
+      "date": "17-02-2025",
+      "hour": "18:40",
+      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Montijo E Afonsoeiro",
+      "dico": "1507",
+      "lat": 38.70027,
+      "lng": -9.005419,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Montijo E Afonsoeiro ",
+      "active": true,
+      "sadoId": "20250217101",
+      "sharepointId": 24973762,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -23.505,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Montijo (Cais do Seixalinho). Montijo e Afonsoeiro. SE. Portugal (Marinha do Outeiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1739818275
+      },
+      "updated": {
+        "sec": 1739818296
       }
     }
   ]
