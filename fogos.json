@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Arnóia ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1741110826
       },
       "updated": {
-        "sec": 1741112293
+        "sec": 1741113734
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Bragança, Vinhais, Curopos E Vale De Janeiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 2,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Curopos E Vale De Janeiro",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Curopos E Vale De Janeiro ",
       "active": true,
@@ -108,7 +108,117 @@
         "sec": 1741111577
       },
       "updated": {
-        "sec": 1741111595
+        "sec": 1741113734
+      }
+    },
+    {
+      "_id": {
+        "$id": "67c748951321b0656460c789"
+      },
+      "id": "20250284224",
+      "coords": true,
+      "dateTime": {
+        "sec": 1741113360
+      },
+      "date": "04-03-2025",
+      "hour": "18:36",
+      "location": "Viana Do Castelo, Ponte de Lima, Fornelos E Queijada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Fornelos E Queijada",
+      "dico": "1607",
+      "lat": 41.74,
+      "lng": -8.552222,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Fornelos E Queijada ",
+      "active": true,
+      "sadoId": "20250284224",
+      "sharepointId": 25040885,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1741113493
+      },
+      "updated": {
+        "sec": 1741113507
+      }
+    },
+    {
+      "_id": {
+        "$id": "67c749871321b0656460c792"
+      },
+      "id": "20250284236",
+      "coords": true,
+      "dateTime": {
+        "sec": 1741113420
+      },
+      "date": "04-03-2025",
+      "hour": "18:37",
+      "location": "Viana Do Castelo, Monção, Anhões E Luzio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Monção",
+      "freguesia": "Anhões E Luzio",
+      "dico": "1604",
+      "lat": 41.988778,
+      "lng": -8.441732,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Estrada Da Rigueira ",
+      "active": true,
+      "sadoId": "20250284236",
+      "sharepointId": 25040897,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1741113735
+      },
+      "updated": {
+        "sec": 1741113735
       }
     }
   ]
