@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Franco E Vila Boa ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1743173622
       },
       "updated": {
-        "sec": 1743174226
+        "sec": 1743176295
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Coimbra, Cantanhede, Covões E Camarneira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Cantanhede",
       "freguesia": "Covões E Camarneira",
@@ -192,9 +192,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Marvão ",
       "active": true,
@@ -218,7 +218,121 @@
         "sec": 1743175695
       },
       "updated": {
-        "sec": 1743175716
+        "sec": 1743176295
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e6c267950d761418771b43"
+      },
+      "id": "20250405343",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743175560
+      },
+      "date": "28-03-2025",
+      "hour": "15:26",
+      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Moimenta E Montouto",
+      "dico": "0412",
+      "lat": 41.922118,
+      "lng": -7.012038,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Landedo ",
+      "active": true,
+      "sadoId": "20250405343",
+      "sharepointId": 25162005,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 1093.04,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Landedo",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1743176295
+      },
+      "updated": {
+        "sec": 1743176324
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e6c267950d761418771b45"
+      },
+      "id": "20250405354",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743176040
+      },
+      "date": "28-03-2025",
+      "hour": "15:34",
+      "location": "Braga, Vieira do Minho, Rossas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Rossas",
+      "dico": "0311",
+      "lat": 41.588032,
+      "lng": -8.097882,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250405354",
+      "sharepointId": 25162016,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1743176295
+      },
+      "updated": {
+        "sec": 1743176476
       }
     }
   ]
