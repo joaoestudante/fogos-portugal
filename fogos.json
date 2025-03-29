@@ -15,8 +15,8 @@
       "location": "Porto, Vila do Conde, Junqueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Do Conde",
       "freguesia": "Junqueira",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Junqueira ",
       "active": true,
@@ -53,7 +53,66 @@
         "sec": 1743244518
       },
       "updated": {
-        "sec": 1743244534
+        "sec": 1743245385
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e7cff1b3ff9e211c19e0f3"
+      },
+      "id": "20250408712",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743244920
+      },
+      "date": "29-03-2025",
+      "hour": "10:42",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.73828,
+      "lng": -9.37182,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcabideche ",
+      "active": true,
+      "sadoId": "20250408712",
+      "sharepointId": 25165374,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 101.239,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estrada de Manique (Quinta das Figueiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1743245297
+      },
+      "updated": {
+        "sec": 1743245477
       }
     }
   ]
