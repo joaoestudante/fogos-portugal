@@ -556,7 +556,7 @@
         "sec": 1743278022
       },
       "updated": {
-        "sec": 1743281533
+        "sec": 1743283035
       }
     },
     {
@@ -695,9 +695,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Gumiei ",
       "active": true,
@@ -721,7 +721,7 @@
         "sec": 1743279972
       },
       "updated": {
-        "sec": 1743280636
+        "sec": 1743282465
       }
     },
     {
@@ -738,8 +738,8 @@
       "location": "Viseu, Viseu, Ribafeita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Ribafeita",
@@ -776,7 +776,7 @@
         "sec": 1743280184
       },
       "updated": {
-        "sec": 1743282345
+        "sec": 1743283332
       }
     },
     {
@@ -848,8 +848,8 @@
       "location": "Lisboa, Vila Franca de Xira, Alhandra, São João Dos Montes E Calhandriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Vila Franca De Xira",
       "freguesia": "Alhandra, São João Dos Montes E Calhandriz",
@@ -860,9 +860,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Alhandra, São João Dos Montes E Calhandriz ",
       "active": true,
@@ -886,7 +886,176 @@
         "sec": 1743281985
       },
       "updated": {
-        "sec": 1743282003
+        "sec": 1743283166
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e86121c24d3c6d6f6637b5"
+      },
+      "id": "20250411282",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743278880
+      },
+      "date": "29-03-2025",
+      "hour": "20:08",
+      "location": "Viseu, Viseu, Ribafeita",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "Ribafeita",
+      "dico": "1823",
+      "lat": 40.762905,
+      "lng": -8.01329,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Gumiei ",
+      "active": true,
+      "sadoId": "20250411282",
+      "sharepointId": 25167944,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1743282465
+      },
+      "updated": {
+        "sec": 1743283530
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e863038e90f7197c5caef5"
+      },
+      "id": "20250411456",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743281460
+      },
+      "date": "29-03-2025",
+      "hour": "20:51",
+      "location": "Braga, Vieira do Minho, Louredo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Louredo",
+      "dico": "0311",
+      "lat": 41.67721,
+      "lng": -8.11471,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Louredo ",
+      "active": true,
+      "sadoId": "20250411456",
+      "sharepointId": 25168118,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 435.175,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.67721000.-8.11471000) - Sudro. 4850-217 Vieira do Minho. Portugal (Agelheira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1743282947
+      },
+      "updated": {
+        "sec": 1743282973
+      }
+    },
+    {
+      "_id": {
+        "$id": "67e8648504d9517e6f621336"
+      },
+      "id": "20250411540",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743282960
+      },
+      "date": "29-03-2025",
+      "hour": "21:16",
+      "location": "Setúbal, Grândola, Melides",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Grândola",
+      "freguesia": "Melides",
+      "dico": "1505",
+      "lat": 38.12899,
+      "lng": -8.71552,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Melides ",
+      "active": true,
+      "sadoId": "20250411540",
+      "sharepointId": 25168202,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1743283333
+      },
+      "updated": {
+        "sec": 1743283333
       }
     }
   ]
