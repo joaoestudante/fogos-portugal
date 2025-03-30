@@ -223,61 +223,6 @@
     },
     {
       "_id": {
-        "$id": "67e96bda1b4b6d6aad21ed66"
-      },
-      "id": "20250414809",
-      "coords": true,
-      "dateTime": {
-        "sec": 1743350100
-      },
-      "date": "30-03-2025",
-      "hour": "16:55",
-      "location": "Lisboa, Torres Vedras, Carvoeira E Carmões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Torres Vedras",
-      "freguesia": "Carvoeira E Carmões",
-      "dico": "1113",
-      "lat": 39.072968,
-      "lng": -9.14766,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "A-da-rainha ",
-      "active": true,
-      "sadoId": "20250414809",
-      "sharepointId": 25171471,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1743350746
-      },
-      "updated": {
-        "sec": 1743354225
-      }
-    },
-    {
-      "_id": {
         "$id": "67e96ec4f84fa17bb02e9527"
       },
       "id": "20250414810",
@@ -593,9 +538,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Codeçoso ",
       "active": true,
@@ -619,7 +564,7 @@
         "sec": 1743355756
       },
       "updated": {
-        "sec": 1743356262
+        "sec": 1743356988
       }
     },
     {
@@ -648,9 +593,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lg Da Ponte ",
       "active": true,
@@ -674,7 +619,7 @@
         "sec": 1743355935
       },
       "updated": {
-        "sec": 1743356024
+        "sec": 1743357215
       }
     },
     {
@@ -713,8 +658,12 @@
       "sharepointId": 25171822,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 380.719,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.71695410.-8.03582534) - Rua da Ponte Nova. 5470-022 Montalegre. Portugal (São Ane)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -729,7 +678,7 @@
         "sec": 1743356625
       },
       "updated": {
-        "sec": 1743356625
+        "sec": 1743357014
       }
     }
   ]
