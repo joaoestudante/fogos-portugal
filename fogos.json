@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Freixieiro De Soutelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Freixieiro De Soutelo",
@@ -53,7 +53,7 @@
         "sec": 1743470415
       },
       "updated": {
-        "sec": 1743499636
+        "sec": 1743510464
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Soutomendo De Cima ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1743503052
       },
       "updated": {
-        "sec": 1743508783
+        "sec": 1743510194
       }
     },
     {
@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Moimenta ",
       "active": true,
@@ -277,7 +277,7 @@
         "sec": 1743505236
       },
       "updated": {
-        "sec": 1743507378
+        "sec": 1743511184
       }
     },
     {
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vinhal ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1743506532
       },
       "updated": {
-        "sec": 1743508783
+        "sec": 1743510510
       }
     },
     {
@@ -349,21 +349,21 @@
       "location": "Braga, Cabeceiras de Basto, Abadim",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 22,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Abadim",
       "dico": "0304",
-      "lat": 41.563206,
-      "lng": -7.983198,
+      "lat": 41.53979,
+      "lng": -8.001045,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -391,7 +391,62 @@
         "sec": 1743509716
       },
       "updated": {
-        "sec": 1743509772
+        "sec": 1743512055
+      }
+    },
+    {
+      "_id": {
+        "$id": "67ebe251aca7fc2ca143e475"
+      },
+      "id": "20250423892",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743511860
+      },
+      "date": "01-04-2025",
+      "hour": "13:51",
+      "location": "Bragança, Bragança, São Julião De Palácios E Deilão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Bragança",
+      "freguesia": "São Julião De Palácios E Deilão",
+      "dico": "0402",
+      "lat": 41.854165,
+      "lng": -6.58695,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Deilão ",
+      "active": true,
+      "sadoId": "20250423892",
+      "sharepointId": 25180554,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1743512145
+      },
+      "updated": {
+        "sec": 1743512236
       }
     }
   ]
