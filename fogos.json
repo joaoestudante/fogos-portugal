@@ -192,11 +192,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Padroso ",
+      "localidade": "Castanheira ",
       "active": true,
       "sadoId": "20250423247",
       "sharepointId": 25179909,
@@ -218,7 +218,7 @@
         "sec": 1743504617
       },
       "updated": {
-        "sec": 1743506385
+        "sec": 1743514392
       }
     },
     {
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vinhal ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1743506532
       },
       "updated": {
-        "sec": 1743510510
+        "sec": 1743513615
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Braga, Cabeceiras de Basto, Abadim",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 34,
+      "terrain": 8,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Abadim",
@@ -391,7 +391,7 @@
         "sec": 1743509716
       },
       "updated": {
-        "sec": 1743512055
+        "sec": 1743514213
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Deilão ",
       "active": true,
@@ -446,7 +446,66 @@
         "sec": 1743512145
       },
       "updated": {
-        "sec": 1743512236
+        "sec": 1743512535
+      }
+    },
+    {
+      "_id": {
+        "$id": "67ebe549cbf07910702da272"
+      },
+      "id": "20250423936",
+      "coords": true,
+      "dateTime": {
+        "sec": 1743512040
+      },
+      "date": "01-04-2025",
+      "hour": "13:54",
+      "location": "Porto, Vila do Conde, Bagunte, Ferreiró, Outeiro Maior E Parada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Vila Do Conde",
+      "freguesia": "Bagunte, Ferreiró, Outeiro Maior E Parada",
+      "dico": "1316",
+      "lat": 41.366678,
+      "lng": -8.681703,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250423936",
+      "sharepointId": 25180598,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 67.8919,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Luis de Camoes (Quinta do Campos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1743512905
+      },
+      "updated": {
+        "sec": 1743514454
       }
     }
   ]
