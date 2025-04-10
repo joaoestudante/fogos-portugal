@@ -74,8 +74,8 @@
       "location": "Santarém, Almeirim, Almeirim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Almeirim",
       "freguesia": "Almeirim",
@@ -112,7 +112,7 @@
         "sec": 1744294544
       },
       "updated": {
-        "sec": 1744296706
+        "sec": 1744298175
       }
     },
     {
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Beirão ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1744294635
       },
       "updated": {
-        "sec": 1744296973
+        "sec": 1744298420
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Bragança, Mirandela, Vale De Telhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 13,
+      "terrain": 4,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Vale De Telhas",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Vale De Telhas ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1744294938
       },
       "updated": {
-        "sec": 1744295745
+        "sec": 1744298174
       }
     },
     {
@@ -239,21 +239,21 @@
       "location": "Vila Real, Vila Real, Lordelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Lordelo",
       "dico": "1714",
-      "lat": 41.30735,
-      "lng": -7.75651,
+      "lat": 41.310615,
+      "lng": -7.752125,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lordelo ",
       "active": true,
@@ -277,7 +277,117 @@
         "sec": 1744296463
       },
       "updated": {
-        "sec": 1744296973
+        "sec": 1744297903
+      }
+    },
+    {
+      "_id": {
+        "$id": "67f7dede17bce76f79420d63"
+      },
+      "id": "20250465913",
+      "coords": true,
+      "dateTime": {
+        "sec": 1744296900
+      },
+      "date": "10-04-2025",
+      "hour": "15:55",
+      "location": "Porto, Paredes, Parada De Todeia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Parada De Todeia",
+      "dico": "1310",
+      "lat": 41.166787,
+      "lng": -8.380025,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250465913",
+      "sharepointId": 25222576,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1744297694
+      },
+      "updated": {
+        "sec": 1744297994
+      }
+    },
+    {
+      "_id": {
+        "$id": "67f7e0935066e773a22b3a74"
+      },
+      "id": "20250465941",
+      "coords": true,
+      "dateTime": {
+        "sec": 1744297920
+      },
+      "date": "10-04-2025",
+      "hour": "16:12",
+      "location": "Faro, Tavira, Conceição E Cabanas De Tavira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Faro",
+      "concelho": "Tavira",
+      "freguesia": "Conceição E Cabanas De Tavira",
+      "dico": "0814",
+      "lat": 37.263,
+      "lng": -7.61398,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Conceição E Cabanas De Tavira ",
+      "active": true,
+      "sadoId": "20250465941",
+      "sharepointId": 25222604,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1744298131
+      },
+      "updated": {
+        "sec": 1744298147
       }
     }
   ]
