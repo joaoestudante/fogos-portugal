@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Loivos   ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1744303184
       },
       "updated": {
-        "sec": 1744310262
+        "sec": 1744314464
       }
     },
     {
@@ -141,7 +141,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Casal De Caudelas ",
+      "localidade": "Casal De Caldelas ",
       "active": true,
       "sadoId": "20250466392",
       "sharepointId": 25223055,
@@ -167,7 +167,7 @@
         "sec": 1744306905
       },
       "updated": {
-        "sec": 1744312092
+        "sec": 1744314207
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Arcos De Valdevez (São Paio) E Giela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Arcos De Valdevez (São Paio) E Giela",
@@ -361,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Capela Morilhões ",
       "active": true,
@@ -387,7 +387,117 @@
         "sec": 1744313866
       },
       "updated": {
-        "sec": 1744313886
+        "sec": 1744314114
+      }
+    },
+    {
+      "_id": {
+        "$id": "67f81e89298bd41d122d05a4"
+      },
+      "id": "20250467129",
+      "coords": true,
+      "dateTime": {
+        "sec": 1744313400
+      },
+      "date": "10-04-2025",
+      "hour": "20:30",
+      "location": "Viseu, Sátão, Ferreira De Aves",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Sátão",
+      "freguesia": "Ferreira De Aves",
+      "dico": "1817",
+      "lat": 40.810438,
+      "lng": -7.667302,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Castelo ",
+      "active": true,
+      "sadoId": "20250467129",
+      "sharepointId": 25223792,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1744313993
+      },
+      "updated": {
+        "sec": 1744314464
+      }
+    },
+    {
+      "_id": {
+        "$id": "67f81ee2e921d6102b5ca314"
+      },
+      "id": "20250467136",
+      "coords": true,
+      "dateTime": {
+        "sec": 1744313700
+      },
+      "date": "10-04-2025",
+      "hour": "20:35",
+      "location": "Coimbra, Pampilhosa da Serra, Fajão-vidual",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Coimbra",
+      "concelho": "Pampilhosa Da Serra",
+      "freguesia": "Fajão-vidual",
+      "dico": "0612",
+      "lat": 40.177701,
+      "lng": -7.86425,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Camba ",
+      "active": true,
+      "sadoId": "20250467136",
+      "sharepointId": 25223799,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1744314082
+      },
+      "updated": {
+        "sec": 1744314207
       }
     }
   ]
