@@ -15,8 +15,8 @@
       "location": "Porto, Baião, Ancede E Ribadouro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Ancede E Ribadouro",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Ancede E Ribadouro ",
       "active": true,
@@ -53,7 +53,66 @@
         "sec": 1744743253
       },
       "updated": {
-        "sec": 1744743269
+        "sec": 1744744062
+      }
+    },
+    {
+      "_id": {
+        "$id": "67fead18b67e134a1c381142"
+      },
+      "id": "20250489068",
+      "coords": true,
+      "dateTime": {
+        "sec": 1744743540
+      },
+      "date": "15-04-2025",
+      "hour": "19:59",
+      "location": "Porto, Amarante, Gondar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Gondar",
+      "dico": "1301",
+      "lat": 41.26113,
+      "lng": -8.021821,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gondar ",
+      "active": true,
+      "sadoId": "20250489068",
+      "sharepointId": 25245744,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 286.916,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.26113019.-8.02182142) - Autoestrada Transmontana. 4600 Amarante. Portugal (Crespelos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1744743704
+      },
+      "updated": {
+        "sec": 1744744303
       }
     }
   ]
