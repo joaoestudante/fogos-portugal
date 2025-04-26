@@ -180,8 +180,8 @@
       "location": "Braga, Vila Nova de Famalicão, Carreira E Bente",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Carreira E Bente",
@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Carreira E Bente ",
       "active": true,
@@ -218,7 +218,62 @@
         "sec": 1745694855
       },
       "updated": {
-        "sec": 1745694871
+        "sec": 1745695544
+      }
+    },
+    {
+      "_id": {
+        "$id": "680d3393d67f77711a7b1463"
+      },
+      "id": "20250535192",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745693820
+      },
+      "date": "26-04-2025",
+      "hour": "19:57",
+      "location": "Santarém, Sardoal, Santiago De Montalegre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Santarém",
+      "concelho": "Sardoal",
+      "freguesia": "Santiago De Montalegre",
+      "dico": "1417",
+      "lat": 39.587195,
+      "lng": -8.155222,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "E.N. 2 Mogão ",
+      "active": true,
+      "sadoId": "20250535192",
+      "sharepointId": 25291870,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1745695635
+      },
+      "updated": {
+        "sec": 1745695758
       }
     }
   ]
