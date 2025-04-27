@@ -125,8 +125,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Gavieira",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Gavieira",
@@ -163,7 +163,7 @@
         "sec": 1745763256
       },
       "updated": {
-        "sec": 1745773574
+        "sec": 1745774534
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Vila Real, Boticas, Vilar E Viveiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Vilar E Viveiro",
@@ -357,9 +357,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vilar ",
       "active": true,
@@ -383,7 +383,7 @@
         "sec": 1745772617
       },
       "updated": {
-        "sec": 1745772650
+        "sec": 1745774293
       }
     },
     {
@@ -439,6 +439,61 @@
       },
       "updated": {
         "sec": 1745772812
+      }
+    },
+    {
+      "_id": {
+        "$id": "680e66d68b057a2ed1743c03"
+      },
+      "id": "20250538955",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745773860
+      },
+      "date": "27-04-2025",
+      "hour": "18:11",
+      "location": "Faro, Silves, São Bartolomeu De Messines",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Silves",
+      "freguesia": "São Bartolomeu De Messines",
+      "dico": "0813",
+      "lat": 37.246698,
+      "lng": -8.261555,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Portela ",
+      "active": true,
+      "sadoId": "20250538955",
+      "sharepointId": 25295633,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1745774294
+      },
+      "updated": {
+        "sec": 1745774836
       }
     }
   ]
