@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Torcato ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1745750144
       },
       "updated": {
-        "sec": 1745753385
+        "sec": 1745754465
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Amareleja ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1745751823
       },
       "updated": {
-        "sec": 1745753295
+        "sec": 1745755330
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Faro, Lagos, Odiáxere",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Odiáxere",
@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Odiáxere ",
       "active": true,
@@ -218,7 +218,62 @@
         "sec": 1745754015
       },
       "updated": {
-        "sec": 1745754035
+        "sec": 1745755331
+      }
+    },
+    {
+      "_id": {
+        "$id": "680e1a34d71c0220e74267c4"
+      },
+      "id": "20250537714",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745754540
+      },
+      "date": "27-04-2025",
+      "hour": "12:49",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Gavieira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Gavieira",
+      "dico": "1601",
+      "lat": 41.958129,
+      "lng": -8.250148,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lagoa Peneda - Pnpg ",
+      "active": true,
+      "sadoId": "20250537714",
+      "sharepointId": 25294392,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1745754676
+      },
+      "updated": {
+        "sec": 1745755577
       }
     }
   ]
