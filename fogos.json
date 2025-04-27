@@ -125,7 +125,7 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
+      "man": 25,
       "terrain": 8,
       "district": "Braga",
       "concelho": "Vila Verde",
@@ -163,7 +163,7 @@
         "sec": 1745756502
       },
       "updated": {
-        "sec": 1745760945
+        "sec": 1745761516
       }
     },
     {
@@ -290,8 +290,8 @@
       "location": "Faro, Monchique, Alferce",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Alferce",
@@ -302,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Alferce ",
       "active": true,
@@ -328,7 +328,7 @@
         "sec": 1745760945
       },
       "updated": {
-        "sec": 1745761184
+        "sec": 1745762054
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -357,9 +357,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Pedrógão ",
       "active": true,
@@ -383,7 +383,62 @@
         "sec": 1745761184
       },
       "updated": {
-        "sec": 1745761203
+        "sec": 1745762054
+      }
+    },
+    {
+      "_id": {
+        "$id": "680e3435e263ed11f1071324"
+      },
+      "id": "20250538150",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745761080
+      },
+      "date": "27-04-2025",
+      "hour": "14:38",
+      "location": "Porto, Valongo, Alfena",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Alfena",
+      "dico": "1315",
+      "lat": 41.238625,
+      "lng": -8.525864,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alfena ",
+      "active": true,
+      "sadoId": "20250538150",
+      "sharepointId": 25294828,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1745761333
+      },
+      "updated": {
+        "sec": 1745761349
       }
     }
   ]
