@@ -70,8 +70,8 @@
       "location": "Castelo Branco, Covilhã, Boidobra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Boidobra",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Boidobra ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1745869903
       },
       "updated": {
-        "sec": 1745870386
+        "sec": 1745880105
       }
     },
     {
@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Codessoso, Curros E Fiães Do Tâmega ",
       "active": true,
@@ -273,7 +273,62 @@
         "sec": 1745877253
       },
       "updated": {
-        "sec": 1745879181
+        "sec": 1745879892
+      }
+    },
+    {
+      "_id": {
+        "$id": "6810031e147cf9719952b3a7"
+      },
+      "id": "20250545245",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745879220
+      },
+      "date": "28-04-2025",
+      "hour": "23:27",
+      "location": "Porto, Gondomar, Rio Tinto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Rio Tinto",
+      "dico": "1304",
+      "lat": 41.179302,
+      "lng": -8.560102,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250545245",
+      "sharepointId": 25301923,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1745879838
+      },
+      "updated": {
+        "sec": 1745879855
       }
     }
   ]
