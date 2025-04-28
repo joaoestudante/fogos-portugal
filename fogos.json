@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Firvidas ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1745853825
       },
       "updated": {
-        "sec": 1745854877
+        "sec": 1745856077
       }
     },
     {
@@ -180,23 +180,23 @@
       "location": "Braga, Fafe, Quinchães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Quinchães",
       "dico": "0307",
-      "lat": 41.42537,
-      "lng": -8.14354,
+      "lat": 41.423033,
+      "lng": -8.143602,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Quinchães ",
+      "localidade": "Casadela ",
       "active": true,
       "sadoId": "20250543433",
       "sharepointId": 25300111,
@@ -218,7 +218,7 @@
         "sec": 1745853826
       },
       "updated": {
-        "sec": 1745855720
+        "sec": 1745857185
       }
     },
     {
@@ -288,10 +288,10 @@
       "date": "28-04-2025",
       "hour": "16:54",
       "location": "Coimbra, Miranda do Corvo, Vila Nova",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 13,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Miranda Do Corvo",
       "freguesia": "Vila Nova",
@@ -302,9 +302,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Gondramaz ",
       "active": true,
@@ -328,7 +328,172 @@
         "sec": 1745855834
       },
       "updated": {
-        "sec": 1745855900
+        "sec": 1745857664
+      }
+    },
+    {
+      "_id": {
+        "$id": "680fa73ac80ae747d72dc116"
+      },
+      "id": "20250543672",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745856180
+      },
+      "date": "28-04-2025",
+      "hour": "17:03",
+      "location": "Viseu, Vila Nova de Paiva, Queiriga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Queiriga",
+      "dico": "1822",
+      "lat": 40.80373,
+      "lng": -7.74658,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Queiriga ",
+      "active": true,
+      "sadoId": "20250543672",
+      "sharepointId": 25300350,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1745856314
+      },
+      "updated": {
+        "sec": 1745857664
+      }
+    },
+    {
+      "_id": {
+        "$id": "680fa7ef15ae283f03026679"
+      },
+      "id": "20250543671",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745856180
+      },
+      "date": "28-04-2025",
+      "hour": "17:03",
+      "location": "Viseu, Vila Nova de Paiva, Queiriga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Queiriga",
+      "dico": "1822",
+      "lat": 40.80308,
+      "lng": -7.746392,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Queiriga ",
+      "active": true,
+      "sadoId": "20250543671",
+      "sharepointId": 25300349,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1745856495
+      },
+      "updated": {
+        "sec": 1745856515
+      }
+    },
+    {
+      "_id": {
+        "$id": "680fabae15d130799c7d14a5"
+      },
+      "id": "20250543771",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745856960
+      },
+      "date": "28-04-2025",
+      "hour": "17:16",
+      "location": "Lisboa, Alenquer, Carnota",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Carnota",
+      "dico": "1101",
+      "lat": 39.040476,
+      "lng": -9.046712,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Canhestro ",
+      "active": true,
+      "sadoId": "20250543771",
+      "sharepointId": 25300449,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1745857454
+      },
+      "updated": {
+        "sec": 1745857473
       }
     }
   ]
