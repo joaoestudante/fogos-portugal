@@ -15,8 +15,8 @@
       "location": "Braga, Guimarães, Gonça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Gonça",
@@ -53,7 +53,7 @@
         "sec": 1745930595
       },
       "updated": {
-        "sec": 1745952075
+        "sec": 1745952435
       }
     },
     {
@@ -168,61 +168,6 @@
     },
     {
       "_id": {
-        "$id": "68110a4eb702c173b30418c6"
-      },
-      "id": "20250549515",
-      "coords": true,
-      "dateTime": {
-        "sec": 1745946840
-      },
-      "date": "29-04-2025",
-      "hour": "18:14",
-      "location": "Viseu, São João da Pesqueira, Paredes Da Beira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "São João Da Pesqueira",
-      "freguesia": "Paredes Da Beira",
-      "dico": "1815",
-      "lat": 41.06697,
-      "lng": -7.489143,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Paredes Da Beira ",
-      "active": true,
-      "sadoId": "20250549515",
-      "sharepointId": 25306193,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1745947214
-      },
-      "updated": {
-        "sec": 1745951958
-      }
-    },
-    {
-      "_id": {
         "$id": "68110c6a2b2e8e6d0f244c23"
       },
       "id": "20250549558",
@@ -302,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Costa Da Caparica ",
       "active": true,
@@ -328,7 +273,66 @@
         "sec": 1745951595
       },
       "updated": {
-        "sec": 1745951611
+        "sec": 1745952675
+      }
+    },
+    {
+      "_id": {
+        "$id": "68111fa3de3cfa4d615ac8d3"
+      },
+      "id": "20250549867",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745952000
+      },
+      "date": "29-04-2025",
+      "hour": "19:40",
+      "location": "Porto, Gondomar, Rio Tinto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Rio Tinto",
+      "dico": "1304",
+      "lat": 41.18909,
+      "lng": -8.568666,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rio Tinto ",
+      "active": true,
+      "sadoId": "20250549867",
+      "sharepointId": 25306545,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 98.48,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Via Nordeste. 4435-155 Gondomar. Portugal (Santegão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1745952675
+      },
+      "updated": {
+        "sec": 1745952695
       }
     }
   ]
