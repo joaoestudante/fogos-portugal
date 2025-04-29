@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1745923697
       },
       "updated": {
-        "sec": 1745924700
+        "sec": 1745926999
       }
     },
     {
@@ -123,9 +123,9 @@
       "date": "29-04-2025",
       "hour": "11:52",
       "location": "Viana Do Castelo, Arcos de Valdevez, Sistelo",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
+      "man": 3,
       "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sistelo ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1745924237
       },
       "updated": {
-        "sec": 1745924880
+        "sec": 1745927177
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Aveiro, Santa Maria da Feira, Santa Maria Da Feira, Travanca, Sanfins E Espargo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Santa Maria Da Feira, Travanca, Sanfins E Espargo",
@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Santa Maria Da Feira, Travanca, Sanfins E Espargo ",
       "active": true,
@@ -273,7 +273,62 @@
         "sec": 1745926422
       },
       "updated": {
-        "sec": 1745926439
+        "sec": 1745926783
+      }
+    },
+    {
+      "_id": {
+        "$id": "6810ba7f62db7642f67ed0f5"
+      },
+      "id": "20250547705",
+      "coords": true,
+      "dateTime": {
+        "sec": 1745926560
+      },
+      "date": "29-04-2025",
+      "hour": "12:36",
+      "location": "Viseu, Castro Daire, Moledo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Castro Daire",
+      "freguesia": "Moledo",
+      "dico": "1803",
+      "lat": 40.82106,
+      "lng": -7.84396,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Moledo ",
+      "active": true,
+      "sadoId": "20250547705",
+      "sharepointId": 25304383,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1745926783
+      },
+      "updated": {
+        "sec": 1745927177
       }
     }
   ]
