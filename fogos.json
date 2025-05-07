@@ -15,8 +15,8 @@
       "location": "Porto, Trofa, Covelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 5,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Covelas",
@@ -53,7 +53,7 @@
         "sec": 1746644865
       },
       "updated": {
-        "sec": 1746647775
+        "sec": 1746650416
       }
     },
     {
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Passa Frio ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1746647774
       },
       "updated": {
-        "sec": 1746649571
+        "sec": 1746650503
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Conceição E Estoi ",
       "active": true,
@@ -163,7 +163,62 @@
         "sec": 1746649571
       },
       "updated": {
-        "sec": 1746649588
+        "sec": 1746650594
+      }
+    },
+    {
+      "_id": {
+        "$id": "681bc61f8cb6913b430f4dd3"
+      },
+      "id": "20250586558",
+      "coords": true,
+      "dateTime": {
+        "sec": 1746650460
+      },
+      "date": "07-05-2025",
+      "hour": "21:41",
+      "location": "Vila Real, Chaves, Redondelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Redondelo",
+      "dico": "1703",
+      "lat": 41.711078,
+      "lng": -7.580428,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "São Domingos ",
+      "active": true,
+      "sadoId": "20250586558",
+      "sharepointId": 25343236,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1746650655
+      },
+      "updated": {
+        "sec": 1746650672
       }
     }
   ]
