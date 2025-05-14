@@ -15,8 +15,8 @@
       "location": "Bragança, Mirandela, Franco E Vila Boa",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 8,
+      "terrain": 1,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Franco E Vila Boa",
@@ -37,8 +37,12 @@
       "sharepointId": 25372276,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 500.25,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Franco",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -53,7 +57,66 @@
         "sec": 1747221940
       },
       "updated": {
-        "sec": 1747221940
+        "sec": 1747222740
+      }
+    },
+    {
+      "_id": {
+        "$id": "682480765701212ca950b2f4"
+      },
+      "id": "20250615686",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747222260
+      },
+      "date": "14-05-2025",
+      "hour": "12:31",
+      "location": "Faro, Monchique, Monchique",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Monchique",
+      "freguesia": "Monchique",
+      "dico": "0809",
+      "lat": 37.30976,
+      "lng": -8.58746,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Monchique ",
+      "active": true,
+      "sadoId": "20250615686",
+      "sharepointId": 25372364,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 767.472,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N266-3 (Fóia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1747222646
+      },
+      "updated": {
+        "sec": 1747222765
       }
     }
   ]
