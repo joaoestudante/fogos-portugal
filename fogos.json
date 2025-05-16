@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Guia ",
       "active": true,
@@ -218,7 +218,7 @@
         "sec": 1747407104
       },
       "updated": {
-        "sec": 1747408820
+        "sec": 1747409144
       }
     },
     {
@@ -235,21 +235,21 @@
       "location": "Braga, Terras de Bouro, Chorense E Monte",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 22,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Chorense E Monte",
       "dico": "0310",
-      "lat": 41.697798,
-      "lng": -8.267949,
+      "lat": 41.70878,
+      "lng": -8.315825,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Chorense ",
       "active": true,
@@ -273,7 +273,7 @@
         "sec": 1747408096
       },
       "updated": {
-        "sec": 1747408664
+        "sec": 1747409843
       }
     },
     {
@@ -302,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Santarém ",
       "active": true,
@@ -328,7 +328,7 @@
         "sec": 1747408456
       },
       "updated": {
-        "sec": 1747408820
+        "sec": 1747409626
       }
     },
     {
@@ -343,25 +343,25 @@
       "date": "16-05-2025",
       "hour": "16:00",
       "location": "Aveiro, Santa Maria da Feira, São João De Ver",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 11,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "São João De Ver",
       "dico": "0109",
-      "lat": 40.95385,
-      "lng": -8.549167,
+      "lat": 40.955305,
+      "lng": -8.550029,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": " ",
+      "localidade": "São João De Vêr ",
       "active": true,
       "sadoId": "20250626269",
       "sharepointId": 25382947,
@@ -383,7 +383,121 @@
         "sec": 1747408820
       },
       "updated": {
-        "sec": 1747408840
+        "sec": 1747409503
+      }
+    },
+    {
+      "_id": {
+        "$id": "68275a04684ab722241c6bc9"
+      },
+      "id": "20250626328",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747409220
+      },
+      "date": "16-05-2025",
+      "hour": "16:27",
+      "location": "Aveiro, Santa Maria da Feira, Rio Meão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Rio Meão",
+      "dico": "0109",
+      "lat": 40.956572,
+      "lng": -8.586218,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250626328",
+      "sharepointId": 25383006,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 86.3706,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar Regatas de baixo (ED109-4 (ED109-4) Km 6)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1747409412
+      },
+      "updated": {
+        "sec": 1747409843
+      }
+    },
+    {
+      "_id": {
+        "$id": "68275bb3251d9e7892112da2"
+      },
+      "id": "20250626349",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747409580
+      },
+      "date": "16-05-2025",
+      "hour": "16:33",
+      "location": "Santarém, Abrantes, Mouriscas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Mouriscas",
+      "dico": "1401",
+      "lat": 39.4943,
+      "lng": -8.110629,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mouriscas ",
+      "active": true,
+      "sadoId": "20250626349",
+      "sharepointId": 25383027,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1747409843
+      },
+      "updated": {
+        "sec": 1747409869
       }
     }
   ]
