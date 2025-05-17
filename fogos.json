@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Moledo ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1747485017
       },
       "updated": {
-        "sec": 1747489336
+        "sec": 1747491260
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Aveiro, Santa Maria da Feira, Arrifana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 5,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Arrifana",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Arrifana ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1747490896
       },
       "updated": {
-        "sec": 1747491014
+        "sec": 1747491678
       }
     },
     {
@@ -239,21 +239,21 @@
       "location": "Lisboa, Loures, Lousa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Lousa",
       "dico": "1107",
-      "lat": 38.907532,
-      "lng": -9.214466,
+      "lat": 38.912171,
+      "lng": -9.2133,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Casais Do Forno ",
       "active": true,
@@ -277,7 +277,62 @@
         "sec": 1747490983
       },
       "updated": {
-        "sec": 1747491000
+        "sec": 1747491702
+      }
+    },
+    {
+      "_id": {
+        "$id": "68289a8773ee297da46a3617"
+      },
+      "id": "20250630893",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747491060
+      },
+      "date": "17-05-2025",
+      "hour": "15:11",
+      "location": "Leiria, Leiria, Leiria, Pousos, Barreira E Cortes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Leiria, Pousos, Barreira E Cortes",
+      "dico": "1009",
+      "lat": 39.73396,
+      "lng": -8.80419,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Leiria, Pousos, Barreira E Cortes ",
+      "active": true,
+      "sadoId": "20250630893",
+      "sharepointId": 25387571,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1747491463
+      },
+      "updated": {
+        "sec": 1747491703
       }
     }
   ]
