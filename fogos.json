@@ -184,8 +184,8 @@
       "location": "Lisboa, Loures, Lousa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Lousa",
@@ -222,7 +222,7 @@
         "sec": 1747490983
       },
       "updated": {
-        "sec": 1747496382
+        "sec": 1747496746
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Angueira ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1747495333
       },
       "updated": {
-        "sec": 1747495997
+        "sec": 1747496507
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Belverde ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1747496148
       },
       "updated": {
-        "sec": 1747496382
+        "sec": 1747496506
       }
     },
     {
@@ -516,10 +516,10 @@
       "date": "17-05-2025",
       "hour": "16:36",
       "location": "Faro, Silves, Algoz E Tunes",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 25,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "Algoz E Tunes",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Algoz E Tunes ",
       "active": true,
@@ -556,7 +556,62 @@
         "sec": 1747496382
       },
       "updated": {
-        "sec": 1747496401
+        "sec": 1747497020
+      }
+    },
+    {
+      "_id": {
+        "$id": "6828ae96bedba627b84a4284"
+      },
+      "id": "20250631271",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747496280
+      },
+      "date": "17-05-2025",
+      "hour": "16:38",
+      "location": "Porto, Trofa, Alvarelhos E Guidões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Trofa",
+      "freguesia": "Alvarelhos E Guidões",
+      "dico": "1318",
+      "lat": 41.33492,
+      "lng": -8.619748,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Alvarelhos E Guidões ",
+      "active": true,
+      "sadoId": "20250631271",
+      "sharepointId": 25387949,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1747496598
+      },
+      "updated": {
+        "sec": 1747496981
       }
     }
   ]
