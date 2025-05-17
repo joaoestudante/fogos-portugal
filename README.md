@@ -1,8 +1,8 @@
-## O que é isto?
-Um repositório com o histórico de alterações dos dados do fogos.pt. Inspirado por: https://simonwillison.net/2020/Oct/9/git-scraping/
+## What is this?
+This repository contains the change history of fire data in Portugal from fogos.pt. Idea taken from: https://simonwillison.net/2020/Oct/9/git-scraping/
 
-## Como funciona?
+## How does it work?
 
-Aos 6, 26, e 46 minutos de cada hora - por outras palavras, de 20 em 20 minutos - é feito um pedido a https://api-dev.fogos.pt/new/fires, usando Github Actions. Este URL é o utilizado pelo fogos.pt para mostrar os fogos relevantes em Portugal.
+Every 5 minutes, a Github action is executed and fetches https://api-dev.fogos.pt/new/fires. This URL is used by the fogos.pt website to show the relevant fires in Portugal.
 
-Ao guardar as respostas num repositório Git, é possível fazer uma análise ao longo do tempo da evolução de cada fogo e dos fogos em geral. O autor desta ideia desenvolveu também uma ferramenta para este propósito: https://simonwillison.net/2021/Dec/7/git-history/
+By saving the response with Git, we can analyze over time the evoution of each fire, and the fires in general. Although Simon made a purpose built tool for this analysis (https://simonwillison.net/2021/Dec/7/git-history/) I opted to ask Gemini 2.5 Pro to build something more relevant for this use case. The script reads the git history and builds an sqlite3 database that is then interacted with via Flask and a React frontend.
