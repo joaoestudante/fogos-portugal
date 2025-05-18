@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React from "react"
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card"
 import { useSelector } from "react-redux"
 import {
@@ -6,19 +6,6 @@ import {
   selectMinDateRaw,
 } from "@/features/date-range/dateRangeSlice"
 import { useGetWorstDayQuery } from "@/app/api"
-
-type WorstDayStatsResponse = {
-  worst_day: string
-  total_fires: number
-  total_resources: {
-    man: number
-    terrain: number
-    aerial: number
-  }
-  largest_fire_duration_hours: number
-  fire_with_longest_duration: string | null
-  districts: string[]
-}
 
 const WorstDayCards: React.FC = () => {
   const minDate = useSelector(selectMinDateRaw)

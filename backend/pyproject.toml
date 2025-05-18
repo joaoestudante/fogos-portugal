@@ -8,8 +8,12 @@ dependencies = [
     "flask>=3.0.3",
     "flask-cors>=5.0.0",
     "gitpython>=3.1.44",
+    "gunicorn>=23.0.0",
     "numpy>=1.24.4",
     "pygit>=0.1",
     "pygit2>=1.13.3",
     "sqlalchemy>=2.0.40",
 ]
+
+[tool.setuptools]
+py-modules=[]

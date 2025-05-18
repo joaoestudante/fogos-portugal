@@ -122,8 +122,15 @@ class FireUpdate(Base):
         }
 
 
-app = Flask(__name__)
+def createApp():
+    return Flask(__name__)
+
+app = createApp()
 CORS(app)
+
+@app.route('/health')
+def health_check():
+    return jsonify(status="UP"), 200
 
 def getDBSession():
     # Connect to the SQLite database with SQL Alchemy
@@ -132,7 +139,7 @@ def getDBSession():
     return Session()
 
 # Route to get all fires, paginated
-@app.route('/fires', methods=['GET'])
+@app.route('/api/fires', methods=['GET'])
 def get_fires():
     page = int(request.args.get('page', 0))
     page_size = int(request.args.get('page_size', 25))
@@ -164,7 +171,7 @@ def get_query_with_date_filters(query):
 
 
 # Route to get number of fires grouped per month, for all time
-@app.route('/fires/months', methods=['GET'])
+@app.route('/api/fires/months', methods=['GET'])
 def get_fires_per_month():
     session = getDBSession()
 
@@ -181,7 +188,7 @@ def get_fires_per_month():
     results = [{'month': month, 'count': count} for month, count in results]
     return jsonify(list(results))
 
-@app.route('/fires/total', methods=['GET'])
+@app.route('/api/fires/total', methods=['GET'])
 def get_fires_total():
     session = getDBSession()
     
@@ -192,7 +199,7 @@ def get_fires_total():
     session.close()
     return jsonify({'value': total})    
 
-@app.route('/fires/most-affected-district', methods=['GET'])
+@app.route('/api/fires/most-affected-district', methods=['GET'])
 def get_most_affected_district():
     session = getDBSession()
     query = session.query(
@@ -208,7 +215,7 @@ def get_most_affected_district():
     else:
         return jsonify({'value': 'None'})
     
-@app.route('/fires/count-per-district', methods=['GET'])
+@app.route('/api/fires/count-per-district', methods=['GET'])
 def get_fires_count_per_district():
     session = getDBSession()
     results = get_query_with_date_filters(session.query(
@@ -222,7 +229,7 @@ def get_fires_count_per_district():
 
 import numpy as np
 
-@app.route('/fires/duration-histogram', methods=['GET'])
+@app.route('/api/fires/duration-histogram', methods=['GET'])
 def get_fires_duration_histogram():
     session = getDBSession()
     
@@ -250,7 +257,7 @@ def get_fires_duration_histogram():
     # Return the histogram as JSON
     return jsonify(histogram_data)
 
-@app.route('/fires/duration-stats', methods=['GET'])
+@app.route('/api/fires/duration-stats', methods=['GET'])
 def get_fires_average_duration():
     session = getDBSession()
     # Calculate the average, median, and standard deviation of the duration
@@ -266,7 +273,7 @@ def get_fires_average_duration():
     return jsonify({'value': round(average, 2), 'subValue': value})
     
 
-@app.route('/fires/worst-day-stats', methods=['GET'])
+@app.route('/api/fires/worst-day-stats', methods=['GET'])
 def get_worst_day_stats():
     session = getDBSession()
     
@@ -331,7 +338,7 @@ def get_worst_day_stats():
         'districts': districts
     })
 
-@app.route('/fires/available-date-range', methods=['GET'])
+@app.route('/api/fires/available-date-range', methods=['GET'])
 def get_available_date_range():
     session = getDBSession()
     

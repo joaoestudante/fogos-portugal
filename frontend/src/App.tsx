@@ -1,15 +1,8 @@
-import { useSelector } from "react-redux"
 import "./App.css"
 import { ChartsDateRange } from "./components/charts-date-range"
-import { BarChartCounts } from "./components/metrics/building-blocks/bar-chart-counts"
-import { SingleValue } from "./components/metrics/building-blocks/single-value"
 import { FiresPerMonth } from "./components/metrics/fires-per-month"
 import WorstDayCard from "./components/metrics/worst-day"
 import { Separator } from "./components/ui/separator"
-import {
-  selectMaxDate,
-  selectMinDate,
-} from "./features/date-range/dateRangeSlice"
 import { TotalFires } from "./components/metrics/total-fires"
 import { MostAffectedDistrict } from "./components/metrics/most-affected-district"
 import { TotalFiresPerDistrict } from "./components/metrics/district-count"

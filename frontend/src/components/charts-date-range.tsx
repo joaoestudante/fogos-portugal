@@ -23,7 +23,7 @@ export const ChartsDateRange = () => {
     async function fetchData() {
       try {
         const response = await fetch(
-          "http://localhost:5000/fires/available-date-range",
+          "http://localhost:5000/api/fires/available-date-range",
         )
         const data = await response.json()
         setMinDateRange(new Date(data.min_date * 1000))
