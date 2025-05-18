@@ -4,10 +4,18 @@ services:
       context: ./backend
       dockerfile: Dockerfile
     image: react-flask-app-api
+    # Expose port 5000 only to the host's localhost
+    ports:
+      - "127.0.0.1:5000:5000" # Host:Container, binding to 127.0.0.1 makes it inaccessible from outside the VPS itself
+    restart: unless-stopped # Good practice for services
+
   client:
     build:
       context: ./frontend
       dockerfile: Dockerfile
     image: react-flask-app-client
+    # Expose Nginx's port 80 to a different port on the host's localhost (e.g., 8080)
+    # Nginx inside the container listens on port 80.
     ports:
-      - "80:80"
+      - "127.0.0.1:8080:80" # Host:Container, binding to 127.0.0.1
+    restart: unless-stopped

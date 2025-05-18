@@ -1,0 +1,23 @@
+fires.joaoestudante.com {
+    # Enable compression
+    encode gzip
+
+    # Route API requests
+    # Match requests starting with /api/ and proxy them to your backend
+    handle_path /api/* {
+        reverse_proxy localhost:5000
+    }
+
+    # Route all other requests to the frontend
+    # This needs to be specific enough not to catch /api/* again if handle_path isn't used.
+    # Using `handle` ensures routes are mutually exclusive.
+    handle {
+        reverse_proxy localhost:8080
+    }
+
+    # Optional: Logging
+    log {
+        output file /var/log/caddy/yourapp.log
+        format console # or json, etc.
+    }
+}
