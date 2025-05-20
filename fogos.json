@@ -15,8 +15,8 @@
       "location": "Faro, Tavira, Luz De Tavira E Santo Estêvão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Tavira",
       "freguesia": "Luz De Tavira E Santo Estêvão",
@@ -53,7 +53,7 @@
         "sec": 1747734102
       },
       "updated": {
-        "sec": 1747738097
+        "sec": 1747739894
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Faro, São Brás de Alportel, São Brás De Alportel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "São Brás De Alportel",
       "freguesia": "São Brás De Alportel",
@@ -108,7 +108,7 @@
         "sec": 1747736896
       },
       "updated": {
-        "sec": 1747737857
+        "sec": 1747738908
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Faro, Faro, Santa Bárbara De Nexe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Santa Bárbara De Nexe",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Agostos ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1747737376
       },
       "updated": {
-        "sec": 1747737975
+        "sec": 1747739984
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Aveiro, Arouca, Rossas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 6,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Rossas",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Rossas ",
       "active": true,
@@ -222,7 +222,176 @@
         "sec": 1747738183
       },
       "updated": {
-        "sec": 1747738200
+        "sec": 1747739022
+      }
+    },
+    {
+      "_id": {
+        "$id": "682c5f576a9a0214055c3982"
+      },
+      "id": "20250643941",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747738140
+      },
+      "date": "20-05-2025",
+      "hour": "11:49",
+      "location": "Porto, Vila Nova de Gaia, Santa Marinha E São Pedro Da Afurada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Santa Marinha E São Pedro Da Afurada",
+      "dico": "1317",
+      "lat": 41.14617,
+      "lng": -8.63897,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Santa Marinha E São Pedro Da Afurada ",
+      "active": true,
+      "sadoId": "20250643941",
+      "sharepointId": 25400621,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1747738455
+      },
+      "updated": {
+        "sec": 1747739893
+      }
+    },
+    {
+      "_id": {
+        "$id": "682c62f7a34523019578d0b4"
+      },
+      "id": "20250644042",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747739040
+      },
+      "date": "20-05-2025",
+      "hour": "12:04",
+      "location": "Faro, Faro, Conceição E Estoi",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Conceição E Estoi",
+      "dico": "0805",
+      "lat": 37.072561,
+      "lng": -7.863182,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vale Das Gralhas ",
+      "active": true,
+      "sadoId": "20250644042",
+      "sharepointId": 25400722,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1747739383
+      },
+      "updated": {
+        "sec": 1747739985
+      }
+    },
+    {
+      "_id": {
+        "$id": "682c64f5fa03590bb41e4ae6"
+      },
+      "id": "20250644059",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747739220
+      },
+      "date": "20-05-2025",
+      "hour": "12:07",
+      "location": "Leiria, Ansião, Ansião",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Ansião",
+      "freguesia": "Ansião",
+      "dico": "1003",
+      "lat": 39.907437,
+      "lng": -8.43366,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ansião ",
+      "active": true,
+      "sadoId": "20250644059",
+      "sharepointId": 25400739,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 232.838,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bom Fim (Garreada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1747739893
+      },
+      "updated": {
+        "sec": 1747739916
       }
     }
   ]
