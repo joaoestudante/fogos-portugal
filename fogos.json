@@ -15,8 +15,8 @@
       "location": "Faro, Silves, São Bartolomeu De Messines",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "São Bartolomeu De Messines",
@@ -53,7 +53,7 @@
         "sec": 1747825456
       },
       "updated": {
-        "sec": 1747829652
+        "sec": 1747833615
       }
     },
     {
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Arnal ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1747826532
       },
       "updated": {
-        "sec": 1747830502
+        "sec": 1747831932
       }
     },
     {
@@ -125,16 +125,16 @@
       "location": "Lisboa, Amadora, Águas Livres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Amadora",
       "freguesia": "Águas Livres",
       "dico": "1115",
-      "lat": 38.75082,
-      "lng": -9.224346,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 38.750705,
+      "lng": -9.224311,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -163,7 +163,7 @@
         "sec": 1747828783
       },
       "updated": {
-        "sec": 1747829984
+        "sec": 1747833615
       }
     },
     {
@@ -178,10 +178,10 @@
       "date": "21-05-2025",
       "hour": "13:36",
       "location": "Faro, Loulé, Loulé (São Clemente)",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Loulé (São Clemente)",
@@ -218,7 +218,62 @@
         "sec": 1747831423
       },
       "updated": {
-        "sec": 1747831544
+        "sec": 1747831903
+      }
+    },
+    {
+      "_id": {
+        "$id": "682dd07a35f5716b6c01ff72"
+      },
+      "id": "20250649430",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747832520
+      },
+      "date": "21-05-2025",
+      "hour": "14:02",
+      "location": "Faro, Alcoutim, Alcoutim E Pereiro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Alcoutim",
+      "freguesia": "Alcoutim E Pereiro",
+      "dico": "0802",
+      "lat": 37.385343,
+      "lng": -7.446544,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alamo ",
+      "active": true,
+      "sadoId": "20250649430",
+      "sharepointId": 25406110,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1747832954
+      },
+      "updated": {
+        "sec": 1747833615
       }
     }
   ]
