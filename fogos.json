@@ -70,8 +70,8 @@
       "location": "Vila Real, Vila Real, Vila Marim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Vila Marim",
@@ -108,7 +108,7 @@
         "sec": 1747826532
       },
       "updated": {
-        "sec": 1747837460
+        "sec": 1747840422
       }
     },
     {
@@ -233,10 +233,10 @@
       "date": "21-05-2025",
       "hour": "15:08",
       "location": "Santarém, Benavente, Samora Correia",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Benavente",
       "freguesia": "Samora Correia",
@@ -277,7 +277,7 @@
         "sec": 1747837222
       },
       "updated": {
-        "sec": 1747838775
+        "sec": 1747840815
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Santarém, Ourém, Nossa Senhora Da Piedade",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Nossa Senhora Da Piedade",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Nova De Ourém ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1747838419
       },
       "updated": {
-        "sec": 1747838719
+        "sec": 1747840000
       }
     },
     {
@@ -402,10 +402,10 @@
       "date": "21-05-2025",
       "hour": "15:44",
       "location": "Faro, Lagoa, Porches",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 19,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Lagoa",
       "freguesia": "Porches",
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sobral ",
       "active": true,
@@ -442,7 +442,62 @@
         "sec": 1747838864
       },
       "updated": {
-        "sec": 1747839131
+        "sec": 1747840521
+      }
+    },
+    {
+      "_id": {
+        "$id": "682defac14f1a24a5729fdc5"
+      },
+      "id": "20250650184",
+      "coords": true,
+      "dateTime": {
+        "sec": 1747840740
+      },
+      "date": "21-05-2025",
+      "hour": "16:19",
+      "location": "Aveiro, Santa Maria da Feira, Rio Meão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Rio Meão",
+      "dico": "0109",
+      "lat": 40.95741,
+      "lng": -8.57882,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Rio Meão ",
+      "active": true,
+      "sadoId": "20250650184",
+      "sharepointId": 25406864,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1747840940
+      },
+      "updated": {
+        "sec": 1747840955
       }
     }
   ]
