@@ -357,8 +357,8 @@
       "location": "Leiria, Pedrógão Grande, Graça",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 11,
+      "man": 44,
+      "terrain": 12,
       "district": "Leiria",
       "concelho": "Pedrógão Grande",
       "freguesia": "Graça",
@@ -399,7 +399,7 @@
         "sec": 1748183422
       },
       "updated": {
-        "sec": 1748186172
+        "sec": 1748186773
       }
     },
     {
@@ -528,9 +528,9 @@
       "date": "25-05-2025",
       "hour": "16:07",
       "location": "Faro, Silves, Silves",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 16,
+      "man": 21,
       "terrain": 4,
       "district": "Faro",
       "concelho": "Silves",
@@ -542,9 +542,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lobito ",
       "active": true,
@@ -568,7 +568,7 @@
         "sec": 1748185935
       },
       "updated": {
-        "sec": 1748186172
+        "sec": 1748186655
       }
     },
     {
@@ -582,24 +582,24 @@
       },
       "date": "25-05-2025",
       "hour": "15:56",
-      "location": "Viana Do Castelo, Vila Nova de Cerveira, Loivo",
+      "location": "Viana Do Castelo, Vila Nova de Cerveira, Gondarém",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Vila Nova De Cerveira",
-      "freguesia": "Loivo",
+      "freguesia": "Gondarém",
       "dico": "1610",
-      "lat": 41.9243,
-      "lng": -8.750151,
+      "lat": 41.918957,
+      "lng": -8.747492,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Loivo ",
       "active": true,
@@ -627,7 +627,117 @@
         "sec": 1748186172
       },
       "updated": {
-        "sec": 1748186193
+        "sec": 1748186655
+      }
+    },
+    {
+      "_id": {
+        "$id": "683335a9116f113f91304396"
+      },
+      "id": "20250669717",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748186100
+      },
+      "date": "25-05-2025",
+      "hour": "16:15",
+      "location": "Faro, Olhão, Moncarapacho E Fuseta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Olhão",
+      "freguesia": "Moncarapacho E Fuseta",
+      "dico": "0810",
+      "lat": 37.08386,
+      "lng": -7.78798,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Moncarapacho E Fuseta ",
+      "active": true,
+      "sadoId": "20250669717",
+      "sharepointId": 25426397,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1748186537
+      },
+      "updated": {
+        "sec": 1748186773
+      }
+    },
+    {
+      "_id": {
+        "$id": "683335a9116f113f91304397"
+      },
+      "id": "20250669730",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748186220
+      },
+      "date": "25-05-2025",
+      "hour": "16:17",
+      "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Viade De Baixo E Fervidelas",
+      "dico": "1706",
+      "lat": 41.763422,
+      "lng": -7.86979,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Viade De Baixo ",
+      "active": true,
+      "sadoId": "20250669730",
+      "sharepointId": 25426410,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1748186537
+      },
+      "updated": {
+        "sec": 1748186773
       }
     }
   ]
