@@ -68,10 +68,10 @@
       "date": "26-05-2025",
       "hour": "12:49",
       "location": "Setúbal, Alcácer do Sal, Torrão",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 12,
+      "man": 23,
+      "terrain": 10,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Torrão",
@@ -108,7 +108,7 @@
         "sec": 1748260693
       },
       "updated": {
-        "sec": 1748267536
+        "sec": 1748268616
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Porto, Vila Nova de Gaia, Arcozelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Arcozelo",
@@ -222,7 +222,125 @@
         "sec": 1748265135
       },
       "updated": {
-        "sec": 1748266096
+        "sec": 1748269213
+      }
+    },
+    {
+      "_id": {
+        "$id": "6834755615518e6029577eb2"
+      },
+      "id": "20250674346",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748268180
+      },
+      "date": "26-05-2025",
+      "hour": "15:03",
+      "location": "Santarém, Benavente, Samora Correia",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Benavente",
+      "freguesia": "Samora Correia",
+      "dico": "1405",
+      "lat": 38.855098,
+      "lng": -8.881047,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Porto Alto ",
+      "active": true,
+      "sadoId": "20250674346",
+      "sharepointId": 25431026,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -5.82875,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "PORTO ALTO (Baracha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1748268374
+      },
+      "updated": {
+        "sec": 1748269213
+      }
+    },
+    {
+      "_id": {
+        "$id": "6834782915518e6029577ed0"
+      },
+      "id": "20250674392",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748268540
+      },
+      "date": "26-05-2025",
+      "hour": "15:09",
+      "location": "Braga, Vila Verde, Marrancos E Arcozelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Marrancos E Arcozelo",
+      "dico": "0313",
+      "lat": 41.65861,
+      "lng": -8.529865,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Arcozelo ",
+      "active": true,
+      "sadoId": "20250674392",
+      "sharepointId": 25431072,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 153.504,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Arcozelo (Monte)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1748269097
+      },
+      "updated": {
+        "sec": 1748269213
       }
     }
   ]
