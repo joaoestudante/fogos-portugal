@@ -137,9 +137,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Ferreira-a-nova ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1748428575
       },
       "updated": {
-        "sec": 1748428935
+        "sec": 1748430861
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Bragança, Carrazeda de Ansiães, Amedo E Zedes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 3,
       "district": "Bragança",
       "concelho": "Carrazeda De Ansiães",
       "freguesia": "Amedo E Zedes",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Zedes ",
       "active": true,
@@ -222,7 +222,66 @@
         "sec": 1748429772
       },
       "updated": {
-        "sec": 1748429787
+        "sec": 1748430862
+      }
+    },
+    {
+      "_id": {
+        "$id": "6836ef1932b78628cb716d0b"
+      },
+      "id": "20250683467",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748429640
+      },
+      "date": "28-05-2025",
+      "hour": "11:54",
+      "location": "Setúbal, Alcochete, Alcochete",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Alcochete",
+      "freguesia": "Alcochete",
+      "dico": "1502",
+      "lat": 38.736052,
+      "lng": -8.91027,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250683467",
+      "sharepointId": 25440147,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -12.3263,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Trs Rua Fernão Lopes (Marinha Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1748430617
+      },
+      "updated": {
+        "sec": 1748430641
       }
     }
   ]
