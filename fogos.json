@@ -125,8 +125,8 @@
       "location": "Leiria, Peniche, Atouguia Da Baleia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 19,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Peniche",
       "freguesia": "Atouguia Da Baleia",
@@ -163,7 +163,7 @@
         "sec": 1748455577
       },
       "updated": {
-        "sec": 1748465654
+        "sec": 1748468420
       }
     },
     {
@@ -219,61 +219,6 @@
       },
       "updated": {
         "sec": 1748467217
-      }
-    },
-    {
-      "_id": {
-        "$id": "683775275918233f4757cb92"
-      },
-      "id": "20250686166",
-      "coords": true,
-      "dateTime": {
-        "sec": 1748464740
-      },
-      "date": "28-05-2025",
-      "hour": "21:39",
-      "location": "Aveiro, Ílhavo, Ílhavo (São Salvador)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Aveiro",
-      "concelho": "Ílhavo",
-      "freguesia": "Ílhavo (São Salvador)",
-      "dico": "0110",
-      "lat": 40.5817,
-      "lng": -8.644941,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ílhavo (São Salvador) ",
-      "active": true,
-      "sadoId": "20250686166",
-      "sharepointId": 25442847,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1748464935
-      },
-      "updated": {
-        "sec": 1748467817
       }
     },
     {
@@ -426,8 +371,12 @@
       "sharepointId": 25443024,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 16.9194,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua São Mamede (EN10 (EN10) Km 20)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -442,7 +391,7 @@
         "sec": 1748467817
       },
       "updated": {
-        "sec": 1748467817
+        "sec": 1748467847
       }
     }
   ]
