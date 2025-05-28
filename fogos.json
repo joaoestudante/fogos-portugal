@@ -70,16 +70,16 @@
       "location": "Braga, Fafe, Estorãos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Estorãos",
       "dico": "0307",
       "lat": 41.502033,
       "lng": -8.12957,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -108,7 +108,7 @@
         "sec": 1748421492
       },
       "updated": {
-        "sec": 1748425935
+        "sec": 1748431814
       }
     },
     {
@@ -137,9 +137,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ferreira-a-nova ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1748428575
       },
       "updated": {
-        "sec": 1748430861
+        "sec": 1748431575
       }
     },
     {
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Zedes ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1748429772
       },
       "updated": {
-        "sec": 1748430862
+        "sec": 1748431453
       }
     },
     {
@@ -282,6 +282,120 @@
       },
       "updated": {
         "sec": 1748430641
+      }
+    },
+    {
+      "_id": {
+        "$id": "6836ef9532b78628cb716d1b"
+      },
+      "id": "20250683419",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748429100
+      },
+      "date": "28-05-2025",
+      "hour": "11:45",
+      "location": "Coimbra, Montemor-o-Velho, Liceia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Montemor-o-velho",
+      "freguesia": "Liceia",
+      "dico": "0610",
+      "lat": 40.252745,
+      "lng": -8.720318,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Liceia ",
+      "active": true,
+      "sadoId": "20250683419",
+      "sharepointId": 25440099,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1748430741
+      },
+      "updated": {
+        "sec": 1748431937
+      }
+    },
+    {
+      "_id": {
+        "$id": "6836f3c632b78628cb716d4b"
+      },
+      "id": "20250683556",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748431140
+      },
+      "date": "28-05-2025",
+      "hour": "12:19",
+      "location": "Coimbra, Cantanhede, Cadima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 3,
+      "district": "Coimbra",
+      "concelho": "Cantanhede",
+      "freguesia": "Cadima",
+      "dico": "0602",
+      "lat": 40.276961,
+      "lng": -8.616368,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fornos ",
+      "active": true,
+      "sadoId": "20250683556",
+      "sharepointId": 25440236,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 99.3806,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Fornos",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1748431814
+      },
+      "updated": {
+        "sec": 1748431937
       }
     }
   ]
