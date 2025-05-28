@@ -196,9 +196,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fornos ",
       "active": true,
@@ -226,7 +226,7 @@
         "sec": 1748431814
       },
       "updated": {
-        "sec": 1748435181
+        "sec": 1748439495
       }
     },
     {
@@ -255,9 +255,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Meco ",
       "active": true,
@@ -281,7 +281,7 @@
         "sec": 1748432535
       },
       "updated": {
-        "sec": 1748438532
+        "sec": 1748439495
       }
     },
     {
@@ -369,9 +369,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mata ",
       "active": true,
@@ -395,7 +395,7 @@
         "sec": 1748435059
       },
       "updated": {
-        "sec": 1748437935
+        "sec": 1748439494
       }
     },
     {
@@ -459,26 +459,26 @@
     },
     {
       "_id": {
-        "$id": "68370bb0416b04678305a3c2"
+        "$id": "683710d7416b04678305a3f1"
       },
-      "id": "20250684113",
+      "id": "20250684194",
       "coords": true,
       "dateTime": {
-        "sec": 1748437500
+        "sec": 1748438640
       },
       "date": "28-05-2025",
-      "hour": "14:05",
-      "location": "Lisboa, Torres Vedras, S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "hour": "14:24",
+      "location": "Porto, Amarante, Jazente",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Torres Vedras",
-      "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
-      "dico": "1113",
-      "lat": 39.091829,
-      "lng": -9.251952,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Jazente",
+      "dico": "1301",
+      "lat": 41.24142,
+      "lng": -8.06085,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -487,18 +487,132 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Torres Vedras ",
+      "localidade": "Jazente ",
       "active": true,
-      "sadoId": "20250684113",
-      "sharepointId": 25440793,
+      "sadoId": "20250684194",
+      "sharepointId": 25440875,
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 52.4038,
+        "altitude": 297.592,
         "fogacho": true,
-        "fontealerta": "Populares"
+        "fontealerta": "112"
       },
-      "detailLocation": "Choupal (Torres Vedras)",
+      "detailLocation": "Jazente. Amarante. Portugal (Loureiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1748439255
+      },
+      "updated": {
+        "sec": 1748439494
+      }
+    },
+    {
+      "_id": {
+        "$id": "683710d7416b04678305a3f2"
+      },
+      "id": "20250684205",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748438700
+      },
+      "date": "28-05-2025",
+      "hour": "14:25",
+      "location": "Faro, Albufeira, Albufeira E Olhos De Água",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Albufeira E Olhos De Água",
+      "dico": "0801",
+      "lat": 37.10275,
+      "lng": -8.226503,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Albufeira E Olhos De Água ",
+      "active": true,
+      "sadoId": "20250684205",
+      "sharepointId": 25440886,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 20.05,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida da Correeira. 8200-353 Albufeira. Portugal (Travessa Alves Redol)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1748439255
+      },
+      "updated": {
+        "sec": 1748439972
+      }
+    },
+    {
+      "_id": {
+        "$id": "683712b7818bb231ea3d440a"
+      },
+      "id": "20250684274",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748439420
+      },
+      "date": "28-05-2025",
+      "hour": "14:37",
+      "location": "Lisboa, Alenquer, Aldeia Galega Da Merceana E Aldeia Gavinha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Aldeia Galega Da Merceana E Aldeia Gavinha",
+      "dico": "1101",
+      "lat": 39.11028,
+      "lng": -9.1313,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Aldeia Galega Da Merceana E Aldeia Gavinha ",
+      "active": true,
+      "sadoId": "20250684274",
+      "sharepointId": 25440955,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -510,10 +624,10 @@
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Oeste",
       "created": {
-        "sec": 1748437936
+        "sec": 1748439735
       },
       "updated": {
-        "sec": 1748437962
+        "sec": 1748439972
       }
     }
   ]
