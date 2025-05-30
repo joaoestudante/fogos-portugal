@@ -125,8 +125,8 @@
       "location": "Beja, Mértola, Alcaria Ruiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 6,
+      "man": 6,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "Alcaria Ruiva",
@@ -167,7 +167,7 @@
         "sec": 1748530203
       },
       "updated": {
-        "sec": 1748596815
+        "sec": 1748604259
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Beja, Aljustrel, Aljustrel E Rio De Moinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Aljustrel",
       "freguesia": "Aljustrel E Rio De Moinhos",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "A2 Km 152 S/n ",
       "active": true,
@@ -336,62 +336,7 @@
         "sec": 1748601258
       },
       "updated": {
-        "sec": 1748602937
-      }
-    },
-    {
-      "_id": {
-        "$id": "68398b877b42927c0a79a776"
-      },
-      "id": "20250693923",
-      "coords": true,
-      "dateTime": {
-        "sec": 1748601300
-      },
-      "date": "30-05-2025",
-      "hour": "11:35",
-      "location": "Setúbal, Almada, Caparica E Trafaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Setúbal",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "dico": "1503",
-      "lat": 38.667061,
-      "lng": -9.210835,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Fonte Santa ",
-      "active": true,
-      "sadoId": "20250693923",
-      "sharepointId": 25450604,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "created": {
-        "sec": 1748601735
-      },
-      "updated": {
-        "sec": 1748601750
+        "sec": 1748604259
       }
     },
     {
@@ -414,15 +359,15 @@
       "concelho": "Torres Vedras",
       "freguesia": "Ramalhal",
       "dico": "1113",
-      "lat": 39.145963,
-      "lng": -9.2424,
+      "lat": 39.136459,
+      "lng": -9.228402,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ameal ",
       "active": true,
@@ -446,7 +391,125 @@
         "sec": 1748602453
       },
       "updated": {
-        "sec": 1748603172
+        "sec": 1748604259
+      }
+    },
+    {
+      "_id": {
+        "$id": "6839928f2870f833f311c62d"
+      },
+      "id": "20250694054",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748603280
+      },
+      "date": "30-05-2025",
+      "hour": "12:08",
+      "location": "Braga, Vila Nova de Famalicão, Oliveira (santa Maria)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Oliveira (santa Maria)",
+      "dico": "0312",
+      "lat": 41.40771,
+      "lng": -8.396662,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Oliveira (santa Maria) ",
+      "active": true,
+      "sadoId": "20250694054",
+      "sharepointId": 25450735,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 162.479,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada do Douro. 4765 Vila Nova de Famalicão. Portugal (São Martimho)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1748603535
+      },
+      "updated": {
+        "sec": 1748604259
+      }
+    },
+    {
+      "_id": {
+        "$id": "683995912870f833f311c657"
+      },
+      "id": "20250694119",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748603760
+      },
+      "date": "30-05-2025",
+      "hour": "12:16",
+      "location": "Braga, Vila Nova De Famalicão, Ruivães -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Ruivães",
+      "dico": "31236",
+      "lat": 41.4046100001865,
+      "lng": -8.44251999961005,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Latlong(41.40461000.-8.44252000) - Autoestrada Do Douro. 4770 Vila Nova De Famalicão. Portugal (Caneiro)",
+      "active": true,
+      "sadoId": "20250694119",
+      "sharepointId": 20250694119,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 135.405,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.40461000.-8.44252000) - Autoestrada do Douro. 4770 Vila Nova de Famalicão. Portugal (Caneiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1748604305
+      },
+      "updated": {
+        "sec": 1748604320
       }
     }
   ]
