@@ -68,10 +68,10 @@
       "date": "31-05-2025",
       "hour": "16:23",
       "location": "Viana Do Castelo, Arcos de Valdevez, Portela E Extremo",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Portela E Extremo",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mourisca ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1748705177
       },
       "updated": {
-        "sec": 1748709492
+        "sec": 1748710217
       }
     },
     {
@@ -123,9 +123,9 @@
       "date": "31-05-2025",
       "hour": "16:49",
       "location": "Viseu, Lamego, Vila Nova De Souto D'el-rei",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
+      "man": 17,
       "terrain": 4,
       "district": "Viseu",
       "concelho": "Lamego",
@@ -163,7 +163,7 @@
         "sec": 1748706734
       },
       "updated": {
-        "sec": 1748709134
+        "sec": 1748709854
       }
     },
     {
@@ -178,9 +178,9 @@
       "date": "31-05-2025",
       "hour": "16:54",
       "location": "Santarém, Coruche, Santana Do Mato",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
+      "man": 16,
       "terrain": 4,
       "district": "Santarém",
       "concelho": "Coruche",
@@ -188,8 +188,8 @@
       "dico": "1409",
       "lat": 38.829908,
       "lng": -8.46831,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -218,7 +218,7 @@
         "sec": 1748706975
       },
       "updated": {
-        "sec": 1748709492
+        "sec": 1748710217
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Santarém, Ourém, Seiça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Seiça",
@@ -277,7 +277,62 @@
         "sec": 1748707935
       },
       "updated": {
-        "sec": 1748709492
+        "sec": 1748709733
+      }
+    },
+    {
+      "_id": {
+        "$id": "683b3348c25f962dc33a1cff"
+      },
+      "id": "20250700760",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748709180
+      },
+      "date": "31-05-2025",
+      "hour": "17:33",
+      "location": "Braga, Guimarães, Conde E Gandarela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Conde E Gandarela",
+      "dico": "0308",
+      "lat": 41.39268,
+      "lng": -8.347035,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gandarela ",
+      "active": true,
+      "sadoId": "20250700760",
+      "sharepointId": 25457442,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1748710216
+      },
+      "updated": {
+        "sec": 1748710457
       }
     }
   ]
