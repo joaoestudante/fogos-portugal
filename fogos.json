@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1748783655
       },
       "updated": {
-        "sec": 1748786295
+        "sec": 1748788452
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Lisboa, Amadora, Encosta Do Sol",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 17,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Amadora",
       "freguesia": "Encosta Do Sol",
@@ -163,51 +163,47 @@
         "sec": 1748786295
       },
       "updated": {
-        "sec": 1748786897
+        "sec": 1748787733
       }
     },
     {
       "_id": {
-        "$id": "683c5cfe1867af4de02a26b9"
+        "$id": "683c637c4ceaeb00ba77784b"
       },
-      "id": "20250705088",
+      "id": "20250705201",
       "coords": true,
       "dateTime": {
-        "sec": 1748786040
+        "sec": 1748787660
       },
       "date": "01-06-2025",
-      "hour": "14:54",
-      "location": "Leiria, Bombarral, Carvalhal",
+      "hour": "15:21",
+      "location": "Setúbal, Palmela, Pinhal Novo",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Bombarral",
-      "freguesia": "Carvalhal",
-      "dico": "1005",
-      "lat": 39.27694,
-      "lng": -9.15699,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.62335,
+      "lng": -8.933451,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Carvalhal ",
+      "localidade": "Terrim ",
       "active": true,
-      "sadoId": "20250705088",
-      "sharepointId": 25461770,
+      "sadoId": "20250705201",
+      "sharepointId": 25461883,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 24.1775,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "N8. 2540 Bombarral. Portugal (Quinta da Granja)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -217,12 +213,67 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
+      "sub_regiao": "Península de Setúbal",
       "created": {
-        "sec": 1748786430
+        "sec": 1748788092
       },
       "updated": {
-        "sec": 1748787021
+        "sec": 1748788452
+      }
+    },
+    {
+      "_id": {
+        "$id": "683c64e44ceaeb00ba777855"
+      },
+      "id": "20250705222",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748788080
+      },
+      "date": "01-06-2025",
+      "hour": "15:28",
+      "location": "Aveiro, Santa Maria da Feira, Santa Maria Da Feira, Travanca, Sanfins E Espargo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Santa Maria Da Feira, Travanca, Sanfins E Espargo",
+      "dico": "0109",
+      "lat": 40.93173,
+      "lng": -8.582042,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Santa Maria Da Feira, Travanca, Sanfins E Espargo ",
+      "active": true,
+      "sadoId": "20250705222",
+      "sharepointId": 25461904,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1748788452
+      },
+      "updated": {
+        "sec": 1748788452
       }
     }
   ]
