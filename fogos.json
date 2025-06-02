@@ -68,10 +68,10 @@
       "date": "02-06-2025",
       "hour": "13:27",
       "location": "Setúbal, Grândola, Melides",
-      "aerial": 0,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 14,
+      "man": 50,
+      "terrain": 17,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Melides",
@@ -108,7 +108,7 @@
         "sec": 1748868017
       },
       "updated": {
-        "sec": 1748871735
+        "sec": 1748873055
       }
     },
     {
@@ -184,21 +184,21 @@
       "location": "Braga, Vila Verde, Marrancos E Arcozelo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 25,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Marrancos E Arcozelo",
       "dico": "0313",
-      "lat": 41.655342,
-      "lng": -8.526755,
+      "lat": 41.65808,
+      "lng": -8.529587,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Arcozelo ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1748871495
       },
       "updated": {
-        "sec": 1748872218
+        "sec": 1748873292
       }
     },
     {
@@ -239,8 +239,8 @@
       "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos E Foros De Salvaterra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Salvaterra De Magos",
       "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
@@ -251,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Salvaterra De Magos E Foros De Salvaterra ",
       "active": true,
@@ -277,7 +277,117 @@
         "sec": 1748872218
       },
       "updated": {
-        "sec": 1748872239
+        "sec": 1748873419
+      }
+    },
+    {
+      "_id": {
+        "$id": "683db04d9ab52e4a9c0d6d04"
+      },
+      "id": "20250710212",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748873040
+      },
+      "date": "02-06-2025",
+      "hour": "15:04",
+      "location": "Santarém, Coruche, Coruche, Fajarda E Erra",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Coruche",
+      "freguesia": "Coruche, Fajarda E Erra",
+      "dico": "1409",
+      "lat": 38.935353,
+      "lng": -8.524598,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Coruche - En119 ",
+      "active": true,
+      "sadoId": "20250710212",
+      "sharepointId": 25466894,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1748873293
+      },
+      "updated": {
+        "sec": 1748873535
+      }
+    },
+    {
+      "_id": {
+        "$id": "683db13f9ab52e4a9c0d6d12"
+      },
+      "id": "20250710233",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748873280
+      },
+      "date": "02-06-2025",
+      "hour": "15:08",
+      "location": "Setúbal, Almada, Costa Da Caparica",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Costa Da Caparica",
+      "dico": "1503",
+      "lat": 38.64986,
+      "lng": -9.234143,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Costa Da Caparica ",
+      "active": true,
+      "sadoId": "20250710233",
+      "sharepointId": 25466915,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1748873535
+      },
+      "updated": {
+        "sec": 1748873655
       }
     }
   ]
