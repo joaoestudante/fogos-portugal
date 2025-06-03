@@ -184,8 +184,8 @@
       "location": "Porto, Santo Tirso, Carreira E Refojos De Riba De Ave",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Carreira E Refojos De Riba De Ave",
@@ -226,7 +226,7 @@
         "sec": 1748981776
       },
       "updated": {
-        "sec": 1748983215
+        "sec": 1748985618
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Setúbal, Seixal, Fernão Ferro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 5,
+      "man": 20,
+      "terrain": 4,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Fernão Ferro",
@@ -255,9 +255,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Fernão Ferro ",
       "active": true,
@@ -281,7 +281,7 @@
         "sec": 1748981895
       },
       "updated": {
-        "sec": 1748982252
+        "sec": 1748984777
       }
     },
     {
@@ -304,15 +304,15 @@
       "concelho": "Coruche",
       "freguesia": "Branca",
       "dico": "1409",
-      "lat": 38.83895,
-      "lng": -8.581985,
+      "lat": 38.839248,
+      "lng": -8.582615,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Branca ",
       "active": true,
@@ -336,7 +336,7 @@
         "sec": 1748982854
       },
       "updated": {
-        "sec": 1748983576
+        "sec": 1748985255
       }
     },
     {
@@ -359,15 +359,15 @@
       "concelho": "Campo Maior",
       "freguesia": "Nossa Senhora Da Expectação",
       "dico": "1204",
-      "lat": 39.014855,
-      "lng": -7.063944,
+      "lat": 39.008658,
+      "lng": -7.071962,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Campo Maior ",
       "active": true,
@@ -391,7 +391,62 @@
         "sec": 1748983692
       },
       "updated": {
-        "sec": 1748983935
+        "sec": 1748985134
+      }
+    },
+    {
+      "_id": {
+        "$id": "683f63c92838ef79320dd2bb"
+      },
+      "id": "20250716788",
+      "coords": true,
+      "dateTime": {
+        "sec": 1748984460
+      },
+      "date": "03-06-2025",
+      "hour": "22:01",
+      "location": "Braga, Vila Verde, Coucieiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Coucieiro",
+      "dico": "0313",
+      "lat": 41.67699,
+      "lng": -8.39672,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Coucieiro ",
+      "active": true,
+      "sadoId": "20250716788",
+      "sharepointId": 25473470,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1748984777
+      },
+      "updated": {
+        "sec": 1748985618
       }
     }
   ]
