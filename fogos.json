@@ -27,9 +27,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Herdade Da Serra Espinheira  ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1749123257
       },
       "updated": {
-        "sec": 1749129616
+        "sec": 1749131176
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Toulões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Toulões",
@@ -108,7 +108,7 @@
         "sec": 1749123613
       },
       "updated": {
-        "sec": 1749128054
+        "sec": 1749131053
       }
     },
     {
@@ -223,61 +223,6 @@
     },
     {
       "_id": {
-        "$id": "68418ce5a9bc4965bc681bfe"
-      },
-      "id": "20250724283",
-      "coords": true,
-      "dateTime": {
-        "sec": 1749125760
-      },
-      "date": "05-06-2025",
-      "hour": "13:16",
-      "location": "Aveiro, Oliveira de Azeméis, Ossela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "Ossela",
-      "dico": "0113",
-      "lat": 40.843057,
-      "lng": -8.435635,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ossela ",
-      "active": true,
-      "sadoId": "20250724283",
-      "sharepointId": 25480965,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1749126373
-      },
-      "updated": {
-        "sec": 1749129015
-      }
-    },
-    {
-      "_id": {
         "$id": "684190a7a9bc4965bc681c22"
       },
       "id": "20250724390",
@@ -388,6 +333,116 @@
       },
       "updated": {
         "sec": 1749130573
+      }
+    },
+    {
+      "_id": {
+        "$id": "68419f2d1a40cf52d209bc1c"
+      },
+      "id": "20250724736",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749130680
+      },
+      "date": "05-06-2025",
+      "hour": "14:38",
+      "location": "Santarém, Abrantes, São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "São Miguel Do Rio Torto E Rossio Ao Sul Do Tejo",
+      "dico": "1401",
+      "lat": 39.398044,
+      "lng": -8.176055,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Vale De Cortiças ",
+      "active": true,
+      "sadoId": "20250724736",
+      "sharepointId": 25481418,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1749131053
+      },
+      "updated": {
+        "sec": 1749131421
+      }
+    },
+    {
+      "_id": {
+        "$id": "68419f2e1a40cf52d209bc1d"
+      },
+      "id": "20250724723",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749130620
+      },
+      "date": "05-06-2025",
+      "hour": "14:37",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.67012,
+      "lng": -8.86947,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Pinhal Novo ",
+      "active": true,
+      "sadoId": "20250724723",
+      "sharepointId": 25481405,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1749131054
+      },
+      "updated": {
+        "sec": 1749131296
       }
     }
   ]
