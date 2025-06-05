@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Janardo ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1749148692
       },
       "updated": {
-        "sec": 1749149442
+        "sec": 1749152271
       }
     },
     {
@@ -300,15 +300,15 @@
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Sandim, Olival, Lever E Crestuma",
       "dico": "1317",
-      "lat": 41.046266,
-      "lng": -8.545846,
+      "lat": 41.055675,
+      "lng": -8.523347,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Olival ",
       "active": true,
@@ -316,8 +316,12 @@
       "sharepointId": 25482980,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 151.499,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Pedra Moura (ER222 (ER222) Km 4)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -332,7 +336,62 @@
         "sec": 1749151817
       },
       "updated": {
-        "sec": 1749151817
+        "sec": 1749152298
+      }
+    },
+    {
+      "_id": {
+        "$id": "6841f39483fc23322d1dd796"
+      },
+      "id": "20250726352",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749152400
+      },
+      "date": "05-06-2025",
+      "hour": "20:40",
+      "location": "Viana Do Castelo, Valença, São Pedro Da Torre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Valença",
+      "freguesia": "São Pedro Da Torre",
+      "dico": "1608",
+      "lat": 41.985483,
+      "lng": -8.662744,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "S. Pedro Torre ",
+      "active": true,
+      "sadoId": "20250726352",
+      "sharepointId": 25483034,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1749152660
+      },
+      "updated": {
+        "sec": 1749152677
       }
     }
   ]
