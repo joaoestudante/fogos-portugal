@@ -15,8 +15,8 @@
       "location": "Beja, Moura, Póvoa De São Miguel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 9,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Póvoa De São Miguel",
@@ -57,7 +57,7 @@
         "sec": 1749213372
       },
       "updated": {
-        "sec": 1749221654
+        "sec": 1749223229
       }
     },
     {
@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Monsanto ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1749215653
       },
       "updated": {
-        "sec": 1749219734
+        "sec": 1749222612
       }
     },
     {
@@ -235,61 +235,6 @@
     },
     {
       "_id": {
-        "$id": "6842faff4c039f241901f0c5"
-      },
-      "id": "20250729914",
-      "coords": true,
-      "dateTime": {
-        "sec": 1749219780
-      },
-      "date": "06-06-2025",
-      "hour": "15:23",
-      "location": "Leiria, Bombarral, Carvalhal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Bombarral",
-      "freguesia": "Carvalhal",
-      "dico": "1005",
-      "lat": 39.283012,
-      "lng": -9.157095,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "En 8 Quinta Da Granja ",
-      "active": true,
-      "sadoId": "20250729914",
-      "sharepointId": 25486596,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1749220095
-      },
-      "updated": {
-        "sec": 1749221654
-      }
-    },
-    {
-      "_id": {
         "$id": "6842fbed4c039f241901f0d5"
       },
       "id": "20250729937",
@@ -302,16 +247,16 @@
       "location": "Santarém, Alpiarça, Alpiarça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Alpiarça",
       "freguesia": "Alpiarça",
       "dico": "1404",
       "lat": 39.244545,
       "lng": -8.592138,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -340,7 +285,121 @@
         "sec": 1749220333
       },
       "updated": {
-        "sec": 1749221654
+        "sec": 1749223335
+      }
+    },
+    {
+      "_id": {
+        "$id": "6843073ea32bbd120e62d178"
+      },
+      "id": "20250730105",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749222360
+      },
+      "date": "06-06-2025",
+      "hour": "16:06",
+      "location": "Setúbal, Barreiro, Barreiro E Lavradio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Barreiro",
+      "freguesia": "Barreiro E Lavradio",
+      "dico": "1504",
+      "lat": 38.66301,
+      "lng": -9.06234,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Barreiro E Lavradio ",
+      "active": true,
+      "sadoId": "20250730105",
+      "sharepointId": 25486787,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -1.26813,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua 31 de Janeiro (Barreiro A)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1749223230
+      },
+      "updated": {
+        "sec": 1749223335
+      }
+    },
+    {
+      "_id": {
+        "$id": "684307a7a32bbd120e62d192"
+      },
+      "id": "20250730199",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749223020
+      },
+      "date": "06-06-2025",
+      "hour": "16:17",
+      "location": "Lisboa, Oeiras, Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "dico": "1110",
+      "lat": 38.696925,
+      "lng": -9.290593,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Paço De Arcos ",
+      "active": true,
+      "sadoId": "20250730199",
+      "sharepointId": 25486881,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1749223335
+      },
+      "updated": {
+        "sec": 1749223349
       }
     }
   ]
