@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Quinta Do Anjo ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1749331816
       },
       "updated": {
-        "sec": 1749332653
+        "sec": 1749333628
       }
     },
     {
@@ -188,21 +188,21 @@
       "location": "Leiria, Peniche, Atouguia Da Baleia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 8,
+      "terrain": 2,
       "district": "Leiria",
       "concelho": "Peniche",
       "freguesia": "Atouguia Da Baleia",
       "dico": "1014",
-      "lat": 39.33976,
-      "lng": -9.32684,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 39.339703,
+      "lng": -9.32433,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Atouguia Da Baleia ",
       "active": true,
@@ -226,7 +226,62 @@
         "sec": 1749333252
       },
       "updated": {
-        "sec": 1749333266
+        "sec": 1749333974
+      }
+    },
+    {
+      "_id": {
+        "$id": "6844b84db7d8ef34ee7184d8"
+      },
+      "id": "20250736645",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749333720
+      },
+      "date": "07-06-2025",
+      "hour": "23:02",
+      "location": "Beja, Ourique, Garvão E Santa Luzia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Ourique",
+      "freguesia": "Garvão E Santa Luzia",
+      "dico": "0212",
+      "lat": 37.74535,
+      "lng": -8.394679,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Garvão E Santa Luzia ",
+      "active": true,
+      "sadoId": "20250736645",
+      "sharepointId": 25493327,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1749334093
+      },
+      "updated": {
+        "sec": 1749334455
       }
     }
   ]
