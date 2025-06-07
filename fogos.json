@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Citânia De Sanfins ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1749289695
       },
       "updated": {
-        "sec": 1749292820
+        "sec": 1749294141
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Lisboa, Cascais, Alcabideche",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Cascais",
       "freguesia": "Alcabideche",
@@ -108,7 +108,7 @@
         "sec": 1749290900
       },
       "updated": {
-        "sec": 1749291132
+        "sec": 1749294141
       }
     },
     {
@@ -131,8 +131,8 @@
       "concelho": "Trofa",
       "freguesia": "Bougado (São Martinho E Santiago)",
       "dico": "1318",
-      "lat": 41.329536,
-      "lng": -8.558796,
+      "lat": 41.33716,
+      "lng": -8.566403,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -163,7 +163,7 @@
         "sec": 1749292332
       },
       "updated": {
-        "sec": 1749292820
+        "sec": 1749293652
       }
     },
     {
@@ -186,15 +186,15 @@
       "concelho": "Ponte De Lima",
       "freguesia": "Refóios Do Lima",
       "dico": "1607",
-      "lat": 41.78177,
-      "lng": -8.540129,
+      "lat": 41.781633,
+      "lng": -8.54048,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Cais Da Garrida ",
       "active": true,
@@ -218,7 +218,66 @@
         "sec": 1749292692
       },
       "updated": {
-        "sec": 1749293419
+        "sec": 1749294030
+      }
+    },
+    {
+      "_id": {
+        "$id": "68441bcec9a05e435019542d"
+      },
+      "id": "20250733989",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749293460
+      },
+      "date": "07-06-2025",
+      "hour": "11:51",
+      "location": "Faro, Portimão, Alvor",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Alvor",
+      "dico": "0811",
+      "lat": 37.1617,
+      "lng": -8.5884,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alvor ",
+      "active": true,
+      "sadoId": "20250733989",
+      "sharepointId": 25490671,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": -15.5994,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N125. 8500-524 Portimão. Portugal (ER125 (ER125) Km 38)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1749294030
+      },
+      "updated": {
+        "sec": 1749294116
       }
     }
   ]
