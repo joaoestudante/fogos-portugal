@@ -70,8 +70,8 @@
       "location": "Leiria, Pombal, Carriço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Pombal",
       "freguesia": "Carriço",
@@ -82,9 +82,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Cabeço ",
       "active": true,
@@ -112,7 +112,62 @@
         "sec": 1749455176
       },
       "updated": {
-        "sec": 1749455195
+        "sec": 1749455772
+      }
+    },
+    {
+      "_id": {
+        "$id": "6846939c8b270767e94e0731"
+      },
+      "id": "20250742288",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749455520
+      },
+      "date": "09-06-2025",
+      "hour": "08:52",
+      "location": "Viana Do Castelo, Ponte da Barca, Azias",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Azias",
+      "dico": "1606",
+      "lat": 41.772154,
+      "lng": -8.344961,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Chãos ",
+      "active": true,
+      "sadoId": "20250742288",
+      "sharepointId": 25498970,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1749455772
+      },
+      "updated": {
+        "sec": 1749455787
       }
     }
   ]
