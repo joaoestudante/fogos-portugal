@@ -76,8 +76,8 @@
       "concelho": "Guarda",
       "freguesia": "Arrifana",
       "dico": "0907",
-      "lat": 40.56778,
-      "lng": -7.21838,
+      "lat": 40.570062,
+      "lng": -7.213943,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -108,7 +108,7 @@
         "sec": 1749510135
       },
       "updated": {
-        "sec": 1749512052
+        "sec": 1749513017
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Vila Real, Valpaços, Lebução, Fiães E Nozelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Valpaços",
       "freguesia": "Lebução, Fiães E Nozelos",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Fiães ",
       "active": true,
@@ -163,7 +163,62 @@
         "sec": 1749512173
       },
       "updated": {
-        "sec": 1749512292
+        "sec": 1749513017
+      }
+    },
+    {
+      "_id": {
+        "$id": "684771ccca244c2fa67abb58"
+      },
+      "id": "20250746846",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749511800
+      },
+      "date": "10-06-2025",
+      "hour": "00:30",
+      "location": "Porto, Maia, Folgosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Folgosa",
+      "dico": "1306",
+      "lat": 41.264661,
+      "lng": -8.539096,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250746846",
+      "sharepointId": 25503528,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1749512652
+      },
+      "updated": {
+        "sec": 1749512670
       }
     }
   ]
