@@ -70,8 +70,8 @@
       "location": "Viseu, Lamego, Vila Nova De Souto D'el-rei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 8,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Vila Nova De Souto D'el-rei",
@@ -112,7 +112,7 @@
         "sec": 1749494533
       },
       "updated": {
-        "sec": 1749495898
+        "sec": 1749498733
       }
     },
     {
@@ -129,14 +129,14 @@
       "location": "Castelo Branco, Penamacor, Aldeia Do Bispo, Águas E Aldeia De João Pires",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Penamacor",
       "freguesia": "Aldeia Do Bispo, Águas E Aldeia De João Pires",
       "dico": "0507",
-      "lat": 40.109481,
-      "lng": -7.2077,
+      "lat": 40.118323,
+      "lng": -7.218912,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -167,43 +167,43 @@
         "sec": 1749495898
       },
       "updated": {
-        "sec": 1749498133
+        "sec": 1749498972
       }
     },
     {
       "_id": {
-        "$id": "684736bf004a7f1a0670c185"
+        "$id": "68473b6d004a7f1a0670c1cf"
       },
-      "id": "20250745975",
+      "id": "20250746060",
       "coords": true,
       "dateTime": {
-        "sec": 1749496680
+        "sec": 1749497880
       },
       "date": "09-06-2025",
-      "hour": "20:18",
-      "location": "Porto, Vila Nova de Gaia, Gulpilhares E Valadares",
+      "hour": "20:38",
+      "location": "Porto, Marco de Canaveses, Paredes De Viadores E Manhuncelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
+      "man": 5,
       "terrain": 1,
       "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Gulpilhares E Valadares",
-      "dico": "1317",
-      "lat": 41.099693,
-      "lng": -8.632765,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Paredes De Viadores E Manhuncelos",
+      "dico": "1307",
+      "lat": 41.14164,
+      "lng": -8.14997,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Valadares ",
+      "localidade": "Manhuncelos ",
       "active": true,
-      "sadoId": "20250745975",
-      "sharepointId": 25502657,
+      "sadoId": "20250746060",
+      "sharepointId": 25502742,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -217,12 +217,122 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
+      "sub_regiao": "Tâmega e Sousa",
       "created": {
-        "sec": 1749497535
+        "sec": 1749498733
       },
       "updated": {
-        "sec": 1749497898
+        "sec": 1749498749
+      }
+    },
+    {
+      "_id": {
+        "$id": "68473dc9004a7f1a0670c304"
+      },
+      "id": "20250746110",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749499140
+      },
+      "date": "09-06-2025",
+      "hour": "20:59",
+      "location": "Lisboa, Cascais, Alcabideche",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Cascais",
+      "freguesia": "Alcabideche",
+      "dico": "1105",
+      "lat": 38.73668,
+      "lng": -9.39211,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcabideche ",
+      "active": true,
+      "sadoId": "20250746110",
+      "sharepointId": 25502792,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1749499337
+      },
+      "updated": {
+        "sec": 1749500053
+      }
+    },
+    {
+      "_id": {
+        "$id": "68473eb596553536a4037c52"
+      },
+      "id": "20250746091",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749498840
+      },
+      "date": "09-06-2025",
+      "hour": "20:54",
+      "location": "Viana Do Castelo, Caminha, Moledo E Cristelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Caminha",
+      "freguesia": "Moledo E Cristelo",
+      "dico": "1602",
+      "lat": 41.85403,
+      "lng": -8.84949,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rua Da Costa ",
+      "active": true,
+      "sadoId": "20250746091",
+      "sharepointId": 25502773,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1749499573
+      },
+      "updated": {
+        "sec": 1749499693
       }
     }
   ]
