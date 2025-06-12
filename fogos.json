@@ -15,8 +15,8 @@
       "location": "Beja, Ourique, Panoias E Conceição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 19,
+      "terrain": 6,
       "district": "Beja",
       "concelho": "Ourique",
       "freguesia": "Panoias E Conceição",
@@ -53,7 +53,7 @@
         "sec": 1749737295
       },
       "updated": {
-        "sec": 1749739334
+        "sec": 1749742574
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Beja, Mértola, Alcaria Ruiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
+      "man": 27,
+      "terrain": 8,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "Alcaria Ruiva",
@@ -82,9 +82,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Alcaria Ruiva ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1749741494
       },
       "updated": {
-        "sec": 1749741977
+        "sec": 1749742933
       }
     },
     {
@@ -125,21 +125,21 @@
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 19,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
       "dico": "0805",
-      "lat": 37.02871,
-      "lng": -7.91148,
+      "lat": 37.029067,
+      "lng": -7.910087,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rio Seco ",
       "active": true,
@@ -163,7 +163,117 @@
         "sec": 1749741977
       },
       "updated": {
-        "sec": 1749741993
+        "sec": 1749742933
+      }
+    },
+    {
+      "_id": {
+        "$id": "684af20c91fad57e71228086"
+      },
+      "id": "20250759269",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749741960
+      },
+      "date": "12-06-2025",
+      "hour": "16:26",
+      "location": "Évora, Borba, Rio De Moinhos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 7,
+      "district": "Évora",
+      "concelho": "Borba",
+      "freguesia": "Rio De Moinhos",
+      "dico": "0703",
+      "lat": 38.80547,
+      "lng": -7.498765,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Rio De Moinhos ",
+      "active": true,
+      "sadoId": "20250759269",
+      "sharepointId": 25515951,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1749742092
+      },
+      "updated": {
+        "sec": 1749742932
+      }
+    },
+    {
+      "_id": {
+        "$id": "684af55591fad57e712280b5"
+      },
+      "id": "20250759306",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749742500
+      },
+      "date": "12-06-2025",
+      "hour": "16:35",
+      "location": "Leiria, Leiria, Marrazes E Barosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Marrazes E Barosa",
+      "dico": "1009",
+      "lat": 39.744339,
+      "lng": -8.858786,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Picheleiro ",
+      "active": true,
+      "sadoId": "20250759306",
+      "sharepointId": 25515988,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1749742933
+      },
+      "updated": {
+        "sec": 1749742951
       }
     }
   ]
