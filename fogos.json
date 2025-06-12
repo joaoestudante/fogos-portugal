@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Rebordelo ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1749720373
       },
       "updated": {
-        "sec": 1749723733
+        "sec": 1749727220
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Porto, Valongo, Campo E Sobrado",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Campo E Sobrado",
@@ -163,7 +163,7 @@
         "sec": 1749723733
       },
       "updated": {
-        "sec": 1749723972
+        "sec": 1749727220
       }
     },
     {
@@ -180,14 +180,14 @@
       "location": "Portalegre, Alter do Chão, Cunheira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 7,
+      "man": 24,
+      "terrain": 10,
       "district": "Portalegre",
       "concelho": "Alter Do Chão",
       "freguesia": "Cunheira",
       "dico": "1201",
-      "lat": 39.2916,
-      "lng": -7.749823,
+      "lat": 39.28999,
+      "lng": -7.7538,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -222,7 +222,7 @@
         "sec": 1749724333
       },
       "updated": {
-        "sec": 1749725658
+        "sec": 1749727221
       }
     },
     {
@@ -237,10 +237,10 @@
       "date": "12-06-2025",
       "hour": "11:45",
       "location": "Setúbal, Setúbal, Gâmbia-pontes-alto Da Guerra",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 23,
+      "terrain": 5,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Gâmbia-pontes-alto Da Guerra",
@@ -251,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Gâmbia-pontes-alto Da Guerra ",
       "active": true,
@@ -281,7 +281,121 @@
         "sec": 1749725531
       },
       "updated": {
-        "sec": 1749725658
+        "sec": 1749727220
+      }
+    },
+    {
+      "_id": {
+        "$id": "684ab7f4284e91513713f025"
+      },
+      "id": "20250757989",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749726540
+      },
+      "date": "12-06-2025",
+      "hour": "12:09",
+      "location": "Santarém, Benavente, Benavente",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Benavente",
+      "freguesia": "Benavente",
+      "dico": "1405",
+      "lat": 38.950258,
+      "lng": -8.826801,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Benavente ",
+      "active": true,
+      "sadoId": "20250757989",
+      "sharepointId": 25514671,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1749727220
+      },
+      "updated": {
+        "sec": 1749727242
+      }
+    },
+    {
+      "_id": {
+        "$id": "684ab7f4284e91513713f026"
+      },
+      "id": "20250757990",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749726720
+      },
+      "date": "12-06-2025",
+      "hour": "12:12",
+      "location": "Leiria, Nazaré, Famalicão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Nazaré",
+      "freguesia": "Famalicão",
+      "dico": "1011",
+      "lat": 39.52549,
+      "lng": -9.0839,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Famalicão ",
+      "active": true,
+      "sadoId": "20250757990",
+      "sharepointId": 25514672,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 71.1319,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua 15 de Agosto 12. 2450-021 Nazaré. Portugal (Rebolo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1749727220
+      },
+      "updated": {
+        "sec": 1749727266
       }
     }
   ]
