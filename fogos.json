@@ -15,8 +15,8 @@
       "location": "Beja, Mértola, Alcaria Ruiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "Alcaria Ruiva",
@@ -53,7 +53,7 @@
         "sec": 1749741494
       },
       "updated": {
-        "sec": 1749756253
+        "sec": 1749763334
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Charneca De Caparica E Sobreda",
@@ -108,51 +108,47 @@
         "sec": 1749756855
       },
       "updated": {
-        "sec": 1749760815
+        "sec": 1749763334
       }
     },
     {
       "_id": {
-        "$id": "684b34a0015cbf6933255fda"
+        "$id": "684b441600457237080ef29c"
       },
-      "id": "20250760396",
+      "id": "20250760596",
       "coords": true,
       "dateTime": {
-        "sec": 1749758700
+        "sec": 1749762660
       },
       "date": "12-06-2025",
-      "hour": "21:05",
-      "location": "Aveiro, Arouca, Arouca E Burgo",
+      "hour": "22:11",
+      "location": "Porto, Maia, Cidade Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
-      "district": "Aveiro",
-      "concelho": "Arouca",
-      "freguesia": "Arouca E Burgo",
-      "dico": "0104",
-      "lat": 40.920875,
-      "lng": -8.258965,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Cidade Da Maia",
+      "dico": "1306",
+      "lat": 41.23461,
+      "lng": -8.638924,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Burgo ",
+      "localidade": "Cidade Da Maia ",
       "active": true,
-      "sadoId": "20250760396",
-      "sharepointId": 25517078,
+      "sadoId": "20250760596",
+      "sharepointId": 25517278,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 284.555,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Lugar de Figueiredo (Eiras)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -164,10 +160,69 @@
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1749759136
+        "sec": 1749763094
       },
       "updated": {
-        "sec": 1749761532
+        "sec": 1749763452
+      }
+    },
+    {
+      "_id": {
+        "$id": "684b450600457237080ef2a7"
+      },
+      "id": "20250760608",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749762900
+      },
+      "date": "12-06-2025",
+      "hour": "22:15",
+      "location": "Porto, Baião, Santa Cruz Do Douro E São Tomé De Covelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
+      "dico": "1302",
+      "lat": 41.123167,
+      "lng": -7.998456,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Santa Cruz Do Douro ",
+      "active": true,
+      "sadoId": "20250760608",
+      "sharepointId": 25517290,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 278.124,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Naciona Nossa Snh. do martirio (Senra)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1749763334
+      },
+      "updated": {
+        "sec": 1749763452
       }
     }
   ]
