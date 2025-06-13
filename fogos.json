@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "684be2865e01e71778749b7f"
-      },
-      "id": "20250761799",
-      "coords": true,
-      "dateTime": {
-        "sec": 1749801660
-      },
-      "date": "13-06-2025",
-      "hour": "09:01",
-      "location": "Porto, Vila Nova de Gaia, Pedroso E Seixezelo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Pedroso E Seixezelo",
-      "dico": "1317",
-      "lat": 41.06896,
-      "lng": -8.57219,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "União Das Freguesias De Pedroso E Seixezelo ",
-      "active": true,
-      "sadoId": "20250761799",
-      "sharepointId": 25518481,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1749803654
-      },
-      "updated": {
-        "sec": 1749803669
-      }
-    },
-    {
-      "_id": {
         "$id": "684be2ff5e01e71778749b83"
       },
       "id": "20250761974",
@@ -68,10 +13,10 @@
       "date": "13-06-2025",
       "hour": "09:33",
       "location": "Aveiro, Sever do Vouga, Silva Escura E Dornelas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 4,
+      "man": 6,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Sever Do Vouga",
       "freguesia": "Silva Escura E Dornelas",
@@ -82,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Silva Escura E Dornelas ",
       "active": true,
@@ -112,7 +57,125 @@
         "sec": 1749803775
       },
       "updated": {
-        "sec": 1749804851
+        "sec": 1749806291
+      }
+    },
+    {
+      "_id": {
+        "$id": "684be8ad5e01e71778749bbd"
+      },
+      "id": "20250762077",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749804660
+      },
+      "date": "13-06-2025",
+      "hour": "09:51",
+      "location": "Faro, Loulé, Loulé (São Sebastião)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Loulé (São Sebastião)",
+      "dico": "0808",
+      "lat": 37.102583,
+      "lng": -8.066692,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Quatro Estradas ",
+      "active": true,
+      "sadoId": "20250762077",
+      "sharepointId": 25518759,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 182.593,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Estação de Loulé EN396 (Cassima)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1749805229
+      },
+      "updated": {
+        "sec": 1749806055
+      }
+    },
+    {
+      "_id": {
+        "$id": "684be8ad5e01e71778749bbf"
+      },
+      "id": "20250762095",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749804840
+      },
+      "date": "13-06-2025",
+      "hour": "09:54",
+      "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Vilar De Andorinho",
+      "dico": "1317",
+      "lat": 41.09242,
+      "lng": -8.574142,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vilar De Andorinho ",
+      "active": true,
+      "sadoId": "20250762095",
+      "sharepointId": 25518777,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 122.757,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Agras (Travessa Central de São Lourenço)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1749805229
+      },
+      "updated": {
+        "sec": 1749805935
       }
     }
   ]
