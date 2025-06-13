@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pedroso ",
       "active": true,
@@ -57,7 +57,7 @@
         "sec": 1749807735
       },
       "updated": {
-        "sec": 1749816029
+        "sec": 1749819015
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Leiria, Óbidos, Vau",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 9,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Óbidos",
       "freguesia": "Vau",
@@ -167,7 +167,7 @@
         "sec": 1749814821
       },
       "updated": {
-        "sec": 1749817935
+        "sec": 1749820097
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Beja, Moura, Santo Agostinho E São João Baptista E Santo Amador",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 12,
+      "man": 49,
+      "terrain": 16,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Santo Agostinho E São João Baptista E Santo Amador",
@@ -255,9 +255,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Monte Da Vaquinha ",
       "active": true,
@@ -281,7 +281,125 @@
         "sec": 1749816496
       },
       "updated": {
-        "sec": 1749817819
+        "sec": 1749820452
+      }
+    },
+    {
+      "_id": {
+        "$id": "684c1e107d43ae57e00a253d"
+      },
+      "id": "20250763297",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749818520
+      },
+      "date": "13-06-2025",
+      "hour": "13:42",
+      "location": "Castelo Branco, Castelo Branco, Monforte Da Beira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 41,
+      "terrain": 11,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Monforte Da Beira",
+      "dico": "0502",
+      "lat": 39.737697,
+      "lng": -7.34973,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Monforte Da Beira ",
+      "active": true,
+      "sadoId": "20250763297",
+      "sharepointId": 25519979,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 299.314,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Monforte da Beira. Castelo Branco. Portugal (MONFORTE DA BEIRA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1749818896
+      },
+      "updated": {
+        "sec": 1749820452
+      }
+    },
+    {
+      "_id": {
+        "$id": "684c2137d2b9196a8e06ed42"
+      },
+      "id": "20250763368",
+      "coords": true,
+      "dateTime": {
+        "sec": 1749819000
+      },
+      "date": "13-06-2025",
+      "hour": "13:50",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 6,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.612637,
+      "lng": -8.771449,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Lagameças ",
+      "active": true,
+      "sadoId": "20250763368",
+      "sharepointId": 25520050,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 16.4112,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua da escola primaria (Lagameças)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1749819703
+      },
+      "updated": {
+        "sec": 1749820452
       }
     }
   ]
