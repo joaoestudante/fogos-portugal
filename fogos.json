@@ -361,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Bodiosa ",
       "active": true,
@@ -391,7 +391,7 @@
         "sec": 1750072578
       },
       "updated": {
-        "sec": 1750073533
+        "sec": 1750074498
       }
     },
     {
@@ -518,7 +518,7 @@
       "location": "Aveiro, Estarreja, Beduído E Veiros",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
+      "man": 23,
       "terrain": 5,
       "district": "Aveiro",
       "concelho": "Estarreja",
@@ -556,7 +556,7 @@
         "sec": 1750073255
       },
       "updated": {
-        "sec": 1750074140
+        "sec": 1750074379
       }
     },
     {
@@ -579,15 +579,15 @@
       "concelho": "Alandroal",
       "freguesia": "N.S. Conceição, S. Brás Matos, Juromenha",
       "dico": "0701",
-      "lat": 38.694763,
-      "lng": -7.367564,
+      "lat": 38.691792,
+      "lng": -7.367343,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Carrapatosa ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1750073533
       },
       "updated": {
-        "sec": 1750074140
+        "sec": 1750074498
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Lanheses",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Lanheses",
@@ -666,7 +666,66 @@
         "sec": 1750073899
       },
       "updated": {
-        "sec": 1750073914
+        "sec": 1750074380
+      }
+    },
+    {
+      "_id": {
+        "$id": "6850040bcdb130128760c1e4"
+      },
+      "id": "20250776809",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750073880
+      },
+      "date": "16-06-2025",
+      "hour": "12:38",
+      "location": "Beja, Ferreira do Alentejo, Ferreira Do Alentejo E Canhestros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Beja",
+      "concelho": "Ferreira Do Alentejo",
+      "freguesia": "Ferreira Do Alentejo E Canhestros",
+      "dico": "0208",
+      "lat": 38.05075,
+      "lng": -8.31214,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Ferreira Do Alentejo E Canhestros ",
+      "active": true,
+      "sadoId": "20250776809",
+      "sharepointId": 25533491,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 39.8944,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(38.05075000.-8.31214000) - Autoestrada do Sul. 7900 Ferreira do Alentejo. Portugal (A2-N-S Km 132)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1750074379
+      },
+      "updated": {
+        "sec": 1750074615
       }
     }
   ]
