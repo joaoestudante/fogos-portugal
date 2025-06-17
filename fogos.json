@@ -15,8 +15,8 @@
       "location": "Évora, Alandroal, Capelins (Santo António)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 18,
+      "man": 43,
+      "terrain": 16,
       "district": "Évora",
       "concelho": "Alandroal",
       "freguesia": "Capelins (Santo António)",
@@ -53,7 +53,7 @@
         "sec": 1750074858
       },
       "updated": {
-        "sec": 1750152614
+        "sec": 1750154771
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Viseu, Cinfães, Fornelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Fornelos",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Cunha ",
       "active": true,
@@ -332,43 +332,161 @@
         "sec": 1750139535
       },
       "updated": {
-        "sec": 1750152375
+        "sec": 1750155133
       }
     },
     {
       "_id": {
-        "$id": "6851300531236614f008b16b"
+        "$id": "68513f7dadbe6560cc69e028"
       },
-      "id": "20250781100",
+      "id": "20250781447",
       "coords": true,
       "dateTime": {
-        "sec": 1750151040
+        "sec": 1750154580
       },
       "date": "17-06-2025",
-      "hour": "10:04",
-      "location": "Lisboa, Lisboa, Belém",
-      "aerial": 0,
+      "hour": "11:03",
+      "location": "Évora, Évora, Malagueira E Horta Das Figueiras",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Lisboa",
-      "concelho": "Lisboa",
-      "freguesia": "Belém",
-      "dico": "1106",
-      "lat": 38.70767,
-      "lng": -9.21771,
+      "man": 29,
+      "terrain": 6,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Malagueira E Horta Das Figueiras",
+      "dico": "0705",
+      "lat": 38.58066,
+      "lng": -7.92086,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Adega Da Cartuxa ",
+      "active": true,
+      "sadoId": "20250781447",
+      "sharepointId": 25538129,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 225.547,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Adega da Cartuxa. 7000 Évora. Portugal (Convento da Cartucha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1750155133
+      },
+      "updated": {
+        "sec": 1750155497
+      }
+    },
+    {
+      "_id": {
+        "$id": "685140e9adbe6560cc69e035"
+      },
+      "id": "20250781494",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750155120
+      },
+      "date": "17-06-2025",
+      "hour": "11:12",
+      "location": "Vila Real, Mondim de Basto, Ermelo E Pardelhas",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Mondim De Basto",
+      "freguesia": "Ermelo E Pardelhas",
+      "dico": "1705",
+      "lat": 41.353823,
+      "lng": -7.870974,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Belém ",
+      "localidade": "Ermelo ",
       "active": true,
-      "sadoId": "20250781100",
-      "sharepointId": 25537782,
+      "sadoId": "20250781494",
+      "sharepointId": 25538176,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 703.306,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Casa da Floresta (Alto de Santa Cruz)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1750155497
+      },
+      "updated": {
+        "sec": 1750155973
+      }
+    },
+    {
+      "_id": {
+        "$id": "685141d4adbe6560cc69e040"
+      },
+      "id": "20250781551",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750155540
+      },
+      "date": "17-06-2025",
+      "hour": "11:19",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.6105,
+      "lng": -8.908235,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Pinhal Novo ",
+      "active": true,
+      "sadoId": "20250781551",
+      "sharepointId": 25538233,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -382,71 +500,12 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
+      "sub_regiao": "Península de Setúbal",
       "created": {
-        "sec": 1750151173
+        "sec": 1750155732
       },
       "updated": {
-        "sec": 1750153935
-      }
-    },
-    {
-      "_id": {
-        "$id": "685139de31236614f008b1df"
-      },
-      "id": "20250781339",
-      "coords": true,
-      "dateTime": {
-        "sec": 1750153080
-      },
-      "date": "17-06-2025",
-      "hour": "10:38",
-      "location": "Porto, Vila Nova de Gaia, Avintes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Avintes",
-      "dico": "1317",
-      "lat": 41.11378,
-      "lng": -8.551032,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Avintes ",
-      "active": true,
-      "sadoId": "20250781339",
-      "sharepointId": 25538021,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 73.5837,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Lugar do Rego do Pinheiro (AVINTES)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1750153694
-      },
-      "updated": {
-        "sec": 1750153719
+        "sec": 1750155747
       }
     }
   ]
