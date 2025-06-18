@@ -526,8 +526,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Toulões",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 58,
-      "terrain": 15,
+      "man": 59,
+      "terrain": 16,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Toulões",
@@ -564,62 +564,7 @@
         "sec": 1750251912
       },
       "updated": {
-        "sec": 1750254018
-      }
-    },
-    {
-      "_id": {
-        "$id": "6852bab730fa7f01340935cd"
-      },
-      "id": "20250787427",
-      "coords": true,
-      "dateTime": {
-        "sec": 1750251300
-      },
-      "date": "18-06-2025",
-      "hour": "13:55",
-      "location": "Porto, Matosinhos, São Mamede De Infesta E Senhora Da Hora",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Matosinhos",
-      "freguesia": "São Mamede De Infesta E Senhora Da Hora",
-      "dico": "1308",
-      "lat": 41.18242,
-      "lng": -8.652163,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De São Mamede De Infesta E Senhora Da Hora ",
-      "active": true,
-      "sadoId": "20250787427",
-      "sharepointId": 25544109,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1750252215
-      },
-      "updated": {
-        "sec": 1750252815
+        "sec": 1750254855
       }
     },
     {
@@ -634,9 +579,9 @@
       "date": "18-06-2025",
       "hour": "14:22",
       "location": "Braga, Braga, Esporões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
+      "man": 17,
       "terrain": 4,
       "district": "Braga",
       "concelho": "Braga",
@@ -678,7 +623,7 @@
         "sec": 1750253415
       },
       "updated": {
-        "sec": 1750254377
+        "sec": 1750254855
       }
     },
     {
@@ -695,8 +640,8 @@
       "location": "Viseu, Penedono, Penela Da Beira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 2,
+      "man": 22,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Penedono",
       "freguesia": "Penela Da Beira",
@@ -733,7 +678,7 @@
         "sec": 1750254136
       },
       "updated": {
-        "sec": 1750254376
+        "sec": 1750254855
       }
     },
     {
@@ -750,8 +695,8 @@
       "location": "Vila Real, Valpaços, Ervões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Valpaços",
       "freguesia": "Ervões",
@@ -772,8 +717,12 @@
       "sharepointId": 25544403,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 600.518,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Canil Municipal (CABEÇO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -788,7 +737,62 @@
         "sec": 1750254376
       },
       "updated": {
-        "sec": 1750254391
+        "sec": 1750254496
+      }
+    },
+    {
+      "_id": {
+        "$id": "6852c3a030fa7f0134093640"
+      },
+      "id": "20250787715",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750254180
+      },
+      "date": "18-06-2025",
+      "hour": "14:43",
+      "location": "Porto, Santo Tirso, Água Longa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Água Longa",
+      "dico": "1314",
+      "lat": 41.25243,
+      "lng": -8.50759,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Água Longa ",
+      "active": true,
+      "sadoId": "20250787715",
+      "sharepointId": 25544397,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1750254496
+      },
+      "updated": {
+        "sec": 1750254855
       }
     }
   ]
