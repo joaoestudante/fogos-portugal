@@ -243,8 +243,8 @@
       "location": "Faro, Portimão, Mexilhoeira Grande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 8,
+      "man": 19,
+      "terrain": 7,
       "district": "Faro",
       "concelho": "Portimão",
       "freguesia": "Mexilhoeira Grande",
@@ -285,7 +285,7 @@
         "sec": 1750240829
       },
       "updated": {
-        "sec": 1750242135
+        "sec": 1750245021
       }
     },
     {
@@ -302,13 +302,13 @@
       "location": "Castelo Branco, Sertã, Castelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 6,
+      "man": 11,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Sertã",
       "freguesia": "Castelo",
       "dico": "0509",
-      "lat": 39.853212,
+      "lat": 39.858212,
       "lng": -8.142925,
       "naturezaCode": "3103",
       "natureza": "Mato",
@@ -340,7 +340,7 @@
         "sec": 1750241531
       },
       "updated": {
-        "sec": 1750243932
+        "sec": 1750245022
       }
     },
     {
@@ -357,8 +357,8 @@
       "location": "Coimbra, Soure, Soure",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Soure",
       "freguesia": "Soure",
@@ -369,9 +369,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casconho ",
       "active": true,
@@ -395,7 +395,7 @@
         "sec": 1750241892
       },
       "updated": {
-        "sec": 1750243574
+        "sec": 1750245022
       }
     },
     {
@@ -410,9 +410,9 @@
       "date": "18-06-2025",
       "hour": "11:31",
       "location": "Castelo Branco, Idanha-a-Nova, Rosmaninhal",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
+      "man": 30,
       "terrain": 9,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
@@ -424,11 +424,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Rosmaninhal ",
+      "localidade": "Cegonhas   ",
       "active": true,
       "sadoId": "20250786702",
       "sharepointId": 25543384,
@@ -454,7 +454,121 @@
         "sec": 1750243095
       },
       "updated": {
-        "sec": 1750243932
+        "sec": 1750244774
+      }
+    },
+    {
+      "_id": {
+        "$id": "68529b4d63352770b67ff781"
+      },
+      "id": "20250786809",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750243740
+      },
+      "date": "18-06-2025",
+      "hour": "11:49",
+      "location": "Porto, Marco de Canaveses, Tabuado",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Tabuado",
+      "dico": "1307",
+      "lat": 41.18683,
+      "lng": -8.12114,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Tabuado ",
+      "active": true,
+      "sadoId": "20250786809",
+      "sharepointId": 25543491,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1750244173
+      },
+      "updated": {
+        "sec": 1750244892
+      }
+    },
+    {
+      "_id": {
+        "$id": "68529c4d63352770b67ff78a"
+      },
+      "id": "20250786831",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750244040
+      },
+      "date": "18-06-2025",
+      "hour": "11:54",
+      "location": "Vila Real, Vila Real, Mouçós E Lamares",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Mouçós E Lamares",
+      "dico": "1714",
+      "lat": 41.32391,
+      "lng": -7.630046,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamares ",
+      "active": true,
+      "sadoId": "20250786831",
+      "sharepointId": 25543513,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 795.736,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.32391218.-7.63004645) - M578. 5000 Vila Real. Portugal (Lameiro da Perdiz)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1750244429
+      },
+      "updated": {
+        "sec": 1750244892
       }
     }
   ]
