@@ -129,8 +129,8 @@
       "location": "Coimbra, Miranda do Corvo, Semide E Rio Vide",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Miranda Do Corvo",
       "freguesia": "Semide E Rio Vide",
@@ -171,7 +171,7 @@
         "sec": 1750422733
       },
       "updated": {
-        "sec": 1750440617
+        "sec": 1750440859
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Castelo Branco, Castelo Branco, Benquerenças",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 14,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Benquerenças",
@@ -226,7 +226,7 @@
         "sec": 1750422851
       },
       "updated": {
-        "sec": 1750437015
+        "sec": 1750441216
       }
     },
     {
@@ -1025,14 +1025,14 @@
       "location": "Évora, Estremoz, Ameixial (Santa Vitória E São Bento)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 8,
+      "man": 32,
+      "terrain": 9,
       "district": "Évora",
       "concelho": "Estremoz",
       "freguesia": "Ameixial (Santa Vitória E São Bento)",
       "dico": "0704",
-      "lat": 38.80123,
-      "lng": -7.65771,
+      "lat": 38.80539,
+      "lng": -7.645577,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1067,7 +1067,7 @@
         "sec": 1750438902
       },
       "updated": {
-        "sec": 1750440500
+        "sec": 1750440859
       }
     },
     {
@@ -1084,14 +1084,14 @@
       "location": "Santarém, Coruche, Coruche, Fajarda E Erra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 16,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Coruche, Fajarda E Erra",
       "dico": "1409",
-      "lat": 38.980283,
-      "lng": -8.543936,
+      "lat": 38.979722,
+      "lng": -8.529788,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1122,7 +1122,7 @@
         "sec": 1750438969
       },
       "updated": {
-        "sec": 1750440618
+        "sec": 1750440859
       }
     },
     {
@@ -1194,8 +1194,8 @@
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 17,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
@@ -1206,9 +1206,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Faro ",
       "active": true,
@@ -1232,7 +1232,7 @@
         "sec": 1750440135
       },
       "updated": {
-        "sec": 1750440618
+        "sec": 1750440859
       }
     },
     {
@@ -1249,8 +1249,8 @@
       "location": "Coimbra, Montemor-o-Velho, Tentúgal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 24,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Montemor-o-velho",
       "freguesia": "Tentúgal",
@@ -1261,9 +1261,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "A14 Pk 29.2 ",
       "active": true,
@@ -1287,7 +1287,62 @@
         "sec": 1750440500
       },
       "updated": {
-        "sec": 1750440516
+        "sec": 1750441217
+      }
+    },
+    {
+      "_id": {
+        "$id": "68559d0136e22210b7410535"
+      },
+      "id": "20250798333",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750440960
+      },
+      "date": "20-06-2025",
+      "hour": "18:36",
+      "location": "Bragança, Mogadouro, Castro Vicente",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Mogadouro",
+      "freguesia": "Castro Vicente",
+      "dico": "0408",
+      "lat": 41.39632,
+      "lng": -6.835313,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Castro Vicente ",
+      "active": true,
+      "sadoId": "20250798333",
+      "sharepointId": 25555015,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1750441217
+      },
+      "updated": {
+        "sec": 1750441238
       }
     }
   ]
