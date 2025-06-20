@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "6851abc78db4b70ae569c3b7"
-      },
-      "id": "20250783787",
-      "coords": true,
-      "dateTime": {
-        "sec": 1750182120
-      },
-      "date": "17-06-2025",
-      "hour": "18:42",
-      "location": "Porto, Valongo, Alfena",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Valongo",
-      "freguesia": "Alfena",
-      "dico": "1315",
-      "lat": 41.249813,
-      "lng": -8.511047,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Alfena ",
-      "active": true,
-      "sadoId": "20250783787",
-      "sharepointId": 25540469,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1750182855
-      },
-      "updated": {
-        "sec": 1750412652
-      }
-    },
-    {
-      "_id": {
         "$id": "6854ebf735b59e11236a50d2"
       },
       "id": "20250794747",
@@ -137,9 +82,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Aravil ",
       "active": true,
@@ -167,7 +112,7 @@
         "sec": 1750411819
       },
       "updated": {
-        "sec": 1750412892
+        "sec": 1750413252
       }
     },
     {
@@ -184,8 +129,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Idanha-a-nova E Alcafozes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 20,
+      "terrain": 6,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Idanha-a-nova E Alcafozes",
@@ -196,9 +141,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Aravil  ",
       "active": true,
@@ -222,7 +167,66 @@
         "sec": 1750412892
       },
       "updated": {
-        "sec": 1750412892
+        "sec": 1750413739
+      }
+    },
+    {
+      "_id": {
+        "$id": "68553294320fb269964966a2"
+      },
+      "id": "20250796018",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750413360
+      },
+      "date": "20-06-2025",
+      "hour": "10:56",
+      "location": "Braga, Braga, Celeirós, Aveleda E Vimieiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Celeirós, Aveleda E Vimieiro",
+      "dico": "0303",
+      "lat": 41.51658,
+      "lng": -8.44929,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " Celeirós ",
+      "active": true,
+      "sadoId": "20250796018",
+      "sharepointId": 25552700,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 144.805,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.51705 Braga. Portugal (Boavista)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1750413972
+      },
+      "updated": {
+        "sec": 1750413993
       }
     }
   ]
