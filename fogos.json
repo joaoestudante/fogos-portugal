@@ -286,61 +286,6 @@
     },
     {
       "_id": {
-        "$id": "6856dbc53dc6e577e0183869"
-      },
-      "id": "20250802799",
-      "coords": true,
-      "dateTime": {
-        "sec": 1750521840
-      },
-      "date": "21-06-2025",
-      "hour": "17:04",
-      "location": "Porto, Trofa, Alvarelhos E Guidões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Trofa",
-      "freguesia": "Alvarelhos E Guidões",
-      "dico": "1318",
-      "lat": 41.329257,
-      "lng": -8.622467,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Guidões ",
-      "active": true,
-      "sadoId": "20250802799",
-      "sharepointId": 25559481,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1750522821
-      },
-      "updated": {
-        "sec": 1750523897
-      }
-    },
-    {
-      "_id": {
         "$id": "6856e77e105b78343448913e"
       },
       "id": "20250802983",
@@ -406,16 +351,16 @@
       "date": "21-06-2025",
       "hour": "18:12",
       "location": "Évora, Évora, São Bento Do Mato",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
+      "man": 25,
       "terrain": 7,
       "district": "Évora",
       "concelho": "Évora",
       "freguesia": "São Bento Do Mato",
       "dico": "0705",
-      "lat": 38.71715,
-      "lng": -7.78431,
+      "lat": 38.721084,
+      "lng": -7.790429,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -446,7 +391,7 @@
         "sec": 1750526295
       },
       "updated": {
-        "sec": 1750527625
+        "sec": 1750528165
       }
     },
     {
@@ -524,15 +469,15 @@
       "concelho": "Valpaços",
       "freguesia": "Friões",
       "dico": "1712",
-      "lat": 41.682133,
-      "lng": -7.395721,
+      "lat": 41.674475,
+      "lng": -7.404365,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Quintela ",
       "active": true,
@@ -556,7 +501,7 @@
         "sec": 1750526652
       },
       "updated": {
-        "sec": 1750527375
+        "sec": 1750528165
       }
     },
     {
@@ -571,10 +516,10 @@
       "date": "21-06-2025",
       "hour": "18:33",
       "location": "Bragança, Vila Flor, Vilas Boas E Vilarinho Das Azenhas",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Bragança",
       "concelho": "Vila Flor",
       "freguesia": "Vilas Boas E Vilarinho Das Azenhas",
@@ -585,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Vilas Boas E Vilarinho Das Azenhas ",
       "active": true,
@@ -595,8 +540,12 @@
       "sharepointId": 25559777,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 272.284,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua das Alminhas. 5360-470 Vila Flor. Portugal (VILARINHO DAS AZENHAS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -611,7 +560,66 @@
         "sec": 1750527625
       },
       "updated": {
-        "sec": 1750527625
+        "sec": 1750528215
+      }
+    },
+    {
+      "_id": {
+        "$id": "6856f0a530db8b4d04601f16"
+      },
+      "id": "20250803137",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750527720
+      },
+      "date": "21-06-2025",
+      "hour": "18:42",
+      "location": "Coimbra, Oliveira do Hospital, Oliveira Do Hospital E São Paio De Gramaços",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Oliveira Do Hospital",
+      "freguesia": "Oliveira Do Hospital E São Paio De Gramaços",
+      "dico": "0611",
+      "lat": 40.355133,
+      "lng": -7.849022,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Paio ",
+      "active": true,
+      "sadoId": "20250803137",
+      "sharepointId": 25559819,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 391.826,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "São Paio",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1750528165
+      },
+      "updated": {
+        "sec": 1750528241
       }
     }
   ]
