@@ -129,8 +129,8 @@
       "location": "Beja, Ourique, Panoias E Conceição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Ourique",
       "freguesia": "Panoias E Conceição",
@@ -167,7 +167,7 @@
         "sec": 1750586653
       },
       "updated": {
-        "sec": 1750588697
+        "sec": 1750590495
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Bragança, Mogadouro, Travanca",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 5,
+      "man": 15,
+      "terrain": 3,
       "district": "Bragança",
       "concelho": "Mogadouro",
       "freguesia": "Travanca",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Figueirinha ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1750587612
       },
       "updated": {
-        "sec": 1750589054
+        "sec": 1750590304
       }
     },
     {
@@ -240,7 +240,7 @@
       "aerial": 1,
       "meios_aquaticos": 0,
       "man": 25,
-      "terrain": 6,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
@@ -251,11 +251,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Casais Revelhos ",
+      "localidade": "Casais Revelhos Sul ",
       "active": true,
       "sadoId": "20250806091",
       "sharepointId": 25562773,
@@ -277,7 +277,121 @@
         "sec": 1750588935
       },
       "updated": {
-        "sec": 1750589295
+        "sec": 1750590495
+      }
+    },
+    {
+      "_id": {
+        "$id": "6857e251200e497b8c6933cc"
+      },
+      "id": "20250806169",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750589880
+      },
+      "date": "22-06-2025",
+      "hour": "11:58",
+      "location": "Braga, Vila Nova de Famalicão, Bairro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Bairro",
+      "dico": "0312",
+      "lat": 41.36462,
+      "lng": -8.43789,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bairro ",
+      "active": true,
+      "sadoId": "20250806169",
+      "sharepointId": 25562851,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 76.4694,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Zeca Afonso (Caniços)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1750590033
+      },
+      "updated": {
+        "sec": 1750590495
+      }
+    },
+    {
+      "_id": {
+        "$id": "6857e41ffb7c4631b324e3bc"
+      },
+      "id": "20250806193",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750589580
+      },
+      "date": "22-06-2025",
+      "hour": "11:53",
+      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
+      "dico": "1401",
+      "lat": 39.504318,
+      "lng": -8.193562,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Casais De Revelhos Norte ",
+      "active": true,
+      "sadoId": "20250806193",
+      "sharepointId": 25562875,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1750590495
+      },
+      "updated": {
+        "sec": 1750590495
       }
     }
   ]
