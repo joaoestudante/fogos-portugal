@@ -117,61 +117,6 @@
     },
     {
       "_id": {
-        "$id": "685866e6c7b30b1f3f3340a1"
-      },
-      "id": "20250808398",
-      "coords": true,
-      "dateTime": {
-        "sec": 1750623720
-      },
-      "date": "22-06-2025",
-      "hour": "21:22",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Sabadim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Sabadim",
-      "dico": "1601",
-      "lat": 41.907405,
-      "lng": -8.461232,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cabanas ",
-      "active": true,
-      "sadoId": "20250808398",
-      "sharepointId": 25565080,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1750623974
-      },
-      "updated": {
-        "sec": 1750635373
-      }
-    },
-    {
-      "_id": {
         "$id": "685876619f267658054f356a"
       },
       "id": "20250808597",
@@ -184,8 +129,8 @@
       "location": "Braga, Fafe, Ardegão, Arnozela E Seidões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Ardegão, Arnozela E Seidões",
@@ -222,7 +167,7 @@
         "sec": 1750627937
       },
       "updated": {
-        "sec": 1750633657
+        "sec": 1750635497
       }
     },
     {
@@ -236,26 +181,26 @@
       },
       "date": "22-06-2025",
       "hour": "23:53",
-      "location": "Porto, Felgueiras, Pinheiro",
+      "location": "Braga, Fafe, Ardegão, Arnozela E Seidões",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Pinheiro",
-      "dico": "1303",
-      "lat": 41.37199,
-      "lng": -8.14813,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Ardegão, Arnozela E Seidões",
+      "dico": "0307",
+      "lat": 41.375438,
+      "lng": -8.136992,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Pinheiro ",
+      "localidade": "Arnozela ",
       "active": true,
       "sadoId": "20250808804",
       "sharepointId": 25565486,
@@ -276,12 +221,12 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
+      "sub_regiao": "Ave",
       "created": {
         "sec": 1750633062
       },
       "updated": {
-        "sec": 1750635373
+        "sec": 1750635974
       }
     },
     {
@@ -310,9 +255,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Costa Da Caparica ",
       "active": true,
@@ -320,8 +265,12 @@
       "sharepointId": 25565532,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": -4.60013,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "R. das Acácias (Miradouro dos Capuchos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -336,7 +285,7 @@
         "sec": 1750635373
       },
       "updated": {
-        "sec": 1750635373
+        "sec": 1750635852
       }
     }
   ]
