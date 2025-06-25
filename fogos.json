@@ -239,8 +239,8 @@
       "location": "Lisboa, Alenquer, Carregado E Cadafais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Alenquer",
       "freguesia": "Carregado E Cadafais",
@@ -281,7 +281,7 @@
         "sec": 1750858332
       },
       "updated": {
-        "sec": 1750865053
+        "sec": 1750866253
       }
     },
     {
@@ -424,9 +424,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rua Lagoa Das Eiras ",
       "active": true,
@@ -450,7 +450,7 @@
         "sec": 1750864580
       },
       "updated": {
-        "sec": 1750865296
+        "sec": 1750866146
       }
     },
     {
@@ -465,10 +465,10 @@
       "date": "25-06-2025",
       "hour": "16:24",
       "location": "Santarém, Cartaxo, Vila Chã De Ourique",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 27,
+      "terrain": 7,
       "district": "Santarém",
       "concelho": "Cartaxo",
       "freguesia": "Vila Chã De Ourique",
@@ -479,9 +479,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Vila Chã De Ourique ",
       "active": true,
@@ -505,7 +505,62 @@
         "sec": 1750865296
       },
       "updated": {
-        "sec": 1750865419
+        "sec": 1750866253
+      }
+    },
+    {
+      "_id": {
+        "$id": "685c16f637b6d0273b2e44f5"
+      },
+      "id": "20250822344",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750865460
+      },
+      "date": "25-06-2025",
+      "hour": "16:31",
+      "location": "Aveiro, Ovar, Ovar, São João, Arada E São Vicente De Pereira Jusã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Ovar",
+      "freguesia": "Ovar, São João, Arada E São Vicente De Pereira Jusã",
+      "dico": "0115",
+      "lat": 40.864029,
+      "lng": -8.632482,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Ovar ",
+      "active": true,
+      "sadoId": "20250822344",
+      "sharepointId": 25579026,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1750865654
+      },
+      "updated": {
+        "sec": 1750865893
       }
     }
   ]
