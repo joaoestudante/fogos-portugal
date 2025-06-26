@@ -68,9 +68,9 @@
       "date": "26-06-2025",
       "hour": "10:24",
       "location": "Aveiro, Oliveira de Azeméis, Carregosa",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 15,
+      "man": 21,
       "terrain": 3,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Carregosa ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1750930096
       },
       "updated": {
-        "sec": 1750930453
+        "sec": 1750931173
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Porto, Trofa, Alvarelhos E Guidões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 21,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Alvarelhos E Guidões",
@@ -163,7 +163,117 @@
         "sec": 1750930575
       },
       "updated": {
-        "sec": 1750930590
+        "sec": 1750931173
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d157f36fba92a6f54ad8e"
+      },
+      "id": "20250825459",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750930620
+      },
+      "date": "26-06-2025",
+      "hour": "10:37",
+      "location": "Porto, Paredes, Parada De Todeia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Parada De Todeia",
+      "dico": "1310",
+      "lat": 41.17024,
+      "lng": -8.3751,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Parada De Todeia ",
+      "active": true,
+      "sadoId": "20250825459",
+      "sharepointId": 25582141,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1750930815
+      },
+      "updated": {
+        "sec": 1750931173
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d166f36fba92a6f54ad96"
+      },
+      "id": "20250825483",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750930800
+      },
+      "date": "26-06-2025",
+      "hour": "10:40",
+      "location": "Porto, Amarante, Mancelos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Mancelos",
+      "dico": "1301",
+      "lat": 41.270132,
+      "lng": -8.151085,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Mancelos ",
+      "active": true,
+      "sadoId": "20250825483",
+      "sharepointId": 25582165,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1750931055
+      },
+      "updated": {
+        "sec": 1750931173
       }
     }
   ]
