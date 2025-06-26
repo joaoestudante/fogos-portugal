@@ -15,8 +15,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Carregosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Carregosa",
@@ -53,7 +53,7 @@
         "sec": 1750930096
       },
       "updated": {
-        "sec": 1750936452
+        "sec": 1750936938
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Porto, Paredes, Parada De Todeia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Parada De Todeia",
@@ -163,7 +163,7 @@
         "sec": 1750930815
       },
       "updated": {
-        "sec": 1750935253
+        "sec": 1750936938
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Portalegre, Campo Maior, São João Baptista",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Campo Maior",
       "freguesia": "São João Baptista",
@@ -277,7 +277,7 @@
         "sec": 1750933818
       },
       "updated": {
-        "sec": 1750935733
+        "sec": 1750937055
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Recardães ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1750935703
       },
       "updated": {
-        "sec": 1750936219
+        "sec": 1750937055
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -501,7 +501,66 @@
         "sec": 1750936452
       },
       "updated": {
-        "sec": 1750936467
+        "sec": 1750937055
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d2f59d2eb3f18661a5444"
+      },
+      "id": "20250826037",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750937280
+      },
+      "date": "26-06-2025",
+      "hour": "12:28",
+      "location": "Guarda, Almeida, Peva -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Guarda",
+      "concelho": "Almeida",
+      "freguesia": "Peva",
+      "dico": "90222",
+      "lat": 40.6638519997067,
+      "lng": -6.98897200001611,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "#peva (peva)",
+      "active": true,
+      "sadoId": "20250826037",
+      "sharepointId": 20250826037,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 722.364,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "#Peva (PEVA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1750937433
+      },
+      "updated": {
+        "sec": 1750937451
       }
     }
   ]
