@@ -68,9 +68,9 @@
       "date": "26-06-2025",
       "hour": "10:24",
       "location": "Aveiro, Oliveira de Azeméis, Carregosa",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
+      "man": 15,
       "terrain": 3,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
@@ -108,7 +108,7 @@
         "sec": 1750930096
       },
       "updated": {
-        "sec": 1750931892
+        "sec": 1750932827
       }
     },
     {
@@ -123,9 +123,9 @@
       "date": "26-06-2025",
       "hour": "10:32",
       "location": "Porto, Trofa, Alvarelhos E Guidões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
+      "man": 22,
       "terrain": 5,
       "district": "Porto",
       "concelho": "Trofa",
@@ -163,7 +163,7 @@
         "sec": 1750930575
       },
       "updated": {
-        "sec": 1750932615
+        "sec": 1750933455
       }
     },
     {
@@ -180,21 +180,21 @@
       "location": "Porto, Paredes, Parada De Todeia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 17,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Parada De Todeia",
       "dico": "1310",
-      "lat": 41.17024,
-      "lng": -8.3751,
+      "lat": 41.170285,
+      "lng": -8.37966,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Parada De Todeia ",
       "active": true,
@@ -218,7 +218,7 @@
         "sec": 1750930815
       },
       "updated": {
-        "sec": 1750932615
+        "sec": 1750934175
       }
     },
     {
@@ -247,9 +247,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mancelos ",
       "active": true,
@@ -273,7 +273,7 @@
         "sec": 1750931055
       },
       "updated": {
-        "sec": 1750931173
+        "sec": 1750933333
       }
     },
     {
@@ -287,33 +287,37 @@
       },
       "date": "26-06-2025",
       "hour": "11:03",
-      "location": "Portalegre, Nisa, Alpalhão",
+      "location": "Portalegre, Nisa, Espírito Santo, Nossa Senhora Da Graça E São Simão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 9,
+      "man": 17,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Nisa",
-      "freguesia": "Alpalhão",
+      "freguesia": "Espírito Santo, Nossa Senhora Da Graça E São Simão",
       "dico": "1212",
-      "lat": 39.42257,
-      "lng": -7.620137,
+      "lat": 39.461042,
+      "lng": -7.63184,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Alpalhão ",
+      "localidade": "N18, K145,500 ",
       "active": true,
       "sadoId": "20250825617",
       "sharepointId": 25582299,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 298.666,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "ALPALHÃO",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -328,7 +332,176 @@
         "sec": 1750932615
       },
       "updated": {
-        "sec": 1750932615
+        "sec": 1750933934
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d20440ee48b78c711e13d"
+      },
+      "id": "20250825565",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750931820
+      },
+      "date": "26-06-2025",
+      "hour": "10:57",
+      "location": "Coimbra, Montemor-o-Velho, Seixo De Gatões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Montemor-o-velho",
+      "freguesia": "Seixo De Gatões",
+      "dico": "0610",
+      "lat": 40.23528,
+      "lng": -8.69111,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Seixo De Gatões ",
+      "active": true,
+      "sadoId": "20250825565",
+      "sharepointId": 25582247,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1750933572
+      },
+      "updated": {
+        "sec": 1750934176
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d213a0ee48b78c711e143"
+      },
+      "id": "20250825723",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750933500
+      },
+      "date": "26-06-2025",
+      "hour": "11:25",
+      "location": "Portalegre, Campo Maior, São João Baptista",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "São João Baptista",
+      "dico": "1204",
+      "lat": 39.03655,
+      "lng": -7.04501,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São João Baptista ",
+      "active": true,
+      "sadoId": "20250825723",
+      "sharepointId": 25582405,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 165.784,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N373 (Monte da Defesada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1750933818
+      },
+      "updated": {
+        "sec": 1750933934
+      }
+    },
+    {
+      "_id": {
+        "$id": "685d22a00ee48b78c711e14e"
+      },
+      "id": "20250825776",
+      "coords": true,
+      "dateTime": {
+        "sec": 1750933680
+      },
+      "date": "26-06-2025",
+      "hour": "11:28",
+      "location": "Aveiro, Santa Maria da Feira, Caldas De São Jorge E Pigeiros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Caldas De São Jorge E Pigeiros",
+      "dico": "0109",
+      "lat": 40.954077,
+      "lng": -8.496356,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250825776",
+      "sharepointId": 25582458,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1750934176
+      },
+      "updated": {
+        "sec": 1750934193
       }
     }
   ]
