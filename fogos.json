@@ -408,65 +408,6 @@
     },
     {
       "_id": {
-        "$id": "685f0672553c46495a2fc3cb"
-      },
-      "id": "20250833681",
-      "coords": true,
-      "dateTime": {
-        "sec": 1751056680
-      },
-      "date": "27-06-2025",
-      "hour": "21:38",
-      "location": "Lisboa, Loures, Loures",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Lisboa",
-      "concelho": "Loures",
-      "freguesia": "Loures",
-      "dico": "1107",
-      "lat": 38.845333,
-      "lng": -9.181544,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Loures ",
-      "active": true,
-      "sadoId": "20250833681",
-      "sharepointId": 25590363,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 25.6525,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua Dom Afonso Henriques (LOURES)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "created": {
-        "sec": 1751058034
-      },
-      "updated": {
-        "sec": 1751060055
-      }
-    },
-    {
-      "_id": {
         "$id": "685f0a1c0caa8f31580ebb90"
       },
       "id": "20250833755",
@@ -538,8 +479,8 @@
       "location": "Aveiro, Santa Maria da Feira, Caldas De São Jorge E Pigeiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Caldas De São Jorge E Pigeiros",
@@ -550,9 +491,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -580,7 +521,7 @@
         "sec": 1751059822
       },
       "updated": {
-        "sec": 1751059850
+        "sec": 1751061261
       }
     },
     {
@@ -597,8 +538,8 @@
       "location": "Aveiro, Santa Maria da Feira, Romariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 14,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Romariz",
@@ -609,9 +550,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Romariz ",
       "active": true,
@@ -635,7 +576,62 @@
         "sec": 1751060297
       },
       "updated": {
-        "sec": 1751060311
+        "sec": 1751061261
+      }
+    },
+    {
+      "_id": {
+        "$id": "685f130d0caa8f31580ebbeb"
+      },
+      "id": "20250833960",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751060400
+      },
+      "date": "27-06-2025",
+      "hour": "22:40",
+      "location": "Aveiro, Santa Maria da Feira, São João De Ver",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São João De Ver",
+      "dico": "0109",
+      "lat": 40.95385,
+      "lng": -8.549167,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250833960",
+      "sharepointId": 25590642,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1751061261
+      },
+      "updated": {
+        "sec": 1751061277
       }
     }
   ]
