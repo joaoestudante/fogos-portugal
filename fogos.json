@@ -70,8 +70,8 @@
       "location": "Faro, Silves, Silves",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "Silves",
@@ -108,7 +108,7 @@
         "sec": 1751171895
       },
       "updated": {
-        "sec": 1751174653
+        "sec": 1751181853
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Setúbal, Palmela, Palmela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Palmela",
       "freguesia": "Palmela",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Palmela ",
       "active": true,
@@ -163,7 +163,7 @@
         "sec": 1751180055
       },
       "updated": {
-        "sec": 1751180429
+        "sec": 1751182575
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Santarém, Ourém, Freixianda, Ribeira Do Fárrio E Formigais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 16,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Freixianda, Ribeira Do Fárrio E Formigais",
@@ -192,9 +192,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Freixianda ",
       "active": true,
@@ -218,7 +218,66 @@
         "sec": 1751181494
       },
       "updated": {
-        "sec": 1751181509
+        "sec": 1751182392
+      }
+    },
+    {
+      "_id": {
+        "$id": "6860eceff8e955711b625c32"
+      },
+      "id": "20250840313",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751182440
+      },
+      "date": "29-06-2025",
+      "hour": "08:34",
+      "location": "Santarém, Tomar, São João Baptista E Santa Maria Dos Olivais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Tomar",
+      "freguesia": "São João Baptista E Santa Maria Dos Olivais",
+      "dico": "1418",
+      "lat": 39.57965,
+      "lng": -8.413611,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cabeças ",
+      "active": true,
+      "sadoId": "20250840313",
+      "sharepointId": 25596995,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 93.2744,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Cabeças (MACHADA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1751182575
+      },
+      "updated": {
+        "sec": 1751182594
       }
     }
   ]
