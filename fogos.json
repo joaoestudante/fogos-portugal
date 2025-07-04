@@ -463,8 +463,8 @@
       "location": "Porto, Amarante, Bustelo, Carneiro E Carvalho De Rei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Bustelo, Carneiro E Carvalho De Rei",
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Bustelo, Carneiro E Carvalho De Rei ",
       "active": true,
@@ -505,7 +505,62 @@
         "sec": 1751605695
       },
       "updated": {
-        "sec": 1751605720
+        "sec": 1751606896
+      }
+    },
+    {
+      "_id": {
+        "$id": "68676324928c2f3033183119"
+      },
+      "id": "20250867083",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751605920
+      },
+      "date": "04-07-2025",
+      "hour": "06:12",
+      "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
+      "dico": "1416",
+      "lat": 39.231938,
+      "lng": -8.678591,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Santarém ",
+      "active": true,
+      "sadoId": "20250867083",
+      "sharepointId": 25623766,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1751606052
+      },
+      "updated": {
+        "sec": 1751607136
       }
     }
   ]
