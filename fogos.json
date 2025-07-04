@@ -196,9 +196,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Casal S. João ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1751549053
       },
       "updated": {
-        "sec": 1751588055
+        "sec": 1751612775
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 20,
+      "man": 75,
+      "terrain": 22,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Ribeira Do Neiva",
@@ -332,7 +332,7 @@
         "sec": 1751572460
       },
       "updated": {
-        "sec": 1751611932
+        "sec": 1751613256
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cumieira ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1751610856
       },
       "updated": {
-        "sec": 1751611093
+        "sec": 1751612174
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Baguim Do Monte (rio Tinto)",
@@ -501,7 +501,117 @@
         "sec": 1751611932
       },
       "updated": {
-        "sec": 1751611932
+        "sec": 1751613016
+      }
+    },
+    {
+      "_id": {
+        "$id": "68677b0ed4aac577e3023370"
+      },
+      "id": "20250867292",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751611800
+      },
+      "date": "04-07-2025",
+      "hour": "07:50",
+      "location": "Porto, Valongo, Ermesinde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Ermesinde",
+      "dico": "1315",
+      "lat": 41.20054,
+      "lng": -8.54667,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ermesinde ",
+      "active": true,
+      "sadoId": "20250867292",
+      "sharepointId": 25623975,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1751612174
+      },
+      "updated": {
+        "sec": 1751612701
+      }
+    },
+    {
+      "_id": {
+        "$id": "68677e5884556746311dc22e"
+      },
+      "id": "20250867318",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751612520
+      },
+      "date": "04-07-2025",
+      "hour": "08:02",
+      "location": "Porto, Lousada, Meinedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Meinedo",
+      "dico": "1305",
+      "lat": 41.2567,
+      "lng": -8.23489,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Meinedo ",
+      "active": true,
+      "sadoId": "20250867318",
+      "sharepointId": 25624001,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1751613016
+      },
+      "updated": {
+        "sec": 1751613040
       }
     }
   ]
