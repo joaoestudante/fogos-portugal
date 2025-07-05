@@ -813,8 +813,8 @@
       "location": "Coimbra, Figueira da Foz, Alhadas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 19,
+      "terrain": 5,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
       "freguesia": "Alhadas",
@@ -855,7 +855,7 @@
         "sec": 1751738534
       },
       "updated": {
-        "sec": 1751742734
+        "sec": 1751744774
       }
     },
     {
@@ -931,8 +931,8 @@
       "location": "Beja, Odemira, São Martinho Das Amoreiras",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 11,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Martinho Das Amoreiras",
@@ -973,7 +973,7 @@
         "sec": 1751742034
       },
       "updated": {
-        "sec": 1751744061
+        "sec": 1751745134
       }
     },
     {
@@ -988,10 +988,10 @@
       "date": "05-07-2025",
       "hour": "20:13",
       "location": "Portalegre, Gavião, Margem",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 9,
+      "man": 39,
+      "terrain": 11,
       "district": "Portalegre",
       "concelho": "Gavião",
       "freguesia": "Margem",
@@ -1002,9 +1002,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Moinho Do Torrão ",
       "active": true,
@@ -1028,7 +1028,7 @@
         "sec": 1751743093
       },
       "updated": {
-        "sec": 1751744533
+        "sec": 1751745133
       }
     },
     {
@@ -1045,8 +1045,8 @@
       "location": "Vila Real, Peso da Régua, Vilarinho Dos Freires",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Peso Da Régua",
       "freguesia": "Vilarinho Dos Freires",
@@ -1057,9 +1057,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vilarinho Dos Freires ",
       "active": true,
@@ -1083,7 +1083,121 @@
         "sec": 1751744532
       },
       "updated": {
-        "sec": 1751744552
+        "sec": 1751744895
+      }
+    },
+    {
+      "_id": {
+        "$id": "68698106ac53d7097548cab2"
+      },
+      "id": "20250876500",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751744340
+      },
+      "date": "05-07-2025",
+      "hour": "20:39",
+      "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "dico": "0205",
+      "lat": 38.02634,
+      "lng": -7.851597,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Beja ",
+      "active": true,
+      "sadoId": "20250876500",
+      "sharepointId": 25633183,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 171.319,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(38.02634399.-7.85159686) - Rua da Esperança. 7800-146 Beja. Portugal (Bairro da Esperança)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1751744774
+      },
+      "updated": {
+        "sec": 1751745018
+      }
+    },
+    {
+      "_id": {
+        "$id": "686981fbac53d7097548cacc"
+      },
+      "id": "20250876536",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751744820
+      },
+      "date": "05-07-2025",
+      "hour": "20:47",
+      "location": "Braga, Fafe, Quinchães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Quinchães",
+      "dico": "0307",
+      "lat": 41.42013,
+      "lng": -8.13835,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Quinchães ",
+      "active": true,
+      "sadoId": "20250876536",
+      "sharepointId": 25633219,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1751745019
+      },
+      "updated": {
+        "sec": 1751745049
       }
     }
   ]
