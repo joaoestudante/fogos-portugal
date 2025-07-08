@@ -141,9 +141,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "São Teotónio ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1751906248
       },
       "updated": {
-        "sec": 1751967373
+        "sec": 1751971457
       }
     },
     {
@@ -467,8 +467,8 @@
       "location": "Porto, Marco de Canaveses, Soalhães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Soalhães",
@@ -505,7 +505,7 @@
         "sec": 1751953213
       },
       "updated": {
-        "sec": 1751968096
+        "sec": 1751971695
       }
     },
     {
@@ -801,8 +801,8 @@
       "location": "Porto, Paredes, Astromil",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 23,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Astromil",
@@ -813,9 +813,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Astromil ",
       "active": true,
@@ -839,7 +839,7 @@
         "sec": 1751969057
       },
       "updated": {
-        "sec": 1751970016
+        "sec": 1751971457
       }
     },
     {
@@ -917,15 +917,15 @@
       "concelho": "Caldas Da Rainha",
       "freguesia": "Carvalhal Benfeito",
       "dico": "1006",
-      "lat": 39.456606,
-      "lng": -9.046325,
+      "lat": 39.458178,
+      "lng": -9.04503,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Eiras ",
       "active": true,
@@ -953,7 +953,7 @@
         "sec": 1751969776
       },
       "updated": {
-        "sec": 1751970981
+        "sec": 1751971457
       }
     },
     {
@@ -970,8 +970,8 @@
       "location": "Braga, Vila Nova de Famalicão, Ribeirão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Ribeirão",
@@ -982,9 +982,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Ribeirão ",
       "active": true,
@@ -1012,7 +1012,121 @@
         "sec": 1751970982
       },
       "updated": {
-        "sec": 1751971008
+        "sec": 1751971934
+      }
+    },
+    {
+      "_id": {
+        "$id": "686cf6f492dd2719734b93b6"
+      },
+      "id": "20250889558",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751971140
+      },
+      "date": "08-07-2025",
+      "hour": "11:39",
+      "location": "Faro, Alcoutim, Martim Longo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Alcoutim",
+      "freguesia": "Martim Longo",
+      "dico": "0802",
+      "lat": 37.44043,
+      "lng": -7.76694,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Martim Longo ",
+      "active": true,
+      "sadoId": "20250889558",
+      "sharepointId": 25646244,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 280.953,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Lutão. 8970-255 Alcoutim. Portugal (MARTIM LONGO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1751971572
+      },
+      "updated": {
+        "sec": 1751971813
+      }
+    },
+    {
+      "_id": {
+        "$id": "686cf77092dd2719734b93bf"
+      },
+      "id": "20250889591",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751971440
+      },
+      "date": "08-07-2025",
+      "hour": "11:44",
+      "location": "Bragança, Macedo de Cavaleiros, Talhinhas E Bagueixe",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Bragança",
+      "concelho": "Macedo De Cavaleiros",
+      "freguesia": "Talhinhas E Bagueixe",
+      "dico": "0405",
+      "lat": 41.531017,
+      "lng": -6.732451,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gralhós ",
+      "active": true,
+      "sadoId": "20250889591",
+      "sharepointId": 25646277,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1751971696
+      },
+      "updated": {
+        "sec": 1751971935
       }
     }
   ]
