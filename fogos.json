@@ -255,9 +255,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lomba ",
       "active": true,
@@ -285,7 +285,7 @@
         "sec": 1751940373
       },
       "updated": {
-        "sec": 1751963772
+        "sec": 1751969057
       }
     },
     {
@@ -691,8 +691,8 @@
       "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Lobão, Gião, Louredo E Guisande",
@@ -729,66 +729,7 @@
         "sec": 1751962452
       },
       "updated": {
-        "sec": 1751964733
-      }
-    },
-    {
-      "_id": {
-        "$id": "686cd5b1ef439e6f59014e81"
-      },
-      "id": "20250888696",
-      "coords": true,
-      "dateTime": {
-        "sec": 1751962620
-      },
-      "date": "08-07-2025",
-      "hour": "09:17",
-      "location": "Bragança, Torre de Moncorvo, Carviçais",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Bragança",
-      "concelho": "Torre De Moncorvo",
-      "freguesia": "Carviçais",
-      "dico": "0409",
-      "lat": 41.18384,
-      "lng": -6.89273,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Carviçais ",
-      "active": true,
-      "sadoId": "20250888696",
-      "sharepointId": 25645382,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 598.232,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Fonte do Prado. 5160-069 Torre de Moncorvo. Portugal (CARVIÇAIS)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1751963057
-      },
-      "updated": {
-        "sec": 1751967373
+        "sec": 1751969292
       }
     },
     {
@@ -805,8 +746,8 @@
       "location": "Évora, Alandroal, N.S. Conceição, S. Brás Matos, Juromenha",
       "aerial": 7,
       "meios_aquaticos": 0,
-      "man": 95,
-      "terrain": 26,
+      "man": 135,
+      "terrain": 41,
       "district": "Évora",
       "concelho": "Alandroal",
       "freguesia": "N.S. Conceição, S. Brás Matos, Juromenha",
@@ -843,7 +784,7 @@
         "sec": 1751963057
       },
       "updated": {
-        "sec": 1751968218
+        "sec": 1751969177
       }
     },
     {
@@ -860,8 +801,8 @@
       "location": "Setúbal, Grândola, Azinheira Dos Barros E São Mamede Do Sádão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 3,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Azinheira Dos Barros E São Mamede Do Sádão",
@@ -898,7 +839,62 @@
         "sec": 1751964493
       },
       "updated": {
-        "sec": 1751967373
+        "sec": 1751968696
+      }
+    },
+    {
+      "_id": {
+        "$id": "686ced2169a2f546d044fd6a"
+      },
+      "id": "20250889337",
+      "coords": true,
+      "dateTime": {
+        "sec": 1751968200
+      },
+      "date": "08-07-2025",
+      "hour": "10:50",
+      "location": "Porto, Paredes, Rebordosa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Rebordosa",
+      "dico": "1310",
+      "lat": 41.20061,
+      "lng": -8.425216,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Astromil ",
+      "active": true,
+      "sadoId": "20250889337",
+      "sharepointId": 25646023,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1751969057
+      },
+      "updated": {
+        "sec": 1751969293
       }
     }
   ]
