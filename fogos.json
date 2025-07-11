@@ -294,8 +294,8 @@
       "location": "Leiria, Leiria, Leiria, Pousos, Barreira E Cortes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Leiria, Pousos, Barreira E Cortes",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "União Das Freguesias De Leiria, Pousos, Barreira E Cortes ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1752250217
       },
       "updated": {
-        "sec": 1752261252
+        "sec": 1752261854
       }
     },
     {
@@ -361,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ladoeiro ",
       "active": true,
@@ -391,7 +391,7 @@
         "sec": 1752257537
       },
       "updated": {
-        "sec": 1752260433
+        "sec": 1752262222
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santo António Dos Cavaleiros ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1752260293
       },
       "updated": {
-        "sec": 1752260775
+        "sec": 1752261854
       }
     },
     {
@@ -469,15 +469,15 @@
       "concelho": "Beja",
       "freguesia": "Beja (Santiago Maior E São João Baptista)",
       "dico": "0205",
-      "lat": 38.014111,
-      "lng": -7.87003,
+      "lat": 38.028293,
+      "lng": -7.86396,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Beja 1º ",
       "active": true,
@@ -501,7 +501,121 @@
         "sec": 1752261133
       },
       "updated": {
-        "sec": 1752261492
+        "sec": 1752262573
+      }
+    },
+    {
+      "_id": {
+        "$id": "687165cd12c7cb6a042f1447"
+      },
+      "id": "20250907465",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752261720
+      },
+      "date": "11-07-2025",
+      "hour": "20:22",
+      "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
+      "dico": "0105",
+      "lat": 40.578879,
+      "lng": -8.555943,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sanguinheira ",
+      "active": true,
+      "sadoId": "20250907465",
+      "sharepointId": 25664151,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1752262093
+      },
+      "updated": {
+        "sec": 1752262453
+      }
+    },
+    {
+      "_id": {
+        "$id": "687167ad12c7cb6a042f145a"
+      },
+      "id": "20250907522",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752262320
+      },
+      "date": "11-07-2025",
+      "hour": "20:32",
+      "location": "Aveiro, Santa Maria da Feira, Santa Maria Da Feira, Travanca, Sanfins E Espargo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Santa Maria Da Feira, Travanca, Sanfins E Espargo",
+      "dico": "0109",
+      "lat": 40.9255,
+      "lng": -8.555837,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250907522",
+      "sharepointId": 25664208,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 122.131,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Mata do Castelo (Quinta Nova da Cruz)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1752262573
+      },
+      "updated": {
+        "sec": 1752262596
       }
     }
   ]
