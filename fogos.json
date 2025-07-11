@@ -239,8 +239,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Idanha-a-nova E Alcafozes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Idanha-a-nova E Alcafozes",
@@ -281,7 +281,7 @@
         "sec": 1752257537
       },
       "updated": {
-        "sec": 1752270253
+        "sec": 1752274163
       }
     },
     {
@@ -412,21 +412,21 @@
       "location": "Viseu, Cinfães, Cinfães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 27,
+      "terrain": 6,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Cinfães",
       "dico": "1804",
-      "lat": 41.072213,
-      "lng": -8.086727,
+      "lat": 41.066702,
+      "lng": -8.074625,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Cinfães ",
       "active": true,
@@ -450,7 +450,7 @@
         "sec": 1752272782
       },
       "updated": {
-        "sec": 1752272800
+        "sec": 1752274164
       }
     },
     {
@@ -467,8 +467,8 @@
       "location": "Castelo Branco, Covilhã, Peraboa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 17,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Peraboa",
@@ -489,8 +489,12 @@
       "sharepointId": 25664756,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 491.609,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Peraboa",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -505,7 +509,121 @@
         "sec": 1752272782
       },
       "updated": {
-        "sec": 1752272782
+        "sec": 1752274163
+      }
+    },
+    {
+      "_id": {
+        "$id": "68719233848b1115615a2d53"
+      },
+      "id": "20250908084",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752273180
+      },
+      "date": "11-07-2025",
+      "hour": "23:33",
+      "location": "Santarém, Rio Maior, Asseiceira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Rio Maior",
+      "freguesia": "Asseiceira",
+      "dico": "1414",
+      "lat": 39.29594,
+      "lng": -8.93338,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Asseiceira ",
+      "active": true,
+      "sadoId": "20250908084",
+      "sharepointId": 25664770,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 73.5206,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.29594000.-8.93338000) - Rua do Canto 3. 2040-481 Rio Maior. Portugal (Asseiceira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1752273459
+      },
+      "updated": {
+        "sec": 1752274163
+      }
+    },
+    {
+      "_id": {
+        "$id": "687194f3edf79439fa6ae562"
+      },
+      "id": "20250908107",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752273360
+      },
+      "date": "11-07-2025",
+      "hour": "23:36",
+      "location": "Vila Real, Vila Pouca de Aguiar, Telões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Telões",
+      "dico": "1713",
+      "lat": 41.463944,
+      "lng": -7.687861,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pontido ",
+      "active": true,
+      "sadoId": "20250908107",
+      "sharepointId": 25664793,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1752274163
+      },
+      "updated": {
+        "sec": 1752274176
       }
     }
   ]
