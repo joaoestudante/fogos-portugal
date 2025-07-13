@@ -239,8 +239,8 @@
       "location": "Beja, Moura, Santo Agostinho E São João Baptista E Santo Amador",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 10,
+      "man": 12,
+      "terrain": 3,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Santo Agostinho E São João Baptista E Santo Amador",
@@ -281,7 +281,7 @@
         "sec": 1752420976
       },
       "updated": {
-        "sec": 1752443892
+        "sec": 1752444853
       }
     },
     {
@@ -298,8 +298,8 @@
       "location": "Portalegre, Alter do Chão, Alter Do Chão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 65,
-      "terrain": 20,
+      "man": 58,
+      "terrain": 18,
       "district": "Portalegre",
       "concelho": "Alter Do Chão",
       "freguesia": "Alter Do Chão",
@@ -336,7 +336,7 @@
         "sec": 1752421221
       },
       "updated": {
-        "sec": 1752438254
+        "sec": 1752445216
       }
     },
     {
@@ -451,61 +451,6 @@
     },
     {
       "_id": {
-        "$id": "687423858b76732b567c196a"
-      },
-      "id": "20250917041",
-      "coords": true,
-      "dateTime": {
-        "sec": 1752441300
-      },
-      "date": "13-07-2025",
-      "hour": "22:15",
-      "location": "Portalegre, Arronches, Mosteiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
-      "district": "Portalegre",
-      "concelho": "Arronches",
-      "freguesia": "Mosteiros",
-      "dico": "1202",
-      "lat": 39.1731,
-      "lng": -7.33521,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "N246 | Km 44 ",
-      "active": true,
-      "sadoId": "20250917041",
-      "sharepointId": 25673727,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "created": {
-        "sec": 1752441733
-      },
-      "updated": {
-        "sec": 1752443417
-      }
-    },
-    {
-      "_id": {
         "$id": "687423ff8b76732b567c1976"
       },
       "id": "20250917060",
@@ -524,15 +469,15 @@
       "concelho": "Cinfães",
       "freguesia": "Tarouquela",
       "dico": "1804",
-      "lat": 41.074462,
-      "lng": -8.184034,
+      "lat": 41.074487,
+      "lng": -8.171802,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lameiras ",
       "active": true,
@@ -556,7 +501,7 @@
         "sec": 1752441855
       },
       "updated": {
-        "sec": 1752443651
+        "sec": 1752445693
       }
     },
     {
@@ -585,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cidade Da Maia ",
       "active": true,
@@ -615,7 +560,117 @@
         "sec": 1752442216
       },
       "updated": {
-        "sec": 1752443417
+        "sec": 1752444974
+      }
+    },
+    {
+      "_id": {
+        "$id": "68742fb5d5f65b30706096ee"
+      },
+      "id": "20250917180",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752444300
+      },
+      "date": "13-07-2025",
+      "hour": "23:05",
+      "location": "Viseu, Lamego, Lamego (Almacave E Sé)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Lamego",
+      "freguesia": "Lamego (Almacave E Sé)",
+      "dico": "1805",
+      "lat": 41.08036,
+      "lng": -7.79885,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamego (Almacave E Sé) ",
+      "active": true,
+      "sadoId": "20250917180",
+      "sharepointId": 25673866,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1752444853
+      },
+      "updated": {
+        "sec": 1752445099
+      }
+    },
+    {
+      "_id": {
+        "$id": "68743285d5f65b3070609711"
+      },
+      "id": "20250917216",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752445320
+      },
+      "date": "13-07-2025",
+      "hour": "23:22",
+      "location": "Porto, Paredes, Lordelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Lordelo",
+      "dico": "1310",
+      "lat": 41.239614,
+      "lng": -8.422737,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20250917216",
+      "sharepointId": 25673902,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1752445573
+      },
+      "updated": {
+        "sec": 1752445595
       }
     }
   ]
