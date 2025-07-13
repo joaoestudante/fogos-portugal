@@ -750,8 +750,8 @@
       "location": "Beja, Moura, Santo Agostinho E São João Baptista E Santo Amador",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 16,
+      "man": 55,
+      "terrain": 17,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Santo Agostinho E São João Baptista E Santo Amador",
@@ -792,7 +792,7 @@
         "sec": 1752420976
       },
       "updated": {
-        "sec": 1752424573
+        "sec": 1752425294
       }
     },
     {
@@ -810,7 +810,7 @@
       "aerial": 7,
       "meios_aquaticos": 0,
       "man": 106,
-      "terrain": 24,
+      "terrain": 25,
       "district": "Portalegre",
       "concelho": "Alter Do Chão",
       "freguesia": "Alter Do Chão",
@@ -847,7 +847,7 @@
         "sec": 1752421221
       },
       "updated": {
-        "sec": 1752425056
+        "sec": 1752425294
       }
     },
     {
@@ -974,8 +974,8 @@
       "location": "Aveiro, Ovar, Ovar, São João, Arada E São Vicente De Pereira Jusã",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Ovar",
       "freguesia": "Ovar, São João, Arada E São Vicente De Pereira Jusã",
@@ -1016,7 +1016,7 @@
         "sec": 1752424933
       },
       "updated": {
-        "sec": 1752424960
+        "sec": 1752425294
       }
     },
     {
@@ -1033,8 +1033,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Vila De Punhe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Vila De Punhe",
@@ -1045,9 +1045,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Rua Das Carrascas ",
       "active": true,
@@ -1071,7 +1071,62 @@
         "sec": 1752425056
       },
       "updated": {
-        "sec": 1752425074
+        "sec": 1752425414
+      }
+    },
+    {
+      "_id": {
+        "$id": "6873e3c62021aa146772cebb"
+      },
+      "id": "20250916063",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752425220
+      },
+      "date": "13-07-2025",
+      "hour": "17:47",
+      "location": "Aveiro, Santa Maria da Feira, Canedo, Vale E Vila Maior",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Canedo, Vale E Vila Maior",
+      "dico": "0109",
+      "lat": 41.00639,
+      "lng": -8.46557,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Canedo, Vale E Vila Maior ",
+      "active": true,
+      "sadoId": "20250916063",
+      "sharepointId": 25672749,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1752425414
+      },
+      "updated": {
+        "sec": 1752425444
       }
     }
   ]
