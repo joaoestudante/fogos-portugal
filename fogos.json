@@ -129,8 +129,8 @@
       "location": "Guarda, Seia, Girabolhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Girabolhos",
@@ -167,7 +167,7 @@
         "sec": 1752406819
       },
       "updated": {
-        "sec": 1752434734
+        "sec": 1752446537
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Viseu, Lamego, Lamego (Almacave E Sé)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Lamego (Almacave E Sé)",
@@ -615,7 +615,7 @@
         "sec": 1752444853
       },
       "updated": {
-        "sec": 1752445099
+        "sec": 1752446415
       }
     },
     {
@@ -638,15 +638,15 @@
       "concelho": "Paredes",
       "freguesia": "Lordelo",
       "dico": "1310",
-      "lat": 41.239614,
-      "lng": -8.422737,
+      "lat": 41.24381,
+      "lng": -8.426077,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -670,7 +670,121 @@
         "sec": 1752445573
       },
       "updated": {
-        "sec": 1752445595
+        "sec": 1752446537
+      }
+    },
+    {
+      "_id": {
+        "$id": "68743378d5f65b307060971a"
+      },
+      "id": "20250917223",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752445200
+      },
+      "date": "13-07-2025",
+      "hour": "23:20",
+      "location": "Guarda, Trancoso, Freches E Torres",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Guarda",
+      "concelho": "Trancoso",
+      "freguesia": "Freches E Torres",
+      "dico": "0913",
+      "lat": 40.75,
+      "lng": -7.34972,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Frechão ",
+      "active": true,
+      "sadoId": "20250917223",
+      "sharepointId": 25673909,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 777.219,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Frechão",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1752445816
+      },
+      "updated": {
+        "sec": 1752446295
+      }
+    },
+    {
+      "_id": {
+        "$id": "687435cfd5f65b3070609728"
+      },
+      "id": "20250917240",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752446220
+      },
+      "date": "13-07-2025",
+      "hour": "23:37",
+      "location": "Setúbal, Sesimbra, Quinta Do Conde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Setúbal",
+      "concelho": "Sesimbra",
+      "freguesia": "Quinta Do Conde",
+      "dico": "1511",
+      "lat": 38.57125,
+      "lng": -9.04575,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Quinta Do Conde ",
+      "active": true,
+      "sadoId": "20250917240",
+      "sharepointId": 25673926,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1752446415
+      },
+      "updated": {
+        "sec": 1752446446
       }
     }
   ]
