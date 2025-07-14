@@ -74,8 +74,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Soajo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 13,
+      "terrain": 4,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Soajo",
@@ -116,7 +116,7 @@
         "sec": 1752243856
       },
       "updated": {
-        "sec": 1752487337
+        "sec": 1752493812
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Vilar De Andorinho",
@@ -391,7 +391,7 @@
         "sec": 1752491103
       },
       "updated": {
-        "sec": 1752493218
+        "sec": 1752493813
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
@@ -446,62 +446,7 @@
         "sec": 1752492135
       },
       "updated": {
-        "sec": 1752492852
-      }
-    },
-    {
-      "_id": {
-        "$id": "6874e9d2bcf1d26368674f3a"
-      },
-      "id": "20250919464",
-      "coords": true,
-      "dateTime": {
-        "sec": 1752492360
-      },
-      "date": "14-07-2025",
-      "hour": "12:26",
-      "location": "Braga, Guimarães, Ponte",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Guimarães",
-      "freguesia": "Ponte",
-      "dico": "0308",
-      "lat": 41.469318,
-      "lng": -8.336857,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20250919464",
-      "sharepointId": 25676150,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1752492498
-      },
-      "updated": {
-        "sec": 1752492518
+        "sec": 1752493813
       }
     },
     {
@@ -524,15 +469,15 @@
       "concelho": "Valongo",
       "freguesia": "Ermesinde",
       "dico": "1315",
-      "lat": 41.21669,
-      "lng": -8.558106,
+      "lat": 41.217022,
+      "lng": -8.557477,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ermesinde ",
       "active": true,
@@ -560,7 +505,176 @@
         "sec": 1752492620
       },
       "updated": {
-        "sec": 1752493334
+        "sec": 1752495256
+      }
+    },
+    {
+      "_id": {
+        "$id": "6874eef5bcf1d26368674f74"
+      },
+      "id": "20250919452",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752492180
+      },
+      "date": "14-07-2025",
+      "hour": "12:23",
+      "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 43,
+      "terrain": 12,
+      "district": "Setúbal",
+      "concelho": "Alcácer Do Sal",
+      "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
+      "dico": "1501",
+      "lat": 38.42333,
+      "lng": -8.60038,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "União Das Freguesias De Alcácer Do Sal (Santa Maria Do Castelo E Santiago) E Santa Susana ",
+      "active": true,
+      "sadoId": "20250919452",
+      "sharepointId": 25676138,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 5.5075,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Monte da Pedra. Alcácer do Sal. Portugal (Monte da Pedra)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1752493813
+      },
+      "updated": {
+        "sec": 1752495256
+      }
+    },
+    {
+      "_id": {
+        "$id": "6874eef5bcf1d26368674f77"
+      },
+      "id": "20250919520",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752493140
+      },
+      "date": "14-07-2025",
+      "hour": "12:39",
+      "location": "Leiria, Alcobaça, Coz, Alpedriz E Montes",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 5,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Coz, Alpedriz E Montes",
+      "dico": "1001",
+      "lat": 39.63856,
+      "lng": -8.957313,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Coz, Alpedriz E Montes ",
+      "active": true,
+      "sadoId": "20250919520",
+      "sharepointId": 25676206,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1752493813
+      },
+      "updated": {
+        "sec": 1752494297
+      }
+    },
+    {
+      "_id": {
+        "$id": "6874f498eab023042d6afdca"
+      },
+      "id": "20250919650",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752494700
+      },
+      "date": "14-07-2025",
+      "hour": "13:05",
+      "location": "Faro, Silves, São Marcos Da Serra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Silves",
+      "freguesia": "São Marcos Da Serra",
+      "dico": "0813",
+      "lat": 37.330953,
+      "lng": -8.336762,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Marcos Da Serra ",
+      "active": true,
+      "sadoId": "20250919650",
+      "sharepointId": 25676336,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1752495256
+      },
+      "updated": {
+        "sec": 1752495278
       }
     }
   ]
