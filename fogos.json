@@ -127,10 +127,10 @@
       "date": "16-07-2025",
       "hour": "13:19",
       "location": "Vila Real, Sabrosa, Souto Maior",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 246,
-      "terrain": 82,
+      "man": 161,
+      "terrain": 57,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "Souto Maior",
@@ -167,7 +167,7 @@
         "sec": 1752668536
       },
       "updated": {
-        "sec": 1752779891
+        "sec": 1752781225
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Santarém, Ourém, Atouguia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 90,
-      "terrain": 25,
+      "man": 85,
+      "terrain": 24,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Atouguia",
@@ -442,7 +442,7 @@
         "sec": 1752762973
       },
       "updated": {
-        "sec": 1752780733
+        "sec": 1752781225
       }
     },
     {
@@ -742,8 +742,8 @@
       "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Faro (Sé E São Pedro)",
@@ -780,7 +780,7 @@
         "sec": 1752773417
       },
       "updated": {
-        "sec": 1752780134
+        "sec": 1752780974
       }
     },
     {
@@ -1237,8 +1237,8 @@
       "location": "Viana Do Castelo, Vila Nova de Cerveira, Candemil E Gondar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Vila Nova De Cerveira",
       "freguesia": "Candemil E Gondar",
@@ -1249,9 +1249,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Badão ",
       "active": true,
@@ -1275,7 +1275,62 @@
         "sec": 1752780493
       },
       "updated": {
-        "sec": 1752780512
+        "sec": 1752780974
+      }
+    },
+    {
+      "_id": {
+        "$id": "687951a959eb2873785ed028"
+      },
+      "id": "20250937198",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752780780
+      },
+      "date": "17-07-2025",
+      "hour": "20:33",
+      "location": "Leiria, Batalha, Batalha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Batalha",
+      "freguesia": "Batalha",
+      "dico": "1004",
+      "lat": 39.65989,
+      "lng": -8.824108,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Batalha ",
+      "active": true,
+      "sadoId": "20250937198",
+      "sharepointId": 25693884,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1752781225
+      },
+      "updated": {
+        "sec": 1752781252
       }
     }
   ]
