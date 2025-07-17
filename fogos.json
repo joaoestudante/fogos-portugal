@@ -74,8 +74,8 @@
       "location": "Leiria, Porto de Mós, São Bento",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 3,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "São Bento",
@@ -112,7 +112,7 @@
         "sec": 1752594375
       },
       "updated": {
-        "sec": 1752694571
+        "sec": 1752744373
       }
     },
     {
@@ -243,7 +243,7 @@
       "location": "Vila Real, Sabrosa, Souto Maior",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 303,
+      "man": 307,
       "terrain": 99,
       "district": "Vila Real",
       "concelho": "Sabrosa",
@@ -281,7 +281,7 @@
         "sec": 1752668536
       },
       "updated": {
-        "sec": 1752744137
+        "sec": 1752745216
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Coimbra, Tábua, Ázere E Covelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 8,
+      "man": 24,
+      "terrain": 7,
       "district": "Coimbra",
       "concelho": "Tábua",
       "freguesia": "Ázere E Covelo",
@@ -615,7 +615,7 @@
         "sec": 1752740773
       },
       "updated": {
-        "sec": 1752743097
+        "sec": 1752744616
       }
     },
     {
@@ -630,9 +630,9 @@
       "date": "17-07-2025",
       "hour": "10:03",
       "location": "Évora, Reguengos de Monsaraz, Reguengos De Monsaraz",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
+      "man": 23,
       "terrain": 7,
       "district": "Évora",
       "concelho": "Reguengos De Monsaraz",
@@ -644,9 +644,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Caridade ",
       "active": true,
@@ -674,7 +674,62 @@
         "sec": 1752743430
       },
       "updated": {
-        "sec": 1752744137
+        "sec": 1752745332
+      }
+    },
+    {
+      "_id": {
+        "$id": "6878c66708b239612546d190"
+      },
+      "id": "20250934355",
+      "coords": true,
+      "dateTime": {
+        "sec": 1752745260
+      },
+      "date": "17-07-2025",
+      "hour": "10:41",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.671372,
+      "lng": -9.231582,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Trafaria ",
+      "active": true,
+      "sadoId": "20250934355",
+      "sharepointId": 25691041,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1752745575
+      },
+      "updated": {
+        "sec": 1752745594
       }
     }
   ]
