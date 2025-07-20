@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rio De Mouro ",
       "active": true,
@@ -273,7 +273,7 @@
         "sec": 1753046418
       },
       "updated": {
-        "sec": 1753048572
+        "sec": 1753051332
       }
     },
     {
@@ -290,8 +290,8 @@
       "location": "Faro, Loulé, Loulé (São Sebastião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 18,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Loulé (São Sebastião)",
@@ -302,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Estação Loulé ",
       "active": true,
@@ -328,7 +328,66 @@
         "sec": 1753051218
       },
       "updated": {
-        "sec": 1753051218
+        "sec": 1753051933
+      }
+    },
+    {
+      "_id": {
+        "$id": "687d71b55259883899637ba7"
+      },
+      "id": "20250951977",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753051380
+      },
+      "date": "20-07-2025",
+      "hour": "23:43",
+      "location": "Castelo Branco, Fundão, Alcaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Castelo Branco",
+      "concelho": "Fundão",
+      "freguesia": "Alcaria",
+      "dico": "0504",
+      "lat": 40.18972,
+      "lng": -7.488584,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcaria ",
+      "active": true,
+      "sadoId": "20250951977",
+      "sharepointId": 25708663,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 401.646,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Alcaria (Meimoa)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1753051573
+      },
+      "updated": {
+        "sec": 1753051933
       }
     }
   ]
