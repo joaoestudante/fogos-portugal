@@ -70,16 +70,16 @@
       "location": "Setúbal, Grândola, Melides",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 8,
+      "man": 14,
+      "terrain": 6,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Melides",
       "dico": "1505",
       "lat": 38.16899,
       "lng": -8.727294,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -108,7 +108,7 @@
         "sec": 1753016053
       },
       "updated": {
-        "sec": 1753021934
+        "sec": 1753023019
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Lisboa, Lisboa, Santa Clara",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Lisboa",
       "freguesia": "Santa Clara",
@@ -218,7 +218,7 @@
         "sec": 1753018933
       },
       "updated": {
-        "sec": 1753020033
+        "sec": 1753023019
       }
     },
     {
@@ -452,17 +452,17 @@
       },
       "date": "20-07-2025",
       "hour": "15:25",
-      "location": "Aveiro, Castelo de Paiva, Santa Maria De Sardoura",
+      "location": "Aveiro, Castelo de Paiva, Raiva, Pedorido E Paraíso",
       "aerial": 1,
       "meios_aquaticos": 0,
       "man": 27,
       "terrain": 7,
       "district": "Aveiro",
       "concelho": "Castelo De Paiva",
-      "freguesia": "Santa Maria De Sardoura",
+      "freguesia": "Raiva, Pedorido E Paraíso",
       "dico": "0106",
-      "lat": 41.04917,
-      "lng": -8.311666,
+      "lat": 41.035013,
+      "lng": -8.317233,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -493,7 +493,121 @@
         "sec": 1753021695
       },
       "updated": {
-        "sec": 1753022293
+        "sec": 1753022894
+      }
+    },
+    {
+      "_id": {
+        "$id": "687d0137dfa66822824989b3"
+      },
+      "id": "20250950335",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753022340
+      },
+      "date": "20-07-2025",
+      "hour": "15:39",
+      "location": "Santarém, Mação, Envendos",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Mação",
+      "freguesia": "Envendos",
+      "dico": "1413",
+      "lat": 39.56647,
+      "lng": -7.873863,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Envendos ",
+      "active": true,
+      "sadoId": "20250950335",
+      "sharepointId": 25707021,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 251.807,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Oriental. 6120-017 Mação. Portugal (Estação Tratamento Águas Residuais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1753022775
+      },
+      "updated": {
+        "sec": 1753023019
+      }
+    },
+    {
+      "_id": {
+        "$id": "687d01aedfa66822824989c1"
+      },
+      "id": "20250950336",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753022220
+      },
+      "date": "20-07-2025",
+      "hour": "15:37",
+      "location": "Faro, São Brás de Alportel, São Brás De Alportel",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "São Brás De Alportel",
+      "freguesia": "São Brás De Alportel",
+      "dico": "0812",
+      "lat": 37.13201,
+      "lng": -7.853969,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Poço Do Peral ",
+      "active": true,
+      "sadoId": "20250950336",
+      "sharepointId": 25707022,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1753022894
+      },
+      "updated": {
+        "sec": 1753022916
       }
     }
   ]
