@@ -70,8 +70,8 @@
       "location": "Faro, Faro, Conceição E Estoi",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 19,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Faro",
       "freguesia": "Conceição E Estoi",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Campina ",
       "active": true,
@@ -108,7 +108,117 @@
         "sec": 1753001293
       },
       "updated": {
-        "sec": 1753001773
+        "sec": 1753003335
+      }
+    },
+    {
+      "_id": {
+        "$id": "687cb2efd2944927b168f60f"
+      },
+      "id": "20250948897",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753002540
+      },
+      "date": "20-07-2025",
+      "hour": "10:09",
+      "location": "Vila Real, Chaves, Loivos E Póvoa De Agrações",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 33,
+      "terrain": 6,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Loivos E Póvoa De Agrações",
+      "dico": "1703",
+      "lat": 41.65939,
+      "lng": -7.498837,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Loivos E Póvoa De Agrações ",
+      "active": true,
+      "sadoId": "20250948897",
+      "sharepointId": 25705583,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1753002735
+      },
+      "updated": {
+        "sec": 1753003335
+      }
+    },
+    {
+      "_id": {
+        "$id": "687cb368d2944927b168f61c"
+      },
+      "id": "20250948913",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753002600
+      },
+      "date": "20-07-2025",
+      "hour": "10:10",
+      "location": "Aveiro, Sever do Vouga, Silva Escura E Dornelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Silva Escura E Dornelas",
+      "dico": "0117",
+      "lat": 40.756744,
+      "lng": -8.400757,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Silva Escura ",
+      "active": true,
+      "sadoId": "20250948913",
+      "sharepointId": 25705599,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1753002856
+      },
+      "updated": {
+        "sec": 1753003335
       }
     }
   ]
