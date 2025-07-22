@@ -353,8 +353,8 @@
       "location": "Aveiro, Albergaria-a-Velha, Alquerubim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 13,
+      "man": 31,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "Alquerubim",
@@ -395,7 +395,7 @@
         "sec": 1753191972
       },
       "updated": {
-        "sec": 1753209852
+        "sec": 1753212251
       }
     },
     {
@@ -634,10 +634,10 @@
       "date": "22-07-2025",
       "hour": "17:59",
       "location": "Castelo Branco, Castelo Branco, Castelo Branco",
-      "aerial": 3,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 141,
-      "terrain": 43,
+      "man": 130,
+      "terrain": 41,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Castelo Branco",
@@ -674,7 +674,7 @@
         "sec": 1753203734
       },
       "updated": {
-        "sec": 1753211099
+        "sec": 1753212371
       }
     },
     {
@@ -805,21 +805,21 @@
       "location": "Portalegre, Ponte de Sor, Montargil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 35,
+      "terrain": 9,
       "district": "Portalegre",
       "concelho": "Ponte De Sor",
       "freguesia": "Montargil",
       "dico": "1213",
-      "lat": 39.100618,
-      "lng": -8.169665,
+      "lat": 39.069765,
+      "lng": -8.169745,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "N2 ",
       "active": true,
@@ -843,7 +843,117 @@
         "sec": 1753211099
       },
       "updated": {
-        "sec": 1753211179
+        "sec": 1753212371
+      }
+    },
+    {
+      "_id": {
+        "$id": "687fe55b4fad0f45de6ca238"
+      },
+      "id": "20250961400",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753211880
+      },
+      "date": "22-07-2025",
+      "hour": "20:18",
+      "location": "Lisboa, Loures, Santo Antão E São Julião Do Tojal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Santo Antão E São Julião Do Tojal",
+      "dico": "1107",
+      "lat": 38.86756,
+      "lng": -9.14372,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Santo Antão E São Julião Do Tojal ",
+      "active": true,
+      "sadoId": "20250961400",
+      "sharepointId": 25718088,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1753212251
+      },
+      "updated": {
+        "sec": 1753212371
+      }
+    },
+    {
+      "_id": {
+        "$id": "687fe55b4fad0f45de6ca239"
+      },
+      "id": "20250961394",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753211820
+      },
+      "date": "22-07-2025",
+      "hour": "20:17",
+      "location": "Castelo Branco, Idanha-a-Nova, Monsanto E Idanha-a-velha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Castelo Branco",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "Monsanto E Idanha-a-velha",
+      "dico": "0505",
+      "lat": 40.061265,
+      "lng": -7.047784,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ramiro ",
+      "active": true,
+      "sadoId": "20250961394",
+      "sharepointId": 25718082,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1753212251
+      },
+      "updated": {
+        "sec": 1753212371
       }
     }
   ]
