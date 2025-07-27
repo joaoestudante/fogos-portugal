@@ -125,8 +125,8 @@
       "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 10,
+      "man": 31,
+      "terrain": 9,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Aboim Da Nóbrega E Gondomar",
@@ -163,7 +163,7 @@
         "sec": 1753548977
       },
       "updated": {
-        "sec": 1753608373
+        "sec": 1753612815
       }
     },
     {
@@ -237,9 +237,9 @@
       "date": "26-07-2025",
       "hour": "21:47",
       "location": "Viana Do Castelo, Ponte da Barca, Lindoso",
-      "aerial": 6,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 60,
+      "man": 53,
       "terrain": 14,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
@@ -277,7 +277,7 @@
         "sec": 1753563251
       },
       "updated": {
-        "sec": 1753610052
+        "sec": 1753612695
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Vila Real, Chaves, Loivos E Póvoa De Agrações",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 19,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Loivos E Póvoa De Agrações",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Póvoa De Agrações ",
       "active": true,
@@ -556,7 +556,7 @@
         "sec": 1753606574
       },
       "updated": {
-        "sec": 1753610533
+        "sec": 1753612815
       }
     },
     {
@@ -573,8 +573,8 @@
       "location": "Setúbal, Montijo, Canha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Setúbal",
       "concelho": "Montijo",
       "freguesia": "Canha",
@@ -585,9 +585,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Canha ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1753611854
       },
       "updated": {
-        "sec": 1753611874
+        "sec": 1753612334
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Braga, Vila Verde, Cervães",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 19,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Cervães",
@@ -650,8 +650,12 @@
       "sharepointId": 25741055,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 44.5387,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Clube de Tiro Bracara Augusta. 4730-002 Vila Verde. Portugal (Lameiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -666,7 +670,62 @@
         "sec": 1753612216
       },
       "updated": {
-        "sec": 1753612216
+        "sec": 1753612815
+      }
+    },
+    {
+      "_id": {
+        "$id": "688600a758bff3275f42b2e2"
+      },
+      "id": "20250984395",
+      "coords": true,
+      "dateTime": {
+        "sec": 1753612260
+      },
+      "date": "27-07-2025",
+      "hour": "11:31",
+      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 6,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Moimenta E Montouto",
+      "dico": "0412",
+      "lat": 41.951427,
+      "lng": -6.971727,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Moimenta ",
+      "active": true,
+      "sadoId": "20250984395",
+      "sharepointId": 25741084,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1753612455
+      },
+      "updated": {
+        "sec": 1753612815
       }
     }
   ]
