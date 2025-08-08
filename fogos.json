@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "688540738bfac30ce54e37fc"
-      },
-      "id": "20250982058",
-      "coords": true,
-      "dateTime": {
-        "sec": 1753562820
-      },
-      "date": "26-07-2025",
-      "hour": "21:47",
-      "location": "Viana Do Castelo, Ponte da Barca, Lindoso",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte Da Barca",
-      "freguesia": "Lindoso",
-      "dico": "1606",
-      "lat": 41.865272,
-      "lng": -8.220528,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Parada - Pnpg ",
-      "active": true,
-      "sadoId": "20250982058",
-      "sharepointId": 25738747,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>PONTE_DA_BARCA 3007_1151UTC.kml</name>\r\n\t<Schema name=\"emsr824_aoi02_del_product_imagefootprinta_v1\" id=\"emsr824_aoi02_del_product_imagefootprinta_v1\">\r\n\t\t<SimpleField type=\"string\" name=\"obj_type\"></SimpleField>\r\n\t\t<SimpleField type=\"int\" name=\"or_src_id\"></SimpleField>\r\n\t</Schema>\r\n\t<Style id=\"style\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>522700ff</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"style0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>702b0dff</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"style1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>522700ff</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"style2\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>702b0dff</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"stylemap_id0\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#style1</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#style</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<StyleMap id=\"stylemap_id1\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#style2</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#style0</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Folder>\r\n\t\t<name>PONTE DA BARCA 3007_1151UTC</name>\r\n\t\t<Placemark>\r\n\t\t\t<name>AOI Ponte da Barca - 30072025 11h51 UTC</name>\r\n\t\t\t<styleUrl>#stylemap_id0</styleUrl>\r\n\t\t\t<ExtendedData>\r\n\t\t\t\t<SchemaData schemaUrl=\"#emsr824_aoi02_del_product_imagefootprinta_v1\">\r\n\t\t\t\t\t<SimpleData name=\"obj_type\">Image Footprint</SimpleData>\r\n\t\t\t\t\t<SimpleData name=\"or_src_id\">2</SimpleData>\r\n\t\t\t\t</SchemaData>\r\n\t\t\t</ExtendedData>\r\n\t\t\t<MultiGeometry>\r\n\t\t\t\t<Polygon>\r\n\t\t\t\t\t<outerBoundaryIs>\r\n\t\t\t\t\t\t<LinearRing>\r\n\t\t\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t\t\t-8.218004199999999,41.8969894,0 -8.2178071,41.8965449,0 -8.207410700000001,41.8727607,0 -8.205459299999999,41.8703586,0 -8.198151599999999,41.8696269,0 -8.1979202,41.8696253,0 -8.174284800000001,41.8713492,0 -8.171811099999999,41.8602206,0 -8.167113799999999,41.8567604,0 -8.1703276,41.8195063,0 -8.1703291,41.8193874,0 -8.168127500000001,41.8142268,0 -8.1681133,41.8142051,0 -8.1540044,41.8137237,0 -8.137920599999999,41.8075407,0 -8.130129200000001,41.7897565,0 -8.204992600000001,41.7690499,0 -8.204993099999999,41.7690066,0 -8.205674,41.7688168,0 -8.2540209,41.7554467,0 -8.281879099999999,41.7476909,0 -8.2821108,41.7476275,0 -8.2822552,41.7476176,0 -8.3063577,41.7409131,0 -8.3065313,41.7408817,0 -8.326059000000001,41.7847934,0 -8.3260878,41.7848044,0 -8.3265084,41.7846339,0 -8.339893699999999,41.7791453,0 -8.3399804,41.779135,0 -8.3499173,41.7846282,0 -8.3708525,41.7924403,0 -8.3719287,41.797591,0 -8.3719401,41.7979045,0 -8.3722592,41.8332817,0 -8.349993100000001,41.8385728,0 -8.2706017,41.8818799,0 -8.2585066,41.8884927,0 -8.218076399999999,41.8970007,0 -8.218004199999999,41.8969894,0 \r\n\t\t\t\t\t\t\t</coordinates>\r\n\t\t\t\t\t\t</LinearRing>\r\n\t\t\t\t\t</outerBoundaryIs>\r\n\t\t\t\t</Polygon>\r\n\t\t\t</MultiGeometry>\r\n\t\t</Placemark>\r\n\t\t<Placemark>\r\n\t\t\t<name>AOI Ponte da Barca - 30072025 11h51 UTC</name>\r\n\t\t\t<styleUrl>#stylemap_id1</styleUrl>\r\n\t\t\t<ExtendedData>\r\n\t\t\t\t<SchemaData schemaUrl=\"#emsr824_aoi02_del_product_imagefootprinta_v1\">\r\n\t\t\t\t\t<SimpleData name=\"obj_type\">Not Analysed - No data</SimpleData>\r\n\t\t\t\t\t<SimpleData name=\"or_src_id\">2</SimpleData>\r\n\t\t\t\t</SchemaData>\r\n\t\t\t</ExtendedData>\r\n\t\t\t<MultiGeometry>\r\n\t\t\t\t<Polygon>\r\n\t\t\t\t\t<outerBoundaryIs>\r\n\t\t\t\t\t\t<LinearRing>\r\n\t\t\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t\t\t-8.375152699999999,41.8325921,0 -8.3722592,41.8332807,0 -8.3719401,41.7979045,0 -8.3719316,41.7976692,0 -8.3727421,41.8015414,0 -8.3727421,41.8104331,0 -8.3834081,41.8149987,0 -8.3851675,41.8306974,0 -8.375152699999999,41.8325921,0 \r\n\t\t\t\t\t\t\t</coordinates>\r\n\t\t\t\t\t\t</LinearRing>\r\n\t\t\t\t\t</outerBoundaryIs>\r\n\t\t\t\t</Polygon>\r\n\t\t\t</MultiGeometry>\r\n\t\t</Placemark>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Folder>\r\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "created": {
-        "sec": 1753563251
-      },
-      "updated": {
-        "sec": 1754691855
-      }
-    },
-    {
-      "_id": {
         "$id": "688e12eba0535070241f7e5c"
       },
       "id": "20251017141",
@@ -129,8 +74,8 @@
       "location": "Braga, Celorico de Basto, Arnóia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 9,
+      "man": 22,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Arnóia",
@@ -167,7 +112,7 @@
         "sec": 1754155456
       },
       "updated": {
-        "sec": 1754691856
+        "sec": 1754693892
       }
     },
     {
@@ -844,8 +789,8 @@
       "location": "Guarda, Figueira de Castelo Rodrigo, Almofala E Escarigo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 169,
-      "terrain": 51,
+      "man": 171,
+      "terrain": 52,
       "district": "Guarda",
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Almofala E Escarigo",
@@ -882,7 +827,7 @@
         "sec": 1754596338
       },
       "updated": {
-        "sec": 1754693174
+        "sec": 1754693652
       }
     },
     {
@@ -1013,8 +958,8 @@
       "location": "Viseu, Moimenta da Beira, Alvite",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 288,
-      "terrain": 88,
+      "man": 306,
+      "terrain": 91,
       "district": "Viseu",
       "concelho": "Moimenta Da Beira",
       "freguesia": "Alvite",
@@ -1051,7 +996,7 @@
         "sec": 1754660172
       },
       "updated": {
-        "sec": 1754690533
+        "sec": 1754693892
       }
     },
     {
@@ -1123,8 +1068,8 @@
       "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Vila Boa De Quires E Maureles",
@@ -1165,7 +1110,7 @@
         "sec": 1754664494
       },
       "updated": {
-        "sec": 1754689700
+        "sec": 1754693652
       }
     },
     {
@@ -1389,7 +1334,7 @@
         "sec": 1754675651
       },
       "updated": {
-        "sec": 1754692935
+        "sec": 1754694253
       }
     },
     {
@@ -1461,8 +1406,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 69,
-      "terrain": 23,
+      "man": 50,
+      "terrain": 18,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -1499,7 +1444,7 @@
         "sec": 1754677817
       },
       "updated": {
-        "sec": 1754693174
+        "sec": 1754694136
       }
     },
     {
@@ -1968,8 +1913,8 @@
       "location": "Lisboa, Cadaval, Painho E Figueiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Cadaval",
       "freguesia": "Painho E Figueiros",
@@ -1980,9 +1925,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boiça Do Louro ",
       "active": true,
@@ -2010,7 +1955,7 @@
         "sec": 1754687415
       },
       "updated": {
-        "sec": 1754691132
+        "sec": 1754694253
       }
     },
     {
@@ -2027,8 +1972,8 @@
       "location": "Leiria, Caldas da Rainha, A Dos Francos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "A Dos Francos",
@@ -2039,9 +1984,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Verde De Matos ",
       "active": true,
@@ -2069,7 +2014,7 @@
         "sec": 1754689095
       },
       "updated": {
-        "sec": 1754691373
+        "sec": 1754694376
       }
     },
     {
@@ -2092,15 +2037,15 @@
       "concelho": "Vieira Do Minho",
       "freguesia": "Mosteiro",
       "dico": "0311",
-      "lat": 41.605234,
-      "lng": -8.133559,
+      "lat": 41.59275,
+      "lng": -8.129507,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -2124,7 +2069,7 @@
         "sec": 1754691493
       },
       "updated": {
-        "sec": 1754691855
+        "sec": 1754693893
       }
     },
     {
@@ -2196,8 +2141,8 @@
       "location": "Bragança, Vinhais, Quirás E Pinheiro Novo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 24,
+      "terrain": 6,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Quirás E Pinheiro Novo",
@@ -2234,7 +2179,66 @@
         "sec": 1754693294
       },
       "updated": {
-        "sec": 1754693312
+        "sec": 1754694495
+      }
+    },
+    {
+      "_id": {
+        "$id": "68968105ab7f3e7a6e3f698a"
+      },
+      "id": "20251053342",
+      "coords": true,
+      "dateTime": {
+        "sec": 1754693160
+      },
+      "date": "08-08-2025",
+      "hour": "23:46",
+      "location": "Lisboa, Cadaval, Alguber",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Lisboa",
+      "concelho": "Cadaval",
+      "freguesia": "Alguber",
+      "dico": "1104",
+      "lat": 39.291923,
+      "lng": -9.027952,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Serra De Todo Mundo ",
+      "active": true,
+      "sadoId": "20251053342",
+      "sharepointId": 25810034,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 179.368,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Boiça do Louro (Serra de Todo Mundo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1754693893
+      },
+      "updated": {
+        "sec": 1754694494
       }
     }
   ]
