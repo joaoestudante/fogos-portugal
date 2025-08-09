@@ -789,8 +789,8 @@
       "location": "Vila Real, Ribeira de Pena, Alvadia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 167,
-      "terrain": 58,
+      "man": 161,
+      "terrain": 56,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
       "freguesia": "Alvadia",
@@ -831,7 +831,7 @@
         "sec": 1754634853
       },
       "updated": {
-        "sec": 1754760615
+        "sec": 1754762054
       }
     },
     {
@@ -903,8 +903,8 @@
       "location": "Viseu, Moimenta da Beira, Alvite",
       "aerial": 9,
       "meios_aquaticos": 0,
-      "man": 397,
-      "terrain": 124,
+      "man": 399,
+      "terrain": 125,
       "district": "Viseu",
       "concelho": "Moimenta Da Beira",
       "freguesia": "Alvite",
@@ -941,7 +941,7 @@
         "sec": 1754660172
       },
       "updated": {
-        "sec": 1754760972
+        "sec": 1754762055
       }
     },
     {
@@ -1123,8 +1123,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, São Jorge E Ermelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "São Jorge E Ermelo",
@@ -1161,7 +1161,7 @@
         "sec": 1754744294
       },
       "updated": {
-        "sec": 1754761452
+        "sec": 1754762055
       }
     },
     {
@@ -1288,8 +1288,8 @@
       "location": "Braga, Braga, Este (São Pedro E São Mamede)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 20,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Braga",
       "freguesia": "Este (São Pedro E São Mamede)",
@@ -1326,7 +1326,7 @@
         "sec": 1754747296
       },
       "updated": {
-        "sec": 1754761452
+        "sec": 1754762175
       }
     },
     {
@@ -1571,8 +1571,8 @@
       "location": "Guarda, Trancoso, Freches E Torres",
       "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 248,
-      "terrain": 69,
+      "man": 250,
+      "terrain": 70,
       "district": "Guarda",
       "concelho": "Trancoso",
       "freguesia": "Freches E Torres",
@@ -1609,7 +1609,7 @@
         "sec": 1754752933
       },
       "updated": {
-        "sec": 1754761692
+        "sec": 1754762054
       }
     },
     {
@@ -2082,8 +2082,8 @@
       "location": "Lisboa, Sintra, Queluz E Belas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Queluz E Belas",
@@ -2094,9 +2094,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Queluz E Belas ",
       "active": true,
@@ -2120,7 +2120,66 @@
         "sec": 1754761691
       },
       "updated": {
-        "sec": 1754761710
+        "sec": 1754762175
+      }
+    },
+    {
+      "_id": {
+        "$id": "68978b47ba296730f63b0315"
+      },
+      "id": "20251057373",
+      "coords": true,
+      "dateTime": {
+        "sec": 1754760960
+      },
+      "date": "09-08-2025",
+      "hour": "18:36",
+      "location": "Lisboa, Lisboa, Campo De Ourique",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Campo De Ourique",
+      "dico": "1106",
+      "lat": 38.71745,
+      "lng": -9.17212,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Campo De Ourique ",
+      "active": true,
+      "sadoId": "20251057373",
+      "sharepointId": 25814066,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 43.4769,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Maria Pia 419A (Vila Graciete)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1754762055
+      },
+      "updated": {
+        "sec": 1754762091
       }
     }
   ]
