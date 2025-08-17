@@ -1964,8 +1964,8 @@
       "location": "Porto, Santo Tirso, Areias, Sequeiró, Lama E Palmeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Areias, Sequeiró, Lama E Palmeira",
@@ -1976,9 +1976,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Areias, Sequeiró, Lama E Palmeira ",
       "active": true,
@@ -2006,7 +2006,7 @@
         "sec": 1755404773
       },
       "updated": {
-        "sec": 1755404798
+        "sec": 1755406695
       }
     },
     {
@@ -2023,14 +2023,14 @@
       "location": "Beja, Vidigueira, Vidigueira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 2,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Vidigueira",
       "dico": "0214",
-      "lat": 38.20407,
-      "lng": -7.789869,
+      "lat": 38.2071,
+      "lng": -7.790237,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -2061,7 +2061,7 @@
         "sec": 1755404893
       },
       "updated": {
-        "sec": 1755406093
+        "sec": 1755406453
       }
     },
     {
@@ -2078,8 +2078,8 @@
       "location": "Aveiro, Oliveira de Azeméis, Pinheiro Da Bemposta, Travanca E Palmaz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Pinheiro Da Bemposta, Travanca E Palmaz",
@@ -2090,9 +2090,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Pinheiro Da Bemposta, Travanca E Palmaz ",
       "active": true,
@@ -2120,7 +2120,62 @@
         "sec": 1755405973
       },
       "updated": {
-        "sec": 1755405997
+        "sec": 1755406695
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a161f29cbcac280a0c1480"
+      },
+      "id": "20251098254",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755406680
+      },
+      "date": "17-08-2025",
+      "hour": "05:58",
+      "location": "Braga, Celorico de Basto, Rego",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Celorico De Basto",
+      "freguesia": "Rego",
+      "dico": "0305",
+      "lat": 41.44333,
+      "lng": -8.081944,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Rego ",
+      "active": true,
+      "sadoId": "20251098254",
+      "sharepointId": 25854947,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1755406834
+      },
+      "updated": {
+        "sec": 1755406834
       }
     }
   ]
