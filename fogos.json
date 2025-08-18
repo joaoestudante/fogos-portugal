@@ -70,8 +70,8 @@
       "location": "Vila Real, Vila Real, Torgueda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Torgueda",
@@ -108,7 +108,7 @@
         "sec": 1754160733
       },
       "updated": {
-        "sec": 1755464053
+        "sec": 1755504254
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Vila Real, Vila Real, Pena, Quintã E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Pena, Quintã E Vila Cova",
@@ -163,7 +163,7 @@
         "sec": 1754175019
       },
       "updated": {
-        "sec": 1755477255
+        "sec": 1755505216
       }
     },
     {
@@ -260,7 +260,7 @@
       "icnf": null,
       "detailLocation": null,
       "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>IR_Trancoso_AOI_12082025_1242.kml</name>\r\n\t<StyleMap id=\"msn_ylw-pushpin\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#sn_ylw-pushpin</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#sh_ylw-pushpin</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"sh_ylw-pushpin\">\r\n\t\t<IconStyle>\r\n\t\t\t<scale>1.2</scale>\r\n\t\t</IconStyle>\r\n\t\t<BalloonStyle>\r\n\t\t</BalloonStyle>\r\n\t\t<LineStyle>\r\n\t\t\t<color>800701fc</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"sn_ylw-pushpin\">\r\n\t\t<BalloonStyle>\r\n\t\t</BalloonStyle>\r\n\t\t<LineStyle>\r\n\t\t\t<color>800701fc</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base nos dados da COPERNICUS-EMS de 12.08.2025 às 12h42 com uma área ardida estimada de 10,101ha</description>\r\n\t\t<styleUrl>#msn_ylw-pushpin</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.264338027793422,40.83435387092208,0 -7.26681366650748,40.87121830830559,0 -7.340903517580028,40.8706076871925,0 -7.368942893233619,40.84713119584264,0 -7.369483626683495,40.88318458660962,0 -7.387876929267984,40.88240269550371,0 -7.41983087090508,40.83443074466631,0 -7.417497702529079,40.81502228793251,0 -7.407714132345072,40.80751743526954,0 -7.41522196875862,40.79508639218742,0 -7.40638429653619,40.77653879731162,0 -7.435020211582945,40.7156553661036,0 -7.4423318648918,40.69546310334037,0 -7.424835511658574,40.68438708935824,0 -7.406831288938402,40.67867798009101,0 -7.380803996605298,40.67859909708237,0 -7.34772140137067,40.71005235080908,0 -7.264338027793422,40.83435387092208,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
+      "kmlVost": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\r\n<Document id=\"root_doc\">\r\n<Schema name=\"emsr831_aoi01_del_monit05_areaofinteresta_v1\" id=\"emsr831_aoi01_del_monit05_areaofinteresta_v1\">\r\n\t<SimpleField name=\"emsr_id\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"glide_no\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"area_id\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"locality\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"map_type\" type=\"string\"></SimpleField>\r\n</Schema>\r\n<Folder><name>emsr831_aoi01_del_monit05_areaofinteresta_v1</name>\r\n  <Placemark>\r\n\t  <name>ÁREA DE INTERESSE</name><description>Área de Interesse com dados COPERNICUS-EMS atualizados a 17/08/2025 14h00</description>\r\n\t\t<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>\r\n\t\t<ExtendedData><SchemaData schemaUrl=\"#emsr831_aoi01_del_monit05_areaofinteresta_v1\">\r\n\t\t\t<SimpleData name=\"emsr_id\">EMSR831</SimpleData>\r\n\t\t\t<SimpleData name=\"glide_no\">Not Applicable</SimpleData>\r\n\t\t\t<SimpleData name=\"area_id\">01</SimpleData>\r\n\t\t\t<SimpleData name=\"locality\">Trancoso</SimpleData>\r\n\t\t\t<SimpleData name=\"map_type\">Delineation-Monit05</SimpleData>\r\n\t\t</SchemaData></ExtendedData>\r\n\t      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.7279296,40.8448466 -7.7794972,40.9678477 -7.7730904,41.0166834 -7.5795654,41.0044455 -7.586303,41.1421651 -7.1766605,41.1081768 -7.1580472,41.0302107 -7.1473332,40.9619376 -7.2487989,40.8011513 -7.0666989,40.7655194 -7.1571642,40.5903233 -7.7340247,40.6874408 -7.7279296,40.8448466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>\r\n  </Placemark>\r\n</Folder>\r\n</Document></kml>",
       "pco": null,
       "cos": null,
       "heliFight": 0,
@@ -273,7 +273,7 @@
         "sec": 1754752933
       },
       "updated": {
-        "sec": 1755479102
+        "sec": 1755505955
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Viseu, Tabuaço, Távora E Pereiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 74,
-      "terrain": 23,
+      "man": 53,
+      "terrain": 15,
       "district": "Viseu",
       "concelho": "Tabuaço",
       "freguesia": "Távora E Pereiro",
@@ -383,7 +383,7 @@
         "sec": 1754862133
       },
       "updated": {
-        "sec": 1755462019
+        "sec": 1755505575
       }
     },
     {
@@ -453,9 +453,9 @@
       "date": "13-08-2025",
       "hour": "00:03",
       "location": "Viseu, Sátão, Ferreira De Aves",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 401,
+      "man": 404,
       "terrain": 140,
       "district": "Viseu",
       "concelho": "Sátão",
@@ -493,7 +493,7 @@
         "sec": 1755040021
       },
       "updated": {
-        "sec": 1755502695
+        "sec": 1755505094
       }
     },
     {
@@ -508,10 +508,10 @@
       "date": "13-08-2025",
       "hour": "05:08",
       "location": "Coimbra, Arganil, Piódão",
-      "aerial": 1,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 1112,
-      "terrain": 382,
+      "man": 1125,
+      "terrain": 383,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Piódão",
@@ -548,7 +548,7 @@
         "sec": 1755058452
       },
       "updated": {
-        "sec": 1755503774
+        "sec": 1755506179
       }
     },
     {
@@ -565,8 +565,8 @@
       "location": "Viseu, Viseu, Faíl E Vila Chã De Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Faíl E Vila Chã De Sá",
@@ -603,7 +603,7 @@
         "sec": 1755092417
       },
       "updated": {
-        "sec": 1755457812
+        "sec": 1755506293
       }
     },
     {
@@ -675,8 +675,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 365,
-      "terrain": 121,
+      "man": 356,
+      "terrain": 120,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -713,7 +713,7 @@
         "sec": 1755175815
       },
       "updated": {
-        "sec": 1755503655
+        "sec": 1755506179
       }
     },
     {
@@ -840,8 +840,8 @@
       "location": "Guarda, Guarda, Pêra Do Moço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 25,
+      "man": 55,
+      "terrain": 18,
       "district": "Guarda",
       "concelho": "Guarda",
       "freguesia": "Pêra Do Moço",
@@ -882,7 +882,7 @@
         "sec": 1755251540
       },
       "updated": {
-        "sec": 1755479296
+        "sec": 1755505935
       }
     },
     {
@@ -897,10 +897,10 @@
       "date": "15-08-2025",
       "hour": "13:17",
       "location": "Bragança, Freixo de Espada à Cinta, Poiares",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 342,
-      "terrain": 115,
+      "man": 360,
+      "terrain": 120,
       "district": "Bragança",
       "concelho": "Freixo De Espada À Cinta",
       "freguesia": "Poiares",
@@ -937,7 +937,7 @@
         "sec": 1755260540
       },
       "updated": {
-        "sec": 1755498613
+        "sec": 1755505935
       }
     },
     {
@@ -952,10 +952,10 @@
       "date": "15-08-2025",
       "hour": "14:41",
       "location": "Guarda, Sabugal, Sabugal E Aldeia De Santo António",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 222,
-      "terrain": 69,
+      "man": 239,
+      "terrain": 74,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Sabugal E Aldeia De Santo António",
@@ -996,7 +996,7 @@
         "sec": 1755265691
       },
       "updated": {
-        "sec": 1755502572
+        "sec": 1755506055
       }
     },
     {
@@ -1290,9 +1290,9 @@
       "date": "16-08-2025",
       "hour": "17:00",
       "location": "Viseu, Tarouca, São João De Tarouca",
-      "aerial": 1,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 207,
+      "man": 212,
       "terrain": 67,
       "district": "Viseu",
       "concelho": "Tarouca",
@@ -1330,66 +1330,7 @@
         "sec": 1755360733
       },
       "updated": {
-        "sec": 1755502219
-      }
-    },
-    {
-      "_id": {
-        "$id": "68a0f3b89fdf9a70c757ff3d"
-      },
-      "id": "20251097172",
-      "coords": true,
-      "dateTime": {
-        "sec": 1755378300
-      },
-      "date": "16-08-2025",
-      "hour": "22:05",
-      "location": "Viseu, Mangualde, Tavares (Chãs, Várzea E Travanca)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viseu",
-      "concelho": "Mangualde",
-      "freguesia": "Tavares (Chãs, Várzea E Travanca)",
-      "dico": "1806",
-      "lat": 40.609112,
-      "lng": -7.639757,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Matados ",
-      "active": true,
-      "sadoId": "20251097172",
-      "sharepointId": 25853865,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 588.883,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "Matados",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "created": {
-        "sec": 1755378616
-      },
-      "updated": {
-        "sec": 1755456252
+        "sec": 1755505935
       }
     },
     {
@@ -1573,9 +1514,9 @@
       "date": "17-08-2025",
       "hour": "15:53",
       "location": "Bragança, Mirandela, Barcel, Marmelos E Valverde Da Gestosa",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 134,
+      "man": 137,
       "terrain": 44,
       "district": "Bragança",
       "concelho": "Mirandela",
@@ -1613,7 +1554,7 @@
         "sec": 1755442574
       },
       "updated": {
-        "sec": 1755503774
+        "sec": 1755504852
       }
     },
     {
@@ -1630,8 +1571,8 @@
       "location": "Aveiro, Santa Maria da Feira, Canedo, Vale E Vila Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Canedo, Vale E Vila Maior",
@@ -1668,7 +1609,7 @@
         "sec": 1755445454
       },
       "updated": {
-        "sec": 1755503395
+        "sec": 1755506292
       }
     },
     {
@@ -1833,7 +1774,7 @@
         "sec": 1755478336
       },
       "updated": {
-        "sec": 1755498613
+        "sec": 1755504851
       }
     },
     {
@@ -1905,7 +1846,7 @@
       "location": "Braga, Fafe, Aboim, Felgueiras, Gontim E Pedraído",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
+      "man": 31,
       "terrain": 9,
       "district": "Braga",
       "concelho": "Fafe",
@@ -1943,7 +1884,7 @@
         "sec": 1755494772
       },
       "updated": {
-        "sec": 1755503395
+        "sec": 1755506292
       }
     },
     {
@@ -1960,8 +1901,8 @@
       "location": "Santarém, Coruche, São José Da Lamarosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "São José Da Lamarosa",
@@ -1998,7 +1939,7 @@
         "sec": 1755498613
       },
       "updated": {
-        "sec": 1755502573
+        "sec": 1755505337
       }
     },
     {
@@ -2062,61 +2003,6 @@
     },
     {
       "_id": {
-        "$id": "68a2d0e5443b106ffd177b32"
-      },
-      "id": "20251103361",
-      "coords": true,
-      "dateTime": {
-        "sec": 1755500100
-      },
-      "date": "18-08-2025",
-      "hour": "07:55",
-      "location": "Porto, Santo Tirso, Vilarinho",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Santo Tirso",
-      "freguesia": "Vilarinho",
-      "dico": "1314",
-      "lat": 41.361273,
-      "lng": -8.332396,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20251103361",
-      "sharepointId": 25860054,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1755500773
-      },
-      "updated": {
-        "sec": 1755501851
-      }
-    },
-    {
-      "_id": {
         "$id": "68a2d340443b106ffd177b41"
       },
       "id": "20251103393",
@@ -2129,8 +2015,8 @@
       "location": "Vila Real, Vila Real, Folhadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Folhadela",
@@ -2167,7 +2053,7 @@
         "sec": 1755501376
       },
       "updated": {
-        "sec": 1755502573
+        "sec": 1755504372
       }
     }
   ]
