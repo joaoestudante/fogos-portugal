@@ -40,7 +40,7 @@
       "icnf": null,
       "detailLocation": null,
       "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\r\n<Document id=\"root_doc\">\r\n<Schema name=\"emsr831_aoi01_del_monit05_areaofinteresta_v1\" id=\"emsr831_aoi01_del_monit05_areaofinteresta_v1\">\r\n\t<SimpleField name=\"emsr_id\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"glide_no\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"area_id\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"locality\" type=\"string\"></SimpleField>\r\n\t<SimpleField name=\"map_type\" type=\"string\"></SimpleField>\r\n</Schema>\r\n<Folder><name>emsr831_aoi01_del_monit05_areaofinteresta_v1</name>\r\n  <Placemark>\r\n\t  <name>ÁREA DE INTERESSE</name><description>Área de Interesse com dados COPERNICUS-EMS atualizados a 17/08/2025 14h00</description>\r\n\t\t<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>\r\n\t\t<ExtendedData><SchemaData schemaUrl=\"#emsr831_aoi01_del_monit05_areaofinteresta_v1\">\r\n\t\t\t<SimpleData name=\"emsr_id\">EMSR831</SimpleData>\r\n\t\t\t<SimpleData name=\"glide_no\">Not Applicable</SimpleData>\r\n\t\t\t<SimpleData name=\"area_id\">01</SimpleData>\r\n\t\t\t<SimpleData name=\"locality\">Trancoso</SimpleData>\r\n\t\t\t<SimpleData name=\"map_type\">Delineation-Monit05</SimpleData>\r\n\t\t</SchemaData></ExtendedData>\r\n\t      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.7279296,40.8448466 -7.7794972,40.9678477 -7.7730904,41.0166834 -7.5795654,41.0044455 -7.586303,41.1421651 -7.1766605,41.1081768 -7.1580472,41.0302107 -7.1473332,40.9619376 -7.2487989,40.8011513 -7.0666989,40.7655194 -7.1571642,40.5903233 -7.7340247,40.6874408 -7.7279296,40.8448466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>\r\n  </Placemark>\r\n</Folder>\r\n</Document></kml>",
+      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>AOI_Guarda_Trancoso_19082025_1424.kml</name>\r\n\t<Style id=\"failed\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"failed1\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Aréa de Interesse Calculada com dados COPERNICUS-EMS e dados OSINT às 14h24 de 19-08-2025</description>\r\n\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.340456190713589,41.08372330550272,0 -7.38412326399927,41.0660639947623,0 -7.458805469364495,41.10157115821711,0 -7.484878287377584,41.09125326439701,0 -7.534975134651683,40.98735770925826,0 -7.562970879187215,40.95090773601557,0 -7.557058331300327,40.8802041604918,0 -7.544810975229103,40.83351684214094,0 -7.528838832825757,40.79427237157183,0 -7.460962018549813,40.79165296118632,0 -7.400488537400961,40.89538207731667,0 -7.37686535259599,40.86570660645057,0 -7.398009554814974,40.83663439150083,0 -7.346171727599874,40.82651243902321,0 -7.268814125563036,40.84853581920176,0 -7.213315270064316,40.86886397377549,0 -7.179859340487948,40.91833548605892,0 -7.166155355639027,40.96411033099423,0 -7.172265707463384,41.00899999001983,0 -7.245189416459199,41.04733471318568,0 -7.276222635926429,41.03803524979813,0 -7.294906976491033,41.07171864522046,0 -7.340456190713589,41.08372330550272,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
       "pco": null,
       "cos": null,
       "heliFight": 0,
@@ -53,7 +53,7 @@
         "sec": 1754752933
       },
       "updated": {
-        "sec": 1755608710
+        "sec": 1755611330
       }
     },
     {
@@ -288,10 +288,10 @@
       "date": "13-08-2025",
       "hour": "05:08",
       "location": "Coimbra, Arganil, Piódão",
-      "aerial": 13,
+      "aerial": 14,
       "meios_aquaticos": 0,
-      "man": 1511,
-      "terrain": 495,
+      "man": 1517,
+      "terrain": 499,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Piódão",
@@ -315,7 +315,7 @@
       "icnf": null,
       "detailLocation": null,
       "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>AOI_Arganil_19082025.kml</name>\r\n\t<Style id=\"failed\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"failed1\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Área de interesse a 19.08.2025 07h30am com base em dados COPERNICUS-EMS e OSINT recolhidos pela VOST Portugal</description>\r\n\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.857866482998955,40.44511434113296,0 -8.098502234847304,40.30469927838326,0 -8.084992432325102,40.19013746869422,0 -7.953250828934147,40.07397061898805,0 -7.80967665657653,40.06253762435777,0 -7.762569047760923,40.06405469423908,0 -7.658224477026776,40.12491485843172,0 -7.581005970443434,40.06838646565777,0 -7.546455246577411,40.12408828731232,0 -7.572716113760796,40.16703581535428,0 -7.585720649372767,40.22436903921112,0 -7.649562818805181,40.29114156544286,0 -7.857866482998955,40.44511434113296,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
+      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>AOI_Piodao_19082025_1424.kml</name>\r\n\t<StyleMap id=\"failed\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>AOI_Guarda_Trancoso_19082025_1424.kml</name>\r\n\t<Style id=\"failed\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"failed1\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Aréa de Interesse Calculada com dados COPERNICUS-EMS e dados OSINT às 14h24 de 19-08-2025</description>\r\n\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.340456190713589,41.08372330550272,0 -7.38412326399927,41.0660639947623,0 -7.458805469364495,41.10157115821711,0 -7.484878287377584,41.09125326439701,0 -7.534975134651683,40.98735770925826,0 -7.562970879187215,40.95090773601557,0 -7.557058331300327,40.8802041604918,0 -7.544810975229103,40.83351684214094,0 -7.528838832825757,40.79427237157183,0 -7.460962018549813,40.79165296118632,0 -7.400488537400961,40.89538207731667,0 -7.37686535259599,40.86570660645057,0 -7.398009554814974,40.83663439150083,0 -7.346171727599874,40.82651243902321,0 -7.268814125563036,40.84853581920176,0 -7.213315270064316,40.86886397377549,0 -7.179859340487948,40.91833548605892,0 -7.166155355639027,40.96411033099423,0 -7.172265707463384,41.00899999001983,0 -7.245189416459199,41.04733471318568,0 -7.276222635926429,41.03803524979813,0 -7.294906976491033,41.07171864522046,0 -7.340456190713589,41.08372330550272,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>\r\n\r\n\t\t<styleUrl>#failed</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.917570440833856,40.33592245318734,0 -7.961580014694989,40.31256942336913,0 -7.963473545706147,40.26606400969486,0 -7.967151719402127,40.22035570670737,0 -7.964777732422698,40.18976041880888,0 -7.9436726869876,40.16935359503085,0 -7.910276082602291,40.16925297946786,0 -7.868205858304949,40.17185209332675,0 -7.844266481035237,40.17042601747305,0 -7.843263318141004,40.12283379381104,0 -7.828840387349554,40.09000146762977,0 -7.822245506437414,40.06675250648883,0 -7.779897080826825,40.05642455620198,0 -7.754653460404936,40.063379633214,0 -7.721680758758916,40.06920210768247,0 -7.708486812591735,40.09713409537548,0 -7.66648867429582,40.11184083553272,0 -7.65475171563722,40.10005136563858,0 -7.633818450834031,40.05829623517784,0 -7.617441453626364,40.03301082438887,0 -7.595616593512204,40.01811817546174,0 -7.54308101944266,40.03881468240166,0 -7.539548150722512,40.0727861016186,0 -7.546919334858176,40.10295417524986,0 -7.535957577162007,40.13252351227342,0 -7.533753895220102,40.16870699682035,0 -7.5382641502194,40.19124527722979,0 -7.570029951611933,40.22415166025112,0 -7.601227143854211,40.24590297403739,0 -7.640397513337628,40.2700974022207,0 -7.671733020983087,40.29685372763857,0 -7.722517012662081,40.31885787738029,0 -7.795343303073576,40.33646664419337,0 -7.843770907279385,40.34464624017366,0 -7.917570440833856,40.33592245318734,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
       "pco": null,
       "cos": null,
       "heliFight": 0,
@@ -328,7 +328,7 @@
         "sec": 1755058452
       },
       "updated": {
-        "sec": 1755610456
+        "sec": 1755611380
       }
     },
     {
@@ -624,8 +624,8 @@
       "location": "Bragança, Freixo de Espada à Cinta, Poiares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 242,
-      "terrain": 80,
+      "man": 240,
+      "terrain": 79,
       "district": "Bragança",
       "concelho": "Freixo De Espada À Cinta",
       "freguesia": "Poiares",
@@ -662,7 +662,7 @@
         "sec": 1755260540
       },
       "updated": {
-        "sec": 1755608891
+        "sec": 1755611377
       }
     },
     {
@@ -677,10 +677,10 @@
       "date": "15-08-2025",
       "hour": "14:41",
       "location": "Guarda, Sabugal, Sabugal E Aldeia De Santo António",
-      "aerial": 7,
+      "aerial": 6,
       "meios_aquaticos": 0,
-      "man": 428,
-      "terrain": 113,
+      "man": 440,
+      "terrain": 118,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Sabugal E Aldeia De Santo António",
@@ -721,7 +721,7 @@
         "sec": 1755265691
       },
       "updated": {
-        "sec": 1755609973
+        "sec": 1755611470
       }
     },
     {
@@ -750,9 +750,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Campelo ",
       "active": true,
@@ -776,7 +776,7 @@
         "sec": 1755273974
       },
       "updated": {
-        "sec": 1755508821
+        "sec": 1755610819
       }
     },
     {
@@ -1072,7 +1072,7 @@
       "location": "Bragança, Mirandela, Barcel, Marmelos E Valverde Da Gestosa",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 329,
+      "man": 330,
       "terrain": 109,
       "district": "Bragança",
       "concelho": "Mirandela",
@@ -1110,7 +1110,7 @@
         "sec": 1755442574
       },
       "updated": {
-        "sec": 1755609974
+        "sec": 1755610820
       }
     },
     {
@@ -1235,10 +1235,10 @@
       "date": "18-08-2025",
       "hour": "10:25",
       "location": "Vila Real, Montalegre, Vilar De Perdizes E Meixide",
-      "aerial": 2,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 220,
-      "terrain": 67,
+      "man": 230,
+      "terrain": 69,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Vilar De Perdizes E Meixide",
@@ -1275,7 +1275,7 @@
         "sec": 1755509294
       },
       "updated": {
-        "sec": 1755608710
+        "sec": 1755611378
       }
     },
     {
@@ -1347,8 +1347,8 @@
       "location": "Leiria, Leiria, Santa Catarina Da Serra E Chainça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 6,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Santa Catarina Da Serra E Chainça",
@@ -1389,7 +1389,7 @@
         "sec": 1755519015
       },
       "updated": {
-        "sec": 1755585731
+        "sec": 1755611470
       }
     },
     {
@@ -1575,8 +1575,8 @@
       "location": "Aveiro, Estarreja, Pardilhó",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 7,
+      "man": 22,
+      "terrain": 8,
       "district": "Aveiro",
       "concelho": "Estarreja",
       "freguesia": "Pardilhó",
@@ -1613,7 +1613,7 @@
         "sec": 1755596178
       },
       "updated": {
-        "sec": 1755608173
+        "sec": 1755611378
       }
     },
     {
@@ -1740,8 +1740,8 @@
       "location": "Porto, Lousada, Nevogilde",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 114,
-      "terrain": 30,
+      "man": 116,
+      "terrain": 31,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Nevogilde",
@@ -1778,7 +1778,7 @@
         "sec": 1755602774
       },
       "updated": {
-        "sec": 1755610458
+        "sec": 1755611378
       }
     },
     {
@@ -1960,8 +1960,8 @@
       "location": "Bragança, Carrazeda de Ansiães, Carrazeda De Ansiães",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 56,
-      "terrain": 14,
+      "man": 58,
+      "terrain": 15,
       "district": "Bragança",
       "concelho": "Carrazeda De Ansiães",
       "freguesia": "Carrazeda De Ansiães",
@@ -1998,7 +1998,7 @@
         "sec": 1755606617
       },
       "updated": {
-        "sec": 1755610457
+        "sec": 1755610819
       }
     },
     {
@@ -2074,8 +2074,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Vila De Punhe",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 3,
+      "man": 20,
+      "terrain": 4,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Vila De Punhe",
@@ -2086,9 +2086,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rua Extremo ",
       "active": true,
@@ -2112,7 +2112,7 @@
         "sec": 1755608711
       },
       "updated": {
-        "sec": 1755609974
+        "sec": 1755611378
       }
     },
     {
@@ -2127,9 +2127,9 @@
       "date": "19-08-2025",
       "hour": "14:15",
       "location": "Beja, Almodôvar, Santa Clara-a-nova E Gomes Aires",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 6,
       "terrain": 2,
       "district": "Beja",
       "concelho": "Almodôvar",
@@ -2171,7 +2171,7 @@
         "sec": 1755609736
       },
       "updated": {
-        "sec": 1755609762
+        "sec": 1755611378
       }
     },
     {
@@ -2186,10 +2186,10 @@
       "date": "19-08-2025",
       "hour": "14:21",
       "location": "Portalegre, Nisa, Tolosa",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 6,
+      "man": 22,
+      "terrain": 5,
       "district": "Portalegre",
       "concelho": "Nisa",
       "freguesia": "Tolosa",
@@ -2200,9 +2200,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Tolosa ",
       "active": true,
@@ -2230,7 +2230,7 @@
         "sec": 1755609974
       },
       "updated": {
-        "sec": 1755610456
+        "sec": 1755611378
       }
     },
     {
@@ -2306,8 +2306,8 @@
       "location": "Porto, Maia, São Pedro Fins",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "São Pedro Fins",
@@ -2318,9 +2318,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São Pedro Fins ",
       "active": true,
@@ -2348,7 +2348,180 @@
         "sec": 1755610457
       },
       "updated": {
-        "sec": 1755610514
+        "sec": 1755610819
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a47ec464032d55ac0dd4a1"
+      },
+      "id": "20251110666",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755610080
+      },
+      "date": "19-08-2025",
+      "hour": "14:28",
+      "location": "Viseu, Viseu, São João De Lourosa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 33,
+      "terrain": 9,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "São João De Lourosa",
+      "dico": "1823",
+      "lat": 40.598827,
+      "lng": -7.922102,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Oliveira De Barreiros ",
+      "active": true,
+      "sadoId": "20251110666",
+      "sharepointId": 25867359,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 379.326,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Carreira Alta 14. 3500-892 Viseu. Portugal (Oliveira de Barreiros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1755610820
+      },
+      "updated": {
+        "sec": 1755611441
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a480f223bbe52437416dd3"
+      },
+      "id": "20251110545",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755608820
+      },
+      "date": "19-08-2025",
+      "hour": "14:07",
+      "location": "Porto, Lousada, Caíde De Rei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Caíde De Rei",
+      "dico": "1305",
+      "lat": 41.2489,
+      "lng": -8.22443,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Caíde De Rei ",
+      "active": true,
+      "sadoId": "20251110545",
+      "sharepointId": 25867238,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 286.524,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Tapada de Dom Luís 70. 4620-041 Lousada. Portugal (Almeida)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1755611378
+      },
+      "updated": {
+        "sec": 1755611448
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a480f223bbe52437416dd5"
+      },
+      "id": "20251110752",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755610920
+      },
+      "date": "19-08-2025",
+      "hour": "14:42",
+      "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Foz Do Sousa E Covelo",
+      "dico": "1304",
+      "lat": 41.07883,
+      "lng": -8.517334,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Foz Do Sousa E Covelo ",
+      "active": true,
+      "sadoId": "20251110752",
+      "sharepointId": 25867445,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1755611378
+      },
+      "updated": {
+        "sec": 1755611454
       }
     }
   ]
