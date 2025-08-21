@@ -1017,8 +1017,8 @@
       "location": "Porto, Gondomar, Lomba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 31,
+      "terrain": 8,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Lomba",
@@ -1055,7 +1055,7 @@
         "sec": 1755618495
       },
       "updated": {
-        "sec": 1755748693
+        "sec": 1755750254
       }
     },
     {
@@ -1296,8 +1296,8 @@
       "location": "Braga, Fafe, Armil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 102,
-      "terrain": 28,
+      "man": 85,
+      "terrain": 24,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Armil",
@@ -1334,7 +1334,7 @@
         "sec": 1755639136
       },
       "updated": {
-        "sec": 1755747612
+        "sec": 1755749894
       }
     },
     {
@@ -1532,9 +1532,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Campo De Futebol ",
       "active": true,
@@ -1558,7 +1558,7 @@
         "sec": 1755741732
       },
       "updated": {
-        "sec": 1755747859
+        "sec": 1755750614
       }
     },
     {
@@ -1581,8 +1581,8 @@
       "concelho": "Aveiro",
       "freguesia": "Eixo E Eirol",
       "dico": "0105",
-      "lat": 40.629276,
-      "lng": -8.564536,
+      "lat": 40.605854,
+      "lng": -8.566748,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1591,7 +1591,7 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Eixo ",
+      "localidade": "Picoto ",
       "active": true,
       "sadoId": "20251118224",
       "sharepointId": 25874923,
@@ -1613,7 +1613,121 @@
         "sec": 1755747613
       },
       "updated": {
-        "sec": 1755747859
+        "sec": 1755749056
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a69e060ba0464cdf2f8634"
+      },
+      "id": "20251118270",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755749520
+      },
+      "date": "21-08-2025",
+      "hour": "05:12",
+      "location": "Braga, Braga, Crespos E Pousada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Crespos E Pousada",
+      "dico": "0303",
+      "lat": 41.59267,
+      "lng": -8.344158,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Crespos E Pousada ",
+      "active": true,
+      "sadoId": "20251118270",
+      "sharepointId": 25874969,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1755749894
+      },
+      "updated": {
+        "sec": 1755750614
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a6a0d60ba0464cdf2f8643"
+      },
+      "id": "20251118283",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755750360
+      },
+      "date": "21-08-2025",
+      "hour": "05:26",
+      "location": "Porto, Amarante, Mancelos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Mancelos",
+      "dico": "1301",
+      "lat": 41.26384,
+      "lng": -8.15655,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Mancelos ",
+      "active": true,
+      "sadoId": "20251118283",
+      "sharepointId": 25874982,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 355.554,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M567. 4605-139 Amarante. Portugal (Manhufe)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1755750614
+      },
+      "updated": {
+        "sec": 1755750671
       }
     }
   ]
