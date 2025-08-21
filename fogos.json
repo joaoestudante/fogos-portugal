@@ -1296,8 +1296,8 @@
       "location": "Braga, Fafe, Armil",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 80,
-      "terrain": 23,
+      "man": 78,
+      "terrain": 22,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Armil",
@@ -1334,7 +1334,62 @@
         "sec": 1755639136
       },
       "updated": {
-        "sec": 1755751215
+        "sec": 1755752247
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a5c40cd07bb025f908dc39"
+      },
+      "id": "20251115315",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755693780
+      },
+      "date": "20-08-2025",
+      "hour": "13:43",
+      "location": "Braga, Braga, Escudeiros E Penso (Santo Estêvão E São Vicente)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Escudeiros E Penso (Santo Estêvão E São Vicente)",
+      "dico": "0303",
+      "lat": 41.47378,
+      "lng": -8.426738,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Escudeiros ",
+      "active": true,
+      "sadoId": "20251115315",
+      "sharepointId": 25872014,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1755694092
+      },
+      "updated": {
+        "sec": 1755751766
       }
     },
     {
@@ -1642,9 +1697,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Crespos E Pousada ",
       "active": true,
@@ -1668,7 +1723,7 @@
         "sec": 1755749894
       },
       "updated": {
-        "sec": 1755750614
+        "sec": 1755751765
       }
     },
     {
@@ -1685,8 +1740,8 @@
       "location": "Porto, Amarante, Mancelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 14,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Amarante",
       "freguesia": "Mancelos",
@@ -1727,7 +1782,7 @@
         "sec": 1755750614
       },
       "updated": {
-        "sec": 1755750976
+        "sec": 1755751766
       }
     },
     {
@@ -1744,8 +1799,8 @@
       "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Vilar De Andorinho",
@@ -1756,9 +1811,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vilar De Andorinho ",
       "active": true,
@@ -1766,8 +1821,12 @@
       "sharepointId": 25874995,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 145.816,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Palmas. 4410-550 Vila Nova de Gaia. Portugal (Rua das Palmas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1782,7 +1841,7 @@
         "sec": 1755751332
       },
       "updated": {
-        "sec": 1755751332
+        "sec": 1755751766
       }
     }
   ]
