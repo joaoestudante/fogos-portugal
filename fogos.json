@@ -180,8 +180,8 @@
       "location": "Coimbra, Arganil, Piódão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 1513,
-      "terrain": 519,
+      "man": 1550,
+      "terrain": 530,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Piódão",
@@ -218,7 +218,7 @@
         "sec": 1755058452
       },
       "updated": {
-        "sec": 1755891733
+        "sec": 1755892335
       }
     },
     {
@@ -1512,8 +1512,8 @@
       "location": "Lisboa, Odivelas, Ramada E Caneças",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 60,
-      "terrain": 20,
+      "man": 51,
+      "terrain": 17,
       "district": "Lisboa",
       "concelho": "Odivelas",
       "freguesia": "Ramada E Caneças",
@@ -1554,7 +1554,7 @@
         "sec": 1755874835
       },
       "updated": {
-        "sec": 1755889573
+        "sec": 1755892179
       }
     },
     {
@@ -1854,8 +1854,8 @@
       "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Santarém",
       "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
@@ -1866,9 +1866,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rua 25 Abril -Fontainhas ( Café Pereira) ",
       "active": true,
@@ -1892,7 +1892,7 @@
         "sec": 1755890413
       },
       "updated": {
-        "sec": 1755891015
+        "sec": 1755892695
       }
     },
     {
@@ -1909,8 +1909,8 @@
       "location": "Lisboa, Mafra, Mafra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 21,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Mafra",
       "freguesia": "Mafra",
@@ -1951,7 +1951,7 @@
         "sec": 1755891015
       },
       "updated": {
-        "sec": 1755891856
+        "sec": 1755892179
       }
     },
     {
@@ -1968,8 +1968,8 @@
       "location": "Coimbra, Coimbra, São Martinho Do Bispo E Ribeira De Frades",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 17,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Coimbra",
       "freguesia": "São Martinho Do Bispo E Ribeira De Frades",
@@ -1990,8 +1990,12 @@
       "sharepointId": 25883904,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 20.6506,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Pé de Cão (Estrada das Figuras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2006,7 +2010,62 @@
         "sec": 1755891856
       },
       "updated": {
-        "sec": 1755891856
+        "sec": 1755892226
+      }
+    },
+    {
+      "_id": {
+        "$id": "68a8cae69314dd1e2833c124"
+      },
+      "id": "20251127242",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755892140
+      },
+      "date": "22-08-2025",
+      "hour": "20:49",
+      "location": "Faro, Silves, Silves",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Faro",
+      "concelho": "Silves",
+      "freguesia": "Silves",
+      "dico": "0813",
+      "lat": 37.18976,
+      "lng": -8.43701,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Silves ",
+      "active": true,
+      "sadoId": "20251127242",
+      "sharepointId": 25883941,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1755892454
+      },
+      "updated": {
+        "sec": 1755892695
       }
     }
   ]
