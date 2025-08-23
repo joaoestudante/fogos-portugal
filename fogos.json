@@ -1642,9 +1642,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cabril ",
       "active": true,
@@ -1668,7 +1668,7 @@
         "sec": 1755984495
       },
       "updated": {
-        "sec": 1755990731
+        "sec": 1755992783
       }
     },
     {
@@ -1728,120 +1728,6 @@
       },
       "updated": {
         "sec": 1755991699
-      }
-    },
-    {
-      "_id": {
-        "$id": "68aa3720afb7db03895375ff"
-      },
-      "id": "20251132249",
-      "coords": true,
-      "dateTime": {
-        "sec": 1755985260
-      },
-      "date": "23-08-2025",
-      "hour": "22:41",
-      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Castelo Branco",
-      "dico": "0502",
-      "lat": 39.798625,
-      "lng": -7.478902,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sapateira   ",
-      "active": true,
-      "sadoId": "20251132249",
-      "sharepointId": 25888948,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "created": {
-        "sec": 1755985696
-      },
-      "updated": {
-        "sec": 1755989656
-      }
-    },
-    {
-      "_id": {
-        "$id": "68aa3dad89ef36203e1354df"
-      },
-      "id": "20251132342",
-      "coords": true,
-      "dateTime": {
-        "sec": 1755987060
-      },
-      "date": "23-08-2025",
-      "hour": "23:11",
-      "location": "Leiria, Caldas da Rainha, Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
-      "district": "Leiria",
-      "concelho": "Caldas Da Rainha",
-      "freguesia": "Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
-      "dico": "1006",
-      "lat": 39.39692,
-      "lng": -9.140319,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Caldas Da Rainha   ",
-      "active": true,
-      "sadoId": "20251132342",
-      "sharepointId": 25889041,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 29.3237,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Beco Casal dos Cucos. junto a EBI (Casal da Cova do Lobo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1755987373
-      },
-      "updated": {
-        "sec": 1755991336
       }
     },
     {
@@ -2023,8 +1909,8 @@
       "location": "Porto, Baião, Santa Cruz Do Douro E São Tomé De Covelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
@@ -2035,9 +1921,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Lazarim ",
       "active": true,
@@ -2061,7 +1947,66 @@
         "sec": 1755992175
       },
       "updated": {
-        "sec": 1755992296
+        "sec": 1755993135
+      }
+    },
+    {
+      "_id": {
+        "$id": "68aa52cfc71a3841fb489b86"
+      },
+      "id": "20251132568",
+      "coords": true,
+      "dateTime": {
+        "sec": 1755992280
+      },
+      "date": "24-08-2025",
+      "hour": "00:38",
+      "location": "Porto, Amarante, Aboadela, Sanche E Várzea",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Aboadela, Sanche E Várzea",
+      "dico": "1301",
+      "lat": 41.284645,
+      "lng": -7.998247,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Seara ",
+      "active": true,
+      "sadoId": "20251132568",
+      "sharepointId": 25889267,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 314.401,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Seara (Cimo de Vila)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1755992783
+      },
+      "updated": {
+        "sec": 1755992809
       }
     }
   ]
