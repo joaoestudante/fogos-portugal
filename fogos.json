@@ -1703,9 +1703,9 @@
       "date": "25-08-2025",
       "hour": "15:15",
       "location": "Braga, Cabeceiras de Basto, Refojos De Basto, Outeiro E Painzela",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
+      "man": 22,
       "terrain": 5,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
@@ -1747,7 +1747,7 @@
         "sec": 1756131614
       },
       "updated": {
-        "sec": 1756136776
+        "sec": 1756137252
       }
     },
     {
@@ -1762,10 +1762,10 @@
       "date": "25-08-2025",
       "hour": "15:20",
       "location": "Braga, Vieira do Minho, Ruivães E Campos",
-      "aerial": 2,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 48,
-      "terrain": 8,
+      "man": 45,
+      "terrain": 7,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Ruivães E Campos",
@@ -1776,9 +1776,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Ruivães E Campos ",
       "active": true,
@@ -1802,7 +1802,7 @@
         "sec": 1756131980
       },
       "updated": {
-        "sec": 1756136174
+        "sec": 1756137252
       }
     },
     {
@@ -2055,9 +2055,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Morgado Da Lameira ",
       "active": true,
@@ -2085,7 +2085,7 @@
         "sec": 1756135835
       },
       "updated": {
-        "sec": 1756136534
+        "sec": 1756136893
       }
     },
     {
@@ -2102,14 +2102,14 @@
       "location": "Braga, Esposende, Vila Chã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 15,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Esposende",
       "freguesia": "Vila Chã",
       "dico": "0306",
-      "lat": 41.57243,
-      "lng": -8.74805,
+      "lat": 41.552853,
+      "lng": -8.760192,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -2140,7 +2140,62 @@
         "sec": 1756135936
       },
       "updated": {
-        "sec": 1756136533
+        "sec": 1756137252
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ac85bd6e82c2329c679c8a"
+      },
+      "id": "20251140383",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756136700
+      },
+      "date": "25-08-2025",
+      "hour": "16:45",
+      "location": "Santarém, Santarém, Alcanede",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "Alcanede",
+      "dico": "1416",
+      "lat": 39.4519,
+      "lng": -8.78528,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcanede ",
+      "active": true,
+      "sadoId": "20251140383",
+      "sharepointId": 25897082,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1756136893
+      },
+      "updated": {
+        "sec": 1756137031
       }
     }
   ]
