@@ -459,8 +459,8 @@
       "location": "Braga, Celorico de Basto, Arnóia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 8,
+      "man": 27,
+      "terrain": 7,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Arnóia",
@@ -497,7 +497,7 @@
         "sec": 1755351733
       },
       "updated": {
-        "sec": 1756152502
+        "sec": 1756194854
       }
     },
     {
@@ -1080,8 +1080,8 @@
       "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 47,
-      "terrain": 17,
+      "man": 53,
+      "terrain": 19,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Viade De Baixo E Fervidelas",
@@ -1122,7 +1122,7 @@
         "sec": 1756139294
       },
       "updated": {
-        "sec": 1756193657
+        "sec": 1756194854
       }
     },
     {
@@ -1198,8 +1198,8 @@
       "location": "Vila Real, Vila Real, Mondrões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 71,
-      "terrain": 19,
+      "man": 72,
+      "terrain": 20,
       "district": "Vila Real",
       "concelho": "Vila Real",
       "freguesia": "Mondrões",
@@ -1236,7 +1236,7 @@
         "sec": 1756151416
       },
       "updated": {
-        "sec": 1756193657
+        "sec": 1756194375
       }
     },
     {
@@ -1410,61 +1410,6 @@
     },
     {
       "_id": {
-        "$id": "68ad4c042c81e0011057a561"
-      },
-      "id": "20251142502",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756187100
-      },
-      "date": "26-08-2025",
-      "hour": "06:45",
-      "location": "Porto, Paredes, Rebordosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Rebordosa",
-      "dico": "1310",
-      "lat": 41.21769,
-      "lng": -8.436025,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Rebordosa ",
-      "active": true,
-      "sadoId": "20251142502",
-      "sharepointId": 25899201,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1756187652
-      },
-      "updated": {
-        "sec": 1756194136
-      }
-    },
-    {
-      "_id": {
         "$id": "68ad58ac61f05e17f03837ec"
       },
       "id": "20251142624",
@@ -1603,9 +1548,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Bouça ",
       "active": true,
@@ -1633,7 +1578,66 @@
         "sec": 1756193895
       },
       "updated": {
-        "sec": 1756194015
+        "sec": 1756194615
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ad67379de4f3754c4d1ba5"
+      },
+      "id": "20251142885",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756194120
+      },
+      "date": "26-08-2025",
+      "hour": "08:42",
+      "location": "Lisboa, Lisboa, Carnide",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Lisboa",
+      "freguesia": "Carnide",
+      "dico": "1106",
+      "lat": 38.768082,
+      "lng": -9.196248,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pontinha ",
+      "active": true,
+      "sadoId": "20251142885",
+      "sharepointId": 25899584,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 86.3925,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bairro Menino de Deus (Rua Professor Tiago Oliveira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1756194615
+      },
+      "updated": {
+        "sec": 1756194675
       }
     }
   ]
