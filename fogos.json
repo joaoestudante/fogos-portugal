@@ -459,8 +459,8 @@
       "location": "Vila Real, Sabrosa, São Martinho De Antas E Paradela De Guiães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Sabrosa",
       "freguesia": "São Martinho De Antas E Paradela De Guiães",
@@ -497,7 +497,7 @@
         "sec": 1756044635
       },
       "updated": {
-        "sec": 1756324833
+        "sec": 1756326374
       }
     },
     {
@@ -683,8 +683,8 @@
       "location": "Braga, Celorico de Basto, Caçarilhe E Infesta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Caçarilhe E Infesta",
@@ -695,9 +695,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "União Das Freguesias De Caçarilhe E Infesta ",
       "active": true,
@@ -721,7 +721,7 @@
         "sec": 1756303094
       },
       "updated": {
-        "sec": 1756322424
+        "sec": 1756327048
       }
     },
     {
@@ -1029,9 +1029,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vilar Da Veiga ",
       "active": true,
@@ -1055,7 +1055,7 @@
         "sec": 1756323375
       },
       "updated": {
-        "sec": 1756324834
+        "sec": 1756327047
       }
     },
     {
@@ -1174,61 +1174,6 @@
     },
     {
       "_id": {
-        "$id": "68af66273318052eb107061d"
-      },
-      "id": "20251151215",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756325220
-      },
-      "date": "27-08-2025",
-      "hour": "21:07",
-      "location": "Aveiro, Ovar, Válega",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Ovar",
-      "freguesia": "Válega",
-      "dico": "0115",
-      "lat": 40.82925,
-      "lng": -8.614314,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Válega ",
-      "active": true,
-      "sadoId": "20251151215",
-      "sharepointId": 25907923,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1756325415
-      },
-      "updated": {
-        "sec": 1756325899
-      }
-    },
-    {
-      "_id": {
         "$id": "68af67163318052eb1070622"
       },
       "id": "20251151223",
@@ -1335,6 +1280,61 @@
       },
       "updated": {
         "sec": 1756325920
+      }
+    },
+    {
+      "_id": {
+        "$id": "68af6caea6a59712ae447a68"
+      },
+      "id": "20251151313",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756326960
+      },
+      "date": "27-08-2025",
+      "hour": "21:36",
+      "location": "Guarda, Aguiar da Beira, Pinheiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Guarda",
+      "concelho": "Aguiar Da Beira",
+      "freguesia": "Pinheiro",
+      "dico": "0901",
+      "lat": 40.783801,
+      "lng": -7.611864,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Quinta Das Lameiras ",
+      "active": true,
+      "sadoId": "20251151313",
+      "sharepointId": 25908021,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "created": {
+        "sec": 1756327086
+      },
+      "updated": {
+        "sec": 1756327214
       }
     }
   ]
