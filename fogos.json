@@ -15,8 +15,8 @@
       "location": "Guarda, Trancoso, Freches E Torres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Trancoso",
       "freguesia": "Freches E Torres",
@@ -53,7 +53,7 @@
         "sec": 1754752933
       },
       "updated": {
-        "sec": 1756286893
+        "sec": 1756367658
       }
     },
     {
@@ -567,10 +567,10 @@
       "date": "28-08-2025",
       "hour": "08:30",
       "location": "Viseu, Vouzela, Queirã",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 6,
+      "man": 16,
+      "terrain": 4,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Queirã",
@@ -581,9 +581,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Queirã ",
       "active": true,
@@ -607,7 +607,7 @@
         "sec": 1756366454
       },
       "updated": {
-        "sec": 1756367413
+        "sec": 1756368851
       }
     },
     {
@@ -636,9 +636,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -666,7 +666,62 @@
         "sec": 1756367413
       },
       "updated": {
-        "sec": 1756367457
+        "sec": 1756368257
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b00b2a9dd40a40f73af08f"
+      },
+      "id": "20251152572",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756367040
+      },
+      "date": "28-08-2025",
+      "hour": "08:44",
+      "location": "Porto, Vila Nova de Gaia, Serzedo E Perosinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Serzedo E Perosinho",
+      "dico": "1317",
+      "lat": 41.053381,
+      "lng": -8.600642,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251152572",
+      "sharepointId": 25909292,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1756367658
+      },
+      "updated": {
+        "sec": 1756368373
       }
     }
   ]
