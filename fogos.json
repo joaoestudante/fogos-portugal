@@ -235,8 +235,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 11,
+      "terrain": 3,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -273,7 +273,7 @@
         "sec": 1755175815
       },
       "updated": {
-        "sec": 1756366212
+        "sec": 1756367413
       }
     },
     {
@@ -569,8 +569,8 @@
       "location": "Viseu, Vouzela, Queirã",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 32,
+      "terrain": 6,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Queirã",
@@ -581,9 +581,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Queirã ",
       "active": true,
@@ -607,7 +607,66 @@
         "sec": 1756366454
       },
       "updated": {
-        "sec": 1756366575
+        "sec": 1756367413
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b00a359dd40a40f73af080"
+      },
+      "id": "20251152552",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756366740
+      },
+      "date": "28-08-2025",
+      "hour": "08:39",
+      "location": "Porto, Valongo, Campo E Sobrado",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Campo E Sobrado",
+      "dico": "1315",
+      "lat": 41.204483,
+      "lng": -8.467145,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251152552",
+      "sharepointId": 25909272,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 129.426,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar 5 Caminhos (Vilar de Baixo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1756367413
+      },
+      "updated": {
+        "sec": 1756367457
       }
     }
   ]
