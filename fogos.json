@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "689767a5611d636e4564735a"
-      },
-      "id": "20251056789",
-      "coords": true,
-      "dateTime": {
-        "sec": 1754752860
-      },
-      "date": "09-08-2025",
-      "hour": "16:21",
-      "location": "Guarda, Trancoso, Freches E Torres",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Guarda",
-      "concelho": "Trancoso",
-      "freguesia": "Freches E Torres",
-      "dico": "0913",
-      "lat": 40.709022,
-      "lng": -7.363745,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Freches ",
-      "active": true,
-      "sadoId": "20251056789",
-      "sharepointId": 25813482,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>fm_trancoso_aoi_21082025_04h00.kml</name>\r\n\t<StyleMap id=\"failed\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base em dados COPERNICUS-EMS e dados abertos recolhidos pela equipa da VOSTPT. Atualização às 04h00 de 21-08-2025</description>\r\n\t\t<styleUrl>#failed</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.027536053942597,40.51731331072825,0 -7.060572857429761,40.50495094944871,0 -7.071196337775259,40.48679010053458,0 -7.085534073359609,40.47092362490575,0 -7.088627435212298,40.45785145611646,0 -7.143354682772714,40.4370360606074,0 -7.162820058840371,40.43256225046959,0 -7.182237311490257,40.43548119633449,0 -7.194967512347955,40.43211449547572,0 -7.212230076916065,40.42079667698277,0 -7.236904059749115,40.42031072559931,0 -7.247387133203029,40.41749937698437,0 -7.253487995215531,40.39532668405295,0 -7.258065202640723,40.37826923986669,0 -7.259609456856445,40.36916873170492,0 -7.25742113895394,40.35948789894454,0 -7.279177991527421,40.34304340207261,0 -7.284444305815786,40.33622673295188,0 -7.28751165046887,40.32143392494255,0 -7.284588753626879,40.3094710370099,0 -7.270421785742788,40.30544949902678,0 -7.240508897490306,40.31333618252799,0 -7.225633884695854,40.30418308976973,0 -7.245922597748589,40.28203817355102,0 -7.246093326609008,40.25413130325293,0 -7.239442443078547,40.24385865744607,0 -7.192902964956021,40.28756714298611,0 -7.173593838237683,40.27440413270196,0 -7.153429446691906,40.27774573381389,0 -7.159285537525641,40.29370883951477,0 -7.174845641796393,40.3097048070023,0 -7.188972712140302,40.31772358935279,0 -7.203857508796606,40.32460441815188,0 -7.165027301470701,40.32674291661476,0 -7.142515332814278,40.34372749680781,0 -7.128266138895256,40.35277360192027,0 -7.119416892319111,40.33794240112921,0 -7.107388865478884,40.34927116987602,0 -7.089287432545383,40.37308724777841,0 -7.071998798089426,40.3872308076349,0 -7.055473454722023,40.39853057158642,0 -7.036627505898414,40.41835013094129,0 -7.009059532250803,40.40910740504386,0 -6.987982762692995,40.42549525643611,0 -6.977371487280032,40.44080013816497,0 -6.971922833556256,40.46296178882827,0 -6.970260011892715,40.48002455474889,0 -6.994018754609131,40.49949985208113,0 -7.011848446725823,40.51382002465155,0 -7.027536053942597,40.51731331072825,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "created": {
-        "sec": 1754752933
-      },
-      "updated": {
-        "sec": 1756418172
-      }
-    },
-    {
-      "_id": {
         "$id": "689bc9159522e94437612448"
       },
       "id": "20251075557",
@@ -125,8 +70,8 @@
       "location": "Coimbra, Arganil, Piódão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 135,
-      "terrain": 41,
+      "man": 134,
+      "terrain": 40,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Piódão",
@@ -163,7 +108,7 @@
         "sec": 1755058452
       },
       "updated": {
-        "sec": 1756411935
+        "sec": 1756419373
       }
     },
     {
@@ -569,8 +514,8 @@
       "location": "Bragança, Vinhais, Rebordelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 403,
-      "terrain": 138,
+      "man": 431,
+      "terrain": 146,
       "district": "Bragança",
       "concelho": "Vinhais",
       "freguesia": "Rebordelo",
@@ -607,7 +552,7 @@
         "sec": 1756375818
       },
       "updated": {
-        "sec": 1756418293
+        "sec": 1756419254
       }
     },
     {
@@ -624,8 +569,8 @@
       "location": "Évora, Montemor-o-Novo, Cortiçadas De Lavre E Lavre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 63,
-      "terrain": 21,
+      "man": 56,
+      "terrain": 18,
       "district": "Évora",
       "concelho": "Montemor-o-novo",
       "freguesia": "Cortiçadas De Lavre E Lavre",
@@ -662,7 +607,7 @@
         "sec": 1756380855
       },
       "updated": {
-        "sec": 1756418893
+        "sec": 1756419854
       }
     },
     {
@@ -734,8 +679,8 @@
       "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 13,
+      "man": 36,
+      "terrain": 12,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
@@ -772,7 +717,7 @@
         "sec": 1756388420
       },
       "updated": {
-        "sec": 1756418532
+        "sec": 1756419135
       }
     },
     {
@@ -786,24 +731,24 @@
       },
       "date": "28-08-2025",
       "hour": "15:09",
-      "location": "Viseu, Mangualde, Moimenta De Maceira Dão E Lobelhe Do Mato",
+      "location": "Viseu, Mangualde, Fornos De Maceira Dão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 82,
-      "terrain": 26,
+      "man": 28,
+      "terrain": 8,
       "district": "Viseu",
       "concelho": "Mangualde",
-      "freguesia": "Moimenta De Maceira Dão E Lobelhe Do Mato",
+      "freguesia": "Fornos De Maceira Dão",
       "dico": "1806",
-      "lat": 40.578377,
-      "lng": -7.835496,
+      "lat": 40.562675,
+      "lng": -7.821208,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Moimenta De Maceira Dão ",
       "active": true,
@@ -831,7 +776,7 @@
         "sec": 1756390576
       },
       "updated": {
-        "sec": 1756413135
+        "sec": 1756420214
       }
     },
     {
@@ -848,8 +793,8 @@
       "location": "Viseu, Castro Daire, Moledo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Moledo",
@@ -886,7 +831,7 @@
         "sec": 1756395493
       },
       "updated": {
-        "sec": 1756410131
+        "sec": 1756420214
       }
     },
     {
@@ -942,61 +887,6 @@
       },
       "updated": {
         "sec": 1756411454
-      }
-    },
-    {
-      "_id": {
-        "$id": "68b0b36ce5cb133edb1315e9"
-      },
-      "id": "20251155868",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756410480
-      },
-      "date": "28-08-2025",
-      "hour": "20:48",
-      "location": "Braga, Fafe, Arões (São Romão)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Arões (São Romão)",
-      "dico": "0307",
-      "lat": 41.467293,
-      "lng": -8.22132,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Arões (São Romão) ",
-      "active": true,
-      "sadoId": "20251155868",
-      "sharepointId": 25912588,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "created": {
-        "sec": 1756410732
-      },
-      "updated": {
-        "sec": 1756418533
       }
     },
     {
@@ -1060,65 +950,6 @@
     },
     {
       "_id": {
-        "$id": "68b0b72e6dc1e81c282de773"
-      },
-      "id": "20251155928",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756411380
-      },
-      "date": "28-08-2025",
-      "hour": "21:03",
-      "location": "Porto, Felgueiras, Torrados E Sousa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Torrados E Sousa",
-      "dico": "1303",
-      "lat": 41.36576,
-      "lng": -8.24052,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Torrados  ",
-      "active": true,
-      "sadoId": "20251155928",
-      "sharepointId": 25912648,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 306.552,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua de Penido 521. 4650-599 Felgueiras. Portugal (Penido)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1756411694
-      },
-      "updated": {
-        "sec": 1756416851
-      }
-    },
-    {
-      "_id": {
         "$id": "68b0c5b5ecf0ca4093461cc2"
       },
       "id": "20251156120",
@@ -1174,61 +1005,6 @@
     },
     {
       "_id": {
-        "$id": "68b0c972ecf0ca4093461ce7"
-      },
-      "id": "20251156186",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756416060
-      },
-      "date": "28-08-2025",
-      "hour": "22:21",
-      "location": "Lisboa, Cadaval, Lamas E Cercal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Cadaval",
-      "freguesia": "Lamas E Cercal",
-      "dico": "1104",
-      "lat": 39.216697,
-      "lng": -9.086873,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Casais De Monte Junto Novo ",
-      "active": true,
-      "sadoId": "20251156186",
-      "sharepointId": 25912906,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1756416370
-      },
-      "updated": {
-        "sec": 1756418533
-      }
-    },
-    {
-      "_id": {
         "$id": "68b0cf8cecf0ca4093461d04"
       },
       "id": "20251156241",
@@ -1241,8 +1017,8 @@
       "location": "Braga, Guimarães, Serzedelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Serzedelo",
@@ -1253,9 +1029,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Serzedelo ",
       "active": true,
@@ -1279,7 +1055,7 @@
         "sec": 1756417932
       },
       "updated": {
-        "sec": 1756418532
+        "sec": 1756420214
       }
     },
     {
@@ -1308,9 +1084,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Lugar Da Portela    ",
       "active": true,
@@ -1334,7 +1110,7 @@
         "sec": 1756418293
       },
       "updated": {
-        "sec": 1756418311
+        "sec": 1756419625
       }
     }
   ]
