@@ -15,8 +15,8 @@
       "location": "Coimbra, Arganil, Piódão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 95,
-      "terrain": 29,
+      "man": 90,
+      "terrain": 28,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Piódão",
@@ -53,7 +53,7 @@
         "sec": 1755058452
       },
       "updated": {
-        "sec": 1756484298
+        "sec": 1756486192
       }
     },
     {
@@ -683,8 +683,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Zebreira E Segura",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 77,
-      "terrain": 22,
+      "man": 75,
+      "terrain": 21,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Zebreira E Segura",
@@ -725,7 +725,7 @@
         "sec": 1756479134
       },
       "updated": {
-        "sec": 1756485372
+        "sec": 1756486192
       }
     },
     {
@@ -874,8 +874,12 @@
       "sharepointId": 25916605,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 323.519,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Aldeia Nova (Aldeia Nova)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -890,7 +894,117 @@
         "sec": 1756485855
       },
       "updated": {
+        "sec": 1756486210
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b1d8df306ec67a636e2b3c"
+      },
+      "id": "20251159902",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756485480
+      },
+      "date": "29-08-2025",
+      "hour": "17:38",
+      "location": "Évora, Montemor-o-Novo, Cortiçadas De Lavre E Lavre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Évora",
+      "concelho": "Montemor-o-novo",
+      "freguesia": "Cortiçadas De Lavre E Lavre",
+      "dico": "0706",
+      "lat": 38.789047,
+      "lng": -8.381612,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Monte Do Rosal ",
+      "active": true,
+      "sadoId": "20251159902",
+      "sharepointId": 25916622,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
         "sec": 1756485855
+      },
+      "updated": {
+        "sec": 1756486192
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b1da30718e4c1ca1083f26"
+      },
+      "id": "20251159911",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756485780
+      },
+      "date": "29-08-2025",
+      "hour": "17:43",
+      "location": "Évora, Montemor-o-Novo, Foros De Vale De Figueira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Évora",
+      "concelho": "Montemor-o-novo",
+      "freguesia": "Foros De Vale De Figueira",
+      "dico": "0706",
+      "lat": 38.74779,
+      "lng": -8.348353,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Foros De Vale De Figueira ",
+      "active": true,
+      "sadoId": "20251159911",
+      "sharepointId": 25916631,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1756486192
+      },
+      "updated": {
+        "sec": 1756486237
       }
     }
   ]
