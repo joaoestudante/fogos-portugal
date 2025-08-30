@@ -404,8 +404,8 @@
       "location": "Viseu, São João da Pesqueira, São João Da Pesqueira E Várzea De Trevões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "São João Da Pesqueira",
       "freguesia": "São João Da Pesqueira E Várzea De Trevões",
@@ -446,7 +446,7 @@
         "sec": 1756503016
       },
       "updated": {
-        "sec": 1756591574
+        "sec": 1756597218
       }
     },
     {
@@ -632,8 +632,8 @@
       "location": "Viseu, Viseu, Bodiosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
+      "man": 17,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Bodiosa",
@@ -670,7 +670,7 @@
         "sec": 1756588453
       },
       "updated": {
-        "sec": 1756596852
+        "sec": 1756596972
       }
     },
     {
@@ -695,8 +695,8 @@
       "dico": "1421",
       "lat": 39.61314,
       "lng": -8.601452,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -729,7 +729,7 @@
         "sec": 1756588577
       },
       "updated": {
-        "sec": 1756596851
+        "sec": 1756597218
       }
     },
     {
@@ -801,8 +801,8 @@
       "location": "Viseu, Sernancelhe, Sernancelhe E Sarzeda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 11,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Sernancelhe",
       "freguesia": "Sernancelhe E Sarzeda",
@@ -839,7 +839,7 @@
         "sec": 1756593615
       },
       "updated": {
-        "sec": 1756595895
+        "sec": 1756597333
       }
     },
     {
@@ -911,8 +911,8 @@
       "location": "Lisboa, Oeiras, Algés, Linda-a-velha E Cruz Quebrada-dafundo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Oeiras",
       "freguesia": "Algés, Linda-a-velha E Cruz Quebrada-dafundo",
@@ -923,9 +923,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Cruz Quebrada ",
       "active": true,
@@ -949,7 +949,7 @@
         "sec": 1756596732
       },
       "updated": {
-        "sec": 1756596851
+        "sec": 1756597218
       }
     },
     {
@@ -966,8 +966,8 @@
       "location": "Guarda, Seia, Sabugueiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 25,
+      "terrain": 5,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Sabugueiro",
@@ -978,9 +978,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Sabugueiro ",
       "active": true,
@@ -1004,7 +1004,62 @@
         "sec": 1756596732
       },
       "updated": {
-        "sec": 1756596777
+        "sec": 1756597332
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b38be2709883056342dae4"
+      },
+      "id": "20251165735",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756596960
+      },
+      "date": "31-08-2025",
+      "hour": "00:36",
+      "location": "Coimbra, Coimbra, Eiras E São Paulo De Frades",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Coimbra",
+      "concelho": "Coimbra",
+      "freguesia": "Eiras E São Paulo De Frades",
+      "dico": "0603",
+      "lat": 40.24045,
+      "lng": -8.36312,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Eiras E São Paulo De Frades ",
+      "active": true,
+      "sadoId": "20251165735",
+      "sharepointId": 25922455,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1756597218
+      },
+      "updated": {
+        "sec": 1756597254
       }
     }
   ]
