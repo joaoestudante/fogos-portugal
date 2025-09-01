@@ -347,10 +347,10 @@
       "date": "01-09-2025",
       "hour": "11:34",
       "location": "Setúbal, Montijo, Pegões",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 31,
+      "terrain": 7,
       "district": "Setúbal",
       "concelho": "Montijo",
       "freguesia": "Pegões",
@@ -387,7 +387,7 @@
         "sec": 1756723096
       },
       "updated": {
-        "sec": 1756723453
+        "sec": 1756723937
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Porto, Maia, Nogueira E Silva Escura",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 9,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Nogueira E Silva Escura",
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Nogueira E Silva Escura ",
       "active": true,
@@ -442,7 +442,62 @@
         "sec": 1756723453
       },
       "updated": {
-        "sec": 1756723473
+        "sec": 1756724055
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b57a6d761dc63250152130"
+      },
+      "id": "20251171475",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756723620
+      },
+      "date": "01-09-2025",
+      "hour": "11:47",
+      "location": "Lisboa, Loures, Sacavém E Prior Velho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Sacavém E Prior Velho",
+      "dico": "1107",
+      "lat": 38.80099,
+      "lng": -9.11765,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Sacavém E Prior Velho ",
+      "active": true,
+      "sadoId": "20251171475",
+      "sharepointId": 25928195,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1756723821
+      },
+      "updated": {
+        "sec": 1756723859
       }
     }
   ]
