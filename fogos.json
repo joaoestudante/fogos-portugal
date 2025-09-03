@@ -337,65 +337,6 @@
     },
     {
       "_id": {
-        "$id": "68b86ca051eb6c19b75a7e1e"
-      },
-      "id": "20251182367",
-      "coords": true,
-      "dateTime": {
-        "sec": 1756916520
-      },
-      "date": "03-09-2025",
-      "hour": "17:22",
-      "location": "Beja, Ferreira do Alentejo, Alfundão E Peroguarda",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Beja",
-      "concelho": "Ferreira Do Alentejo",
-      "freguesia": "Alfundão E Peroguarda",
-      "dico": "0208",
-      "lat": 38.060773,
-      "lng": -8.057928,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Cerro Do Monte Do Arrais ",
-      "active": true,
-      "sadoId": "20251182367",
-      "sharepointId": 25939087,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 83.9025,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(38.06620260.-8.07766140) - N121. 7900 Ferreira do Alentejo. Portugal (IP8 (EN121) Km 55)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "created": {
-        "sec": 1756916896
-      },
-      "updated": {
-        "sec": 1756937533
-      }
-    },
-    {
-      "_id": {
         "$id": "68b8b5be57ca6b43383dd511"
       },
       "id": "20251183490",
@@ -463,21 +404,21 @@
       "location": "Santarém, Ourém, Nossa Senhora Das Misericórdias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Nossa Senhora Das Misericórdias",
       "dico": "1421",
-      "lat": 39.620411,
-      "lng": -8.577882,
+      "lat": 39.623942,
+      "lng": -8.595488,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vale Porto ",
       "active": true,
@@ -501,7 +442,7 @@
         "sec": 1756937414
       },
       "updated": {
-        "sec": 1756938014
+        "sec": 1756938973
       }
     },
     {
@@ -518,8 +459,8 @@
       "location": "Setúbal, Moita, Alhos Vedros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 17,
+      "terrain": 4,
       "district": "Setúbal",
       "concelho": "Moita",
       "freguesia": "Alhos Vedros",
@@ -530,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Alhos Vedros ",
       "active": true,
@@ -556,7 +497,62 @@
         "sec": 1756938014
       },
       "updated": {
-        "sec": 1756938052
+        "sec": 1756938973
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b8c1eff43ee116bc764264"
+      },
+      "id": "20251183622",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756938240
+      },
+      "date": "03-09-2025",
+      "hour": "23:24",
+      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Castelo Branco",
+      "dico": "0502",
+      "lat": 39.859008,
+      "lng": -7.493703,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Castelo Branco ",
+      "active": true,
+      "sadoId": "20251183622",
+      "sharepointId": 25940342,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1756938735
+      },
+      "updated": {
+        "sec": 1756938973
       }
     }
   ]
