@@ -180,8 +180,8 @@
       "location": "Guarda, Celorico da Beira, São Pedro E Santa Maria E Vila Boa Do Mondego",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 8,
+      "man": 23,
+      "terrain": 7,
       "district": "Guarda",
       "concelho": "Celorico Da Beira",
       "freguesia": "São Pedro E Santa Maria E Vila Boa Do Mondego",
@@ -218,7 +218,7 @@
         "sec": 1756985773
       },
       "updated": {
-        "sec": 1757002217
+        "sec": 1757004735
       }
     },
     {
@@ -288,9 +288,9 @@
       "date": "04-09-2025",
       "hour": "16:10",
       "location": "Portalegre, Nisa, Arez E Amieira Do Tejo",
-      "aerial": 2,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 105,
+      "man": 99,
       "terrain": 26,
       "district": "Portalegre",
       "concelho": "Nisa",
@@ -328,7 +328,7 @@
         "sec": 1756998853
       },
       "updated": {
-        "sec": 1757004018
+        "sec": 1757004254
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Porto, Vila Nova de Gaia, Pedroso E Seixezelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Pedroso E Seixezelo",
@@ -471,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Pedroso ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1757001636
       },
       "updated": {
-        "sec": 1757002218
+        "sec": 1757004495
       }
     },
     {
@@ -571,10 +571,10 @@
       "date": "04-09-2025",
       "hour": "17:22",
       "location": "Lisboa, Sobral de Monte Agraço, Santo Quintino",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Sobral De Monte Agraço",
       "freguesia": "Santo Quintino",
@@ -585,9 +585,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Seramena ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1757003774
       },
       "updated": {
-        "sec": 1757004018
+        "sec": 1757004254
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Coimbra, Penacova, Lorvão",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 48,
+      "terrain": 10,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Lorvão",
@@ -666,7 +666,66 @@
         "sec": 1757003896
       },
       "updated": {
-        "sec": 1757004018
+        "sec": 1757004735
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b9c25405e493423771cbfb"
+      },
+      "id": "20251186981",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757004180
+      },
+      "date": "04-09-2025",
+      "hour": "17:43",
+      "location": "Aveiro, Arouca, Escariz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Arouca",
+      "freguesia": "Escariz",
+      "dico": "0104",
+      "lat": 40.92901,
+      "lng": -8.397018,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Escariz ",
+      "active": true,
+      "sadoId": "20251186981",
+      "sharepointId": 25943701,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 517.059,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Fonte de Gestosa. Escariz. AV. Portugal (Alagoas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1757004372
+      },
+      "updated": {
+        "sec": 1757004396
       }
     }
   ]
