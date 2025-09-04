@@ -70,8 +70,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -108,7 +108,7 @@
         "sec": 1755175815
       },
       "updated": {
-        "sec": 1756921456
+        "sec": 1756973414
       }
     },
     {
@@ -178,10 +178,10 @@
       "date": "04-09-2025",
       "hour": "08:33",
       "location": "Guarda, Aguiar da Beira, Pinheiro",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Aguiar Da Beira",
       "freguesia": "Pinheiro",
@@ -218,7 +218,7 @@
         "sec": 1756971373
       },
       "updated": {
-        "sec": 1756972216
+        "sec": 1756973414
       }
     },
     {
@@ -278,46 +278,42 @@
     },
     {
       "_id": {
-        "$id": "68b943509fdc0f64e81a98d2"
+        "$id": "68b9452f9fdc0f64e81a98e2"
       },
-      "id": "20251184382",
+      "id": "20251184379",
       "coords": true,
       "dateTime": {
-        "sec": 1756971420
+        "sec": 1756971360
       },
       "date": "04-09-2025",
-      "hour": "08:37",
-      "location": "Setúbal, Seixal, Corroios",
+      "hour": "08:36",
+      "location": "Aveiro, Albergaria-a-Velha, Angeja",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
-      "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Corroios",
-      "dico": "1510",
-      "lat": 38.63641,
-      "lng": -9.151863,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Albergaria-a-velha",
+      "freguesia": "Angeja",
+      "dico": "0102",
+      "lat": 40.689689,
+      "lng": -8.573428,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Corroios ",
+      "localidade": "Angeja ",
       "active": true,
-      "sadoId": "20251184382",
-      "sharepointId": 25941102,
+      "sadoId": "20251184379",
+      "sharepointId": 25941099,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 17.1075,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Autoestrada 2 Junto a Estação de Corroios (A2-S-N Km 10)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -326,13 +322,131 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
       "created": {
-        "sec": 1756971856
+        "sec": 1756972335
       },
       "updated": {
-        "sec": 1756971975
+        "sec": 1756972453
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b947239fdc0f64e81a98f5"
+      },
+      "id": "20251184468",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756972260
+      },
+      "date": "04-09-2025",
+      "hour": "08:51",
+      "location": "Porto, Vila Nova de Gaia, Pedroso E Seixezelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Pedroso E Seixezelo",
+      "dico": "1317",
+      "lat": 41.067659,
+      "lng": -8.55728,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251184468",
+      "sharepointId": 25941188,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 114.527,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Travessa dos Missionários Claretianos (Travessa de Sanhoane)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1756972835
+      },
+      "updated": {
+        "sec": 1756972886
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b94966242e4a4d4c749f5c"
+      },
+      "id": "20251184520",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756973100
+      },
+      "date": "04-09-2025",
+      "hour": "09:05",
+      "location": "Porto, Valongo, Campo E Sobrado",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Campo E Sobrado",
+      "dico": "1315",
+      "lat": 41.210418,
+      "lng": -8.46103,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobrado ",
+      "active": true,
+      "sadoId": "20251184520",
+      "sharepointId": 25941240,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 117.849,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "5  Caminhos (SOBRADO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1756973414
+      },
+      "updated": {
+        "sec": 1756973469
       }
     }
   ]
