@@ -178,10 +178,10 @@
       "date": "04-09-2025",
       "hour": "08:33",
       "location": "Guarda, Aguiar da Beira, Pinheiro",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 28,
+      "terrain": 5,
       "district": "Guarda",
       "concelho": "Aguiar Da Beira",
       "freguesia": "Pinheiro",
@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pinheiro ",
       "active": true,
@@ -218,7 +218,121 @@
         "sec": 1756971373
       },
       "updated": {
-        "sec": 1756971494
+        "sec": 1756972216
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b943509fdc0f64e81a98d0"
+      },
+      "id": "20251184393",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756971540
+      },
+      "date": "04-09-2025",
+      "hour": "08:39",
+      "location": "Porto, Maia, Pedrouços",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Pedrouços",
+      "dico": "1306",
+      "lat": 41.1978,
+      "lng": -8.596108,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Pedrouços ",
+      "active": true,
+      "sadoId": "20251184393",
+      "sharepointId": 25941113,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1756971856
+      },
+      "updated": {
+        "sec": 1756971875
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b943509fdc0f64e81a98d2"
+      },
+      "id": "20251184382",
+      "coords": true,
+      "dateTime": {
+        "sec": 1756971420
+      },
+      "date": "04-09-2025",
+      "hour": "08:37",
+      "location": "Setúbal, Seixal, Corroios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Setúbal",
+      "concelho": "Seixal",
+      "freguesia": "Corroios",
+      "dico": "1510",
+      "lat": 38.63641,
+      "lng": -9.151863,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Corroios ",
+      "active": true,
+      "sadoId": "20251184382",
+      "sharepointId": 25941102,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 17.1075,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada 2 Junto a Estação de Corroios (A2-S-N Km 10)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1756971856
+      },
+      "updated": {
+        "sec": 1756971975
       }
     }
   ]
