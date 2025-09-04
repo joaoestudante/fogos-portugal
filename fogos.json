@@ -180,8 +180,8 @@
       "location": "Guarda, Celorico da Beira, São Pedro E Santa Maria E Vila Boa Do Mondego",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 49,
-      "terrain": 14,
+      "man": 38,
+      "terrain": 10,
       "district": "Guarda",
       "concelho": "Celorico Da Beira",
       "freguesia": "São Pedro E Santa Maria E Vila Boa Do Mondego",
@@ -218,7 +218,7 @@
         "sec": 1756985773
       },
       "updated": {
-        "sec": 1756999093
+        "sec": 1757000966
       }
     },
     {
@@ -290,14 +290,14 @@
       "location": "Portalegre, Nisa, Arez E Amieira Do Tejo",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 98,
-      "terrain": 23,
+      "man": 116,
+      "terrain": 28,
       "district": "Portalegre",
       "concelho": "Nisa",
       "freguesia": "Arez E Amieira Do Tejo",
       "dico": "1212",
-      "lat": 39.464766,
-      "lng": -7.767524,
+      "lat": 39.462882,
+      "lng": -7.764517,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -306,7 +306,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Arez ",
+      "localidade": "Monte Velho Do Pereiro ",
       "active": true,
       "sadoId": "20251186559",
       "sharepointId": 25943279,
@@ -328,7 +328,7 @@
         "sec": 1756998853
       },
       "updated": {
-        "sec": 1757000301
+        "sec": 1757001108
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Porto, Vila Nova de Gaia, Vilar De Andorinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Vilar De Andorinho",
@@ -383,7 +383,7 @@
         "sec": 1756999214
       },
       "updated": {
-        "sec": 1757000054
+        "sec": 1757000966
       }
     },
     {
@@ -412,9 +412,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -438,7 +438,7 @@
         "sec": 1757000054
       },
       "updated": {
-        "sec": 1757000074
+        "sec": 1757000967
       }
     },
     {
@@ -453,10 +453,10 @@
       "date": "04-09-2025",
       "hour": "16:34",
       "location": "Évora, Évora, São Miguel De Machede",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 29,
+      "terrain": 6,
       "district": "Évora",
       "concelho": "Évora",
       "freguesia": "São Miguel De Machede",
@@ -467,18 +467,22 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Redondo ",
+      "localidade": "Quinta Parede ",
       "active": true,
       "sadoId": "20251186676",
       "sharepointId": 25943396,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 228.476,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Quinta Parede (MACACA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -493,7 +497,66 @@
         "sec": 1757000301
       },
       "updated": {
-        "sec": 1757000301
+        "sec": 1757001060
+      }
+    },
+    {
+      "_id": {
+        "$id": "68b9b50605e493423771cb53"
+      },
+      "id": "20251186699",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757000100
+      },
+      "date": "04-09-2025",
+      "hour": "16:35",
+      "location": "Setúbal, Montijo, Pegões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Pegões",
+      "dico": "1507",
+      "lat": 38.678234,
+      "lng": -8.618044,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pegões ",
+      "active": true,
+      "sadoId": "20251186699",
+      "sharepointId": 25943419,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 58.7306,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "EN10 Km76 (PEGÕES)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1757000966
+      },
+      "updated": {
+        "sec": 1757001104
       }
     }
   ]
