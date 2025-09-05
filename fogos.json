@@ -518,8 +518,8 @@
       "location": "Vila Real, Montalegre, Cambeses Do Rio, Donões E Mourilhe",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 6,
+      "man": 45,
+      "terrain": 8,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Cambeses Do Rio, Donões E Mourilhe",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Cambezes Do Rio ",
       "active": true,
@@ -556,7 +556,7 @@
         "sec": 1757074454
       },
       "updated": {
-        "sec": 1757076255
+        "sec": 1757078895
       }
     },
     {
@@ -571,10 +571,10 @@
       "date": "05-09-2025",
       "hour": "13:15",
       "location": "Leiria, Alcobaça, Aljubarrota",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 49,
-      "terrain": 12,
+      "man": 31,
+      "terrain": 9,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Aljubarrota",
@@ -611,7 +611,7 @@
         "sec": 1757074820
       },
       "updated": {
-        "sec": 1757076493
+        "sec": 1757078777
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Lisboa, Loures, Bucelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 19,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Loures",
       "freguesia": "Bucelas",
@@ -640,9 +640,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Zambujal      ",
       "active": true,
@@ -666,7 +666,121 @@
         "sec": 1757076857
       },
       "updated": {
-        "sec": 1757076876
+        "sec": 1757078656
+      }
+    },
+    {
+      "_id": {
+        "$id": "68badef6477c1d6e88694075"
+      },
+      "id": "20251190631",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757076900
+      },
+      "date": "05-09-2025",
+      "hour": "13:55",
+      "location": "Viseu, Cinfães, Cinfães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Cinfães",
+      "dico": "1804",
+      "lat": 41.060732,
+      "lng": -8.081287,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Cinfães ",
+      "active": true,
+      "sadoId": "20251190631",
+      "sharepointId": 25947351,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 468.989,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travassos. Cinfães. Portugal (ER321 (ER321) Km 27)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1757077238
+      },
+      "updated": {
+        "sec": 1757078895
+      }
+    },
+    {
+      "_id": {
+        "$id": "68bae4802f6a93497735fc17"
+      },
+      "id": "20251190753",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757078220
+      },
+      "date": "05-09-2025",
+      "hour": "14:17",
+      "location": "Santarém, Ourém, Freixianda, Ribeira Do Fárrio E Formigais",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 55,
+      "terrain": 10,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Freixianda, Ribeira Do Fárrio E Formigais",
+      "dico": "1421",
+      "lat": 39.731777,
+      "lng": -8.446891,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Botelha ",
+      "active": true,
+      "sadoId": "20251190753",
+      "sharepointId": 25947473,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "created": {
+        "sec": 1757078656
+      },
+      "updated": {
+        "sec": 1757079015
       }
     }
   ]
