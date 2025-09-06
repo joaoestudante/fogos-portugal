@@ -302,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Parada Do Outeiro (Pnp Gerês) ",
       "active": true,
@@ -328,7 +328,7 @@
         "sec": 1757147534
       },
       "updated": {
-        "sec": 1757149336
+        "sec": 1757150419
       }
     },
     {
@@ -345,8 +345,8 @@
       "location": "Vila Real, Chaves, Ervededo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
+      "man": 9,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Ervededo",
@@ -357,9 +357,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ervededo ",
       "active": true,
@@ -383,7 +383,66 @@
         "sec": 1757147892
       },
       "updated": {
-        "sec": 1757149336
+        "sec": 1757150657
+      }
+    },
+    {
+      "_id": {
+        "$id": "68bbfa78f0bcee736b0c6d83"
+      },
+      "id": "20251194344",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757149500
+      },
+      "date": "06-09-2025",
+      "hour": "10:05",
+      "location": "Bragança, Vinhais, Soeira, Fresulfe E Mofreita",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 34,
+      "terrain": 7,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Soeira, Fresulfe E Mofreita",
+      "dico": "0412",
+      "lat": 41.91557,
+      "lng": -6.9127,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Soeira, Fresulfe E Mofreita ",
+      "active": true,
+      "sadoId": "20251194344",
+      "sharepointId": 25951064,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 907.062,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.91557000.-6.91270000) - N308. 5320-060 Vinhais. Portugal (FACHO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1757149816
+      },
+      "updated": {
+        "sec": 1757150657
       }
     }
   ]
