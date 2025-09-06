@@ -180,8 +180,8 @@
       "location": "Setúbal, Montijo, Pegões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Montijo",
       "freguesia": "Pegões",
@@ -218,7 +218,7 @@
         "sec": 1757137333
       },
       "updated": {
-        "sec": 1757151615
+        "sec": 1757153419
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Faro, Lagos, Bensafrim E Barão De São João",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Bensafrim E Barão De São João",
@@ -273,7 +273,7 @@
         "sec": 1757143222
       },
       "updated": {
-        "sec": 1757151976
+        "sec": 1757152693
       }
     },
     {
@@ -290,8 +290,8 @@
       "location": "Vila Real, Montalegre, Outeiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 4,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Outeiro",
@@ -302,9 +302,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
       "important": false,
       "localidade": "Parada Do Outeiro (Pnp Gerês) ",
       "active": true,
@@ -328,7 +328,7 @@
         "sec": 1757147534
       },
       "updated": {
-        "sec": 1757151976
+        "sec": 1757154015
       }
     },
     {
@@ -342,14 +342,14 @@
       },
       "date": "06-09-2025",
       "hour": "10:05",
-      "location": "Bragança, Vinhais, Soeira, Fresulfe E Mofreita",
-      "aerial": 2,
+      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 36,
+      "man": 37,
       "terrain": 8,
       "district": "Bragança",
       "concelho": "Vinhais",
-      "freguesia": "Soeira, Fresulfe E Mofreita",
+      "freguesia": "Moimenta E Montouto",
       "dico": "0412",
       "lat": 41.966033,
       "lng": -6.971422,
@@ -361,7 +361,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "União Das Freguesias De Soeira, Fresulfe E Mofreita ",
+      "localidade": "Moimenta ",
       "active": true,
       "sadoId": "20251194344",
       "sharepointId": 25951064,
@@ -387,7 +387,7 @@
         "sec": 1757149816
       },
       "updated": {
-        "sec": 1757152335
+        "sec": 1757154014
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Guarda, Seia, Sandomil",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 64,
-      "terrain": 13,
+      "man": 67,
+      "terrain": 15,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Sandomil",
@@ -442,7 +442,62 @@
         "sec": 1757151137
       },
       "updated": {
-        "sec": 1757152217
+        "sec": 1757153419
+      }
+    },
+    {
+      "_id": {
+        "$id": "68bc088b4a769c0af41749e2"
+      },
+      "id": "20251194648",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757153040
+      },
+      "date": "06-09-2025",
+      "hour": "11:04",
+      "location": "Vila Real, Murça, Jou",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Murça",
+      "freguesia": "Jou",
+      "dico": "1707",
+      "lat": 41.463277,
+      "lng": -7.414342,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Toubres ",
+      "active": true,
+      "sadoId": "20251194648",
+      "sharepointId": 25951368,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1757153419
+      },
+      "updated": {
+        "sec": 1757154015
       }
     }
   ]
