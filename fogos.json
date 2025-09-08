@@ -123,9 +123,9 @@
       "date": "06-09-2025",
       "hour": "10:29",
       "location": "Guarda, Seia, Sandomil",
-      "aerial": 3,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 63,
+      "man": 61,
       "terrain": 17,
       "district": "Guarda",
       "concelho": "Seia",
@@ -163,7 +163,7 @@
         "sec": 1757151137
       },
       "updated": {
-        "sec": 1757337856
+        "sec": 1757338335
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Leiria, Pousos, Barreira E Cortes ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1757336518
       },
       "updated": {
-        "sec": 1757337616
+        "sec": 1757338820
       }
     },
     {
@@ -469,15 +469,15 @@
       "concelho": "Bombarral",
       "freguesia": "Pó",
       "dico": "1005",
-      "lat": 39.306397,
-      "lng": -9.217722,
+      "lat": 39.313201,
+      "lng": -9.205568,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Pó ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1757337616
       },
       "updated": {
-        "sec": 1757338095
+        "sec": 1757338819
       }
     },
     {
@@ -530,9 +530,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Arcos ",
       "active": true,
@@ -560,7 +560,7 @@
         "sec": 1757338095
       },
       "updated": {
-        "sec": 1757338216
+        "sec": 1757338820
       }
     },
     {
@@ -583,15 +583,15 @@
       "concelho": "Felgueiras",
       "freguesia": "Vila Cova Da Lixa E Borba De Godim",
       "dico": "1303",
-      "lat": 41.32349,
-      "lng": -8.142,
+      "lat": 41.323222,
+      "lng": -8.142763,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Vila Cova Da Lixa E Borba De Godim ",
       "active": true,
@@ -599,8 +599,12 @@
       "sharepointId": 25961370,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 376.177,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Largo do Terreiro. 4615-688 Felgueiras. Portugal (Lixa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -615,7 +619,121 @@
         "sec": 1757338216
       },
       "updated": {
-        "sec": 1757338216
+        "sec": 1757338692
+      }
+    },
+    {
+      "_id": {
+        "$id": "68bedadfe9a4460009622731"
+      },
+      "id": "20251204670",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757338140
+      },
+      "date": "08-09-2025",
+      "hour": "14:29",
+      "location": "Aveiro, Águeda, Valongo Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 4,
+      "district": "Aveiro",
+      "concelho": "Águeda",
+      "freguesia": "Valongo Do Vouga",
+      "dico": "0101",
+      "lat": 40.62484,
+      "lng": -8.44302,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Valongo Do Vouga ",
+      "active": true,
+      "sadoId": "20251204670",
+      "sharepointId": 25961390,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "created": {
+        "sec": 1757338335
+      },
+      "updated": {
+        "sec": 1757338934
+      }
+    },
+    {
+      "_id": {
+        "$id": "68bedc45e9a446000962273e"
+      },
+      "id": "20251204677",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757338260
+      },
+      "date": "08-09-2025",
+      "hour": "14:31",
+      "location": "Lisboa, Alenquer, Carregado E Cadafais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Carregado E Cadafais",
+      "dico": "1101",
+      "lat": 39.01867,
+      "lng": -8.99368,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Guizanderia  ",
+      "active": true,
+      "sadoId": "20251204677",
+      "sharepointId": 25961397,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 30.335,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Guizanderia (Casais da Marmeleira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1757338693
+      },
+      "updated": {
+        "sec": 1757338934
       }
     }
   ]
