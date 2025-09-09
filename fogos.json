@@ -70,8 +70,8 @@
       "location": "Coimbra, Lousã, Lousã E Vilarinho",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Lousã",
       "freguesia": "Lousã E Vilarinho",
@@ -108,7 +108,7 @@
         "sec": 1755175815
       },
       "updated": {
-        "sec": 1757070380
+        "sec": 1757413937
       }
     },
     {
@@ -123,9 +123,9 @@
       "date": "06-09-2025",
       "hour": "10:29",
       "location": "Guarda, Seia, Sandomil",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 61,
+      "man": 59,
       "terrain": 17,
       "district": "Guarda",
       "concelho": "Seia",
@@ -163,7 +163,7 @@
         "sec": 1757151137
       },
       "updated": {
-        "sec": 1757408536
+        "sec": 1757414424
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Amora ",
       "active": true,
@@ -442,7 +442,7 @@
         "sec": 1757412734
       },
       "updated": {
-        "sec": 1757412752
+        "sec": 1757413546
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Setúbal, Setúbal, Azeitão (São Lourenço E São Simão)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Azeitão (São Lourenço E São Simão)",
@@ -471,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Azeitão (São Lourenço E São Simão) ",
       "active": true,
@@ -481,8 +481,12 @@
       "sharepointId": 25965123,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 73.7519,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EN 379 (EN379 (EN379) Km 20)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -497,7 +501,66 @@
         "sec": 1757412854
       },
       "updated": {
-        "sec": 1757412854
+        "sec": 1757413640
+      }
+    },
+    {
+      "_id": {
+        "$id": "68c000aa779fe66cb707dbe4"
+      },
+      "id": "20251208464",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757413200
+      },
+      "date": "09-09-2025",
+      "hour": "11:20",
+      "location": "Leiria, Ansião, Pousaflores",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 30,
+      "terrain": 6,
+      "district": "Leiria",
+      "concelho": "Ansião",
+      "freguesia": "Pousaflores",
+      "dico": "1003",
+      "lat": 39.874037,
+      "lng": -8.461567,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pessegueiro ",
+      "active": true,
+      "sadoId": "20251208464",
+      "sharepointId": 25965184,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 198.657,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Pessegueiro (Vale das Burras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1757413546
+      },
+      "updated": {
+        "sec": 1757414295
       }
     }
   ]
