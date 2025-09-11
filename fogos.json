@@ -406,10 +406,10 @@
       "date": "11-09-2025",
       "hour": "17:36",
       "location": "Leiria, Caldas da Rainha, Vidais",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 35,
+      "terrain": 7,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Vidais",
@@ -420,9 +420,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vidais ",
       "active": true,
@@ -446,7 +446,62 @@
         "sec": 1757608934
       },
       "updated": {
-        "sec": 1757609300
+        "sec": 1757610735
+      }
+    },
+    {
+      "_id": {
+        "$id": "68c30145c3a9cb76670a3502"
+      },
+      "id": "20251219711",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757610060
+      },
+      "date": "11-09-2025",
+      "hour": "18:01",
+      "location": "Vila Real, Murça, Valongo De Milhais",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Murça",
+      "freguesia": "Valongo De Milhais",
+      "dico": "1707",
+      "lat": 41.455461,
+      "lng": -7.430604,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Serapicos ",
+      "active": true,
+      "sadoId": "20251219711",
+      "sharepointId": 25976431,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1757610309
+      },
+      "updated": {
+        "sec": 1757610619
       }
     }
   ]
