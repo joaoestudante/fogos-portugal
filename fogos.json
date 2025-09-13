@@ -345,8 +345,8 @@
       "location": "Leiria, Porto de Mós, Arrimal E Mendiga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "Arrimal E Mendiga",
@@ -383,7 +383,7 @@
         "sec": 1757772537
       },
       "updated": {
-        "sec": 1757775635
+        "sec": 1757778013
       }
     },
     {
@@ -400,8 +400,8 @@
       "location": "Bragança, Miranda do Douro, Silva E Águas Vivas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 12,
+      "terrain": 3,
       "district": "Bragança",
       "concelho": "Miranda Do Douro",
       "freguesia": "Silva E Águas Vivas",
@@ -442,7 +442,7 @@
         "sec": 1757774532
       },
       "updated": {
-        "sec": 1757777055
+        "sec": 1757778013
       }
     },
     {
@@ -471,9 +471,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Évora ",
       "active": true,
@@ -497,7 +497,7 @@
         "sec": 1757775898
       },
       "updated": {
-        "sec": 1757776831
+        "sec": 1757778136
       }
     },
     {
@@ -514,7 +514,7 @@
       "location": "Portalegre, Campo Maior, Nossa Senhora Da Graça Dos Degolados",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
+      "man": 21,
       "terrain": 6,
       "district": "Portalegre",
       "concelho": "Campo Maior",
@@ -552,7 +552,7 @@
         "sec": 1757775898
       },
       "updated": {
-        "sec": 1757777652
+        "sec": 1757778013
       }
     },
     {
@@ -567,10 +567,10 @@
       "date": "13-09-2025",
       "hour": "16:26",
       "location": "Castelo Branco, Fundão, Castelejo",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 28,
+      "terrain": 5,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Castelejo",
@@ -607,7 +607,7 @@
         "sec": 1757777294
       },
       "updated": {
-        "sec": 1757777653
+        "sec": 1757777773
       }
     },
     {
@@ -622,10 +622,10 @@
       "date": "13-09-2025",
       "hour": "16:26",
       "location": "Faro, Portimão, Mexilhoeira Grande",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 22,
+      "terrain": 6,
       "district": "Faro",
       "concelho": "Portimão",
       "freguesia": "Mexilhoeira Grande",
@@ -636,9 +636,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Mexilhoeira Grande ",
       "active": true,
@@ -666,7 +666,62 @@
         "sec": 1757777534
       },
       "updated": {
-        "sec": 1757777653
+        "sec": 1757778136
+      }
+    },
+    {
+      "_id": {
+        "$id": "68c58f6def26a67ae65fe647"
+      },
+      "id": "20251228564",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757777520
+      },
+      "date": "13-09-2025",
+      "hour": "16:32",
+      "location": "Lisboa, Alenquer, Carnota",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Carnota",
+      "dico": "1101",
+      "lat": 39.024,
+      "lng": -9.063301,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Carnota ",
+      "active": true,
+      "sadoId": "20251228564",
+      "sharepointId": 25985285,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1757777773
+      },
+      "updated": {
+        "sec": 1757778136
       }
     }
   ]
