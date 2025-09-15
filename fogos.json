@@ -125,8 +125,8 @@
       "location": "Vila Real, Murça, Carva E Vilares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 204,
-      "terrain": 64,
+      "man": 163,
+      "terrain": 52,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Carva E Vilares",
@@ -163,7 +163,7 @@
         "sec": 1757683934
       },
       "updated": {
-        "sec": 1757969053
+        "sec": 1757972775
       }
     },
     {
@@ -514,16 +514,16 @@
       "location": "Portalegre, Portalegre, Fortios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 67,
-      "terrain": 19,
+      "man": 55,
+      "terrain": 16,
       "district": "Portalegre",
       "concelho": "Portalegre",
       "freguesia": "Fortios",
       "dico": "1214",
       "lat": 39.279328,
       "lng": -7.470015,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -552,7 +552,7 @@
         "sec": 1757943858
       },
       "updated": {
-        "sec": 1757972053
+        "sec": 1757972897
       }
     },
     {
@@ -726,61 +726,6 @@
     },
     {
       "_id": {
-        "$id": "68c8731b967e984dbe6cd9d4"
-      },
-      "id": "20251239164",
-      "coords": true,
-      "dateTime": {
-        "sec": 1757966760
-      },
-      "date": "15-09-2025",
-      "hour": "21:06",
-      "location": "Faro, Albufeira, Albufeira E Olhos De Água",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Faro",
-      "concelho": "Albufeira",
-      "freguesia": "Albufeira E Olhos De Água",
-      "dico": "0801",
-      "lat": 37.100008,
-      "lng": -8.246567,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Albufeira E Olhos De Água ",
-      "active": true,
-      "sadoId": "20251239164",
-      "sharepointId": 25995885,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "created": {
-        "sec": 1757967131
-      },
-      "updated": {
-        "sec": 1757969053
-      }
-    },
-    {
-      "_id": {
         "$id": "68c8812ed567124f2c602d0a"
       },
       "id": "20251239360",
@@ -793,8 +738,8 @@
       "location": "Lisboa, Sintra, Algueirão-mem Martins",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 10,
+      "man": 47,
+      "terrain": 13,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Algueirão-mem Martins",
@@ -831,7 +776,66 @@
         "sec": 1757970734
       },
       "updated": {
-        "sec": 1757972053
+        "sec": 1757972416
+      }
+    },
+    {
+      "_id": {
+        "$id": "68c88927d567124f2c602d3c"
+      },
+      "id": "20251239433",
+      "coords": true,
+      "dateTime": {
+        "sec": 1757972220
+      },
+      "date": "15-09-2025",
+      "hour": "22:37",
+      "location": "Lisboa, Loures, Camarate, Unhos E Apelação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Camarate, Unhos E Apelação",
+      "dico": "1107",
+      "lat": 38.818158,
+      "lng": -9.13597,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Quinta Da Fonte ",
+      "active": true,
+      "sadoId": "20251239433",
+      "sharepointId": 25996154,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 52.5112,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Arcos (Quinta da Fonte)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1757972775
+      },
+      "updated": {
+        "sec": 1757972799
       }
     }
   ]
