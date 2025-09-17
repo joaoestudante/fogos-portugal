@@ -345,8 +345,8 @@
       "location": "Leiria, Alvaiázere, Pelmá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Alvaiázere",
       "freguesia": "Pelmá",
@@ -383,7 +383,7 @@
         "sec": 1758072133
       },
       "updated": {
-        "sec": 1758132972
+        "sec": 1758137534
       }
     },
     {
@@ -738,8 +738,8 @@
       "location": "Braga, Vizela, Santa Eulália",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 14,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vizela",
       "freguesia": "Santa Eulália",
@@ -750,9 +750,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Santa Eulália ",
       "active": true,
@@ -776,7 +776,7 @@
         "sec": 1758136217
       },
       "updated": {
-        "sec": 1758137056
+        "sec": 1758137535
       }
     },
     {
@@ -832,6 +832,61 @@
       },
       "updated": {
         "sec": 1758137056
+      }
+    },
+    {
+      "_id": {
+        "$id": "68cb0cbe41632e140a5f0325"
+      },
+      "id": "20251248899",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758137100
+      },
+      "date": "17-09-2025",
+      "hour": "20:25",
+      "location": "Faro, Albufeira, Ferreiras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Ferreiras",
+      "dico": "0801",
+      "lat": 37.119669,
+      "lng": -8.24221,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ferreiras ",
+      "active": true,
+      "sadoId": "20251248899",
+      "sharepointId": 26005620,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1758137534
+      },
+      "updated": {
+        "sec": 1758137552
       }
     }
   ]
