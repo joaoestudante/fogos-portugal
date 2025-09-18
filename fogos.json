@@ -463,8 +463,8 @@
       "location": "Portalegre, Alter do Chão, Seda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Portalegre",
       "concelho": "Alter Do Chão",
       "freguesia": "Seda",
@@ -505,7 +505,7 @@
         "sec": 1758213462
       },
       "updated": {
-        "sec": 1758224966
+        "sec": 1758225853
       }
     },
     {
@@ -636,23 +636,23 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Portela E Extremo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Portela E Extremo",
       "dico": "1601",
-      "lat": 41.957455,
-      "lng": -8.462649,
+      "lat": 41.970253,
+      "lng": -8.445827,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Eólicas ",
+      "localidade": "Mourisca ",
       "active": true,
       "sadoId": "20251253810",
       "sharepointId": 26010531,
@@ -674,62 +674,7 @@
         "sec": 1758221415
       },
       "updated": {
-        "sec": 1758223219
-      }
-    },
-    {
-      "_id": {
-        "$id": "68cc5827b9a74c0d5a3c8073"
-      },
-      "id": "20251253849",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758222000
-      },
-      "date": "18-09-2025",
-      "hour": "20:00",
-      "location": "Lisboa, Arruda Dos Vinhos, Santiago Dos Velhos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Arruda Dos Vinhos",
-      "freguesia": "Santiago Dos Velhos",
-      "dico": "1102",
-      "lat": 38.93811,
-      "lng": -9.10363,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "S. Tiago Dos Velhos ",
-      "active": true,
-      "sadoId": "20251253849",
-      "sharepointId": 26010570,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "created": {
-        "sec": 1758222375
-      },
-      "updated": {
-        "sec": 1758223697
+        "sec": 1758225853
       }
     },
     {
@@ -856,8 +801,8 @@
       "location": "Porto, Vila Nova de Gaia, Gulpilhares E Valadares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Gulpilhares E Valadares",
@@ -868,9 +813,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Gulpilhares E Valadares ",
       "active": true,
@@ -898,7 +843,66 @@
         "sec": 1758224421
       },
       "updated": {
-        "sec": 1758225033
+        "sec": 1758225982
+      }
+    },
+    {
+      "_id": {
+        "$id": "68cc64e92ab770177d286975"
+      },
+      "id": "20251254051",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758225360
+      },
+      "date": "18-09-2025",
+      "hour": "20:56",
+      "location": "Faro, Portimão, Portimão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Portimão",
+      "dico": "0811",
+      "lat": 37.154991,
+      "lng": -8.559715,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Aldeia Do Carrasco ",
+      "active": true,
+      "sadoId": "20251254051",
+      "sharepointId": 26010772,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 12.1587,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.15202227.-8.55553256) - N125. 8500-338 Portimão. Portugal (Cabeço do Mocho)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1758225641
+      },
+      "updated": {
+        "sec": 1758226220
       }
     }
   ]
