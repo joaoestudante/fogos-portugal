@@ -345,8 +345,8 @@
       "location": "Faro, Monchique, Monchique",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 15,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Monchique",
@@ -383,7 +383,7 @@
         "sec": 1758267018
       },
       "updated": {
-        "sec": 1758270619
+        "sec": 1758271694
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Porto, Valongo, Campo E Sobrado",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Campo E Sobrado",
@@ -526,9 +526,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "União Das Freguesias De Campo E Sobrado ",
       "active": true,
@@ -552,7 +552,66 @@
         "sec": 1758271096
       },
       "updated": {
-        "sec": 1758271115
+        "sec": 1758271694
+      }
+    },
+    {
+      "_id": {
+        "$id": "68cd1707196e8c50891530e2"
+      },
+      "id": "20251255713",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758270660
+      },
+      "date": "19-09-2025",
+      "hour": "09:31",
+      "location": "Beja, Odemira, São Teotónio",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "São Teotónio",
+      "dico": "0211",
+      "lat": 37.50632,
+      "lng": -8.694348,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Teotónio ",
+      "active": true,
+      "sadoId": "20251255713",
+      "sharepointId": 26012434,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 152.003,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.50632409.-8.69434875) - M501. 7630-560 Odemira. Portugal (Espadanas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "created": {
+        "sec": 1758271239
+      },
+      "updated": {
+        "sec": 1758271695
       }
     }
   ]
