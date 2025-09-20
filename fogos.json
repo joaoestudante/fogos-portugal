@@ -237,9 +237,9 @@
       "date": "19-09-2025",
       "hour": "11:56",
       "location": "Viseu, Viseu, Barreiros E Cepões",
-      "aerial": 1,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 186,
+      "man": 192,
       "terrain": 59,
       "district": "Viseu",
       "concelho": "Viseu",
@@ -281,7 +281,7 @@
         "sec": 1758279714
       },
       "updated": {
-        "sec": 1758372613
+        "sec": 1758374176
       }
     },
     {
@@ -465,9 +465,9 @@
       "date": "20-09-2025",
       "hour": "01:20",
       "location": "Vila Real, Montalegre, Gralhas",
-      "aerial": 8,
+      "aerial": 9,
       "meios_aquaticos": 0,
-      "man": 83,
+      "man": 89,
       "terrain": 16,
       "district": "Vila Real",
       "concelho": "Montalegre",
@@ -505,7 +505,7 @@
         "sec": 1758327976
       },
       "updated": {
-        "sec": 1758370814
+        "sec": 1758375018
       }
     },
     {
@@ -691,8 +691,8 @@
       "location": "Lisboa, Odivelas, Póvoa De Santo Adrião E Olival Basto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Odivelas",
       "freguesia": "Póvoa De Santo Adrião E Olival Basto",
@@ -703,9 +703,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Póvoa De Santo Adrião ",
       "active": true,
@@ -733,7 +733,7 @@
         "sec": 1758373238
       },
       "updated": {
-        "sec": 1758373700
+        "sec": 1758375019
       }
     },
     {
@@ -750,21 +750,21 @@
       "location": "Portalegre, Ponte de Sor, Ponte De Sor, Tramaga E Vale De Açor",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 14,
+      "terrain": 5,
       "district": "Portalegre",
       "concelho": "Ponte De Sor",
       "freguesia": "Ponte De Sor, Tramaga E Vale De Açor",
       "dico": "1213",
-      "lat": 39.284468,
-      "lng": -7.983585,
+      "lat": 39.278912,
+      "lng": -7.988607,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Fazenda ",
       "active": true,
@@ -788,7 +788,117 @@
         "sec": 1758373935
       },
       "updated": {
-        "sec": 1758373935
+        "sec": 1758375019
+      }
+    },
+    {
+      "_id": {
+        "$id": "68cea920fd69471a3d7c7bbd"
+      },
+      "id": "20251262265",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758374100
+      },
+      "date": "20-09-2025",
+      "hour": "14:15",
+      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Castelo Branco",
+      "dico": "0502",
+      "lat": 39.80579,
+      "lng": -7.52309,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Castelo Branco ",
+      "active": true,
+      "sadoId": "20251262265",
+      "sharepointId": 26018986,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1758374176
+      },
+      "updated": {
+        "sec": 1758375019
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ceab01fd69471a3d7c7bcd"
+      },
+      "id": "20251262093",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758372000
+      },
+      "date": "20-09-2025",
+      "hour": "13:40",
+      "location": "Porto, Baião, Santa Cruz Do Douro E São Tomé De Covelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
+      "dico": "1302",
+      "lat": 41.1174,
+      "lng": -8.00462,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Santa Cruz Do Douro E São Tomé De Covelas ",
+      "active": true,
+      "sadoId": "20251262093",
+      "sharepointId": 26018814,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1758374657
+      },
+      "updated": {
+        "sec": 1758374676
       }
     }
   ]
