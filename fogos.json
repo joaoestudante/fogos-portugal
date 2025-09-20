@@ -178,10 +178,10 @@
       "date": "19-09-2025",
       "hour": "11:05",
       "location": "Viseu, Castro Daire, Mezio E Moura Morta",
-      "aerial": 7,
+      "aerial": 6,
       "meios_aquaticos": 0,
-      "man": 502,
-      "terrain": 153,
+      "man": 483,
+      "terrain": 148,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Mezio E Moura Morta",
@@ -222,7 +222,7 @@
         "sec": 1758276619
       },
       "updated": {
-        "sec": 1758361092
+        "sec": 1758362779
       }
     },
     {
@@ -239,7 +239,7 @@
       "location": "Viseu, Viseu, Barreiros E Cepões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 170,
+      "man": 177,
       "terrain": 57,
       "district": "Viseu",
       "concelho": "Viseu",
@@ -281,7 +281,7 @@
         "sec": 1758279714
       },
       "updated": {
-        "sec": 1758361935
+        "sec": 1758362652
       }
     },
     {
@@ -351,10 +351,10 @@
       "date": "19-09-2025",
       "hour": "13:25",
       "location": "Coimbra, Oliveira do Hospital, Ervedal E Vila Franca Da Beira",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 357,
-      "terrain": 114,
+      "man": 352,
+      "terrain": 111,
       "district": "Coimbra",
       "concelho": "Oliveira Do Hospital",
       "freguesia": "Ervedal E Vila Franca Da Beira",
@@ -395,7 +395,7 @@
         "sec": 1758285620
       },
       "updated": {
-        "sec": 1758361936
+        "sec": 1758363033
       }
     },
     {
@@ -565,61 +565,6 @@
     },
     {
       "_id": {
-        "$id": "68ce61e2b95fb86dbd6de607"
-      },
-      "id": "20251260890",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758355680
-      },
-      "date": "20-09-2025",
-      "hour": "09:08",
-      "location": "Vila Real, Vila Real, Constantim E Vale De Nogueiras",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Vila Real",
-      "concelho": "Vila Real",
-      "freguesia": "Constantim E Vale De Nogueiras",
-      "dico": "1714",
-      "lat": 41.285473,
-      "lng": -7.69902,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Constantim ",
-      "active": true,
-      "sadoId": "20251260890",
-      "sharepointId": 26017611,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "created": {
-        "sec": 1758355938
-      },
-      "updated": {
-        "sec": 1758358697
-      }
-    },
-    {
-      "_id": {
         "$id": "68ce724315d77108b30725fc"
       },
       "id": "20251261223",
@@ -687,8 +632,8 @@
       "location": "Braga, Fafe, São Gens",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 0,
+      "man": 27,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "São Gens",
@@ -709,8 +654,12 @@
       "sharepointId": 26018056,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 498.221,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua de Paredes (Ribeiro da Lameirinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -725,7 +674,125 @@
         "sec": 1758361936
       },
       "updated": {
-        "sec": 1758361936
+        "sec": 1758362901
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ce7ab415d77108b307262f"
+      },
+      "id": "20251261356",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758361860
+      },
+      "date": "20-09-2025",
+      "hour": "10:51",
+      "location": "Vila Real, Vila Real, Campeã",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Campeã",
+      "dico": "1714",
+      "lat": 41.28111,
+      "lng": -7.873333,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Campeã ",
+      "active": true,
+      "sadoId": "20251261356",
+      "sharepointId": 26018077,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 780.388,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.28111111.-7.87333333) - IP4. 5000-071 Vila Real. Portugal (ED15 (ED15) Km 92)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1758362292
+      },
+      "updated": {
+        "sec": 1758362652
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ce7d993293cb1b6473f668"
+      },
+      "id": "20251261433",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758362640
+      },
+      "date": "20-09-2025",
+      "hour": "11:04",
+      "location": "Porto, Paredes, Louredo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Louredo",
+      "dico": "1310",
+      "lat": 41.238752,
+      "lng": -8.342252,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251261433",
+      "sharepointId": 26018154,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 252.447,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Caminho Novo (Sobradelo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1758363033
+      },
+      "updated": {
+        "sec": 1758363074
       }
     }
   ]
