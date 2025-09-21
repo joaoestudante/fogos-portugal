@@ -577,7 +577,7 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 8,
       "meios_aquaticos": 0,
-      "man": 340,
+      "man": 345,
       "terrain": 117,
       "district": "Faro",
       "concelho": "Aljezur",
@@ -597,7 +597,7 @@
       "active": true,
       "sadoId": "20251266274",
       "sharepointId": 26022995,
-      "extra": null,
+      "extra": "⛔ Cortado:\r\n- EN120, entre Aljezur e Bensafrim;\r\n- ER268, entre cruzamento com a EN120 e Vila do Bispo;",
       "disappear": false,
       "icnf": null,
       "detailLocation": null,
@@ -615,7 +615,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758468974
+        "sec": 1758469102
       }
     },
     {
@@ -907,8 +907,8 @@
       "location": "Braga, Vieira do Minho, Rossas",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 49,
-      "terrain": 9,
+      "man": 56,
+      "terrain": 11,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Rossas",
@@ -945,7 +945,7 @@
         "sec": 1758464061
       },
       "updated": {
-        "sec": 1758468731
+        "sec": 1758469216
       }
     },
     {
@@ -968,8 +968,8 @@
       "concelho": "Castro Marim",
       "freguesia": "Castro Marim",
       "dico": "0804",
-      "lat": 37.249744,
-      "lng": -7.530053,
+      "lat": 37.24853,
+      "lng": -7.535302,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -1000,7 +1000,7 @@
         "sec": 1758467297
       },
       "updated": {
-        "sec": 1758468731
+        "sec": 1758469573
       }
     },
     {
@@ -1029,9 +1029,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Antas ",
       "active": true,
@@ -1055,7 +1055,7 @@
         "sec": 1758468257
       },
       "updated": {
-        "sec": 1758468616
+        "sec": 1758469692
       }
     },
     {
@@ -1111,6 +1111,65 @@
       },
       "updated": {
         "sec": 1758468974
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d01c615d0f7f21274b1f35"
+      },
+      "id": "20251267395",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758469080
+      },
+      "date": "21-09-2025",
+      "hour": "16:38",
+      "location": "Porto, Penafiel, Termas De São Vicente",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Termas De São Vicente",
+      "dico": "1311",
+      "lat": 41.11538,
+      "lng": -8.31579,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Termas De São Vicente ",
+      "active": true,
+      "sadoId": "20251267395",
+      "sharepointId": 26024116,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 407.221,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.11538000.-8.31579000) - Rua de Santa Iria. 4575-358 Penafiel. Portugal (Gilvaia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1758469217
+      },
+      "updated": {
+        "sec": 1758469574
       }
     }
   ]
