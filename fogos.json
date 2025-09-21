@@ -298,8 +298,8 @@
       "location": "Coimbra, Penacova, Penacova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 5,
+      "man": 12,
+      "terrain": 4,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Penacova",
@@ -336,7 +336,7 @@
         "sec": 1758285252
       },
       "updated": {
-        "sec": 1758480494
+        "sec": 1758480854
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Coimbra, Oliveira do Hospital, Ervedal E Vila Franca Da Beira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 76,
-      "terrain": 23,
+      "man": 74,
+      "terrain": 22,
       "district": "Coimbra",
       "concelho": "Oliveira Do Hospital",
       "freguesia": "Ervedal E Vila Franca Da Beira",
@@ -395,7 +395,7 @@
         "sec": 1758285620
       },
       "updated": {
-        "sec": 1758474735
+        "sec": 1758480614
       }
     },
     {
@@ -412,8 +412,8 @@
       "location": "Vila Real, Montalegre, Gralhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 98,
-      "terrain": 27,
+      "man": 93,
+      "terrain": 26,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Gralhas",
@@ -450,7 +450,7 @@
         "sec": 1758327976
       },
       "updated": {
-        "sec": 1758479892
+        "sec": 1758480614
       }
     },
     {
@@ -577,8 +577,8 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 429,
-      "terrain": 151,
+      "man": 458,
+      "terrain": 161,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -615,7 +615,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758479773
+        "sec": 1758481094
       }
     },
     {
@@ -797,8 +797,8 @@
       "location": "Faro, Castro Marim, Castro Marim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 7,
+      "man": 15,
+      "terrain": 4,
       "district": "Faro",
       "concelho": "Castro Marim",
       "freguesia": "Castro Marim",
@@ -835,7 +835,7 @@
         "sec": 1758467297
       },
       "updated": {
-        "sec": 1758480494
+        "sec": 1758481094
       }
     },
     {
@@ -1194,9 +1194,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Carreira ",
       "active": true,
@@ -1220,7 +1220,7 @@
         "sec": 1758476897
       },
       "updated": {
-        "sec": 1758480494
+        "sec": 1758480854
       }
     },
     {
@@ -1351,8 +1351,8 @@
       "location": "Braga, Braga, Pedralva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 16,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Braga",
       "freguesia": "Pedralva",
@@ -1389,7 +1389,7 @@
         "sec": 1758479892
       },
       "updated": {
-        "sec": 1758480495
+        "sec": 1758480854
       }
     },
     {
@@ -1406,8 +1406,8 @@
       "location": "Vila Real, Chaves, Redondelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Redondelo",
@@ -1418,9 +1418,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Casas Novas ",
       "active": true,
@@ -1428,8 +1428,12 @@
       "sharepointId": 26024809,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 470.123,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "Casas Novas",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1444,7 +1448,66 @@
         "sec": 1758480495
       },
       "updated": {
-        "sec": 1758480518
+        "sec": 1758481094
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d04ac6adfd7a27cb4a1ac6"
+      },
+      "id": "20251268097",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758480360
+      },
+      "date": "21-09-2025",
+      "hour": "19:46",
+      "location": "Setúbal, Moita, Baixa Da Banheira E Vale Da Amoreira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Moita",
+      "freguesia": "Baixa Da Banheira E Vale Da Amoreira",
+      "dico": "1506",
+      "lat": 38.64219,
+      "lng": -9.03533,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Baixa Da Banheira E Vale Da Amoreira ",
+      "active": true,
+      "sadoId": "20251268097",
+      "sharepointId": 26024818,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 5.58813,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Avenida Diogo Cão 16. 2835-203 Moita. Portugal (Massito)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1758481094
+      },
+      "updated": {
+        "sec": 1758481118
       }
     }
   ]
