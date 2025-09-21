@@ -467,8 +467,8 @@
       "location": "Viseu, Tondela, Guardão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 21,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Tondela",
       "freguesia": "Guardão",
@@ -505,7 +505,7 @@
         "sec": 1758387376
       },
       "updated": {
-        "sec": 1758456976
+        "sec": 1758473292
       }
     },
     {
@@ -1186,7 +1186,7 @@
       "location": "Beja, Vidigueira, Vidigueira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 35,
+      "man": 34,
       "terrain": 10,
       "district": "Beja",
       "concelho": "Vidigueira",
@@ -1224,7 +1224,7 @@
         "sec": 1758470780
       },
       "updated": {
-        "sec": 1758472693
+        "sec": 1758473052
       }
     },
     {
@@ -1296,8 +1296,8 @@
       "location": "Leiria, Leiria, Monte Redondo E Carreira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 4,
+      "man": 26,
+      "terrain": 5,
       "district": "Leiria",
       "concelho": "Leiria",
       "freguesia": "Monte Redondo E Carreira",
@@ -1308,9 +1308,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Laje ",
       "active": true,
@@ -1334,7 +1334,7 @@
         "sec": 1758472092
       },
       "updated": {
-        "sec": 1758472693
+        "sec": 1758473292
       }
     },
     {
@@ -1363,9 +1363,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Póvoa ",
       "active": true,
@@ -1389,7 +1389,117 @@
         "sec": 1758472455
       },
       "updated": {
-        "sec": 1758472934
+        "sec": 1758473052
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d029f536c5282be4275a63"
+      },
+      "id": "20251267608",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758472560
+      },
+      "date": "21-09-2025",
+      "hour": "17:36",
+      "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 4,
+      "district": "Évora",
+      "concelho": "Estremoz",
+      "freguesia": "Estremoz (Santa Maria E Santo André)",
+      "dico": "0704",
+      "lat": 38.855,
+      "lng": -7.58121,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Estremoz      ",
+      "active": true,
+      "sadoId": "20251267608",
+      "sharepointId": 26024329,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1758472693
+      },
+      "updated": {
+        "sec": 1758473415
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d02b5c36c5282be4275a82"
+      },
+      "id": "20251267609",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758472500
+      },
+      "date": "21-09-2025",
+      "hour": "17:35",
+      "location": "Lisboa, Sintra, Almargem Do Bispo, Pêro Pinheiro E Montelavar",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Almargem Do Bispo, Pêro Pinheiro E Montelavar",
+      "dico": "1111",
+      "lat": 38.867927,
+      "lng": -9.304885,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Pedra Furada ",
+      "active": true,
+      "sadoId": "20251267609",
+      "sharepointId": 26024330,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1758473052
+      },
+      "updated": {
+        "sec": 1758473416
       }
     }
   ]
