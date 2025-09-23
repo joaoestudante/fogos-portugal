@@ -1143,8 +1143,8 @@
       "location": "Aveiro, Santa Maria da Feira, Lobão, Gião, Louredo E Guisande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Lobão, Gião, Louredo E Guisande",
@@ -1181,7 +1181,7 @@
         "sec": 1758620055
       },
       "updated": {
-        "sec": 1758623894
+        "sec": 1758627253
       }
     },
     {
@@ -1198,8 +1198,8 @@
       "location": "Faro, Vila Real de Santo António, Vila Real De Santo António",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Vila Real De Santo António",
       "freguesia": "Vila Real De Santo António",
@@ -1236,7 +1236,7 @@
         "sec": 1758624627
       },
       "updated": {
-        "sec": 1758626777
+        "sec": 1758627375
       }
     },
     {
@@ -1324,9 +1324,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Sande E São Lourenço Do Douro ",
       "active": true,
@@ -1354,7 +1354,7 @@
         "sec": 1758625096
       },
       "updated": {
-        "sec": 1758625576
+        "sec": 1758627375
       }
     },
     {
@@ -1432,15 +1432,15 @@
       "concelho": "Paredes",
       "freguesia": "Lordelo",
       "dico": "1310",
-      "lat": 41.232163,
-      "lng": -8.409851,
+      "lat": 41.247832,
+      "lng": -8.4247,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Lordelo ",
       "active": true,
@@ -1468,7 +1468,7 @@
         "sec": 1758626777
       },
       "updated": {
-        "sec": 1758627012
+        "sec": 1758627253
       }
     },
     {
@@ -1483,9 +1483,9 @@
       "date": "23-09-2025",
       "hour": "12:18",
       "location": "Portalegre, Campo Maior, São João Baptista",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 22,
+      "man": 32,
       "terrain": 5,
       "district": "Portalegre",
       "concelho": "Campo Maior",
@@ -1523,7 +1523,7 @@
         "sec": 1758626777
       },
       "updated": {
-        "sec": 1758626821
+        "sec": 1758627253
       }
     },
     {
@@ -1579,6 +1579,124 @@
       },
       "updated": {
         "sec": 1758627013
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d28738d8e15636660447c6"
+      },
+      "id": "20251275937",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758626820
+      },
+      "date": "23-09-2025",
+      "hour": "12:27",
+      "location": "Coimbra, Penela, Penela (Santa Eufémia) -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Coimbra",
+      "concelho": "Penela",
+      "freguesia": "Penela (Santa Eufémia)",
+      "dico": "61405",
+      "lat": 40.0373280000687,
+      "lng": -8.3416699997584,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Quinta Das Cerejeiras",
+      "active": true,
+      "sadoId": "20251275937",
+      "sharepointId": 20251275937,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 338.908,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Quinta das Cerejeiras",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1758627640
+      },
+      "updated": {
+        "sec": 1758627666
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d28739d8e15636660447c7"
+      },
+      "id": "20251275976",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758627060
+      },
+      "date": "23-09-2025",
+      "hour": "12:31",
+      "location": "Porto, Vila Nova De Gaia, Pedroso -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Pedroso",
+      "dico": "131713",
+      "lat": 41.0676590000259,
+      "lng": -8.55728000005086,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Tv Alheira Aquem (travessa De Sanhoane)",
+      "active": true,
+      "sadoId": "20251275976",
+      "sharepointId": 20251275976,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 114.527,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Tv Alheira Aquem (Travessa de Sanhoane)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1758627641
+      },
+      "updated": {
+        "sec": 1758627691
       }
     }
   ]
