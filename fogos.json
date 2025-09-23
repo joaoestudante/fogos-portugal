@@ -239,8 +239,8 @@
       "location": "Viseu, Viseu, Barreiros E Cepões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 20,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Barreiros E Cepões",
@@ -281,7 +281,7 @@
         "sec": 1758279714
       },
       "updated": {
-        "sec": 1758596775
+        "sec": 1758609733
       }
     },
     {
@@ -520,10 +520,10 @@
       "date": "21-09-2025",
       "hour": "12:21",
       "location": "Faro, Aljezur, Bordeira",
-      "aerial": 0,
+      "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 625,
-      "terrain": 217,
+      "man": 641,
+      "terrain": 219,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -560,7 +560,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758607576
+        "sec": 1758609855
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Vila Real, Montalegre, Santo André",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 65,
-      "terrain": 27,
+      "man": 70,
+      "terrain": 28,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Santo André",
@@ -788,7 +788,7 @@
         "sec": 1758541575
       },
       "updated": {
-        "sec": 1758607821
+        "sec": 1758609254
       }
     },
     {
@@ -864,8 +864,8 @@
       "location": "Guarda, Gouveia, Aldeias E Mangualde Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 88,
-      "terrain": 28,
+      "man": 93,
+      "terrain": 29,
       "district": "Guarda",
       "concelho": "Gouveia",
       "freguesia": "Aldeias E Mangualde Da Serra",
@@ -902,7 +902,7 @@
         "sec": 1758546156
       },
       "updated": {
-        "sec": 1758608292
+        "sec": 1758609254
       }
     },
     {
@@ -962,61 +962,6 @@
     },
     {
       "_id": {
-        "$id": "68d23605a646246dee5cc995"
-      },
-      "id": "20251274273",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758605700
-      },
-      "date": "23-09-2025",
-      "hour": "06:35",
-      "location": "Porto, Paredes, Sobreira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Sobreira",
-      "dico": "1310",
-      "lat": 41.119562,
-      "lng": -8.393939,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20251274273",
-      "sharepointId": 26030994,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1758606853
-      },
-      "updated": {
-        "sec": 1758608417
-      }
-    },
-    {
-      "_id": {
         "$id": "68d2378ba646246dee5cc999"
       },
       "id": "20251274235",
@@ -1072,6 +1017,65 @@
       },
       "updated": {
         "sec": 1758608177
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d240cf1f28667de01e81af"
+      },
+      "id": "20251274349",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758609240
+      },
+      "date": "23-09-2025",
+      "hour": "07:34",
+      "location": "Viseu, Lamego, Penude",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viseu",
+      "concelho": "Lamego",
+      "freguesia": "Penude",
+      "dico": "1805",
+      "lat": 41.07011,
+      "lng": -7.864234,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Purgaçal ",
+      "active": true,
+      "sadoId": "20251274349",
+      "sharepointId": 26031070,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 830.098,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Purgaçal (SENHORA DO ROSÁRIO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1758609615
+      },
+      "updated": {
+        "sec": 1758609655
       }
     }
   ]
