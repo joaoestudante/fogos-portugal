@@ -1084,8 +1084,8 @@
       "location": "Viseu, Oliveira de Frades, Arcozelo Das Maias",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 132,
-      "terrain": 36,
+      "man": 134,
+      "terrain": 37,
       "district": "Viseu",
       "concelho": "Oliveira De Frades",
       "freguesia": "Arcozelo Das Maias",
@@ -1126,7 +1126,7 @@
         "sec": 1758619694
       },
       "updated": {
-        "sec": 1758634571
+        "sec": 1758634819
       }
     },
     {
@@ -1717,8 +1717,8 @@
       "location": "Beja, Odemira, Vila Nova De Milfontes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 10,
+      "man": 43,
+      "terrain": 12,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "Vila Nova De Milfontes",
@@ -1755,7 +1755,7 @@
         "sec": 1758633375
       },
       "updated": {
-        "sec": 1758634571
+        "sec": 1758635051
       }
     },
     {
@@ -1831,8 +1831,8 @@
       "location": "Porto, Maia, Pedrouços",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Pedrouços",
@@ -1843,9 +1843,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Pedrouços ",
       "active": true,
@@ -1869,7 +1869,117 @@
         "sec": 1758634571
       },
       "updated": {
-        "sec": 1758634591
+        "sec": 1758635176
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d2a42b7dadea7a962ac66a"
+      },
+      "id": "20251276668",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758634740
+      },
+      "date": "23-09-2025",
+      "hour": "14:39",
+      "location": "Évora, Viana do Alentejo, Alcáçovas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Évora",
+      "concelho": "Viana Do Alentejo",
+      "freguesia": "Alcáçovas",
+      "dico": "0713",
+      "lat": 38.39763,
+      "lng": -8.14605,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcáçovas ",
+      "active": true,
+      "sadoId": "20251276668",
+      "sharepointId": 26033389,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1758635051
+      },
+      "updated": {
+        "sec": 1758635176
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d2a42b7dadea7a962ac66b"
+      },
+      "id": "20251276678",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758634860
+      },
+      "date": "23-09-2025",
+      "hour": "14:41",
+      "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Foz Do Sousa E Covelo",
+      "dico": "1304",
+      "lat": 41.0963,
+      "lng": -8.482621,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251276678",
+      "sharepointId": 26033399,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1758635051
+      },
+      "updated": {
+        "sec": 1758635094
       }
     }
   ]
