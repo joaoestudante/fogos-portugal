@@ -876,9 +876,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Aldeias ",
       "active": true,
@@ -902,7 +902,7 @@
         "sec": 1758546156
       },
       "updated": {
-        "sec": 1758586812
+        "sec": 1758603974
       }
     },
     {
@@ -919,8 +919,8 @@
       "location": "Porto, Penafiel, Canelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 46,
-      "terrain": 13,
+      "man": 17,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Canelas",
@@ -931,9 +931,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Canelas ",
       "active": true,
@@ -957,7 +957,66 @@
         "sec": 1758586576
       },
       "updated": {
-        "sec": 1758597973
+        "sec": 1758605172
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d2297388c88856a116e295"
+      },
+      "id": "20251274187",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758603300
+      },
+      "date": "23-09-2025",
+      "hour": "05:55",
+      "location": "Beja, Beja, Santa Clara De Louredo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Santa Clara De Louredo",
+      "dico": "0205",
+      "lat": 37.99402,
+      "lng": -7.86544,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Santa Clara De Louredo ",
+      "active": true,
+      "sadoId": "20251274187",
+      "sharepointId": 26030908,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 184.126,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.99402348.-7.86543976) - N122. 7800-721 Beja. Portugal (IP2 (IP2) Km 349)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1758603635
+      },
+      "updated": {
+        "sec": 1758605172
       }
     }
   ]
