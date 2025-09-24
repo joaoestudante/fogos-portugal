@@ -3,61 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "689c11148a289d33704c3de5"
-      },
-      "id": "20251075979",
-      "coords": true,
-      "dateTime": {
-        "sec": 1755058080
-      },
-      "date": "13-08-2025",
-      "hour": "05:08",
-      "location": "Coimbra, Arganil, Piódão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Coimbra",
-      "concelho": "Arganil",
-      "freguesia": "Piódão",
-      "dico": "0601",
-      "lat": 40.23083,
-      "lng": -7.81972,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Piódão ",
-      "active": true,
-      "sadoId": "20251075979",
-      "sharepointId": 25832672,
-      "extra": "Reaberto:\r\n✅ A23, entre Lardosa ao Fundão \r\n✅ EN18, entre Lardosa ao Fundão",
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>AOI_PIODAO_21082025_00h00.kml</name>\r\n\t<StyleMap id=\"failed\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#failed0</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#failed1</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"failed0\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Style id=\"failed1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0701fc</color>\r\n\t\t\t<width>1.2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>590701fc</color>\r\n\t\t\t<outline>0</outline>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<name>ÁREA DE INTERESSE</name><description>Área de Interesse calculada com base em dados COPERNICUS-EMS e dados abertos recolhidos pela equipa da VOSTPT. Atualização às 00h00 de 21-08-2025</description>\r\n\t\t<styleUrl>#failed</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.939707036294923,40.3404676710734,0 -7.974134150446153,40.28251144986896,0 -7.975883761538379,40.21188341293919,0 -7.943496739777429,40.14425504028661,0 -7.874509575814081,40.07717638339653,0 -7.80717803529919,40.05370776904172,0 -7.711840386343871,40.02355087019329,0 -7.691713283952149,40.09158981508412,0 -7.627929712468827,40.00856744219131,0 -7.559730972778716,39.99804890498044,0 -7.494274650443322,40.02676679081575,0 -7.46420493901044,40.05204128677396,0 -7.508905871723449,40.1412529340852,0 -7.522668274282149,40.22279311221331,0 -7.581702060084043,40.25774097328867,0 -7.61944636705689,40.32393517129939,0 -7.693551262007661,40.33308519676272,0 -7.767874905280237,40.3139605701626,0 -7.939707036294923,40.3404676710734,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.6.10201\"></atom:link>\r\n\t</Placemark>\r\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "created": {
-        "sec": 1755058452
-      },
-      "updated": {
-        "sec": 1757780175
-      }
-    },
-    {
-      "_id": {
         "$id": "68bbffa1f0bcee736b0c6db2"
       },
       "id": "20251194456",
@@ -355,10 +300,10 @@
       "date": "21-09-2025",
       "hour": "12:21",
       "location": "Faro, Aljezur, Bordeira",
-      "aerial": 13,
+      "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 711,
-      "terrain": 229,
+      "man": 700,
+      "terrain": 228,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -395,7 +340,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758722291
+        "sec": 1758723491
       }
     },
     {
@@ -711,9 +656,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Besteiro ",
       "active": true,
@@ -737,7 +682,7 @@
         "sec": 1758690855
       },
       "updated": {
-        "sec": 1758715108
+        "sec": 1758722559
       }
     },
     {
@@ -1202,8 +1147,8 @@
       "location": "Braga, Vila Nova de Famalicão, Lousado",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 16,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Lousado",
@@ -1244,7 +1189,7 @@
         "sec": 1758716775
       },
       "updated": {
-        "sec": 1758720975
+        "sec": 1758723377
       }
     },
     {
@@ -1259,9 +1204,9 @@
       "date": "24-09-2025",
       "hour": "13:32",
       "location": "Bragança, Miranda do Douro, Sendim E Atenor",
-      "aerial": 2,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 68,
+      "man": 62,
       "terrain": 15,
       "district": "Bragança",
       "concelho": "Miranda Do Douro",
@@ -1273,9 +1218,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Sendim ",
       "active": true,
@@ -1299,7 +1244,7 @@
         "sec": 1758717252
       },
       "updated": {
-        "sec": 1758721580
+        "sec": 1758723377
       }
     },
     {
@@ -1316,8 +1261,8 @@
       "location": "Vila Real, Mondim de Basto, Campanhó E Paradança",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Mondim De Basto",
       "freguesia": "Campanhó E Paradança",
@@ -1354,7 +1299,7 @@
         "sec": 1758717495
       },
       "updated": {
-        "sec": 1758721094
+        "sec": 1758722776
       }
     },
     {
@@ -1369,10 +1314,10 @@
       "date": "24-09-2025",
       "hour": "13:41",
       "location": "Aveiro, Santa Maria da Feira, Argoncilhe",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 5,
+      "man": 16,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Argoncilhe",
@@ -1383,9 +1328,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Argoncilhe ",
       "active": true,
@@ -1409,7 +1354,7 @@
         "sec": 1758717853
       },
       "updated": {
-        "sec": 1758720975
+        "sec": 1758723732
       }
     },
     {
@@ -1481,8 +1426,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Telões",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 4,
+      "man": 18,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Telões",
@@ -1523,7 +1468,7 @@
         "sec": 1758718844
       },
       "updated": {
-        "sec": 1758721764
+        "sec": 1758722776
       }
     },
     {
@@ -1540,8 +1485,8 @@
       "location": "Porto, Vila Nova de Gaia, Sandim, Olival, Lever E Crestuma",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Sandim, Olival, Lever E Crestuma",
@@ -1552,9 +1497,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -1578,7 +1523,7 @@
         "sec": 1758719537
       },
       "updated": {
-        "sec": 1758720975
+        "sec": 1758722776
       }
     },
     {
@@ -1593,9 +1538,9 @@
       "date": "24-09-2025",
       "hour": "14:18",
       "location": "Viseu, Armamar, Queimada",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
+      "man": 12,
       "terrain": 3,
       "district": "Viseu",
       "concelho": "Armamar",
@@ -1637,7 +1582,7 @@
         "sec": 1758720373
       },
       "updated": {
-        "sec": 1758722290
+        "sec": 1758722776
       }
     },
     {
@@ -1654,8 +1599,8 @@
       "location": "Guarda, Almeida, Leomil, Mido, Senouras E Aldeia Nova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 11,
+      "man": 25,
+      "terrain": 7,
       "district": "Guarda",
       "concelho": "Almeida",
       "freguesia": "Leomil, Mido, Senouras E Aldeia Nova",
@@ -1696,7 +1641,7 @@
         "sec": 1758720620
       },
       "updated": {
-        "sec": 1758722247
+        "sec": 1758722895
       }
     },
     {
@@ -1713,21 +1658,21 @@
       "location": "Porto, Penafiel, Croca",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 2,
+      "man": 19,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Croca",
       "dico": "1311",
-      "lat": 41.228473,
-      "lng": -8.238352,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "lat": 41.228365,
+      "lng": -8.223395,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Croca ",
       "active": true,
@@ -1751,7 +1696,7 @@
         "sec": 1758720975
       },
       "updated": {
-        "sec": 1758722247
+        "sec": 1758723491
       }
     },
     {
@@ -1768,23 +1713,23 @@
       "location": "Viana Do Castelo, Melgaço, Castro Laboreiro E Lamas De Mouro",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 1,
+      "man": 21,
+      "terrain": 4,
       "district": "Viana Do Castelo",
       "concelho": "Melgaço",
       "freguesia": "Castro Laboreiro E Lamas De Mouro",
       "dico": "1603",
-      "lat": 42.023722,
-      "lng": -8.158218,
+      "lat": 42.01725,
+      "lng": -8.1476,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Corveira - Pnpg ",
+      "localidade": "Curveira - Pnpg ",
       "active": true,
       "sadoId": "20251281712",
       "sharepointId": 26038433,
@@ -1806,7 +1751,117 @@
         "sec": 1758722247
       },
       "updated": {
-        "sec": 1758722247
+        "sec": 1758723376
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d3f9c7a21c1c4b4c1343c7"
+      },
+      "id": "20251281742",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758722400
+      },
+      "date": "24-09-2025",
+      "hour": "15:00",
+      "location": "Guarda, Figueira de Castelo Rodrigo, Algodres, Vale De Afonsinho E Vilar De Amargo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 34,
+      "terrain": 7,
+      "district": "Guarda",
+      "concelho": "Figueira De Castelo Rodrigo",
+      "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
+      "dico": "0904",
+      "lat": 40.946134,
+      "lng": -7.013253,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Vilar De Amargo ",
+      "active": true,
+      "sadoId": "20251281742",
+      "sharepointId": 26038463,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1758722503
+      },
+      "updated": {
+        "sec": 1758723492
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d3fb50a21c1c4b4c1343e9"
+      },
+      "id": "20251281782",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758722760
+      },
+      "date": "24-09-2025",
+      "hour": "15:06",
+      "location": "Santarém, Santarém, São Vicente Do Paul E Vale De Figueira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 7,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "São Vicente Do Paul E Vale De Figueira",
+      "dico": "1416",
+      "lat": 39.363554,
+      "lng": -8.654088,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Porto De Alcaides ",
+      "active": true,
+      "sadoId": "20251281782",
+      "sharepointId": 26038503,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "created": {
+        "sec": 1758722896
+      },
+      "updated": {
+        "sec": 1758723732
       }
     }
   ]
