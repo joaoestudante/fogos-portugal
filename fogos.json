@@ -302,7 +302,7 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 664,
+      "man": 665,
       "terrain": 219,
       "district": "Faro",
       "concelho": "Aljezur",
@@ -340,7 +340,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758745335
+        "sec": 1758746772
       }
     },
     {
@@ -585,8 +585,8 @@
       "location": "Viseu, Oliveira de Frades, Arcozelo Das Maias",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 12,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Oliveira De Frades",
       "freguesia": "Arcozelo Das Maias",
@@ -627,7 +627,7 @@
         "sec": 1758619694
       },
       "updated": {
-        "sec": 1758737773
+        "sec": 1758747252
       }
     },
     {
@@ -1206,8 +1206,8 @@
       "location": "Coimbra, Cantanhede, Covões E Camarneira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Cantanhede",
       "freguesia": "Covões E Camarneira",
@@ -1244,7 +1244,7 @@
         "sec": 1758740772
       },
       "updated": {
-        "sec": 1758745694
+        "sec": 1758746896
       }
     },
     {
@@ -1261,8 +1261,8 @@
       "location": "Porto, Paredes, Lordelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Paredes",
       "freguesia": "Lordelo",
@@ -1299,7 +1299,7 @@
         "sec": 1758743416
       },
       "updated": {
-        "sec": 1758745694
+        "sec": 1758747252
       }
     },
     {
@@ -1328,9 +1328,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Azias ",
       "active": true,
@@ -1354,7 +1354,62 @@
         "sec": 1758745454
       },
       "updated": {
-        "sec": 1758745932
+        "sec": 1758746896
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d45820fa42bc73dc6cd6a1"
+      },
+      "id": "20251283487",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758746400
+      },
+      "date": "24-09-2025",
+      "hour": "21:40",
+      "location": "Braga, Vila Verde, Ribeira Do Neiva",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Ribeira Do Neiva",
+      "dico": "0313",
+      "lat": 41.69466,
+      "lng": -8.48922,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias Da Ribeira Do Neiva ",
+      "active": true,
+      "sadoId": "20251283487",
+      "sharepointId": 26040208,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1758746656
+      },
+      "updated": {
+        "sec": 1758747253
       }
     }
   ]
