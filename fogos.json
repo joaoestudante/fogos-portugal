@@ -302,8 +302,8 @@
       "location": "Faro, Aljezur, Bordeira",
       "aerial": 6,
       "meios_aquaticos": 0,
-      "man": 674,
-      "terrain": 216,
+      "man": 675,
+      "terrain": 218,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Bordeira",
@@ -340,7 +340,7 @@
         "sec": 1758453855
       },
       "updated": {
-        "sec": 1758782414
+        "sec": 1758784940
       }
     },
     {
@@ -638,10 +638,10 @@
       "date": "24-09-2025",
       "hour": "11:40",
       "location": "Porto, Marco de Canaveses, Sande E São Lourenço",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 30,
+      "terrain": 10,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Sande E São Lourenço",
@@ -678,7 +678,7 @@
         "sec": 1758710538
       },
       "updated": {
-        "sec": 1758762132
+        "sec": 1758784692
       }
     },
     {
@@ -803,10 +803,10 @@
       "date": "25-09-2025",
       "hour": "07:45",
       "location": "Vila Real, Montalegre, Vila Da Ponte",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 23,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Vila Da Ponte",
@@ -817,9 +817,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Vila Da Ponte ",
       "active": true,
@@ -843,7 +843,7 @@
         "sec": 1758782895
       },
       "updated": {
-        "sec": 1758782914
+        "sec": 1758784214
       }
     },
     {
@@ -899,6 +899,116 @@
       },
       "updated": {
         "sec": 1758782958
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d4ea6043a14f069c4bba82"
+      },
+      "id": "20251284468",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758783720
+      },
+      "date": "25-09-2025",
+      "hour": "08:02",
+      "location": "Aveiro, Santa Maria da Feira, Mozelos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Mozelos",
+      "dico": "0109",
+      "lat": 40.98838,
+      "lng": -8.569641,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mozelos ",
+      "active": true,
+      "sadoId": "20251284468",
+      "sharepointId": 26041189,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1758784096
+      },
+      "updated": {
+        "sec": 1758784453
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d4edab43a14f069c4bbaa4"
+      },
+      "id": "20251284549",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758784680
+      },
+      "date": "25-09-2025",
+      "hour": "08:18",
+      "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "dico": "1111",
+      "lat": 38.746619,
+      "lng": -9.363858,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Cabeço De Manique ",
+      "active": true,
+      "sadoId": "20251284549",
+      "sharepointId": 26041270,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1758784939
+      },
+      "updated": {
+        "sec": 1758784958
       }
     }
   ]
