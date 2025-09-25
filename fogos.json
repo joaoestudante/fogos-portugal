@@ -754,8 +754,8 @@
       "location": "Porto, Santo Tirso, Monte Córdova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 8,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Monte Córdova",
@@ -792,7 +792,7 @@
         "sec": 1758802839
       },
       "updated": {
-        "sec": 1758820096
+        "sec": 1758828736
       }
     },
     {
@@ -1143,8 +1143,8 @@
       "location": "Viana Do Castelo, Monção, Messegães, Valadares E Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Monção",
       "freguesia": "Messegães, Valadares E Sá",
@@ -1185,7 +1185,7 @@
         "sec": 1758822375
       },
       "updated": {
-        "sec": 1758824772
+        "sec": 1758828980
       }
     },
     {
@@ -1304,61 +1304,6 @@
     },
     {
       "_id": {
-        "$id": "68d590c85a1f95179c2e94ff"
-      },
-      "id": "20251288103",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758825900
-      },
-      "date": "25-09-2025",
-      "hour": "19:45",
-      "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Baguim Do Monte (rio Tinto)",
-      "dico": "1304",
-      "lat": 41.19305,
-      "lng": -8.542001,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Baguim Do Monte ",
-      "active": true,
-      "sadoId": "20251288103",
-      "sharepointId": 26044824,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1758826696
-      },
-      "updated": {
-        "sec": 1758828020
-      }
-    },
-    {
-      "_id": {
         "$id": "68d59500ec85794c5361888c"
       },
       "id": "20251288160",
@@ -1464,7 +1409,66 @@
         "sec": 1758828020
       },
       "updated": {
-        "sec": 1758828260
+        "sec": 1758828736
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d59845ec85794c536188bc"
+      },
+      "id": "20251288227",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758828300
+      },
+      "date": "25-09-2025",
+      "hour": "20:25",
+      "location": "Vila Real, Mesão Frio, Mesão Frio (Santo André)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Mesão Frio",
+      "freguesia": "Mesão Frio (Santo André)",
+      "dico": "1704",
+      "lat": 41.161103,
+      "lng": -7.886501,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mesão Frio ",
+      "active": true,
+      "sadoId": "20251288227",
+      "sharepointId": 26044948,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 266.101,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Salgueiral (Mesão Frio)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1758828613
+      },
+      "updated": {
+        "sec": 1758828979
       }
     }
   ]
