@@ -341,61 +341,6 @@
     },
     {
       "_id": {
-        "$id": "68d68758f2446c40190aa553"
-      },
-      "id": "20251291329",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758889560
-      },
-      "date": "26-09-2025",
-      "hour": "13:26",
-      "location": "Viseu, Resende, Felgueiras E Feirão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Resende",
-      "freguesia": "Felgueiras E Feirão",
-      "dico": "1813",
-      "lat": 41.07586,
-      "lng": -7.934153,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Carquere ",
-      "active": true,
-      "sadoId": "20251291329",
-      "sharepointId": 26048050,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1758889816
-      },
-      "updated": {
-        "sec": 1758928094
-      }
-    },
-    {
-      "_id": {
         "$id": "68d6ce9811614c0f26723a90"
       },
       "id": "20251292886",
@@ -447,61 +392,6 @@
       },
       "updated": {
         "sec": 1758929143
-      }
-    },
-    {
-      "_id": {
-        "$id": "68d6d5a211614c0f26723afc"
-      },
-      "id": "20251293040",
-      "coords": true,
-      "dateTime": {
-        "sec": 1758909600
-      },
-      "date": "26-09-2025",
-      "hour": "19:00",
-      "location": "Braga, Celorico de Basto, Ribas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Celorico De Basto",
-      "freguesia": "Ribas",
-      "dico": "0305",
-      "lat": 41.450678,
-      "lng": -8.043872,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ribas ",
-      "active": true,
-      "sadoId": "20251293040",
-      "sharepointId": 26049761,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1758909858
-      },
-      "updated": {
-        "sec": 1758929205
       }
     },
     {
@@ -628,8 +518,8 @@
       "location": "Évora, Alandroal, Santiago Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 16,
+      "terrain": 4,
       "district": "Évora",
       "concelho": "Alandroal",
       "freguesia": "Santiago Maior",
@@ -670,7 +560,7 @@
         "sec": 1758928453
       },
       "updated": {
-        "sec": 1758929143
+        "sec": 1758930011
       }
     },
     {
@@ -699,9 +589,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Calhandriz ",
       "active": true,
@@ -709,8 +599,12 @@
       "sharepointId": 26050887,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 154.848,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "(FA) Rua do Tim Tim (CALHANDRIZ)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -725,7 +619,66 @@
         "sec": 1758929134
       },
       "updated": {
-        "sec": 1758929143
+        "sec": 1758929939
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d723dea1c86557372e75fa"
+      },
+      "id": "20251294186",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758928980
+      },
+      "date": "27-09-2025",
+      "hour": "00:23",
+      "location": "Portalegre, Campo Maior, Nossa Senhora Da Expectação",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 7,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "Nossa Senhora Da Expectação",
+      "dico": "1204",
+      "lat": 39.014855,
+      "lng": -7.063944,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Campo Maior ",
+      "active": true,
+      "sadoId": "20251294186",
+      "sharepointId": 26050907,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 144.961,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "CM 1114 (Horta das Pias)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1758929886
+      },
+      "updated": {
+        "sec": 1758930056
       }
     }
   ]
