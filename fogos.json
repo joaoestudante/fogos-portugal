@@ -70,8 +70,8 @@
       "location": "Viseu, Castro Daire, Mezio E Moura Morta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Mezio E Moura Morta",
@@ -112,7 +112,7 @@
         "sec": 1758276619
       },
       "updated": {
-        "sec": 1758793094
+        "sec": 1758884295
       }
     },
     {
@@ -530,8 +530,8 @@
       "location": "Porto, Santo Tirso, Areias, Sequeiró, Lama E Palmeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Areias, Sequeiró, Lama E Palmeira",
@@ -542,9 +542,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Areias, Sequeiró, Lama E Palmeira ",
       "active": true,
@@ -568,7 +568,7 @@
         "sec": 1758878894
       },
       "updated": {
-        "sec": 1758882373
+        "sec": 1758884897
       }
     },
     {
@@ -640,8 +640,8 @@
       "location": "Porto, Maia, Folgosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Folgosa",
@@ -678,7 +678,7 @@
         "sec": 1758880456
       },
       "updated": {
-        "sec": 1758881533
+        "sec": 1758885021
       }
     },
     {
@@ -754,7 +754,7 @@
       "location": "Castelo Branco, Castelo Branco, Escalos De Baixo E Mata",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 44,
+      "man": 41,
       "terrain": 11,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
@@ -766,9 +766,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
+      "statusCode": 5,
       "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Mata ",
       "active": true,
@@ -792,7 +792,7 @@
         "sec": 1758883336
       },
       "updated": {
-        "sec": 1758883935
+        "sec": 1758885022
       }
     },
     {
@@ -809,8 +809,8 @@
       "location": "Braga, Braga, Cabreiros E Passos (São Julião)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 4,
+      "man": 24,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Braga",
       "freguesia": "Cabreiros E Passos (São Julião)",
@@ -821,9 +821,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -847,7 +847,7 @@
         "sec": 1758883452
       },
       "updated": {
-        "sec": 1758883822
+        "sec": 1758884705
       }
     },
     {
@@ -903,6 +903,61 @@
       },
       "updated": {
         "sec": 1758883822
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d671c7ad1f9529ea298dbc"
+      },
+      "id": "20251290823",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758883740
+      },
+      "date": "26-09-2025",
+      "hour": "11:49",
+      "location": "Bragança, Carrazeda de Ansiães, Linhares",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Bragança",
+      "concelho": "Carrazeda De Ansiães",
+      "freguesia": "Linhares",
+      "dico": "0403",
+      "lat": 41.208321,
+      "lng": -7.362904,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Linhares ",
+      "active": true,
+      "sadoId": "20251290823",
+      "sharepointId": 26047544,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1758884295
+      },
+      "updated": {
+        "sec": 1758885137
       }
     }
   ]
