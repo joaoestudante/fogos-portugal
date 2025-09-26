@@ -408,8 +408,8 @@
       "location": "Coimbra, Góis, Alvares",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Góis",
       "freguesia": "Alvares",
@@ -446,7 +446,7 @@
         "sec": 1758908056
       },
       "updated": {
-        "sec": 1758928335
+        "sec": 1758929143
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Braga, Celorico de Basto, Ribas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Ribas",
@@ -501,7 +501,7 @@
         "sec": 1758909858
       },
       "updated": {
-        "sec": 1758916932
+        "sec": 1758929205
       }
     },
     {
@@ -579,15 +579,15 @@
       "concelho": "Vinhais",
       "freguesia": "Quirás E Pinheiro Novo",
       "dico": "0412",
-      "lat": 41.91068,
-      "lng": -7.13879,
+      "lat": 41.913212,
+      "lng": -7.147537,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Edroso ",
       "active": true,
@@ -611,7 +611,7 @@
         "sec": 1758928453
       },
       "updated": {
-        "sec": 1758928471
+        "sec": 1758929143
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Évora, Alandroal, Santiago Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 11,
+      "terrain": 3,
       "district": "Évora",
       "concelho": "Alandroal",
       "freguesia": "Santiago Maior",
@@ -640,9 +640,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Santiago Maior ",
       "active": true,
@@ -650,8 +650,12 @@
       "sharepointId": 26050872,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 235.446,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Aldeia da Venda (ER255 (ER255) Km 36)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -666,7 +670,62 @@
         "sec": 1758928453
       },
       "updated": {
-        "sec": 1758928453
+        "sec": 1758929143
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d720ee1d6d422639782950"
+      },
+      "id": "20251294166",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758928320
+      },
+      "date": "27-09-2025",
+      "hour": "00:12",
+      "location": "Lisboa, Vila Franca de Xira, Alverca Do Ribatejo E Sobralinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Alverca Do Ribatejo E Sobralinho",
+      "dico": "1114",
+      "lat": 38.918733,
+      "lng": -9.064747,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Calhandriz ",
+      "active": true,
+      "sadoId": "20251294166",
+      "sharepointId": 26050887,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1758929134
+      },
+      "updated": {
+        "sec": 1758929143
       }
     }
   ]
