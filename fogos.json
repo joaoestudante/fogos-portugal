@@ -463,8 +463,8 @@
       "location": "Porto, Penafiel, Rio De Moinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 9,
+      "man": 10,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Penafiel",
       "freguesia": "Rio De Moinhos",
@@ -501,7 +501,7 @@
         "sec": 1758935893
       },
       "updated": {
-        "sec": 1758943812
+        "sec": 1758949811
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Setúbal, Moita, Moita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Moita",
       "freguesia": "Moita",
@@ -556,7 +556,7 @@
         "sec": 1758941415
       },
       "updated": {
-        "sec": 1758945017
+        "sec": 1758950053
       }
     },
     {
@@ -585,9 +585,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "São João De Ver ",
       "active": true,
@@ -611,43 +611,102 @@
         "sec": 1758945252
       },
       "updated": {
-        "sec": 1758948253
+        "sec": 1758950053
       }
     },
     {
       "_id": {
-        "$id": "68d76583c135d45134131550"
+        "$id": "68d76ee6c135d4513413156c"
       },
-      "id": "20251294561",
+      "id": "20251294606",
       "coords": true,
       "dateTime": {
-        "sec": 1758946320
+        "sec": 1758948540
       },
       "date": "27-09-2025",
-      "hour": "05:12",
-      "location": "Lisboa, Alenquer, Alenquer (Santo Estêvão E Triana)",
+      "hour": "05:49",
+      "location": "Aveiro, Santa Maria da Feira, Nogueira Da Regedoura",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Alenquer (Santo Estêvão E Triana)",
-      "dico": "1101",
-      "lat": 39.082345,
-      "lng": -8.989469,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Nogueira Da Regedoura",
+      "dico": "0109",
+      "lat": 41.00425,
+      "lng": -8.585994,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
       "important": false,
-      "localidade": "Cheganças ",
+      "localidade": "Nogueira Da Regedoura ",
       "active": true,
-      "sadoId": "20251294561",
-      "sharepointId": 26051287,
+      "sadoId": "20251294606",
+      "sharepointId": 26051332,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 77.945,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Mercado 276. 4500-752 Santa Maria da Feira. Portugal (NOGUEIRA DA REGEDOURA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1758949094
+      },
+      "updated": {
+        "sec": 1758949120
+      }
+    },
+    {
+      "_id": {
+        "$id": "68d76ee6c135d4513413156d"
+      },
+      "id": "20251294608",
+      "coords": true,
+      "dateTime": {
+        "sec": 1758948780
+      },
+      "date": "27-09-2025",
+      "hour": "05:53",
+      "location": "Porto, Vila Nova de Gaia, Avintes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Avintes",
+      "dico": "1317",
+      "lat": 41.10459,
+      "lng": -8.55198,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avintes ",
+      "active": true,
+      "sadoId": "20251294608",
+      "sharepointId": 26051334,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -660,13 +719,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1758946691
+        "sec": 1758949094
       },
       "updated": {
-        "sec": 1758948253
+        "sec": 1758949576
       }
     }
   ]
