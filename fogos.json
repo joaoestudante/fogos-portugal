@@ -349,8 +349,8 @@
       "location": "Santarém, Tomar, São Pedro De Tomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 17,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Tomar",
       "freguesia": "São Pedro De Tomar",
@@ -361,9 +361,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ervideiras ",
       "active": true,
@@ -391,7 +391,7 @@
         "sec": 1759245020
       },
       "updated": {
-        "sec": 1759246454
+        "sec": 1759247652
       }
     },
     {
@@ -420,9 +420,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Chão Da Parada ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1759245020
       },
       "updated": {
-        "sec": 1759246097
+        "sec": 1759247535
       }
     },
     {
@@ -518,8 +518,8 @@
       "location": "Leiria, Bombarral, Bombarral E Vale Covo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 16,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Bombarral",
       "freguesia": "Bombarral E Vale Covo",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias Do Bombarral E Vale Covo ",
       "active": true,
@@ -560,7 +560,121 @@
         "sec": 1759246097
       },
       "updated": {
-        "sec": 1759246819
+        "sec": 1759247652
+      }
+    },
+    {
+      "_id": {
+        "$id": "68dbfb4908ad83539342bbea"
+      },
+      "id": "20251311936",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759246620
+      },
+      "date": "30-09-2025",
+      "hour": "16:37",
+      "location": "Leiria, Caldas da Rainha, Santa Catarina",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Santa Catarina",
+      "dico": "1006",
+      "lat": 39.427049,
+      "lng": -9.025035,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mata De Porto Moiro ",
+      "active": true,
+      "sadoId": "20251311936",
+      "sharepointId": 26068662,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 105.824,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mata de Porto Moiro",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1759247177
+      },
+      "updated": {
+        "sec": 1759247205
+      }
+    },
+    {
+      "_id": {
+        "$id": "68dbfb4908ad83539342bbeb"
+      },
+      "id": "20251311934",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759246980
+      },
+      "date": "30-09-2025",
+      "hour": "16:43",
+      "location": "Porto, Lousada, Sousela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Lousada",
+      "freguesia": "Sousela",
+      "dico": "1305",
+      "lat": 41.29633,
+      "lng": -8.32,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sousela ",
+      "active": true,
+      "sadoId": "20251311934",
+      "sharepointId": 26068660,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1759247177
+      },
+      "updated": {
+        "sec": 1759247296
       }
     }
   ]
