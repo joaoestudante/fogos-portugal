@@ -292,10 +292,10 @@
       "date": "01-10-2025",
       "hour": "12:02",
       "location": "Setúbal, Alcácer do Sal, Santa Maria Do Castelo E Santiago E Santa Susana",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 36,
-      "terrain": 10,
+      "man": 17,
+      "terrain": 8,
       "district": "Setúbal",
       "concelho": "Alcácer Do Sal",
       "freguesia": "Santa Maria Do Castelo E Santiago E Santa Susana",
@@ -332,7 +332,7 @@
         "sec": 1759317255
       },
       "updated": {
-        "sec": 1759320975
+        "sec": 1759323016
       }
     },
     {
@@ -347,16 +347,16 @@
       "date": "01-10-2025",
       "hour": "12:31",
       "location": "Braga, Fafe, Estorãos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 4,
+      "man": 8,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Estorãos",
       "dico": "0307",
-      "lat": 41.497163,
-      "lng": -8.121237,
+      "lat": 41.496883,
+      "lng": -8.122262,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -387,7 +387,7 @@
         "sec": 1759318576
       },
       "updated": {
-        "sec": 1759320855
+        "sec": 1759323637
       }
     },
     {
@@ -402,10 +402,10 @@
       "date": "01-10-2025",
       "hour": "12:47",
       "location": "Portalegre, Campo Maior, São João Baptista",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 8,
+      "man": 19,
+      "terrain": 6,
       "district": "Portalegre",
       "concelho": "Campo Maior",
       "freguesia": "São João Baptista",
@@ -442,7 +442,125 @@
         "sec": 1759319417
       },
       "updated": {
-        "sec": 1759321226
+        "sec": 1759323491
+      }
+    },
+    {
+      "_id": {
+        "$id": "68dd2563ac6ef94b5f440172"
+      },
+      "id": "20251315997",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759322760
+      },
+      "date": "01-10-2025",
+      "hour": "13:46",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 5,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.633484,
+      "lng": -8.747517,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Poceirão ",
+      "active": true,
+      "sadoId": "20251315997",
+      "sharepointId": 26072731,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 10.1663,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Constantino Marçalo (ER2 (ER5) Km 22)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1759323491
+      },
+      "updated": {
+        "sec": 1759323637
+      }
+    },
+    {
+      "_id": {
+        "$id": "68dd25f5ac6ef94b5f440179"
+      },
+      "id": "20251316018",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759323360
+      },
+      "date": "01-10-2025",
+      "hour": "13:56",
+      "location": "Portalegre, Sousel, Sousel",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 4,
+      "district": "Portalegre",
+      "concelho": "Sousel",
+      "freguesia": "Sousel",
+      "dico": "1215",
+      "lat": 38.954047,
+      "lng": -7.688949,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sousel ",
+      "active": true,
+      "sadoId": "20251316018",
+      "sharepointId": 26072752,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 227.601,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "en ... (ED372 (ED372) Km 15)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1759323637
+      },
+      "updated": {
+        "sec": 1759323859
       }
     }
   ]
