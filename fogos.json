@@ -400,8 +400,8 @@
       "location": "Viseu, Tabuaço, Paradela E Granjinha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Tabuaço",
       "freguesia": "Paradela E Granjinha",
@@ -438,7 +438,7 @@
         "sec": 1759415773
       },
       "updated": {
-        "sec": 1759418892
+        "sec": 1759420166
       }
     },
     {
@@ -455,8 +455,8 @@
       "location": "Beja, Ferreira do Alentejo, Alfundão E Peroguarda",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Ferreira Do Alentejo",
       "freguesia": "Alfundão E Peroguarda",
@@ -493,7 +493,7 @@
         "sec": 1759416492
       },
       "updated": {
-        "sec": 1759418173
+        "sec": 1759420166
       }
     },
     {
@@ -510,8 +510,8 @@
       "location": "Guarda, Gouveia, Arcozelo",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 48,
-      "terrain": 10,
+      "man": 80,
+      "terrain": 18,
       "district": "Guarda",
       "concelho": "Gouveia",
       "freguesia": "Arcozelo",
@@ -548,7 +548,7 @@
         "sec": 1759418172
       },
       "updated": {
-        "sec": 1759419256
+        "sec": 1759420213
       }
     },
     {
@@ -565,8 +565,8 @@
       "location": "Viseu, Mangualde, Abrunhosa-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Abrunhosa-a-velha",
@@ -577,9 +577,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Abrunhosa A Velha ",
       "active": true,
@@ -603,7 +603,7 @@
         "sec": 1759418173
       },
       "updated": {
-        "sec": 1759419495
+        "sec": 1759420166
       }
     },
     {
@@ -626,8 +626,8 @@
       "concelho": "Vila Real",
       "freguesia": "Torgueda",
       "dico": "1714",
-      "lat": 41.268106,
-      "lng": -7.825238,
+      "lat": 41.263362,
+      "lng": -7.814323,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -636,7 +636,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Meneses ",
+      "localidade": "Tuizendes ",
       "active": true,
       "sadoId": "20251321677",
       "sharepointId": 26078412,
@@ -658,7 +658,7 @@
         "sec": 1759418173
       },
       "updated": {
-        "sec": 1759419136
+        "sec": 1759420167
       }
     },
     {
@@ -687,9 +687,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -713,7 +713,7 @@
         "sec": 1759419372
       },
       "updated": {
-        "sec": 1759419391
+        "sec": 1759420166
       }
     },
     {
@@ -730,8 +730,8 @@
       "location": "Braga, Fafe, Estorãos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Estorãos",
@@ -752,8 +752,12 @@
       "sharepointId": 26078512,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 425.091,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "L (Picoto)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -768,7 +772,62 @@
         "sec": 1759419495
       },
       "updated": {
-        "sec": 1759419495
+        "sec": 1759420270
+      }
+    },
+    {
+      "_id": {
+        "$id": "68de9f077f516548605c4c96"
+      },
+      "id": "20251321834",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759419900
+      },
+      "date": "02-10-2025",
+      "hour": "16:45",
+      "location": "Lisboa, Lourinhã, Lourinhã E Atalaia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Lourinhã",
+      "freguesia": "Lourinhã E Atalaia",
+      "dico": "1108",
+      "lat": 39.25134,
+      "lng": -9.30765,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Lourinhã E Atalaia ",
+      "active": true,
+      "sadoId": "20251321834",
+      "sharepointId": 26078569,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1759420167
+      },
+      "updated": {
+        "sec": 1759420300
       }
     }
   ]
