@@ -467,9 +467,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -497,7 +497,7 @@
         "sec": 1759419495
       },
       "updated": {
-        "sec": 1759423819
+        "sec": 1759426219
       }
     },
     {
@@ -514,8 +514,8 @@
       "location": "Porto, Vila Nova de Gaia, Madalena",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Madalena",
@@ -552,7 +552,7 @@
         "sec": 1759421896
       },
       "updated": {
-        "sec": 1759423694
+        "sec": 1759426333
       }
     },
     {
@@ -628,8 +628,8 @@
       "location": "Viseu, Mangualde, Tavares (Chãs, Várzea E Travanca)",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 8,
+      "man": 26,
+      "terrain": 7,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Tavares (Chãs, Várzea E Travanca)",
@@ -670,7 +670,62 @@
         "sec": 1759423063
       },
       "updated": {
-        "sec": 1759425732
+        "sec": 1759426455
+      }
+    },
+    {
+      "_id": {
+        "$id": "68deb7970296916e8236244c"
+      },
+      "id": "20251322371",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759425900
+      },
+      "date": "02-10-2025",
+      "hour": "18:25",
+      "location": "Aveiro, Santa Maria da Feira, Mozelos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Mozelos",
+      "dico": "0109",
+      "lat": 40.997101,
+      "lng": -8.56526,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251322371",
+      "sharepointId": 26079106,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1759426455
+      },
+      "updated": {
+        "sec": 1759426473
       }
     }
   ]
