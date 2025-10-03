@@ -703,9 +703,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Alpendorada, Várzea E Torrão ",
       "active": true,
@@ -729,7 +729,7 @@
         "sec": 1759517173
       },
       "updated": {
-        "sec": 1759517535
+        "sec": 1759519818
       }
     },
     {
@@ -801,8 +801,8 @@
       "location": "Faro, Albufeira, Albufeira E Olhos De Água",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Albufeira",
       "freguesia": "Albufeira E Olhos De Água",
@@ -839,7 +839,66 @@
         "sec": 1759517653
       },
       "updated": {
-        "sec": 1759519214
+        "sec": 1759519817
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e02357c1a2bc354d5a4545"
+      },
+      "id": "20251327694",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759519320
+      },
+      "date": "03-10-2025",
+      "hour": "20:22",
+      "location": "Guarda, Figueira de Castelo Rodrigo, Algodres, Vale De Afonsinho E Vilar De Amargo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Guarda",
+      "concelho": "Figueira De Castelo Rodrigo",
+      "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
+      "dico": "0904",
+      "lat": 40.95233,
+      "lng": -7.054381,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Algodres, Vale De Afonsinho E Vilar De Amargo ",
+      "active": true,
+      "sadoId": "20251327694",
+      "sharepointId": 26084429,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 504.677,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.95232920.-7.05438150) - Rua da Estrada. 6440-011 Figueira de Castelo Rodrigo. Portugal (ALGODRES)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "created": {
+        "sec": 1759519575
+      },
+      "updated": {
+        "sec": 1759519818
       }
     }
   ]
