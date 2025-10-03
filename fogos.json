@@ -125,8 +125,8 @@
       "location": "Guarda, Gouveia, Arcozelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Gouveia",
       "freguesia": "Arcozelo",
@@ -163,7 +163,7 @@
         "sec": 1759418172
       },
       "updated": {
-        "sec": 1759513332
+        "sec": 1759514053
       }
     },
     {
@@ -294,8 +294,8 @@
       "location": "Faro, Aljezur, Odeceixe",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 10,
+      "man": 0,
+      "terrain": 0,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Odeceixe",
@@ -332,7 +332,7 @@
         "sec": 1759496773
       },
       "updated": {
-        "sec": 1759512374
+        "sec": 1759514894
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Lisboa, Azambuja, Manique Do Intendente, V. N. De São Pedro E Maçussa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 9,
+      "man": 5,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Azambuja",
       "freguesia": "Manique Do Intendente, V. N. De São Pedro E Maçussa",
@@ -442,7 +442,7 @@
         "sec": 1759503738
       },
       "updated": {
-        "sec": 1759513816
+        "sec": 1759514894
       }
     },
     {
@@ -459,8 +459,8 @@
       "location": "Vila Real, Montalegre, Montalegre E Padroso",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Montalegre E Padroso",
@@ -497,7 +497,7 @@
         "sec": 1759508537
       },
       "updated": {
-        "sec": 1759512615
+        "sec": 1759514173
       }
     },
     {
@@ -573,8 +573,8 @@
       "location": "Setúbal, Almada, Caparica E Trafaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Caparica E Trafaria",
@@ -611,7 +611,7 @@
         "sec": 1759510943
       },
       "updated": {
-        "sec": 1759512853
+        "sec": 1759514656
       }
     },
     {
@@ -695,9 +695,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Soeira ",
       "active": true,
@@ -725,7 +725,66 @@
         "sec": 1759511894
       },
       "updated": {
-        "sec": 1759512615
+        "sec": 1759514657
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e011875a2f4751255d5b6a"
+      },
+      "id": "20251327358",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759514640
+      },
+      "date": "03-10-2025",
+      "hour": "19:04",
+      "location": "Bragança, Bragança, Gostei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
+      "district": "Bragança",
+      "concelho": "Bragança",
+      "freguesia": "Gostei",
+      "dico": "0402",
+      "lat": 41.79519,
+      "lng": -6.78762,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gostei ",
+      "active": true,
+      "sadoId": "20251327358",
+      "sharepointId": 26084093,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 730.383,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.79518644.-6.78761964) - Rua Conde de Ariães 116. 5300-114 Bragança. Portugal (Rua Álvaro Machado)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1759515015
+      },
+      "updated": {
+        "sec": 1759515055
       }
     }
   ]
