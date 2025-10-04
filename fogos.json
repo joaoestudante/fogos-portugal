@@ -346,24 +346,24 @@
       },
       "date": "04-10-2025",
       "hour": "13:37",
-      "location": "Lisboa, Sintra, Almargem Do Bispo, Pêro Pinheiro E Montelavar",
+      "location": "Lisboa, Sintra, Queluz E Belas",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 7,
       "terrain": 2,
       "district": "Lisboa",
       "concelho": "Sintra",
-      "freguesia": "Almargem Do Bispo, Pêro Pinheiro E Montelavar",
+      "freguesia": "Queluz E Belas",
       "dico": "1111",
-      "lat": 38.853014,
-      "lng": -9.264324,
+      "lat": 38.773547,
+      "lng": -9.25375,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Albogas ",
       "active": true,
@@ -387,7 +387,7 @@
         "sec": 1759582452
       },
       "updated": {
-        "sec": 1759584851
+        "sec": 1759585695
       }
     },
     {
@@ -402,10 +402,10 @@
       "date": "04-10-2025",
       "hour": "14:32",
       "location": "Aveiro, Albergaria-a-Velha, São João De Loure E Frossos",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Albergaria-a-velha",
       "freguesia": "São João De Loure E Frossos",
@@ -416,9 +416,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São João De Loure E Frossos ",
       "active": true,
@@ -442,7 +442,66 @@
         "sec": 1759584851
       },
       "updated": {
-        "sec": 1759584870
+        "sec": 1759585336
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e123da6912b0570b6c2c05"
+      },
+      "id": "20251330776",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759584960
+      },
+      "date": "04-10-2025",
+      "hour": "14:36",
+      "location": "Vila Real, Vila Pouca de Aguiar, Capeludos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Capeludos",
+      "dico": "1713",
+      "lat": 41.63573,
+      "lng": -7.6159,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Capeludos ",
+      "active": true,
+      "sadoId": "20251330776",
+      "sharepointId": 26087518,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 372.536,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Capela da Nossa Senhora da Conceição. 5450 Vila Pouca de Aguiar. Portugal (Nossa Senhora da Conceição)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1759585242
+      },
+      "updated": {
+        "sec": 1759585577
       }
     }
   ]
