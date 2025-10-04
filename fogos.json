@@ -351,15 +351,15 @@
       "concelho": "Castelo Branco",
       "freguesia": "Castelo Branco",
       "dico": "0502",
-      "lat": 39.80071,
-      "lng": -7.4803,
+      "lat": 39.797852,
+      "lng": -7.478387,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Castelo Branco ",
       "active": true,
@@ -387,7 +387,7 @@
         "sec": 1759609574
       },
       "updated": {
-        "sec": 1759610055
+        "sec": 1759610775
       }
     },
     {
@@ -404,8 +404,8 @@
       "location": "Setúbal, Sesimbra, Quinta Do Conde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 24,
+      "terrain": 5,
       "district": "Setúbal",
       "concelho": "Sesimbra",
       "freguesia": "Quinta Do Conde",
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Quinta Do Conde ",
       "active": true,
@@ -442,7 +442,62 @@
         "sec": 1759609815
       },
       "updated": {
-        "sec": 1759610177
+        "sec": 1759610775
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e18797a01d6928bc1f6b91"
+      },
+      "id": "20251332398",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759610640
+      },
+      "date": "04-10-2025",
+      "hour": "21:44",
+      "location": "Porto, Paredes, Lordelo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Lordelo",
+      "dico": "1310",
+      "lat": 41.232163,
+      "lng": -8.409851,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lordelo ",
+      "active": true,
+      "sadoId": "20251332398",
+      "sharepointId": 26089140,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1759610775
+      },
+      "updated": {
+        "sec": 1759610795
       }
     }
   ]
