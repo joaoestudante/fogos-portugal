@@ -133,8 +133,8 @@
       "location": "Santarém, Ourém, Freixianda, Ribeira Do Fárrio E Formigais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Freixianda, Ribeira Do Fárrio E Formigais",
@@ -175,7 +175,7 @@
         "sec": 1759677852
       },
       "updated": {
-        "sec": 1759680853
+        "sec": 1759682296
       }
     },
     {
@@ -192,8 +192,8 @@
       "location": "Bragança, Mirandela, Alvites",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 9,
+      "man": 39,
+      "terrain": 10,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Alvites",
@@ -230,7 +230,7 @@
         "sec": 1759678935
       },
       "updated": {
-        "sec": 1759681452
+        "sec": 1759682296
       }
     },
     {
@@ -300,10 +300,10 @@
       "date": "05-10-2025",
       "hour": "16:49",
       "location": "Santarém, Abrantes, Mouriscas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 39,
-      "terrain": 9,
+      "man": 31,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Mouriscas",
@@ -340,7 +340,7 @@
         "sec": 1759679543
       },
       "updated": {
-        "sec": 1759681096
+        "sec": 1759682295
       }
     },
     {
@@ -369,9 +369,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Meixedo E Padornelos ",
       "active": true,
@@ -395,7 +395,7 @@
         "sec": 1759680497
       },
       "updated": {
-        "sec": 1759680973
+        "sec": 1759682054
       }
     },
     {
@@ -410,10 +410,10 @@
       "date": "05-10-2025",
       "hour": "17:14",
       "location": "Porto, Maia, Folgosa",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 16,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Folgosa",
@@ -424,9 +424,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Folgosa ",
       "active": true,
@@ -450,7 +450,66 @@
         "sec": 1759681095
       },
       "updated": {
-        "sec": 1759681114
+        "sec": 1759682054
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e29f8a5e8f7b416723f4b9"
+      },
+      "id": "20251335927",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759682340
+      },
+      "date": "05-10-2025",
+      "hour": "17:39",
+      "location": "Santarém, Ourém, Seiça -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Seiça",
+      "dico": "142113",
+      "lat": 39.675638999939,
+      "lng": -8.54220900005764,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Coroados (vale Leiria)",
+      "active": true,
+      "sadoId": "20251335927",
+      "sharepointId": 20251335927,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 169.039,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Coroados (Vale Leiria)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "created": {
+        "sec": 1759682442
+      },
+      "updated": {
+        "sec": 1759682465
       }
     }
   ]
