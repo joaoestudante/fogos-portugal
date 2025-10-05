@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Entroncamento ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1759658655
       },
       "updated": {
-        "sec": 1759660093
+        "sec": 1759661895
       }
     },
     {
@@ -129,8 +129,8 @@
       "location": "Aveiro, Vagos, Ouca",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 13,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Vagos",
       "freguesia": "Ouca",
@@ -141,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ouca ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1759660219
       },
       "updated": {
-        "sec": 1759660935
+        "sec": 1759661775
       }
     },
     {
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Alfena ",
       "active": true,
@@ -222,7 +222,125 @@
         "sec": 1759660697
       },
       "updated": {
-        "sec": 1759661053
+        "sec": 1759661775
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e24e575342de5b70071e90"
+      },
+      "id": "20251334489",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759661280
+      },
+      "date": "05-10-2025",
+      "hour": "11:48",
+      "location": "Braga, Vieira do Minho, Anissó E Soutelo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Anissó E Soutelo",
+      "dico": "0311",
+      "lat": 41.60054,
+      "lng": -8.162596,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Anissó E Soutelo ",
+      "active": true,
+      "sadoId": "20251334489",
+      "sharepointId": 26091231,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 504.11,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.60054343.-8.16259575) - M599. 4850 Vieira do Minho. Portugal (Carvoeiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1759661655
+      },
+      "updated": {
+        "sec": 1759661705
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e24e575342de5b70071e92"
+      },
+      "id": "20251334476",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759661100
+      },
+      "date": "05-10-2025",
+      "hour": "11:45",
+      "location": "Aveiro, Mealhada, Mealhada, Ventosa Do Bairro E Antes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Aveiro",
+      "concelho": "Mealhada",
+      "freguesia": "Mealhada, Ventosa Do Bairro E Antes",
+      "dico": "0111",
+      "lat": 40.39233,
+      "lng": -8.451571,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sernadelo ",
+      "active": true,
+      "sadoId": "20251334476",
+      "sharepointId": 26091218,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 32.7481,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.39233471.-8.45157105) - Rua da Fonte. 3050-038 Mealhada. Portugal (Almas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1759661655
+      },
+      "updated": {
+        "sec": 1759661895
       }
     }
   ]
