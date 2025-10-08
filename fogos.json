@@ -180,8 +180,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -218,7 +218,7 @@
         "sec": 1759927099
       },
       "updated": {
-        "sec": 1759936933
+        "sec": 1759937536
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 8,
+      "man": 63,
+      "terrain": 9,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Viade De Baixo E Fervidelas",
@@ -446,7 +446,7 @@
         "sec": 1759932330
       },
       "updated": {
-        "sec": 1759936815
+        "sec": 1759937773
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Castelo Branco, Castelo Branco, Escalos De Baixo E Mata",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 5,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Escalos De Baixo E Mata",
@@ -501,7 +501,7 @@
         "sec": 1759932973
       },
       "updated": {
-        "sec": 1759936217
+        "sec": 1759937897
       }
     },
     {
@@ -691,21 +691,21 @@
       "location": "Santarém, Santarém, Azoia De Cima E Tremês",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
+      "man": 37,
+      "terrain": 8,
       "district": "Santarém",
       "concelho": "Santarém",
       "freguesia": "Azoia De Cima E Tremês",
       "dico": "1416",
-      "lat": 39.32421,
-      "lng": -8.73982,
+      "lat": 39.32553,
+      "lng": -8.738207,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "União Das Freguesias De Azoia De Cima E Tremês ",
       "active": true,
@@ -729,7 +729,7 @@
         "sec": 1759936815
       },
       "updated": {
-        "sec": 1759936933
+        "sec": 1759937897
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Setúbal, Almada, Costa Da Caparica",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 20,
+      "terrain": 4,
       "district": "Setúbal",
       "concelho": "Almada",
       "freguesia": "Costa Da Caparica",
@@ -758,9 +758,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Costa Da Caparica ",
       "active": true,
@@ -784,7 +784,117 @@
         "sec": 1759936815
       },
       "updated": {
-        "sec": 1759936877
+        "sec": 1759937773
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e6821eb05d3b76413a571e"
+      },
+      "id": "20251350462",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759936680
+      },
+      "date": "08-10-2025",
+      "hour": "16:18",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.56532,
+      "lng": -8.7867,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Poceirão E Marateca ",
+      "active": true,
+      "sadoId": "20251350462",
+      "sharepointId": 26107205,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1759937054
+      },
+      "updated": {
+        "sec": 1759937773
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e68568b05d3b76413a5745"
+      },
+      "id": "20251350524",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759937760
+      },
+      "date": "08-10-2025",
+      "hour": "16:36",
+      "location": "Vila Real, Valpaços, Vassal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Vassal",
+      "dico": "1712",
+      "lat": 41.631497,
+      "lng": -7.362696,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Monsalvarga ",
+      "active": true,
+      "sadoId": "20251350524",
+      "sharepointId": 26107267,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1759937896
+      },
+      "updated": {
+        "sec": 1759937915
       }
     }
   ]
