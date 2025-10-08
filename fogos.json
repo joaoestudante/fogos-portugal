@@ -15,8 +15,8 @@
       "location": "Viseu, Castro Daire, Castro Daire",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Castro Daire",
       "freguesia": "Castro Daire",
@@ -53,7 +53,7 @@
         "sec": 1759698735
       },
       "updated": {
-        "sec": 1759915576
+        "sec": 1759933332
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Vila Real, Boticas, Dornelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Dornelas",
@@ -163,7 +163,7 @@
         "sec": 1759917854
       },
       "updated": {
-        "sec": 1759922773
+        "sec": 1759932422
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Beja, Vidigueira, Pedrógão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 9,
+      "man": 26,
+      "terrain": 8,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Pedrógão",
@@ -273,7 +273,7 @@
         "sec": 1759927099
       },
       "updated": {
-        "sec": 1759931175
+        "sec": 1759932422
       }
     },
     {
@@ -288,23 +288,23 @@
       "date": "08-10-2025",
       "hour": "14:10",
       "location": "Braga, Fafe, São Gens",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 34,
-      "terrain": 5,
+      "man": 23,
+      "terrain": 6,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "São Gens",
       "dico": "0307",
-      "lat": 41.429177,
-      "lng": -8.099473,
+      "lat": 41.427873,
+      "lng": -8.10069,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Burgueiros ",
       "active": true,
@@ -328,7 +328,7 @@
         "sec": 1759929135
       },
       "updated": {
-        "sec": 1759931539
+        "sec": 1759933575
       }
     },
     {
@@ -351,15 +351,15 @@
       "concelho": "Chaves",
       "freguesia": "Nogueira Da Montanha",
       "dico": "1703",
-      "lat": 41.685791,
-      "lng": -7.445764,
+      "lat": 41.678545,
+      "lng": -7.448237,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Maços ",
       "active": true,
@@ -387,7 +387,231 @@
         "sec": 1759931175
       },
       "updated": {
-        "sec": 1759931539
+        "sec": 1759932622
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e66faa97389d5d507b63d2"
+      },
+      "id": "20251350079",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759931580
+      },
+      "date": "08-10-2025",
+      "hour": "14:53",
+      "location": "Viseu, Resende, Paus",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Resende",
+      "freguesia": "Paus",
+      "dico": "1813",
+      "lat": 41.072025,
+      "lng": -7.918959,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Moumis ",
+      "active": true,
+      "sadoId": "20251350079",
+      "sharepointId": 26106822,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 620.787,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Paus (Boavista)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1759932330
+      },
+      "updated": {
+        "sec": 1759933695
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e66faa97389d5d507b63d3"
+      },
+      "id": "20251350100",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759931760
+      },
+      "date": "08-10-2025",
+      "hour": "14:56",
+      "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Viade De Baixo E Fervidelas",
+      "dico": "1706",
+      "lat": 41.764258,
+      "lng": -7.84333,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Parafita ",
+      "active": true,
+      "sadoId": "20251350100",
+      "sharepointId": 26106843,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1759932330
+      },
+      "updated": {
+        "sec": 1759933695
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e6722d97389d5d507b6401"
+      },
+      "id": "20251350168",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759932660
+      },
+      "date": "08-10-2025",
+      "hour": "15:11",
+      "location": "Castelo Branco, Castelo Branco, Escalos De Baixo E Mata",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 34,
+      "terrain": 8,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Escalos De Baixo E Mata",
+      "dico": "0502",
+      "lat": 39.867341,
+      "lng": -7.358766,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Monheca  ",
+      "active": true,
+      "sadoId": "20251350168",
+      "sharepointId": 26106911,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "created": {
+        "sec": 1759932973
+      },
+      "updated": {
+        "sec": 1759933575
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e6739597389d5d507b6413"
+      },
+      "id": "20251350192",
+      "coords": true,
+      "dateTime": {
+        "sec": 1759932960
+      },
+      "date": "08-10-2025",
+      "hour": "15:16",
+      "location": "Aveiro, Santa Maria da Feira, Fiães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Fiães",
+      "dico": "0109",
+      "lat": 40.99199,
+      "lng": -8.53141,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Fiães ",
+      "active": true,
+      "sadoId": "20251350192",
+      "sharepointId": 26106935,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1759933333
+      },
+      "updated": {
+        "sec": 1759933695
       }
     }
   ]
