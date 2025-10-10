@@ -70,8 +70,8 @@
       "location": "Braga, Vieira do Minho, Tabuaças",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Tabuaças",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Tabuaças ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1760078053
       },
       "updated": {
-        "sec": 1760079135
+        "sec": 1760082134
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Portalegre, Elvas, São Vicente E Ventosa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 9,
+      "terrain": 3,
       "district": "Portalegre",
       "concelho": "Elvas",
       "freguesia": "São Vicente E Ventosa",
@@ -192,11 +192,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "A6 | Km 136 | Esp-pt ",
+      "localidade": "A6 | Km 136 | Pt-esp ",
       "active": true,
       "sadoId": "20251357695",
       "sharepointId": 26114441,
@@ -218,7 +218,7 @@
         "sec": 1760080095
       },
       "updated": {
-        "sec": 1760081771
+        "sec": 1760082254
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Lisboa, Torres Vedras, Ramalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Ramalhal",
@@ -247,9 +247,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Casais Do Vale Da Borra ",
       "active": true,
@@ -273,7 +273,121 @@
         "sec": 1760081652
       },
       "updated": {
-        "sec": 1760081672
+        "sec": 1760082134
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e8b9c4171a0e7ef626ade3"
+      },
+      "id": "20251357864",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760082000
+      },
+      "date": "10-10-2025",
+      "hour": "08:40",
+      "location": "Évora, Vila Viçosa, Nossa Senhora Da Conceição E São Bartolomeu",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Évora",
+      "concelho": "Vila Viçosa",
+      "freguesia": "Nossa Senhora Da Conceição E São Bartolomeu",
+      "dico": "0714",
+      "lat": 38.778027,
+      "lng": -7.429967,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Vila Viçosa ",
+      "active": true,
+      "sadoId": "20251357864",
+      "sharepointId": 26114610,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 391.615,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Variante Jt Intermache (Quinta de Santa Maria)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "created": {
+        "sec": 1760082372
+      },
+      "updated": {
+        "sec": 1760082614
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e8bab7171a0e7ef626adec"
+      },
+      "id": "20251357884",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760082360
+      },
+      "date": "10-10-2025",
+      "hour": "08:46",
+      "location": "Coimbra, Oliveira do Hospital, Seixo Da Beira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Oliveira Do Hospital",
+      "freguesia": "Seixo Da Beira",
+      "dico": "0611",
+      "lat": 40.457716,
+      "lng": -7.839564,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Seixo Da Beira ",
+      "active": true,
+      "sadoId": "20251357884",
+      "sharepointId": 26114630,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "created": {
+        "sec": 1760082615
+      },
+      "updated": {
+        "sec": 1760082615
       }
     }
   ]
