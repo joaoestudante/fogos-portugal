@@ -15,8 +15,8 @@
       "location": "Coimbra, Oliveira do Hospital, Seixo Da Beira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 94,
-      "terrain": 23,
+      "man": 74,
+      "terrain": 19,
       "district": "Coimbra",
       "concelho": "Oliveira Do Hospital",
       "freguesia": "Seixo Da Beira",
@@ -53,7 +53,7 @@
         "sec": 1760082615
       },
       "updated": {
-        "sec": 1760131455
+        "sec": 1760132063
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Vila Real, Montalegre, Gralhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 121,
-      "terrain": 39,
+      "man": 116,
+      "terrain": 38,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Gralhas",
@@ -112,7 +112,7 @@
         "sec": 1760094973
       },
       "updated": {
-        "sec": 1760129788
+        "sec": 1760131694
       }
     },
     {
@@ -526,9 +526,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lobão ",
       "active": true,
@@ -552,7 +552,7 @@
         "sec": 1760127618
       },
       "updated": {
-        "sec": 1760129293
+        "sec": 1760131576
       }
     },
     {
@@ -566,24 +566,24 @@
       },
       "date": "10-10-2025",
       "hour": "22:16",
-      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "location": "Évora, Évora, Malagueira E Horta Das Figueiras",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 7,
       "terrain": 2,
       "district": "Évora",
       "concelho": "Évora",
-      "freguesia": "Bacelo E Senhora Da Saúde",
+      "freguesia": "Malagueira E Horta Das Figueiras",
       "dico": "0705",
-      "lat": 38.57679,
-      "lng": -7.90486,
+      "lat": 38.577347,
+      "lng": -7.906318,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Évora ",
       "active": true,
@@ -607,7 +607,7 @@
         "sec": 1760131339
       },
       "updated": {
-        "sec": 1760131455
+        "sec": 1760132062
       }
     },
     {
@@ -624,23 +624,23 @@
       "location": "Portalegre, Campo Maior, São João Baptista",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 14,
+      "terrain": 4,
       "district": "Portalegre",
       "concelho": "Campo Maior",
       "freguesia": "São João Baptista",
       "dico": "1204",
-      "lat": 39.07974,
-      "lng": -7.03182,
+      "lat": 39.081209,
+      "lng": -7.031742,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "São João Baptista ",
+      "localidade": "Ouguela ",
       "active": true,
       "sadoId": "20251361992",
       "sharepointId": 26118738,
@@ -662,7 +662,66 @@
         "sec": 1760131575
       },
       "updated": {
-        "sec": 1760131575
+        "sec": 1760132062
+      }
+    },
+    {
+      "_id": {
+        "$id": "68e97ae8ae4de8398e0d3443"
+      },
+      "id": "20251361985",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760130900
+      },
+      "date": "10-10-2025",
+      "hour": "22:15",
+      "location": "Vila Real, Montalegre, Cervos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Cervos",
+      "dico": "1706",
+      "lat": 41.759206,
+      "lng": -7.673807,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Arcos ",
+      "active": true,
+      "sadoId": "20251361985",
+      "sharepointId": 26118731,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 914.409,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Arcos",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1760131816
+      },
+      "updated": {
+        "sec": 1760131861
       }
     }
   ]
