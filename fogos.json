@@ -129,8 +129,8 @@
       "location": "Braga, Vila Verde, Prado (São Miguel)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Prado (São Miguel)",
@@ -171,7 +171,7 @@
         "sec": 1760143937
       },
       "updated": {
-        "sec": 1760198436
+        "sec": 1760208373
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Braga, Póvoa de Lanhoso, Esperança E Brunhais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 93,
-      "terrain": 30,
+      "man": 64,
+      "terrain": 20,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Esperança E Brunhais",
@@ -226,7 +226,7 @@
         "sec": 1760179455
       },
       "updated": {
-        "sec": 1760208136
+        "sec": 1760208854
       }
     },
     {
@@ -353,8 +353,8 @@
       "location": "Vila Real, Chaves, Vilela Do Tâmega",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Vilela Do Tâmega",
@@ -395,7 +395,7 @@
         "sec": 1760193371
       },
       "updated": {
-        "sec": 1760205375
+        "sec": 1760208373
       }
     },
     {
@@ -483,9 +483,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Moncarapacho ",
       "active": true,
@@ -513,7 +513,7 @@
         "sec": 1760207425
       },
       "updated": {
-        "sec": 1760208017
+        "sec": 1760208372
       }
     },
     {
@@ -585,8 +585,8 @@
       "location": "Lisboa, Sobral de Monte Agraço, Sapataria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 3,
       "district": "Lisboa",
       "concelho": "Sobral De Monte Agraço",
       "freguesia": "Sapataria",
@@ -623,7 +623,66 @@
         "sec": 1760208136
       },
       "updated": {
-        "sec": 1760208155
+        "sec": 1760208496
+      }
+    },
+    {
+      "_id": {
+        "$id": "68eaa5f487e92b7de442b950"
+      },
+      "id": "20251366033",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760207760
+      },
+      "date": "11-10-2025",
+      "hour": "19:36",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Aguiã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Aguiã",
+      "dico": "1601",
+      "lat": 41.881635,
+      "lng": -8.443228,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Igreja ",
+      "active": true,
+      "sadoId": "20251366033",
+      "sharepointId": 26122785,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 157.794,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Igreja (Aguião)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1760208372
+      },
+      "updated": {
+        "sec": 1760208398
       }
     }
   ]
