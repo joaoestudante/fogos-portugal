@@ -310,9 +310,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Catém ",
       "active": true,
@@ -336,7 +336,7 @@
         "sec": 1760179818
       },
       "updated": {
-        "sec": 1760189534
+        "sec": 1760192656
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Beja, Vidigueira, Selmes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Selmes",
@@ -446,7 +446,7 @@
         "sec": 1760185576
       },
       "updated": {
-        "sec": 1760192419
+        "sec": 1760193016
       }
     },
     {
@@ -616,65 +616,6 @@
     },
     {
       "_id": {
-        "$id": "68ea6306eb6c741d2f6a1386"
-      },
-      "id": "20251364861",
-      "coords": true,
-      "dateTime": {
-        "sec": 1760191020
-      },
-      "date": "11-10-2025",
-      "hour": "14:57",
-      "location": "Aveiro, Murtosa, Murtosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
-      "district": "Aveiro",
-      "concelho": "Murtosa",
-      "freguesia": "Murtosa",
-      "dico": "0112",
-      "lat": 40.73712,
-      "lng": -8.6422,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Murtosa ",
-      "active": true,
-      "sadoId": "20251364861",
-      "sharepointId": 26121613,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": -12.26,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Lagoa dos Fiadeiros. 3870-230 Murtosa. Portugal (Rua da Lagoa dos Fiadeiros)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "created": {
-        "sec": 1760191238
-      },
-      "updated": {
-        "sec": 1760192419
-      }
-    },
-    {
-      "_id": {
         "$id": "68ea654ce309f4357a6c30ad"
       },
       "id": "20251364889",
@@ -726,6 +667,61 @@
       },
       "updated": {
         "sec": 1760192419
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ea6987e309f4357a6c30dd"
+      },
+      "id": "20251364985",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760192760
+      },
+      "date": "11-10-2025",
+      "hour": "15:26",
+      "location": "Viseu, Cinfães, Ferreiros De Tendais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Ferreiros De Tendais",
+      "dico": "1804",
+      "lat": 41.047881,
+      "lng": -8.051061,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ferreiros De Tendais ",
+      "active": true,
+      "sadoId": "20251364985",
+      "sharepointId": 26121737,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1760192903
+      },
+      "updated": {
+        "sec": 1760193017
       }
     }
   ]
