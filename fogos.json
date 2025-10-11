@@ -133,8 +133,8 @@
       "location": "Braga, Póvoa de Lanhoso, Esperança E Brunhais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 52,
-      "terrain": 16,
+      "man": 2,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Esperança E Brunhais",
@@ -171,7 +171,7 @@
         "sec": 1760179455
       },
       "updated": {
-        "sec": 1760210412
+        "sec": 1760216707
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Viseu, Cinfães, Ferreiros De Tendais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Ferreiros De Tendais",
@@ -226,7 +226,7 @@
         "sec": 1760192903
       },
       "updated": {
-        "sec": 1760207654
+        "sec": 1760216892
       }
     },
     {
@@ -526,8 +526,8 @@
       "location": "Braga, Fafe, São Gens",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "São Gens",
@@ -538,9 +538,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "São Gens ",
       "active": true,
@@ -564,7 +564,62 @@
         "sec": 1760215815
       },
       "updated": {
-        "sec": 1760215853
+        "sec": 1760216892
+      }
+    },
+    {
+      "_id": {
+        "$id": "68eac4e710647a63381f2cfb"
+      },
+      "id": "20251366538",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760216040
+      },
+      "date": "11-10-2025",
+      "hour": "21:54",
+      "location": "Vila Real, Valpaços, Ervões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Ervões",
+      "dico": "1712",
+      "lat": 41.642309,
+      "lng": -7.363768,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamas ",
+      "active": true,
+      "sadoId": "20251366538",
+      "sharepointId": 26123290,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1760216295
+      },
+      "updated": {
+        "sec": 1760216707
       }
     }
   ]
