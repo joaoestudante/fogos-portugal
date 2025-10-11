@@ -416,9 +416,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Murtosa ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1760220065
       },
       "updated": {
-        "sec": 1760222894
+        "sec": 1760225774
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Aveiro, Arouca, Urrô",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 78,
-      "terrain": 20,
+      "man": 85,
+      "terrain": 22,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Urrô",
@@ -501,51 +501,51 @@
         "sec": 1760221697
       },
       "updated": {
-        "sec": 1760224696
+        "sec": 1760226020
       }
     },
     {
       "_id": {
-        "$id": "68eadbe1976d3850bb4ce107"
+        "$id": "68eae9ee42be3419e7111ba3"
       },
-      "id": "20251366774",
+      "id": "20251366897",
       "coords": true,
       "dateTime": {
-        "sec": 1760221800
+        "sec": 1760224320
       },
-      "date": "11-10-2025",
-      "hour": "23:30",
-      "location": "Aveiro, Castelo de Paiva, Raiva, Pedorido E Paraíso",
+      "date": "12-10-2025",
+      "hour": "00:12",
+      "location": "Porto, Maia, Castêlo Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Castelo De Paiva",
-      "freguesia": "Raiva, Pedorido E Paraíso",
-      "dico": "0106",
-      "lat": 41.00269,
-      "lng": -8.308264,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Castêlo Da Maia",
+      "dico": "1306",
+      "lat": 41.267591,
+      "lng": -8.616749,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Nogueira ",
+      "localidade": " ",
       "active": true,
-      "sadoId": "20251366774",
-      "sharepointId": 26123526,
+      "sadoId": "20251366897",
+      "sharepointId": 26123649,
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 424.551,
+        "altitude": 100.124,
         "fogacho": true,
-        "fontealerta": "Populares"
+        "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Lg. Nogueira (PARAÍSO)",
+      "detailLocation": "Travessa Nova de Quiráz (Avenida Carlos de Oliveira Campos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -555,12 +555,67 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
+      "sub_regiao": "Area M. Porto",
       "created": {
-        "sec": 1760222177
+        "sec": 1760225774
       },
       "updated": {
-        "sec": 1760223976
+        "sec": 1760225803
+      }
+    },
+    {
+      "_id": {
+        "$id": "68eaeae442be3419e7111bac"
+      },
+      "id": "20251366911",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760225760
+      },
+      "date": "12-10-2025",
+      "hour": "00:36",
+      "location": "Braga, Cabeceiras de Basto, Refojos De Basto, Outeiro E Painzela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Cabeceiras De Basto",
+      "freguesia": "Refojos De Basto, Outeiro E Painzela",
+      "dico": "0304",
+      "lat": 41.514146,
+      "lng": -8.010408,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251366911",
+      "sharepointId": 26123663,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1760226020
+      },
+      "updated": {
+        "sec": 1760226020
       }
     }
   ]
