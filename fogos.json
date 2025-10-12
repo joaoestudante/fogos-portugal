@@ -294,8 +294,8 @@
       "location": "Lisboa, Alenquer, Carregado E Cadafais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 16,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Alenquer",
       "freguesia": "Carregado E Cadafais",
@@ -306,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cadafais ",
       "active": true,
@@ -332,7 +332,7 @@
         "sec": 1760257574
       },
       "updated": {
-        "sec": 1760258056
+        "sec": 1760258654
       }
     },
     {
@@ -349,8 +349,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Santa Marta De Portuzelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Santa Marta De Portuzelo",
@@ -361,9 +361,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Rua Da Junqueira ",
       "active": true,
@@ -387,7 +387,121 @@
         "sec": 1760258056
       },
       "updated": {
-        "sec": 1760258074
+        "sec": 1760258654
+      }
+    },
+    {
+      "_id": {
+        "$id": "68eb68f8de54333c9f392d6c"
+      },
+      "id": "20251367883",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760257800
+      },
+      "date": "12-10-2025",
+      "hour": "09:30",
+      "location": "Vila Real, Alijó, Vilar De Maçada",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Alijó",
+      "freguesia": "Vilar De Maçada",
+      "dico": "1701",
+      "lat": 41.31859,
+      "lng": -7.53576,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vilar De Maçada ",
+      "active": true,
+      "sadoId": "20251367883",
+      "sharepointId": 26124635,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 540.204,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sanradela. Alijó. Portugal (Sarradela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "created": {
+        "sec": 1760258296
+      },
+      "updated": {
+        "sec": 1760258654
+      }
+    },
+    {
+      "_id": {
+        "$id": "68eb6a5ede54333c9f392d7a"
+      },
+      "id": "20251367937",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760258460
+      },
+      "date": "12-10-2025",
+      "hour": "09:41",
+      "location": "Braga, Vila Verde, Prado (São Miguel)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Prado (São Miguel)",
+      "dico": "0313",
+      "lat": 41.70253,
+      "lng": -8.434569,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251367937",
+      "sharepointId": 26124689,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "created": {
+        "sec": 1760258654
+      },
+      "updated": {
+        "sec": 1760258675
       }
     }
   ]
