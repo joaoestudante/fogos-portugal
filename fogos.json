@@ -636,8 +636,8 @@
       "location": "Porto, Gondomar, Rio Tinto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Rio Tinto",
@@ -678,7 +678,7 @@
         "sec": 1760276174
       },
       "updated": {
-        "sec": 1760278102
+        "sec": 1760283375
       }
     },
     {
@@ -693,10 +693,10 @@
       "date": "12-10-2025",
       "hour": "15:13",
       "location": "Vila Real, Valpaços, São João Da Corveira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Valpaços",
       "freguesia": "São João Da Corveira",
@@ -733,7 +733,7 @@
         "sec": 1760278817
       },
       "updated": {
-        "sec": 1760282657
+        "sec": 1760283253
       }
     },
     {
@@ -917,10 +917,10 @@
       "date": "12-10-2025",
       "hour": "15:59",
       "location": "Santarém, Abrantes, Mouriscas",
-      "aerial": 9,
+      "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 115,
-      "terrain": 24,
+      "man": 125,
+      "terrain": 28,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Mouriscas",
@@ -957,7 +957,7 @@
         "sec": 1760281516
       },
       "updated": {
-        "sec": 1760282774
+        "sec": 1760283376
       }
     },
     {
@@ -1017,6 +1017,65 @@
       },
       "updated": {
         "sec": 1760282206
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ebcaef037a987e651730b8"
+      },
+      "id": "20251369764",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760282400
+      },
+      "date": "12-10-2025",
+      "hour": "16:20",
+      "location": "Porto, Marco de Canaveses, Alpendorada, Várzea E Torrão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Alpendorada, Várzea E Torrão",
+      "dico": "1307",
+      "lat": 41.086578,
+      "lng": -8.240242,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alpendurada ",
+      "active": true,
+      "sadoId": "20251369764",
+      "sharepointId": 26126516,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 135.394,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Av de São Vento (ALPENDURADA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1760283375
+      },
+      "updated": {
+        "sec": 1760283401
       }
     }
   ]
