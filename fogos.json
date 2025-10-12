@@ -689,9 +689,9 @@
       "date": "12-10-2025",
       "hour": "13:52",
       "location": "Leiria, Óbidos, Olho Marinho",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 74,
+      "man": 76,
       "terrain": 21,
       "district": "Leiria",
       "concelho": "Óbidos",
@@ -729,7 +729,7 @@
         "sec": 1760274314
       },
       "updated": {
-        "sec": 1760279055
+        "sec": 1760279414
       }
     },
     {
@@ -857,17 +857,17 @@
       },
       "date": "12-10-2025",
       "hour": "15:13",
-      "location": "Vila Real, Valpaços, Canaveses",
+      "location": "Vila Real, Valpaços, Serapicos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
+      "man": 26,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Valpaços",
-      "freguesia": "Canaveses",
+      "freguesia": "Serapicos",
       "dico": "1712",
-      "lat": 41.514548,
-      "lng": -7.377259,
+      "lat": 41.614866,
+      "lng": -7.437278,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -876,7 +876,7 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Cadouco ",
+      "localidade": "Serapicos ",
       "active": true,
       "sadoId": "20251369437",
       "sharepointId": 26126189,
@@ -898,7 +898,7 @@
         "sec": 1760278817
       },
       "updated": {
-        "sec": 1760279172
+        "sec": 1760279894
       }
     },
     {
@@ -915,8 +915,8 @@
       "location": "Setúbal, Grândola, Grândola E Santa Margarida Da Serra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 18,
+      "terrain": 4,
       "district": "Setúbal",
       "concelho": "Grândola",
       "freguesia": "Grândola E Santa Margarida Da Serra",
@@ -927,9 +927,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "União Das Freguesias De Grândola E Santa Margarida Da Serra ",
       "active": true,
@@ -953,7 +953,117 @@
         "sec": 1760279055
       },
       "updated": {
-        "sec": 1760279172
+        "sec": 1760279894
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ebbd562841185e2b6a27ee"
+      },
+      "id": "20251369537",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760279340
+      },
+      "date": "12-10-2025",
+      "hour": "15:29",
+      "location": "Porto, Valongo, Ermesinde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Ermesinde",
+      "dico": "1315",
+      "lat": 41.21602,
+      "lng": -8.549319,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251369537",
+      "sharepointId": 26126289,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1760279894
+      },
+      "updated": {
+        "sec": 1760279916
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ebbd562841185e2b6a27ef"
+      },
+      "id": "20251369528",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760279580
+      },
+      "date": "12-10-2025",
+      "hour": "15:33",
+      "location": "Leiria, Pombal, Pelariga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Pelariga",
+      "dico": "1015",
+      "lat": 39.93806,
+      "lng": -8.625278,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Pelariga ",
+      "active": true,
+      "sadoId": "20251369528",
+      "sharepointId": 26126280,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "created": {
+        "sec": 1760279894
+      },
+      "updated": {
+        "sec": 1760279940
       }
     }
   ]
