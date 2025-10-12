@@ -74,8 +74,8 @@
       "location": "Braga, Vila Verde, Prado (São Miguel)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Prado (São Miguel)",
@@ -112,7 +112,7 @@
         "sec": 1760258654
       },
       "updated": {
-        "sec": 1760295492
+        "sec": 1760296819
       }
     },
     {
@@ -243,8 +243,8 @@
       "location": "Santarém, Abrantes, Mouriscas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 87,
-      "terrain": 29,
+      "man": 82,
+      "terrain": 28,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Mouriscas",
@@ -281,7 +281,7 @@
         "sec": 1760281516
       },
       "updated": {
-        "sec": 1760295972
+        "sec": 1760296819
       }
     },
     {
@@ -577,7 +577,7 @@
       "location": "Vila Real, Valpaços, Vassal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
+      "man": 12,
       "terrain": 3,
       "district": "Vila Real",
       "concelho": "Valpaços",
@@ -619,7 +619,7 @@
         "sec": 1760293215
       },
       "updated": {
-        "sec": 1760295973
+        "sec": 1760297054
       }
     },
     {
@@ -697,8 +697,8 @@
       "concelho": "Sintra",
       "freguesia": "São João Das Lampas E Terrugem",
       "dico": "1111",
-      "lat": 38.882571,
-      "lng": -9.36966,
+      "lat": 38.885972,
+      "lng": -9.371205,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -729,7 +729,7 @@
         "sec": 1760294896
       },
       "updated": {
-        "sec": 1760296573
+        "sec": 1760296936
       }
     },
     {
@@ -801,8 +801,8 @@
       "location": "Braga, Vieira do Minho, Rossas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Rossas",
@@ -839,7 +839,7 @@
         "sec": 1760296092
       },
       "updated": {
-        "sec": 1760296455
+        "sec": 1760296819
       }
     },
     {
@@ -856,8 +856,8 @@
       "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 20,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Aboim Da Nóbrega E Gondomar",
@@ -868,9 +868,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Aboim Da Nóbrega E Gondomar ",
       "active": true,
@@ -898,7 +898,62 @@
         "sec": 1760296573
       },
       "updated": {
-        "sec": 1760296597
+        "sec": 1760296936
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ec005ee485f4209a703bfa"
+      },
+      "id": "20251370634",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760296620
+      },
+      "date": "12-10-2025",
+      "hour": "20:17",
+      "location": "Faro, Faro, Faro (Sé E São Pedro)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Faro (Sé E São Pedro)",
+      "dico": "0805",
+      "lat": 37.01865,
+      "lng": -7.942032,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Horta Da Areia ",
+      "active": true,
+      "sadoId": "20251370634",
+      "sharepointId": 26127386,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "created": {
+        "sec": 1760297054
+      },
+      "updated": {
+        "sec": 1760297075
       }
     }
   ]
