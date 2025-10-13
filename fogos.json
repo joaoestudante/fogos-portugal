@@ -68,10 +68,10 @@
       "date": "13-10-2025",
       "hour": "08:22",
       "location": "Vila Real, Boticas, Beça",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Beça",
@@ -108,7 +108,7 @@
         "sec": 1760340372
       },
       "updated": {
-        "sec": 1760342170
+        "sec": 1760343015
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Vilela, São Cosme E São Damião E Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 11,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Vilela, São Cosme E São Damião E Sá",
@@ -163,7 +163,7 @@
         "sec": 1760341223
       },
       "updated": {
-        "sec": 1760342170
+        "sec": 1760344092
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Capeludos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Capeludos",
@@ -192,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Freixeda ",
       "active": true,
@@ -218,7 +218,121 @@
         "sec": 1760342171
       },
       "updated": {
-        "sec": 1760342191
+        "sec": 1760343373
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ecb64307b07a2bd80c49d9"
+      },
+      "id": "20251372310",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760343060
+      },
+      "date": "13-10-2025",
+      "hour": "09:11",
+      "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "dico": "1111",
+      "lat": 38.749345,
+      "lng": -9.361604,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Bairro Da Felosa ",
+      "active": true,
+      "sadoId": "20251372310",
+      "sharepointId": 26129062,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1760343619
+      },
+      "updated": {
+        "sec": 1760343657
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ecb64407b07a2bd80c49db"
+      },
+      "id": "20251372332",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760342820
+      },
+      "date": "13-10-2025",
+      "hour": "09:07",
+      "location": "Porto, Trofa, Alvarelhos E Guidões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Trofa",
+      "freguesia": "Alvarelhos E Guidões",
+      "dico": "1318",
+      "lat": 41.315583,
+      "lng": -8.614107,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20251372332",
+      "sharepointId": 26129084,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 65.6706,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Castro de Alvarelhos (Teneza)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1760343620
+      },
+      "updated": {
+        "sec": 1760343683
       }
     }
   ]
