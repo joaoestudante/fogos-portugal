@@ -15,8 +15,8 @@
       "location": "Portalegre, Monforte, Santo Aleixo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 3,
+      "man": 1,
+      "terrain": 1,
       "district": "Portalegre",
       "concelho": "Monforte",
       "freguesia": "Santo Aleixo",
@@ -57,7 +57,7 @@
         "sec": 1760352732
       },
       "updated": {
-        "sec": 1760384532
+        "sec": 1760385253
       }
     },
     {
@@ -416,8 +416,8 @@
       "location": "Santarém, Alpiarça, Alpiarça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Alpiarça",
       "freguesia": "Alpiarça",
@@ -454,7 +454,7 @@
         "sec": 1760378175
       },
       "updated": {
-        "sec": 1760384773
+        "sec": 1760384897
       }
     },
     {
@@ -628,61 +628,6 @@
     },
     {
       "_id": {
-        "$id": "68ed4f85cb958841916f0908"
-      },
-      "id": "20251375773",
-      "coords": true,
-      "dateTime": {
-        "sec": 1760382480
-      },
-      "date": "13-10-2025",
-      "hour": "20:08",
-      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Évora",
-      "concelho": "Évora",
-      "freguesia": "Bacelo E Senhora Da Saúde",
-      "dico": "0705",
-      "lat": 38.577358,
-      "lng": -7.901712,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Évora ",
-      "active": true,
-      "sadoId": "20251375773",
-      "sharepointId": 26132525,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "created": {
-        "sec": 1760382853
-      },
-      "updated": {
-        "sec": 1760384532
-      }
-    },
-    {
-      "_id": {
         "$id": "68ed52d7cb958841916f092b"
       },
       "id": "20251375850",
@@ -707,9 +652,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Alva ",
       "active": true,
@@ -733,7 +678,7 @@
         "sec": 1760383703
       },
       "updated": {
-        "sec": 1760384293
+        "sec": 1760385253
       }
     },
     {
@@ -756,15 +701,15 @@
       "concelho": "Baião",
       "freguesia": "Santa Marinha Do Zêzere",
       "dico": "1302",
-      "lat": 41.138624,
-      "lng": -7.950478,
+      "lat": 41.14079,
+      "lng": -7.961327,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Valadares ",
       "active": true,
@@ -792,7 +737,62 @@
         "sec": 1760383816
       },
       "updated": {
-        "sec": 1760383862
+        "sec": 1760385253
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ed586fcb958841916f095f"
+      },
+      "id": "20251375933",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760384940
+      },
+      "date": "13-10-2025",
+      "hour": "20:49",
+      "location": "Vila Real, Boticas, Alturas Do Barroso E Cerdedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Boticas",
+      "freguesia": "Alturas Do Barroso E Cerdedo",
+      "dico": "1702",
+      "lat": 41.65992,
+      "lng": -7.887018,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Cerdedo ",
+      "active": true,
+      "sadoId": "20251375933",
+      "sharepointId": 26132685,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1760385135
+      },
+      "updated": {
+        "sec": 1760385153
       }
     }
   ]
