@@ -463,8 +463,8 @@
       "location": "Braga, Vieira do Minho, Anissó E Soutelo",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 0,
+      "man": 27,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Anissó E Soutelo",
@@ -485,8 +485,12 @@
       "sharepointId": 26137169,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 502.087,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Srª da Lapa (Barbeito)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -501,7 +505,66 @@
         "sec": 1760462175
       },
       "updated": {
-        "sec": 1760462175
+        "sec": 1760462897
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ee883168d7e068d67bed31"
+      },
+      "id": "20251380447",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760462340
+      },
+      "date": "14-10-2025",
+      "hour": "18:19",
+      "location": "Bragança, Vinhais, Vilar De Lomba E São Jomil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 4,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Vilar De Lomba E São Jomil",
+      "dico": "0412",
+      "lat": 41.79327,
+      "lng": -7.181649,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Vilar De Lomba E São Jomil ",
+      "active": true,
+      "sadoId": "20251380447",
+      "sharepointId": 26137199,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 617.514,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "São Jomil (SÃO GEMIL)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "created": {
+        "sec": 1760462897
+      },
+      "updated": {
+        "sec": 1760462929
       }
     }
   ]
