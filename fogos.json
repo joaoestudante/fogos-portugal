@@ -15,8 +15,8 @@
       "location": "Santarém, Sardoal, Sardoal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 2,
       "district": "Santarém",
       "concelho": "Sardoal",
       "freguesia": "Sardoal",
@@ -53,7 +53,7 @@
         "sec": 1760354656
       },
       "updated": {
-        "sec": 1760387775
+        "sec": 1760429534
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Porto, Vila Nova de Gaia, Oliveira Do Douro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Oliveira Do Douro",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Oliveira Do Douro ",
       "active": true,
@@ -167,7 +167,7 @@
         "sec": 1760427375
       },
       "updated": {
-        "sec": 1760427733
+        "sec": 1760430981
       }
     },
     {
@@ -184,8 +184,8 @@
       "location": "Faro, Aljezur, Aljezur",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 11,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Aljezur",
       "freguesia": "Aljezur",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Monte Da Gorda ",
       "active": true,
@@ -222,7 +222,62 @@
         "sec": 1760429171
       },
       "updated": {
-        "sec": 1760429294
+        "sec": 1760430980
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ee092475ad8c4ba91cd9c5"
+      },
+      "id": "20251377535",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760429820
+      },
+      "date": "14-10-2025",
+      "hour": "09:17",
+      "location": "Lisboa, Sintra, Colares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Colares",
+      "dico": "1111",
+      "lat": 38.796984,
+      "lng": -9.453351,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Colares ",
+      "active": true,
+      "sadoId": "20251377535",
+      "sharepointId": 26134287,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1760430372
+      },
+      "updated": {
+        "sec": 1760430733
       }
     }
   ]
