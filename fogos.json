@@ -184,8 +184,8 @@
       "location": "Vila Real, Chaves, Paradela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 19,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Paradela",
@@ -196,9 +196,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
+      "statusCode": 9,
       "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Paradela De Monforte ",
       "active": true,
@@ -222,7 +222,7 @@
         "sec": 1760712373
       },
       "updated": {
-        "sec": 1760722457
+        "sec": 1760723421
       }
     },
     {
@@ -310,7 +310,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Mei ",
+      "localidade": "Eirado ",
       "active": true,
       "sadoId": "20251394925",
       "sharepointId": 26151686,
@@ -332,7 +332,7 @@
         "sec": 1760714536
       },
       "updated": {
-        "sec": 1760721618
+        "sec": 1760723057
       }
     },
     {
@@ -797,21 +797,21 @@
       "location": "Porto, Valongo, Campo E Sobrado",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 12,
+      "terrain": 4,
       "district": "Porto",
       "concelho": "Valongo",
       "freguesia": "Campo E Sobrado",
       "dico": "1315",
-      "lat": 41.20984,
-      "lng": -8.46314,
+      "lat": 41.224138,
+      "lng": -8.469448,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Campo E Sobrado ",
       "active": true,
@@ -835,7 +835,7 @@
         "sec": 1760721255
       },
       "updated": {
-        "sec": 1760722694
+        "sec": 1760723421
       }
     },
     {
@@ -852,8 +852,8 @@
       "location": "Porto, Maia, Cidade Da Maia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Cidade Da Maia",
@@ -864,9 +864,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Cidade Da Maia ",
       "active": true,
@@ -894,7 +894,121 @@
         "sec": 1760722576
       },
       "updated": {
-        "sec": 1760722603
+        "sec": 1760723297
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f28071f6cf23751a7473a1"
+      },
+      "id": "20251395580",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760722500
+      },
+      "date": "17-10-2025",
+      "hour": "18:35",
+      "location": "Portalegre, Campo Maior, São João Baptista",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 4,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "São João Baptista",
+      "dico": "1204",
+      "lat": 39.0576,
+      "lng": -7.045797,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "N371 ",
+      "active": true,
+      "sadoId": "20251395580",
+      "sharepointId": 26152341,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 147.309,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "N371 (Cabecinha de Lebre)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "created": {
+        "sec": 1760723057
+      },
+      "updated": {
+        "sec": 1760723175
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f28072f6cf23751a7473a2"
+      },
+      "id": "20251395578",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760722620
+      },
+      "date": "17-10-2025",
+      "hour": "18:37",
+      "location": "Porto, Maia, Nogueira E Silva Escura",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Nogueira E Silva Escura",
+      "dico": "1306",
+      "lat": 41.22699,
+      "lng": -8.5902,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Nogueira E Silva Escura ",
+      "active": true,
+      "sadoId": "20251395578",
+      "sharepointId": 26152339,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1760723058
+      },
+      "updated": {
+        "sec": 1760723109
       }
     }
   ]
