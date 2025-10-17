@@ -636,8 +636,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Guilhadeses E Santar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Guilhadeses E Santar",
@@ -674,7 +674,7 @@
         "sec": 1760708296
       },
       "updated": {
-        "sec": 1760710099
+        "sec": 1760712496
       }
     },
     {
@@ -746,8 +746,8 @@
       "location": "Coimbra, Montemor-o-Velho, Liceia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 86,
-      "terrain": 23,
+      "man": 92,
+      "terrain": 25,
       "district": "Coimbra",
       "concelho": "Montemor-o-velho",
       "freguesia": "Liceia",
@@ -784,7 +784,7 @@
         "sec": 1760709497
       },
       "updated": {
-        "sec": 1760712022
+        "sec": 1760712734
       }
     },
     {
@@ -813,9 +813,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Friande ",
       "active": true,
@@ -839,7 +839,7 @@
         "sec": 1760709497
       },
       "updated": {
-        "sec": 1760710457
+        "sec": 1760712252
       }
     },
     {
@@ -856,14 +856,14 @@
       "location": "Beja, Vidigueira, Selmes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
+      "man": 17,
+      "terrain": 6,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Selmes",
       "dico": "0214",
-      "lat": 38.17483,
-      "lng": -7.75026,
+      "lat": 38.190983,
+      "lng": -7.735558,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -872,7 +872,7 @@
       "statusColor": "6ABF59",
       "status": "Em Resolução",
       "important": false,
-      "localidade": "Selmes ",
+      "localidade": "Em1014 ",
       "active": true,
       "sadoId": "20251394560",
       "sharepointId": 26151321,
@@ -894,7 +894,7 @@
         "sec": 1760710695
       },
       "updated": {
-        "sec": 1760711777
+        "sec": 1760712496
       }
     },
     {
@@ -911,8 +911,8 @@
       "location": "Santarém, Coruche, Couço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 15,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Couço",
@@ -923,9 +923,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Couço ",
       "active": true,
@@ -949,7 +949,62 @@
         "sec": 1760712022
       },
       "updated": {
-        "sec": 1760712058
+        "sec": 1760712373
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f256b5b4a7a60e5948b8d8"
+      },
+      "id": "20251394733",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760712240
+      },
+      "date": "17-10-2025",
+      "hour": "15:44",
+      "location": "Vila Real, Chaves, Paradela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Paradela",
+      "dico": "1703",
+      "lat": 41.807978,
+      "lng": -7.334691,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Paradela De Monforte ",
+      "active": true,
+      "sadoId": "20251394733",
+      "sharepointId": 26151494,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1760712373
+      },
+      "updated": {
+        "sec": 1760712734
       }
     }
   ]
