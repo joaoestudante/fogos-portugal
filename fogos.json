@@ -243,8 +243,8 @@
       "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
@@ -285,7 +285,7 @@
         "sec": 1760702458
       },
       "updated": {
-        "sec": 1760707574
+        "sec": 1760708652
       }
     },
     {
@@ -302,8 +302,8 @@
       "location": "Porto, Marco de Canaveses, Paredes De Viadores E Manhuncelos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Paredes De Viadores E Manhuncelos",
@@ -340,7 +340,7 @@
         "sec": 1760703013
       },
       "updated": {
-        "sec": 1760707575
+        "sec": 1760708653
       }
     },
     {
@@ -579,9 +579,9 @@
       "date": "17-10-2025",
       "hour": "13:54",
       "location": "Viana Do Castelo, Paredes de Coura, Formariz E Ferreira",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
+      "man": 5,
       "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Paredes De Coura",
@@ -619,7 +619,7 @@
         "sec": 1760705776
       },
       "updated": {
-        "sec": 1760707935
+        "sec": 1760708536
       }
     },
     {
@@ -750,8 +750,8 @@
       "location": "Porto, Marco de Canaveses, Penhalonga E Paços De Gaiolo",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
+      "man": 7,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Penhalonga E Paços De Gaiolo",
@@ -762,9 +762,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Penha Longa E Paços De Gaiolo ",
       "active": true,
@@ -788,7 +788,7 @@
         "sec": 1760707575
       },
       "updated": {
-        "sec": 1760707820
+        "sec": 1760708652
       }
     },
     {
@@ -817,9 +817,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -843,7 +843,117 @@
         "sec": 1760707935
       },
       "updated": {
-        "sec": 1760707956
+        "sec": 1760708418
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f246c8b2a12c130e6dfa47"
+      },
+      "id": "20251394336",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760708040
+      },
+      "date": "17-10-2025",
+      "hour": "14:34",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Guilhadeses E Santar",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Guilhadeses E Santar",
+      "dico": "1601",
+      "lat": 41.829959,
+      "lng": -8.427689,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Casal ",
+      "active": true,
+      "sadoId": "20251394336",
+      "sharepointId": 26151097,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1760708296
+      },
+      "updated": {
+        "sec": 1760708536
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f246c8b2a12c130e6dfa48"
+      },
+      "id": "20251394343",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760707920
+      },
+      "date": "17-10-2025",
+      "hour": "14:32",
+      "location": "Viana Do Castelo, Valença, Gandra E Taião",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Valença",
+      "freguesia": "Gandra E Taião",
+      "dico": "1608",
+      "lat": 41.997792,
+      "lng": -8.58937,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Taião - Em 509 ",
+      "active": true,
+      "sadoId": "20251394343",
+      "sharepointId": 26151104,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1760708296
+      },
+      "updated": {
+        "sec": 1760708339
       }
     }
   ]
