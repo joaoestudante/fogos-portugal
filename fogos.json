@@ -15,8 +15,8 @@
       "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Viade De Baixo E Fervidelas",
@@ -53,7 +53,7 @@
         "sec": 1760799136
       },
       "updated": {
-        "sec": 1760827335
+        "sec": 1760830221
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Montaria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 9,
+      "man": 30,
+      "terrain": 11,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Montaria",
@@ -222,7 +222,7 @@
         "sec": 1760818819
       },
       "updated": {
-        "sec": 1760827572
+        "sec": 1760830333
       }
     },
     {
@@ -424,9 +424,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Lages          ",
       "active": true,
@@ -454,7 +454,7 @@
         "sec": 1760826974
       },
       "updated": {
-        "sec": 1760828174
+        "sec": 1760829945
       }
     },
     {
@@ -532,15 +532,15 @@
       "concelho": "Felgueiras",
       "freguesia": "Torrados E Sousa",
       "dico": "1303",
-      "lat": 41.35215,
-      "lng": -8.24839,
+      "lat": 41.352237,
+      "lng": -8.248637,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "União Das Freguesias De Torrados E Sousa ",
       "active": true,
@@ -564,7 +564,7 @@
         "sec": 1760828174
       },
       "updated": {
-        "sec": 1760828296
+        "sec": 1760830222
       }
     },
     {
@@ -581,14 +581,14 @@
       "location": "Porto, Felgueiras, Pombeiro De Ribavizela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Felgueiras",
       "freguesia": "Pombeiro De Ribavizela",
       "dico": "1303",
-      "lat": 41.157015,
-      "lng": -8.212347,
+      "lat": 41.384288,
+      "lng": -8.208563,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -619,62 +619,7 @@
         "sec": 1760829013
       },
       "updated": {
-        "sec": 1760829252
-      }
-    },
-    {
-      "_id": {
-        "$id": "68f41f44e5bf9418f9472dff"
-      },
-      "id": "20251401283",
-      "coords": true,
-      "dateTime": {
-        "sec": 1760828460
-      },
-      "date": "19-10-2025",
-      "hour": "00:01",
-      "location": "Porto, Felgueiras, Pombeiro De Ribavizela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Pombeiro De Ribavizela",
-      "dico": "1303",
-      "lat": 41.382828,
-      "lng": -8.22519,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Pombeiro ",
-      "active": true,
-      "sadoId": "20251401283",
-      "sharepointId": 26158044,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "created": {
-        "sec": 1760829252
-      },
-      "updated": {
-        "sec": 1760829274
+        "sec": 1760829945
       }
     },
     {
@@ -713,8 +658,12 @@
       "sharepointId": 26158032,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 804.091,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "SANTO ANDRÉ",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -729,7 +678,66 @@
         "sec": 1760829252
       },
       "updated": {
-        "sec": 1760829252
+        "sec": 1760830043
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f421ee09b4322b3e164e22"
+      },
+      "id": "20251401287",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760829120
+      },
+      "date": "19-10-2025",
+      "hour": "00:12",
+      "location": "Porto, Amarante, Real, Ataíde E Oliveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Real, Ataíde E Oliveira",
+      "dico": "1301",
+      "lat": 41.24566,
+      "lng": -8.18017,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vila Meã ",
+      "active": true,
+      "sadoId": "20251401287",
+      "sharepointId": 26158048,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 188.868,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa das Barrocas. 4605-308 (Benfica)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1760829934
+      },
+      "updated": {
+        "sec": 1760830075
       }
     }
   ]
