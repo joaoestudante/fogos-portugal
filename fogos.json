@@ -15,8 +15,8 @@
       "location": "Beja, Serpa, Vila Nova De São Bento E Vale De Vargo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Vila Nova De São Bento E Vale De Vargo",
@@ -53,7 +53,7 @@
         "sec": 1760796255
       },
       "updated": {
-        "sec": 1760825172
+        "sec": 1760826851
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Vila Real, Montalegre, Viade De Baixo E Fervidelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Viade De Baixo E Fervidelas",
@@ -108,7 +108,7 @@
         "sec": 1760799136
       },
       "updated": {
-        "sec": 1760826028
+        "sec": 1760826974
       }
     },
     {
@@ -416,9 +416,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vilar ",
       "active": true,
@@ -446,7 +446,7 @@
         "sec": 1760822893
       },
       "updated": {
-        "sec": 1760824931
+        "sec": 1760826495
       }
     },
     {
@@ -463,8 +463,8 @@
       "location": "Braga, Vieira do Minho, Guilhofrei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 8,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Guilhofrei",
@@ -505,7 +505,7 @@
         "sec": 1760822893
       },
       "updated": {
-        "sec": 1760825423
+        "sec": 1760826852
       }
     },
     {
@@ -633,26 +633,26 @@
       },
       "date": "18-10-2025",
       "hour": "23:03",
-      "location": "Vila Real, Chaves, Vila Verde Da Raia",
+      "location": "Vila Real, Chaves, Santo Estêvão",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
       "district": "Vila Real",
       "concelho": "Chaves",
-      "freguesia": "Vila Verde Da Raia",
+      "freguesia": "Santo Estêvão",
       "dico": "1703",
-      "lat": 41.79141,
-      "lng": -7.42314,
+      "lat": 41.773337,
+      "lng": -7.435292,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Vila Verde Da Raia ",
+      "localidade": "Santo Estevão    ",
       "active": true,
       "sadoId": "20251401119",
       "sharepointId": 26157880,
@@ -674,7 +674,7 @@
         "sec": 1760825292
       },
       "updated": {
-        "sec": 1760825535
+        "sec": 1760826852
       }
     },
     {
@@ -691,8 +691,8 @@
       "location": "Vila Real, Montalegre, Gralhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 25,
+      "terrain": 7,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Gralhas",
@@ -729,7 +729,62 @@
         "sec": 1760826131
       },
       "updated": {
-        "sec": 1760826151
+        "sec": 1760826974
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f4165e1f02c80a7a78d263"
+      },
+      "id": "20251401195",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760826060
+      },
+      "date": "18-10-2025",
+      "hour": "23:21",
+      "location": "Viana Do Castelo, Ponte da Barca, Ponte Da Barca, V. N. Muía E Paço Vedro Magalhães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte Da Barca",
+      "freguesia": "Ponte Da Barca, V. N. Muía E Paço Vedro Magalhães",
+      "dico": "1606",
+      "lat": 41.801513,
+      "lng": -8.395862,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lages          ",
+      "active": true,
+      "sadoId": "20251401195",
+      "sharepointId": 26157956,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "created": {
+        "sec": 1760826974
+      },
+      "updated": {
+        "sec": 1760826974
       }
     }
   ]
