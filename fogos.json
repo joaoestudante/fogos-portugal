@@ -74,8 +74,8 @@
       "location": "Braga, Póvoa de Lanhoso, Travassos",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 5,
+      "man": 22,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Travassos",
@@ -86,9 +86,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Travassos ",
       "active": true,
@@ -116,7 +116,7 @@
         "sec": 1760782342
       },
       "updated": {
-        "sec": 1760785333
+        "sec": 1760786176
       }
     },
     {
@@ -188,8 +188,8 @@
       "location": "Porto, Paços de Ferreira, Eiriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 6,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Paços De Ferreira",
       "freguesia": "Eiriz",
@@ -200,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Eiriz ",
       "active": true,
@@ -230,7 +230,7 @@
         "sec": 1760783773
       },
       "updated": {
-        "sec": 1760785333
+        "sec": 1760786421
       }
     },
     {
@@ -247,8 +247,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Senharei",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Senharei",
@@ -285,7 +285,66 @@
         "sec": 1760784855
       },
       "updated": {
-        "sec": 1760785236
+        "sec": 1760786536
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f3760f65a0810f242465c5"
+      },
+      "id": "20251398493",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760785440
+      },
+      "date": "18-10-2025",
+      "hour": "12:04",
+      "location": "Aveiro, Oliveira de Azeméis, Vila De Cucujães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "Vila De Cucujães",
+      "dico": "0113",
+      "lat": 40.87569,
+      "lng": -8.52268,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Vila De Cucujães ",
+      "active": true,
+      "sadoId": "20251398493",
+      "sharepointId": 26155254,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 181.381,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Agostinho Lopes da Costa. 3720-779 Oliveira de Azeméis. Portugal (Azenha do Reis)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "created": {
+        "sec": 1760785935
+      },
+      "updated": {
+        "sec": 1760785965
       }
     }
   ]
