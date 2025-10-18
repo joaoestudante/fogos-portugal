@@ -145,9 +145,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Gens ",
       "active": true,
@@ -171,7 +171,7 @@
         "sec": 1760768774
       },
       "updated": {
-        "sec": 1760770691
+        "sec": 1760772619
       }
     },
     {
@@ -310,9 +310,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Caíde De Rei ",
       "active": true,
@@ -340,7 +340,7 @@
         "sec": 1760771174
       },
       "updated": {
-        "sec": 1760771197
+        "sec": 1760772619
       }
     },
     {
@@ -396,6 +396,61 @@
       },
       "updated": {
         "sec": 1760771554
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f34026c80eb4042348ecc2"
+      },
+      "id": "20251397457",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760771940
+      },
+      "date": "18-10-2025",
+      "hour": "08:19",
+      "location": "Setúbal, Almada, Caparica E Trafaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Caparica E Trafaria",
+      "dico": "1503",
+      "lat": 38.66864,
+      "lng": -9.205688,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Caparica E Trafaria ",
+      "active": true,
+      "sadoId": "20251397457",
+      "sharepointId": 26154218,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1760772134
+      },
+      "updated": {
+        "sec": 1760772619
       }
     }
   ]
