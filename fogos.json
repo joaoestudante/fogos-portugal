@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Vilar De Amargo ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1760815334
       },
       "updated": {
-        "sec": 1760871373
+        "sec": 1760878573
       }
     },
     {
@@ -408,8 +408,8 @@
       "location": "Viseu, São João da Pesqueira, São João Da Pesqueira E Várzea De Trevões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 5,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "São João Da Pesqueira",
       "freguesia": "São João Da Pesqueira E Várzea De Trevões",
@@ -446,7 +446,7 @@
         "sec": 1760870894
       },
       "updated": {
-        "sec": 1760875694
+        "sec": 1760879293
       }
     },
     {
@@ -475,9 +475,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sousela ",
       "active": true,
@@ -501,7 +501,7 @@
         "sec": 1760871373
       },
       "updated": {
-        "sec": 1760877855
+        "sec": 1760879294
       }
     },
     {
@@ -516,9 +516,9 @@
       "date": "19-10-2025",
       "hour": "13:25",
       "location": "Coimbra, Arganil, Benfeita",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 13,
       "terrain": 3,
       "district": "Coimbra",
       "concelho": "Arganil",
@@ -530,9 +530,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pardieiros ",
       "active": true,
@@ -556,7 +556,117 @@
         "sec": 1760876894
       },
       "updated": {
-        "sec": 1760877855
+        "sec": 1760879294
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f4e2beb2c10d021d099a55"
+      },
+      "id": "20251403435",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760878620
+      },
+      "date": "19-10-2025",
+      "hour": "13:57",
+      "location": "Beja, Serpa, Brinches",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 3,
+      "district": "Beja",
+      "concelho": "Serpa",
+      "freguesia": "Brinches",
+      "dico": "0213",
+      "lat": 38.02915,
+      "lng": -7.60905,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Brinches ",
+      "active": true,
+      "sadoId": "20251403435",
+      "sharepointId": 26160196,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "created": {
+        "sec": 1760879294
+      },
+      "updated": {
+        "sec": 1760879533
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f4e3adb2c10d021d099a6b"
+      },
+      "id": "20251403471",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760878860
+      },
+      "date": "19-10-2025",
+      "hour": "14:01",
+      "location": "Lisboa, Alenquer, Alenquer (Santo Estêvão E Triana)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Alenquer (Santo Estêvão E Triana)",
+      "dico": "1101",
+      "lat": 39.0352,
+      "lng": -9.03506,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Alenquer (Santo Estêvão E Triana) ",
+      "active": true,
+      "sadoId": "20251403471",
+      "sharepointId": 26160232,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "created": {
+        "sec": 1760879533
+      },
+      "updated": {
+        "sec": 1760879556
       }
     }
   ]
