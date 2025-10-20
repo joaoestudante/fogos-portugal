@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Caranguejeira ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1760889972
       },
       "updated": {
-        "sec": 1760946133
+        "sec": 1760947236
       }
     },
     {
@@ -67,24 +67,24 @@
       },
       "date": "20-10-2025",
       "hour": "08:30",
-      "location": "Setúbal, Almada, Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "location": "Setúbal, Almada, Laranjeiro E Feijó",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
       "district": "Setúbal",
       "concelho": "Almada",
-      "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "freguesia": "Laranjeiro E Feijó",
       "dico": "1503",
-      "lat": 38.671949,
-      "lng": -9.168395,
+      "lat": 38.660952,
+      "lng": -9.166585,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cova Da Piedade ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1760945896
       },
       "updated": {
-        "sec": 1760945915
+        "sec": 1760947577
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Lisboa, Sintra, Algueirão-mem Martins",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 10,
+      "terrain": 2,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "Algueirão-mem Martins",
@@ -137,9 +137,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Algueirão-mem Martins ",
       "active": true,
@@ -167,7 +167,62 @@
         "sec": 1760946374
       },
       "updated": {
-        "sec": 1760946398
+        "sec": 1760947577
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f5eedea197af4d312126f4"
+      },
+      "id": "20251406431",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760947680
+      },
+      "date": "20-10-2025",
+      "hour": "09:08",
+      "location": "Lisboa, Oeiras, Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "dico": "1110",
+      "lat": 38.70652,
+      "lng": -9.31071,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Oeiras E São Julião Da Barra, Paço De Arcos E Caxias ",
+      "active": true,
+      "sadoId": "20251406431",
+      "sharepointId": 26163194,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1760947934
+      },
+      "updated": {
+        "sec": 1760947954
       }
     }
   ]
