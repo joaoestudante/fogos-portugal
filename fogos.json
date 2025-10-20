@@ -82,9 +82,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Monte Da Popa ",
       "active": true,
@@ -108,7 +108,7 @@
         "sec": 1760961733
       },
       "updated": {
-        "sec": 1760966774
+        "sec": 1760973131
       }
     },
     {
@@ -125,8 +125,8 @@
       "location": "Santarém, Benavente, Benavente",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 47,
-      "terrain": 14,
+      "man": 43,
+      "terrain": 12,
       "district": "Santarém",
       "concelho": "Benavente",
       "freguesia": "Benavente",
@@ -163,7 +163,7 @@
         "sec": 1760963588
       },
       "updated": {
-        "sec": 1760972052
+        "sec": 1760973132
       }
     },
     {
@@ -180,8 +180,8 @@
       "location": "Castelo Branco, Covilhã, Tortosendo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Covilhã",
       "freguesia": "Tortosendo",
@@ -218,7 +218,7 @@
         "sec": 1760968697
       },
       "updated": {
-        "sec": 1760970494
+        "sec": 1760973374
       }
     },
     {
@@ -235,8 +235,8 @@
       "location": "Évora, Arraiolos, Vimieiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 23,
+      "terrain": 7,
       "district": "Évora",
       "concelho": "Arraiolos",
       "freguesia": "Vimieiro",
@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Bardeiras  ",
       "active": true,
@@ -277,7 +277,7 @@
         "sec": 1760969775
       },
       "updated": {
-        "sec": 1760971695
+        "sec": 1760973132
       }
     },
     {
@@ -300,8 +300,8 @@
       "concelho": "Sesimbra",
       "freguesia": "Sesimbra (castelo)",
       "dico": "1511",
-      "lat": 38.449031,
-      "lng": -9.112506,
+      "lat": 38.454177,
+      "lng": -9.108717,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -332,7 +332,125 @@
         "sec": 1760970854
       },
       "updated": {
-        "sec": 1760971457
+        "sec": 1760972539
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f650f34892ba6c1d2d73a2"
+      },
+      "id": "20251408803",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760972520
+      },
+      "date": "20-10-2025",
+      "hour": "16:02",
+      "location": "Lisboa, Mafra, Malveira E São Miguel De Alcainça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Mafra",
+      "freguesia": "Malveira E São Miguel De Alcainça",
+      "dico": "1109",
+      "lat": 38.93304,
+      "lng": -9.299758,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Miguel De Alcainça ",
+      "active": true,
+      "sadoId": "20251408803",
+      "sharepointId": 26165566,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 270.814,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N116. 2640-728 Mafra. Portugal (Cabeço de Palheiros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "created": {
+        "sec": 1760973043
+      },
+      "updated": {
+        "sec": 1760973619
+      }
+    },
+    {
+      "_id": {
+        "$id": "68f6514b4892ba6c1d2d73a7"
+      },
+      "id": "20251408821",
+      "coords": true,
+      "dateTime": {
+        "sec": 1760972400
+      },
+      "date": "20-10-2025",
+      "hour": "16:00",
+      "location": "Porto, Paços de Ferreira, Freamunde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paços De Ferreira",
+      "freguesia": "Freamunde",
+      "dico": "1309",
+      "lat": 41.292638,
+      "lng": -8.339671,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Freamunde ",
+      "active": true,
+      "sadoId": "20251408821",
+      "sharepointId": 26165584,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 345.346,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Talhô (Calvário)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "created": {
+        "sec": 1760973131
+      },
+      "updated": {
+        "sec": 1760973165
       }
     }
   ]
