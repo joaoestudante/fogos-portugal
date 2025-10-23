@@ -117,61 +117,6 @@
     },
     {
       "_id": {
-        "$id": "68fa2d6cee8b6232f701cc22"
-      },
-      "id": "20251422719",
-      "coords": true,
-      "dateTime": {
-        "sec": 1761225780
-      },
-      "date": "23-10-2025",
-      "hour": "14:23",
-      "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos E Foros De Salvaterra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 5,
-      "district": "Santarém",
-      "concelho": "Salvaterra De Magos",
-      "freguesia": "Salvaterra De Magos E Foros De Salvaterra",
-      "dico": "1415",
-      "lat": 39.019195,
-      "lng": -8.781847,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Salvaterra ",
-      "active": true,
-      "sadoId": "20251422719",
-      "sharepointId": 26179482,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "created": {
-        "sec": 1761226092
-      },
-      "updated": {
-        "sec": 1761226932
-      }
-    },
-    {
-      "_id": {
         "$id": "68fa47b7e222d7233f034654"
       },
       "id": "20251423327",
@@ -196,9 +141,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Porto Escuro ",
       "active": true,
@@ -226,7 +171,7 @@
         "sec": 1761232823
       },
       "updated": {
-        "sec": 1761233176
+        "sec": 1761233857
       }
     },
     {
@@ -243,8 +188,8 @@
       "location": "Évora, Montemor-o-Novo, Santiago Do Escoural",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 14,
+      "terrain": 3,
       "district": "Évora",
       "concelho": "Montemor-o-novo",
       "freguesia": "Santiago Do Escoural",
@@ -255,9 +200,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Santiago Do Escoural ",
       "active": true,
@@ -265,8 +210,12 @@
       "sharepointId": 26180139,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 199.289,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Brissos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -281,7 +230,7 @@
         "sec": 1761233413
       },
       "updated": {
-        "sec": 1761233413
+        "sec": 1761233921
       }
     }
   ]
