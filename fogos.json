@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Almansil ",
       "active": true,
@@ -92,8 +92,12 @@
       "sharepointId": 26183173,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 39.9762,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "ALMANSIL",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -108,7 +112,7 @@
         "sec": 1761302293
       },
       "updated": {
-        "sec": 1761302293
+        "sec": 1761303065
       }
     }
   ]
