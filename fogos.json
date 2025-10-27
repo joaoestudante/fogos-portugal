@@ -23,8 +23,8 @@
       "dico": "0702",
       "lat": 38.84122,
       "lng": -7.915325,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -53,7 +53,7 @@
         "sec": 1761567375
       },
       "updated": {
-        "sec": 1761575890
+        "sec": 1761578292
       }
     },
     {
@@ -168,46 +168,42 @@
     },
     {
       "_id": {
-        "$id": "68ff8912ba8b172d302c057a"
+        "$id": "68ff83d2ba8b172d302c0547"
       },
-      "id": "20251440831",
+      "id": "20251440594",
       "coords": true,
       "dateTime": {
-        "sec": 1761577080
+        "sec": 1761574620
       },
       "date": "27-10-2025",
-      "hour": "14:58",
-      "location": "Aveiro, Estarreja, Beduído E Veiros",
+      "hour": "14:17",
+      "location": "Lisboa, Alenquer, Abrigada E Cabanas De Torres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Beduído E Veiros",
-      "dico": "0108",
-      "lat": 40.766256,
-      "lng": -8.535813,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "man": 8,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Alenquer",
+      "freguesia": "Abrigada E Cabanas De Torres",
+      "dico": "1101",
+      "lat": 39.1563,
+      "lng": -9.06647,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Santiais ",
+      "localidade": "Cabanas De Torres ",
       "active": true,
-      "sadoId": "20251440831",
-      "sharepointId": 26197594,
+      "sadoId": "20251440594",
+      "sharepointId": 26197357,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 46.4481,
-        "agricola": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "Santiais",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -216,13 +212,13 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
       "created": {
-        "sec": 1761577234
+        "sec": 1761575890
       },
       "updated": {
-        "sec": 1761577277
+        "sec": 1761578668
       }
     },
     {
@@ -239,8 +235,8 @@
       "location": "Santarém, Coruche, Branca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 18,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Coruche",
       "freguesia": "Branca",
@@ -277,7 +273,62 @@
         "sec": 1761577579
       },
       "updated": {
-        "sec": 1761577598
+        "sec": 1761578292
+      }
+    },
+    {
+      "_id": {
+        "$id": "68ff8f8cf89d915b554ce449"
+      },
+      "id": "20251440989",
+      "coords": true,
+      "dateTime": {
+        "sec": 1761578400
+      },
+      "date": "27-10-2025",
+      "hour": "15:20",
+      "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Charneca De Caparica E Sobreda",
+      "dico": "1503",
+      "lat": 38.656359,
+      "lng": -9.199187,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Casas Velhas ",
+      "active": true,
+      "sadoId": "20251440989",
+      "sharepointId": 26197752,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "created": {
+        "sec": 1761578892
+      },
+      "updated": {
+        "sec": 1761578912
       }
     }
   ]
