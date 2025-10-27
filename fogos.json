@@ -125,8 +125,8 @@
       "location": "Lisboa, Alenquer, Abrigada E Cabanas De Torres",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Lisboa",
       "concelho": "Alenquer",
       "freguesia": "Abrigada E Cabanas De Torres",
@@ -163,62 +163,7 @@
         "sec": 1761575890
       },
       "updated": {
-        "sec": 1761580938
-      }
-    },
-    {
-      "_id": {
-        "$id": "68ff978b47d31e76d9366bf5"
-      },
-      "id": "20251441174",
-      "coords": true,
-      "dateTime": {
-        "sec": 1761580320
-      },
-      "date": "27-10-2025",
-      "hour": "15:52",
-      "location": "Porto, Maia, Moreira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Maia",
-      "freguesia": "Moreira",
-      "dico": "1306",
-      "lat": 41.243233,
-      "lng": -8.651156,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Moreira Da Maia ",
-      "active": true,
-      "sadoId": "20251441174",
-      "sharepointId": 26197937,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "created": {
-        "sec": 1761580939
-      },
-      "updated": {
-        "sec": 1761581657
+        "sec": 1761583081
       }
     },
     {
@@ -247,9 +192,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "São Vicente Do Paul ",
       "active": true,
@@ -273,7 +218,7 @@
         "sec": 1761581532
       },
       "updated": {
-        "sec": 1761582372
+        "sec": 1761583082
       }
     },
     {
@@ -290,21 +235,21 @@
       "location": "Santarém, Santarém, Vale De Santarém",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 15,
+      "terrain": 5,
       "district": "Santarém",
       "concelho": "Santarém",
       "freguesia": "Vale De Santarém",
       "dico": "1416",
-      "lat": 39.1875,
-      "lng": -8.750432,
+      "lat": 39.190555,
+      "lng": -8.746888,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vale De Santarém ",
       "active": true,
@@ -328,7 +273,7 @@
         "sec": 1761581893
       },
       "updated": {
-        "sec": 1761582372
+        "sec": 1761583695
       }
     },
     {
@@ -345,8 +290,8 @@
       "location": "Castelo Branco, Castelo Branco, Sarzedas",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 3,
+      "man": 23,
+      "terrain": 5,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Sarzedas",
@@ -357,9 +302,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Serrasqueira ",
       "active": true,
@@ -367,8 +312,12 @@
       "sharepointId": 26198046,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 242.799,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Serrasqueira (Ribeiro da Serrasqueira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -383,7 +332,7 @@
         "sec": 1761582372
       },
       "updated": {
-        "sec": 1761582372
+        "sec": 1761583191
       }
     },
     {
@@ -422,8 +371,12 @@
       "sharepointId": 26198077,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 83.0462,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada de Vila Nova de Gaia. 4405 Vila Nova de Gaia. Portugal (Travessa dos Lagos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -438,7 +391,7 @@
         "sec": 1761582372
       },
       "updated": {
-        "sec": 1761582372
+        "sec": 1761583069
       }
     }
   ]
