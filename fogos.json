@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sonim E Barreiros ",
       "active": true,
@@ -53,7 +53,7 @@
         "sec": 1772632333
       },
       "updated": {
-        "sec": 1772638704
+        "sec": 1772642772
       }
     },
     {
@@ -70,8 +70,8 @@
       "location": "Aveiro, Santa Maria da Feira, Vila Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Santa Maria Da Feira",
       "freguesia": "Vila Maior",
@@ -82,9 +82,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Canedo, Vale E Vila Maior ",
       "active": true,
@@ -108,7 +108,184 @@
         "sec": 1772640494
       },
       "updated": {
-        "sec": 1772640512
+        "sec": 1772643376
+      }
+    },
+    {
+      "_id": {
+        "$id": "69a85caf5c0d7504bb0f0a07"
+      },
+      "id": "20260337518",
+      "coords": true,
+      "dateTime": {
+        "sec": 1772640960
+      },
+      "date": "04-03-2026",
+      "hour": "16:16",
+      "location": "Braga, Póvoa de Lanhoso, Fonte Arcada E Oliveira",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Póvoa De Lanhoso",
+      "freguesia": "Fonte Arcada E Oliveira",
+      "dico": "0309",
+      "lat": 41.581712,
+      "lng": -8.232754,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20260337518",
+      "sharepointId": 26859530,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 240.492,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Av. David Novais (São João)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1772641455
+      },
+      "updated": {
+        "sec": 1772641480
+      }
+    },
+    {
+      "_id": {
+        "$id": "69a85d9c5c0d7504bb0f0a17"
+      },
+      "id": "20260337558",
+      "coords": true,
+      "dateTime": {
+        "sec": 1772641440
+      },
+      "date": "04-03-2026",
+      "hour": "16:24",
+      "location": "Braga, Cabeceiras de Basto, Pedraça",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 3,
+      "district": "Braga",
+      "concelho": "Cabeceiras De Basto",
+      "freguesia": "Pedraça",
+      "dico": "0304",
+      "lat": 41.50744,
+      "lng": -7.964168,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20260337558",
+      "sharepointId": 26859570,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 307.313,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Fontão (Babeito de Cima)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "created": {
+        "sec": 1772641692
+      },
+      "updated": {
+        "sec": 1772643973
+      }
+    },
+    {
+      "_id": {
+        "$id": "69a860e55c0d7504bb0f0a26"
+      },
+      "id": "20260337612",
+      "coords": true,
+      "dateTime": {
+        "sec": 1772642160
+      },
+      "date": "04-03-2026",
+      "hour": "16:36",
+      "location": "Vila Real, Montalegre, Cervos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Cervos",
+      "dico": "1706",
+      "lat": 41.76021,
+      "lng": -7.67198,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cervos ",
+      "active": true,
+      "sadoId": "20260337612",
+      "sharepointId": 26859624,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 914.409,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Arcos. Montalegre. Portugal (Arcos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "created": {
+        "sec": 1772642533
+      },
+      "updated": {
+        "sec": 1772643972
       }
     }
   ]
