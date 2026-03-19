@@ -3,80 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "69bc654f8339db4bf253c4cc"
-      },
-      "id": "20260410053",
-      "coords": true,
-      "dateTime": {
-        "sec": 1773954120
-      },
-      "date": "19-03-2026",
-      "hour": "21:02",
-      "location": "Braga, Vieira do Minho, Louredo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Vieira Do Minho",
-      "freguesia": "Louredo",
-      "dico": "0311",
-      "lat": 41.669728,
-      "lng": -8.124223,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20260410053",
-      "sharepointId": 26932066,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 353.96,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Sudro (Outeiro)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 1210619,
-      "weather": {
-        "stationId": 1210619,
-        "stationLocation": "Cabril",
-        "temperatura": 14.8,
-        "humidade": 63,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-03-19T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1773954383
-      },
-      "updated": {
-        "sec": 1773960853
-      }
-    },
-    {
-      "_id": {
         "$id": "69bc834380b10a20bc43ac9a"
       },
       "id": "20260410406",
@@ -101,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Cabanas ",
       "active": true,
@@ -142,7 +68,77 @@
         "sec": 1773962051
       },
       "updated": {
-        "sec": 1773962071
+        "sec": 1773963853
+      }
+    },
+    {
+      "_id": {
+        "$id": "69bc877d80b10a20bc43acac"
+      },
+      "id": "20260410440",
+      "coords": true,
+      "dateTime": {
+        "sec": 1773962820
+      },
+      "date": "19-03-2026",
+      "hour": "23:27",
+      "location": "Vila Real, Ribeira de Pena, Cerva E Limões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Ribeira De Pena",
+      "freguesia": "Cerva E Limões",
+      "dico": "1709",
+      "lat": 41.42276,
+      "lng": -7.817439,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Cerva E Limões ",
+      "active": true,
+      "sadoId": "20260410440",
+      "sharepointId": 26932453,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1240566,
+      "weather": {
+        "stationId": 1240566,
+        "stationLocation": "Vila Real (Cidade)",
+        "temperatura": 16.9,
+        "humidade": 49,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-03-19T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1773963133
+      },
+      "updated": {
+        "sec": 1773963151
       }
     }
   ]
