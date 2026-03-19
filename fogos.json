@@ -13,9 +13,9 @@
       "date": "19-03-2026",
       "hour": "10:54",
       "location": "Braga, Terras de Bouro, Chorense E Monte",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
+      "man": 3,
       "terrain": 1,
       "district": "Braga",
       "concelho": "Terras De Bouro",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Chorense ",
       "active": true,
@@ -37,8 +37,12 @@
       "sharepointId": 26929121,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 576.014,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Saim (Quelha das Lameiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -49,11 +53,13 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Cávado",
+      "nearestWeatherStationId": null,
+      "weather": null,
       "created": {
         "sec": 1773917776
       },
       "updated": {
-        "sec": 1773919337
+        "sec": 1773923775
       }
     },
     {
@@ -70,8 +76,8 @@
       "location": "Porto, Gondomar, Melres E Medas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Melres E Medas",
@@ -92,8 +98,12 @@
       "sharepointId": 26929232,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 151.006,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Moinhos 24. 4515-539 Gondomar. Portugal (Sobrido)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -104,11 +114,13 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": null,
+      "weather": null,
       "created": {
         "sec": 1773919335
       },
       "updated": {
-        "sec": 1773921134
+        "sec": 1773924253
       }
     },
     {
@@ -125,21 +137,21 @@
       "location": "Guarda, Sabugal, Rapoula Do Côa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 8,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Rapoula Do Côa",
       "dico": "0911",
-      "lat": 40.43987,
-      "lng": -7.040821,
+      "lat": 40.443713,
+      "lng": -7.04163,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Rapoula Do Côa ",
       "active": true,
@@ -163,47 +175,49 @@
       "anepcDirectUpdate": false,
       "regiao": "Centro",
       "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": null,
+      "weather": null,
       "created": {
         "sec": 1773919933
       },
       "updated": {
-        "sec": 1773921134
+        "sec": 1773922461
       }
     },
     {
       "_id": {
-        "$id": "69bbe1922c8ae32852776a0d"
+        "$id": "69bbea7a1a9e5022140b107f"
       },
-      "id": "20260407389",
+      "id": "20260407584",
       "coords": true,
       "dateTime": {
-        "sec": 1773920580
+        "sec": 1773922440
       },
       "date": "19-03-2026",
-      "hour": "11:43",
-      "location": "Braga, Fafe, Arões (Santa Cristina)",
+      "hour": "12:14",
+      "location": "Braga, Celorico de Basto, Caçarilhe E Infesta",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 4,
       "terrain": 1,
       "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Arões (Santa Cristina)",
-      "dico": "0307",
-      "lat": 41.440062,
-      "lng": -8.220771,
+      "concelho": "Celorico De Basto",
+      "freguesia": "Caçarilhe E Infesta",
+      "dico": "0305",
+      "lat": 41.392095,
+      "lng": -8.053097,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
-      "sadoId": "20260407389",
-      "sharepointId": 26929402,
+      "sadoId": "20260407584",
+      "sharepointId": 26929597,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -217,12 +231,211 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Ave",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": null,
+      "weather": null,
       "created": {
-        "sec": 1773920658
+        "sec": 1773922938
       },
       "updated": {
-        "sec": 1773920678
+        "sec": 1773924975
+      }
+    },
+    {
+      "_id": {
+        "$id": "69bbf08e1a9e5022140b10b6"
+      },
+      "id": "20260407709",
+      "coords": true,
+      "dateTime": {
+        "sec": 1773924240
+      },
+      "date": "19-03-2026",
+      "hour": "12:44",
+      "location": "Viseu, Vila Nova de Paiva, Touro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Touro",
+      "dico": "1822",
+      "lat": 40.90501,
+      "lng": -7.78042,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Fraga Gorda ",
+      "active": true,
+      "sadoId": "20260407709",
+      "sharepointId": 26929722,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213022,
+      "weather": {
+        "stationId": 6213022,
+        "stationLocation": "Vila Nova de Paiva (CIM)",
+        "temperatura": 2.4,
+        "humidade": -99,
+        "intensidadeVento": 5.9,
+        "intensidadeVentoKM": 21.2,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": -99,
+        "pressao": -99,
+        "date": "2026-02-14T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1773924494
+      },
+      "updated": {
+        "sec": 1773925826
+      }
+    },
+    {
+      "_id": {
+        "$id": "69bbf17e1a9e5022140b10c1"
+      },
+      "id": "20260407629",
+      "coords": true,
+      "dateTime": {
+        "sec": 1773923160
+      },
+      "date": "19-03-2026",
+      "hour": "12:26",
+      "location": "Vila Real, Alijó, Carlão E Amieiro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Alijó",
+      "freguesia": "Carlão E Amieiro",
+      "dico": "1701",
+      "lat": 41.305038,
+      "lng": -7.38024,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Franzilhal ",
+      "active": true,
+      "sadoId": "20260407629",
+      "sharepointId": 26929642,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210644,
+      "weather": {
+        "stationId": 1210644,
+        "stationLocation": "Carrazêda de Ansiães",
+        "temperatura": 5.5,
+        "humidade": 86,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": -99,
+        "date": "2026-03-18T23:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1773924734
+      },
+      "updated": {
+        "sec": 1773926174
+      }
+    },
+    {
+      "_id": {
+        "$id": "69bbf2e83aafe32e5e3177c3"
+      },
+      "id": "20260407761",
+      "coords": true,
+      "dateTime": {
+        "sec": 1773924780
+      },
+      "date": "19-03-2026",
+      "hour": "12:53",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Soajo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Soajo",
+      "dico": "1601",
+      "lat": 41.87358,
+      "lng": -8.3101,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Mezio ",
+      "active": true,
+      "sadoId": "20260407761",
+      "sharepointId": 26929774,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211214,
+      "weather": null,
+      "created": {
+        "sec": 1773925096
+      },
+      "updated": {
+        "sec": 1773926174
       }
     }
   ]
