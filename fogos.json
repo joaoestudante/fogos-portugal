@@ -3,80 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "69bd99b5390a3107286e1769"
-      },
-      "id": "20260414491",
-      "coords": true,
-      "dateTime": {
-        "sec": 1774032960
-      },
-      "date": "20-03-2026",
-      "hour": "18:56",
-      "location": "Vila Real, Chaves, Calvão E Soutelinho Da Raia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Calvão E Soutelinho Da Raia",
-      "dico": "1703",
-      "lat": 41.813033,
-      "lng": -7.571275,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Soutelinho Da Raia ",
-      "active": true,
-      "sadoId": "20260414491",
-      "sharepointId": 26936504,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 842.095,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Soutelinho da Raia (Pingão)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
-      "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "temperatura": 13.5,
-        "humidade": 71,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1009.6,
-        "date": "2026-03-20T20:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1774033333
-      },
-      "updated": {
-        "sec": 1774040781
-      }
-    },
-    {
-      "_id": {
         "$id": "69bdaa1fc1326748347de2b7"
       },
       "id": "20260414817",
@@ -171,9 +97,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Peneda ",
       "active": true,
@@ -212,7 +138,7 @@
         "sec": 1774038500
       },
       "updated": {
-        "sec": 1774038519
+        "sec": 1774042934
       }
     },
     {
@@ -241,9 +167,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Bruço ",
       "active": true,
@@ -282,7 +208,77 @@
         "sec": 1774039694
       },
       "updated": {
-        "sec": 1774040294
+        "sec": 1774041972
+      }
+    },
+    {
+      "_id": {
+        "$id": "69bdbbf310fd7724e23dd24e"
+      },
+      "id": "20260415083",
+      "coords": true,
+      "dateTime": {
+        "sec": 1774041660
+      },
+      "date": "20-03-2026",
+      "hour": "21:21",
+      "location": "Bragança, Mogadouro, Bruçó",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Mogadouro",
+      "freguesia": "Bruçó",
+      "dico": "0408",
+      "lat": 41.240962,
+      "lng": -6.690147,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Bruço ",
+      "active": true,
+      "sadoId": "20260415083",
+      "sharepointId": 26937096,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210637,
+      "weather": {
+        "stationId": 1210637,
+        "stationLocation": "Mogadouro",
+        "temperatura": 10.6,
+        "humidade": 74,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-03-20T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1774042099
+      },
+      "updated": {
+        "sec": 1774043052
       }
     }
   ]
