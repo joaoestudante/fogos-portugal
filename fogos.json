@@ -27,9 +27,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Chelo ",
       "active": true,
@@ -53,22 +53,22 @@
       "weather": {
         "stationId": 1210619,
         "stationLocation": "Cabril",
-        "temperatura": 13.1,
-        "humidade": 45,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 14.8,
+        "humidade": 43,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-03-24T09:00:00.000000Z"
+        "date": "2026-03-24T10:00:00.000000Z"
       },
       "created": {
         "sec": 1774342693
       },
       "updated": {
-        "sec": 1774348213
+        "sec": 1774351573
       }
     },
     {
@@ -127,22 +127,162 @@
       "weather": {
         "stationId": 1210657,
         "stationLocation": "Luzim",
-        "temperatura": 13.5,
-        "humidade": 53,
-        "intensidadeVento": 2.7,
-        "intensidadeVentoKM": 9.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 1288.1,
+        "temperatura": 14.6,
+        "humidade": 52,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-03-24T09:00:00.000000Z"
+        "date": "2026-03-24T10:00:00.000000Z"
       },
       "created": {
         "sec": 1774345573
       },
       "updated": {
         "sec": 1774347973
+      }
+    },
+    {
+      "_id": {
+        "$id": "69c26d56a3b78e06b14b742c"
+      },
+      "id": "20260431485",
+      "coords": true,
+      "dateTime": {
+        "sec": 1774349460
+      },
+      "date": "24-03-2026",
+      "hour": "10:51",
+      "location": "Vila Real, Montalegre, Cervos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Cervos",
+      "dico": "1706",
+      "lat": 41.73879,
+      "lng": -7.68186,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cervos ",
+      "active": true,
+      "sadoId": "20260431485",
+      "sharepointId": 26953499,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210611,
+      "weather": {
+        "stationId": 1210611,
+        "stationLocation": "Montalegre",
+        "temperatura": 11.6,
+        "humidade": 49,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 1949.9,
+        "pressao": null,
+        "date": "2026-03-24T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1774349654
+      },
+      "updated": {
+        "sec": 1774350255
+      }
+    },
+    {
+      "_id": {
+        "$id": "69c2711a44842d12f43e5dca"
+      },
+      "id": "20260431571",
+      "coords": true,
+      "dateTime": {
+        "sec": 1774350300
+      },
+      "date": "24-03-2026",
+      "hour": "11:05",
+      "location": "Guarda, Sabugal, Souto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Sabugal",
+      "freguesia": "Souto",
+      "dico": "0911",
+      "lat": 40.338077,
+      "lng": -6.945877,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Souto ",
+      "active": true,
+      "sadoId": "20260431571",
+      "sharepointId": 26953585,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210800,
+      "weather": {
+        "stationId": 1210800,
+        "stationLocation": "Sabugal, Martim Rei",
+        "temperatura": 11.3,
+        "humidade": 59,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 2018.7,
+        "pressao": null,
+        "date": "2026-03-24T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1774350618
+      },
+      "updated": {
+        "sec": 1774351573
       }
     }
   ]
