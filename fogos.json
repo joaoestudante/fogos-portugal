@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 3,
+          "total": 3
+        },
         "altitude": 675.966,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
       "detailLocation": "Contim",
@@ -57,166 +63,22 @@
       "weather": {
         "stationId": 1210612,
         "stationLocation": "Vinhais",
-        "temperatura": 12.9,
-        "humidade": 46,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
+        "temperatura": 10.4,
+        "humidade": 64,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-03-24T22:00:00.000000Z"
+        "date": "2026-03-25T01:00:00.000000Z"
       },
       "created": {
         "sec": 1774362494
       },
       "updated": {
-        "sec": 1774384936
-      }
-    },
-    {
-      "_id": {
-        "$id": "69c2fe2d138b163357030fba"
-      },
-      "id": "20260434508",
-      "coords": true,
-      "dateTime": {
-        "sec": 1774386540
-      },
-      "date": "24-03-2026",
-      "hour": "21:09",
-      "location": "Viana Do Castelo, Ponte da Barca, Sampriz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Viana Do Castelo",
-      "concelho": "Ponte Da Barca",
-      "freguesia": "Sampriz",
-      "dico": "1606",
-      "lat": 41.77524,
-      "lng": -8.37739,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Sampriz ",
-      "active": true,
-      "sadoId": "20260434508",
-      "sharepointId": 26956523,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
-      "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "temperatura": 13.9,
-        "humidade": 47,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
-        "idDireccVento": 1,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1023.1,
-        "date": "2026-03-24T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1774386733
-      },
-      "updated": {
-        "sec": 1774392495
-      }
-    },
-    {
-      "_id": {
-        "$id": "69c31790f81d7977d131d775"
-      },
-      "id": "20260434744",
-      "coords": true,
-      "dateTime": {
-        "sec": 1774392600
-      },
-      "date": "24-03-2026",
-      "hour": "22:50",
-      "location": "Viana Do Castelo, Monção, Barbeita",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Monção",
-      "freguesia": "Barbeita",
-      "dico": "1604",
-      "lat": 42.06368,
-      "lng": -8.404376,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Barbeita ",
-      "active": true,
-      "sadoId": "20260434744",
-      "sharepointId": 26956759,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 74.145,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Senhora da Assunção (BARBEITA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 1210605,
-      "weather": {
-        "stationId": 1210605,
-        "stationLocation": "Monção, Valinha",
-        "temperatura": 12.4,
-        "humidade": 65,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-03-24T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1774393232
-      },
-      "updated": {
-        "sec": 1774395613
+        "sec": 1774396807
       }
     }
   ]
