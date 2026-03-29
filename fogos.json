@@ -163,8 +163,8 @@
       "location": "Braga, Vieira do Minho, Ruivães E Campos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
+      "man": 5,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Ruivães E Campos",
@@ -175,9 +175,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
       "localidade": "Ruivães ",
       "active": true,
@@ -220,51 +220,47 @@
         "sec": 1774762092
       },
       "updated": {
-        "sec": 1774765805
+        "sec": 1774772298
       }
     },
     {
       "_id": {
-        "$id": "69c8c950a0ea4d36af002cc3"
+        "$id": "69c8e225503cf975cc730ba1"
       },
-      "id": "20260455554",
+      "id": "20260455949",
       "coords": true,
       "dateTime": {
-        "sec": 1774766220
+        "sec": 1774771800
       },
       "date": "29-03-2026",
-      "hour": "07:37",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Souto E Tabaçô",
+      "hour": "09:10",
+      "location": "Viseu, Tarouca, Tarouca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Souto E Tabaçô",
-      "dico": "1601",
-      "lat": 41.818782,
-      "lng": -8.441672,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 17,
+      "terrain": 5,
+      "district": "Viseu",
+      "concelho": "Tarouca",
+      "freguesia": "Tarouca",
+      "dico": "1820",
+      "lat": 41.028505,
+      "lng": -7.794247,
+      "naturezaCode": "4335",
+      "natureza": "Prevenção a Queimadas",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 3,
+      "statusCode": 4,
       "statusColor": "FF6E02",
-      "status": "Despacho",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Caminho Da Vaqueira ",
+      "localidade": "Quintela ",
       "active": true,
-      "sadoId": "20260455554",
-      "sharepointId": 26977570,
+      "sadoId": "20260455949",
+      "sharepointId": 26977965,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 119.843,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Caminho da Vaqueira (Igreja)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -274,27 +270,27 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 6213013,
       "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "temperatura": 5.9,
-        "humidade": 64,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "stationId": 6213013,
+        "stationLocation": "Castro Daire / Mézio (CIM)",
+        "temperatura": 0.9,
+        "humidade": 87,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
         "idDireccVento": 9,
         "direccVento": "N",
-        "precAcumulada": 0,
+        "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1033.9,
+        "pressao": null,
         "date": "2026-03-29T06:00:00.000000Z"
       },
       "created": {
-        "sec": 1774766416
+        "sec": 1774772773
       },
       "updated": {
-        "sec": 1774768504
+        "sec": 1774773132
       }
     }
   ]
