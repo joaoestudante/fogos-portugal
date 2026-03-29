@@ -13,10 +13,10 @@
       "date": "28-03-2026",
       "hour": "13:45",
       "location": "Braga, Terras de Bouro, Vilar Da Veiga",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 60,
-      "terrain": 19,
+      "man": 85,
+      "terrain": 24,
       "district": "Braga",
       "concelho": "Terras De Bouro",
       "freguesia": "Vilar Da Veiga",
@@ -58,21 +58,21 @@
         "stationId": 1210619,
         "stationLocation": "Cabril",
         "temperatura": 6.3,
-        "humidade": 50,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "humidade": 49,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-03-29T05:00:00.000000Z"
+        "date": "2026-03-29T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774706059
       },
       "updated": {
-        "sec": 1774769895
+        "sec": 1774771455
       }
     },
     {
@@ -131,16 +131,16 @@
       "weather": {
         "stationId": 1210724,
         "stationLocation": "Tomar, Valdonas",
-        "temperatura": 4.7,
-        "humidade": 93,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 3.8,
+        "humidade": 94,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 75.3,
         "pressao": null,
-        "date": "2026-03-29T05:00:00.000000Z"
+        "date": "2026-03-29T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774716860
@@ -206,15 +206,15 @@
         "stationId": 1210619,
         "stationLocation": "Cabril",
         "temperatura": 6.3,
-        "humidade": 50,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "humidade": 49,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-03-29T05:00:00.000000Z"
+        "date": "2026-03-29T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774762092
@@ -279,96 +279,22 @@
       "weather": {
         "stationId": 6211216,
         "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "temperatura": 6,
+        "temperatura": 5.9,
         "humidade": 64,
-        "intensidadeVento": 3.8,
-        "intensidadeVentoKM": 13.7,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1033,
-        "date": "2026-03-29T05:00:00.000000Z"
+        "pressao": 1033.9,
+        "date": "2026-03-29T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774766416
       },
       "updated": {
         "sec": 1774768504
-      }
-    },
-    {
-      "_id": {
-        "$id": "69c8cbb8a0ea4d36af002cd3"
-      },
-      "id": "20260455579",
-      "coords": true,
-      "dateTime": {
-        "sec": 1774766880
-      },
-      "date": "29-03-2026",
-      "hour": "07:48",
-      "location": "Viana Do Castelo, Paredes de Coura, Insalde E Porreiras",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Viana Do Castelo",
-      "concelho": "Paredes De Coura",
-      "freguesia": "Insalde E Porreiras",
-      "dico": "1605",
-      "lat": 41.958017,
-      "lng": -8.53187,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Igreja ",
-      "active": true,
-      "sadoId": "20260455579",
-      "sharepointId": 26977595,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 590.799,
-        "fogacho": true,
-        "fontealerta": "Autarquias"
-      },
-      "detailLocation": "Igreja (Regato de Cabanelas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211213,
-      "weather": {
-        "stationId": 6211213,
-        "stationLocation": "Paredes De Coura - Vascões (CIM)",
-        "temperatura": 3.4,
-        "humidade": 71,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": null,
-        "radiacao": 0,
-        "pressao": 1033.9,
-        "date": "2026-03-29T05:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1774767032
-      },
-      "updated": {
-        "sec": 1774769774
       }
     }
   ]
