@@ -57,16 +57,16 @@
       "weather": {
         "stationId": 1210619,
         "stationLocation": "Cabril",
-        "temperatura": 7.5,
-        "humidade": 45,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 6.7,
+        "humidade": 47,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-03-29T03:00:00.000000Z"
+        "date": "2026-03-29T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774706059
@@ -131,16 +131,16 @@
       "weather": {
         "stationId": 1210724,
         "stationLocation": "Tomar, Valdonas",
-        "temperatura": 5.5,
-        "humidade": 92,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 5.1,
+        "humidade": 93,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-03-29T03:00:00.000000Z"
+        "date": "2026-03-29T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774716860
@@ -205,16 +205,16 @@
       "weather": {
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
-        "temperatura": 6.7,
-        "humidade": 69,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 5.4,
+        "humidade": 76,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-03-29T03:00:00.000000Z"
+        "date": "2026-03-29T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774732817
@@ -225,15 +225,159 @@
     },
     {
       "_id": {
-        "$id": "69c89d3e7afc212cba0afabb"
+        "$id": "69c8b86c1f32b91439218f21"
       },
-      "id": "20260455373",
+      "id": "20260455465",
       "coords": true,
       "dateTime": {
-        "sec": 1774755000
+        "sec": 1774761900
       },
       "date": "29-03-2026",
-      "hour": "04:30",
+      "hour": "06:25",
+      "location": "Braga, Vieira do Minho, Ruivães E Campos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Ruivães E Campos",
+      "dico": "0311",
+      "lat": 41.67251,
+      "lng": -8.02451,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Ruivães ",
+      "active": true,
+      "sadoId": "20260455465",
+      "sharepointId": 26977481,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 774.801,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "M623 (Levada de Ruivais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210619,
+      "weather": {
+        "stationId": 1210619,
+        "stationLocation": "Cabril",
+        "temperatura": 6.7,
+        "humidade": 47,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-03-29T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1774762092
+      },
+      "updated": {
+        "sec": 1774765805
+      }
+    },
+    {
+      "_id": {
+        "$id": "69c8c0e0f76d5741ed04420f"
+      },
+      "id": "20260455502",
+      "coords": true,
+      "dateTime": {
+        "sec": 1774764000
+      },
+      "date": "29-03-2026",
+      "hour": "07:00",
+      "location": "Leiria, Nazaré, Famalicão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Nazaré",
+      "freguesia": "Famalicão",
+      "dico": "1011",
+      "lat": 39.54271,
+      "lng": -9.084175,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Famalicão (Fa) ",
+      "active": true,
+      "sadoId": "20260455502",
+      "sharepointId": 26977518,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210726,
+      "weather": {
+        "stationId": 1210726,
+        "stationLocation": "Alcobaça",
+        "temperatura": 4.9,
+        "humidade": 93,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-03-29T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1774764256
+      },
+      "updated": {
+        "sec": 1774765934
+      }
+    },
+    {
+      "_id": {
+        "$id": "69c8c950a0ea4d36af002cc3"
+      },
+      "id": "20260455554",
+      "coords": true,
+      "dateTime": {
+        "sec": 1774766220
+      },
+      "date": "29-03-2026",
+      "hour": "07:37",
       "location": "Viana Do Castelo, Arcos de Valdevez, Souto E Tabaçô",
       "aerial": 0,
       "meios_aquaticos": 0,
@@ -243,8 +387,8 @@
       "concelho": "Arcos De Valdevez",
       "freguesia": "Souto E Tabaçô",
       "dico": "1601",
-      "lat": 41.82064,
-      "lng": -8.44687,
+      "lat": 41.818782,
+      "lng": -8.441672,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -253,18 +397,14 @@
       "statusColor": "FF6E02",
       "status": "Despacho",
       "important": false,
-      "localidade": "União Das Freguesias De Souto E Tabaçô ",
+      "localidade": "Caminho Da Vaqueira ",
       "active": true,
-      "sadoId": "20260455373",
-      "sharepointId": 26977389,
+      "sadoId": "20260455554",
+      "sharepointId": 26977570,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 164.97,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(41.82064000.-8.44687000) - M523-4. 4970 Arcos de Valdevez. Portugal (Casal)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -279,22 +419,22 @@
       "weather": {
         "stationId": 6211216,
         "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "temperatura": 6.2,
-        "humidade": 69,
-        "intensidadeVento": 2.9,
-        "intensidadeVentoKM": 10.4,
+        "temperatura": 6.1,
+        "humidade": 65,
+        "intensidadeVento": 4.4,
+        "intensidadeVentoKM": 15.8,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": 1032.8,
-        "date": "2026-03-29T03:00:00.000000Z"
+        "date": "2026-03-29T04:00:00.000000Z"
       },
       "created": {
-        "sec": 1774755134
+        "sec": 1774766416
       },
       "updated": {
-        "sec": 1774761418
+        "sec": 1774766436
       }
     }
   ]
