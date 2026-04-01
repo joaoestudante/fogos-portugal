@@ -57,16 +57,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 17,
-        "humidade": 40,
-        "intensidadeVento": 6.1,
-        "intensidadeVentoKM": 22,
+        "temperatura": 15.8,
+        "humidade": 42,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": 1025.1,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -131,16 +131,16 @@
       "weather": {
         "stationId": 1210611,
         "stationLocation": "Montalegre",
-        "temperatura": 4.7,
-        "humidade": 90,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 4.2,
+        "humidade": 91,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774972939
@@ -175,9 +175,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mourelo ",
       "active": true,
@@ -185,8 +185,12 @@
       "sharepointId": 26991484,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 500.359,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mourelo (Ilhós)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -201,22 +205,22 @@
       "weather": {
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "temperatura": 12.1,
-        "humidade": 57,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 11.1,
+        "humidade": 58,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1027.3,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "pressao": 1027.2,
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775000652
       },
       "updated": {
-        "sec": 1775008166
+        "sec": 1775022493
       }
     },
     {
@@ -233,8 +237,8 @@
       "location": "Braga, Vila Verde, Aboim Da Nóbrega E Gondomar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 9,
+      "man": 28,
+      "terrain": 8,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Aboim Da Nóbrega E Gondomar",
@@ -245,9 +249,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casais De Vide ",
       "active": true,
@@ -255,8 +259,12 @@
       "sharepointId": 26991556,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 480.421,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Casais de Vide",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -271,96 +279,22 @@
       "weather": {
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "temperatura": 12.1,
-        "humidade": 57,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 11.1,
+        "humidade": 58,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1027.3,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "pressao": 1027.2,
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775004255
       },
       "updated": {
-        "sec": 1775008273
-      }
-    },
-    {
-      "_id": {
-        "$id": "69cc777c61291f29e824c968"
-      },
-      "id": "20260469604",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775007420
-      },
-      "date": "01-04-2026",
-      "hour": "02:37",
-      "location": "Viana Do Castelo, Paredes de Coura, Formariz E Ferreira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Paredes De Coura",
-      "freguesia": "Formariz E Ferreira",
-      "dico": "1605",
-      "lat": 41.951842,
-      "lng": -8.58665,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "São Silvestre       ",
-      "active": true,
-      "sadoId": "20260469604",
-      "sharepointId": 26991620,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "São Silvestre (Bouça Grande)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 1210604,
-      "weather": {
-        "stationId": 1210604,
-        "stationLocation": "V.N.Cerveira (Aeródromo)",
-        "temperatura": 9.5,
-        "humidade": 82,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 4,
-        "direccVento": "SE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1026.3,
-        "date": "2026-04-01T02:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1775007612
-      },
-      "updated": {
-        "sec": 1775012294
+        "sec": 1775023337
       }
     },
     {
@@ -419,16 +353,16 @@
       "weather": {
         "stationId": 1210619,
         "stationLocation": "Cabril",
-        "temperatura": 11.8,
-        "humidade": 56,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 11,
+        "humidade": 55,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775008273
@@ -451,26 +385,100 @@
       "location": "Castelo Branco, Sertã, Várzea Dos Cavaleiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
+      "man": 54,
+      "terrain": 15,
       "district": "Castelo Branco",
       "concelho": "Sertã",
       "freguesia": "Várzea Dos Cavaleiros",
       "dico": "0509",
-      "lat": 39.82361,
-      "lng": -8.02169,
+      "lat": 39.819,
+      "lng": -8.018142,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Horta Cimeira   ",
+      "active": true,
+      "sadoId": "20260469744",
+      "sharepointId": 26991760,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Mosteiro de São Tiago (Horta Cimeira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1210806,
+      "weather": {
+        "stationId": 1210806,
+        "stationLocation": "Proença-a-Nova, P.Moitas",
+        "temperatura": 12.2,
+        "humidade": 51,
+        "intensidadeVento": 9,
+        "intensidadeVentoKM": 32.4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-04-01T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775016381
+      },
+      "updated": {
+        "sec": 1775023454
+      }
+    },
+    {
+      "_id": {
+        "$id": "69ccab877af2f91d3c486bf6"
+      },
+      "id": "20260469803",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775020320
+      },
+      "date": "01-04-2026",
+      "hour": "06:12",
+      "location": "Coimbra, Montemor-o-Velho, Seixo De Gatões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Montemor-o-velho",
+      "freguesia": "Seixo De Gatões",
+      "dico": "0610",
+      "lat": 40.24847,
+      "lng": -8.688301,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Várzea Dos Cavaleiros ",
+      "localidade": "Seixo De Gatões ",
       "active": true,
-      "sadoId": "20260469744",
-      "sharepointId": 26991760,
+      "sadoId": "20260469803",
+      "sharepointId": 26991819,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -484,27 +492,97 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "nearestWeatherStationId": 6214119,
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213612,
       "weather": {
-        "stationId": 6214119,
-        "stationLocation": "Pedrógão Grande (CMPG)",
-        "temperatura": 12.4,
-        "humidade": 49,
-        "intensidadeVento": 4.3,
-        "intensidadeVentoKM": 15.5,
+        "stationId": 6213612,
+        "stationLocation": "Cantanhede / Fonte Dom Pedro (CIM)",
+        "temperatura": 14.5,
+        "humidade": 44,
+        "intensidadeVento": 8.7,
+        "intensidadeVentoKM": 31.3,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1026.2,
-        "date": "2026-04-01T02:00:00.000000Z"
+        "pressao": null,
+        "date": "2026-04-01T04:00:00.000000Z"
       },
       "created": {
-        "sec": 1775016381
+        "sec": 1775020935
       },
       "updated": {
-        "sec": 1775016975
+        "sec": 1775021146
+      }
+    },
+    {
+      "_id": {
+        "$id": "69ccaecd36c86731051462aa"
+      },
+      "id": "20260469824",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775020860
+      },
+      "date": "01-04-2026",
+      "hour": "06:21",
+      "location": "Aveiro, Oliveira de Azeméis, Vila De Cucujães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "Vila De Cucujães",
+      "dico": "0113",
+      "lat": 40.873108,
+      "lng": -8.507006,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20260469824",
+      "sharepointId": 26991840,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210669,
+      "weather": {
+        "stationId": 1210669,
+        "stationLocation": "Arouca",
+        "temperatura": 13.5,
+        "humidade": 46,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-04-01T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775021773
+      },
+      "updated": {
+        "sec": 1775022734
       }
     }
   ]
