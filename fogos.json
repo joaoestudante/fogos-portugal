@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 10,
+        "temperatura": 10.7,
         "humidade": 97,
         "intensidadeVento": 1,
         "intensidadeVentoKM": 3.6,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": 1022.6,
-        "date": "2026-04-04T05:00:00.000000Z"
+        "date": "2026-04-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -134,16 +134,16 @@
       "weather": {
         "stationId": 1210669,
         "stationLocation": "Arouca",
-        "temperatura": 7,
-        "humidade": 94,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 6.7,
+        "humidade": 95,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 32.1,
         "pressao": null,
-        "date": "2026-04-04T05:00:00.000000Z"
+        "date": "2026-04-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775227574
@@ -166,8 +166,8 @@
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
@@ -208,22 +208,22 @@
       "weather": {
         "stationId": 1210611,
         "stationLocation": "Montalegre",
-        "temperatura": 10.8,
-        "humidade": 49,
+        "temperatura": 8.8,
+        "humidade": 58,
         "intensidadeVento": 0.6,
         "intensidadeVentoKM": 2.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 47.6,
         "pressao": null,
-        "date": "2026-04-04T05:00:00.000000Z"
+        "date": "2026-04-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775248333
       },
       "updated": {
-        "sec": 1775287700
+        "sec": 1775289852
       }
     },
     {
@@ -238,9 +238,9 @@
       "date": "04-04-2026",
       "hour": "05:40",
       "location": "Aveiro, Arouca, Urrô",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 6,
+      "man": 12,
       "terrain": 2,
       "district": "Aveiro",
       "concelho": "Arouca",
@@ -278,96 +278,22 @@
       "weather": {
         "stationId": 1210669,
         "stationLocation": "Arouca",
-        "temperatura": 7,
-        "humidade": 94,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 6.7,
+        "humidade": 95,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 32.1,
         "pressao": null,
-        "date": "2026-04-04T05:00:00.000000Z"
+        "date": "2026-04-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775277855
       },
       "updated": {
-        "sec": 1775286732
-      }
-    },
-    {
-      "_id": {
-        "$id": "69d0a70e59f7514d931185e3"
-      },
-      "id": "20260483865",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775281500
-      },
-      "date": "04-04-2026",
-      "hour": "06:45",
-      "location": "Vila Real, Vila Pouca de Aguiar, Bornes De Aguiar",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Vila Real",
-      "concelho": "Vila Pouca De Aguiar",
-      "freguesia": "Bornes De Aguiar",
-      "dico": "1713",
-      "lat": 41.543485,
-      "lng": -7.595613,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Bornes ",
-      "active": true,
-      "sadoId": "20260483865",
-      "sharepointId": 27005881,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Bornes",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
-      "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "temperatura": 4.2,
-        "humidade": 90,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1026.1,
-        "date": "2026-04-04T05:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1775281934
-      },
-      "updated": {
-        "sec": 1775287932
+        "sec": 1775289852
       }
     },
     {
@@ -384,21 +310,21 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Bornes De Aguiar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Bornes De Aguiar",
       "dico": "1713",
-      "lat": 41.547037,
-      "lng": -7.544671,
+      "lat": 41.551992,
+      "lng": -7.524817,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Lagoa ",
       "active": true,
@@ -422,22 +348,162 @@
       "weather": {
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
-        "temperatura": 4.2,
-        "humidade": 90,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
+        "temperatura": 4.1,
+        "humidade": 91,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1026.1,
-        "date": "2026-04-04T05:00:00.000000Z"
+        "radiacao": 98,
+        "pressao": 1026.7,
+        "date": "2026-04-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775288054
       },
       "updated": {
-        "sec": 1775288072
+        "sec": 1775289492
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d0c0d6c3f9be77f66d75f1"
+      },
+      "id": "20260484118",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775288340
+      },
+      "date": "04-04-2026",
+      "hour": "08:39",
+      "location": "Viseu, Carregal do Sal, Oliveira Do Conde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 6,
+      "district": "Viseu",
+      "concelho": "Carregal Do Sal",
+      "freguesia": "Oliveira Do Conde",
+      "dico": "1802",
+      "lat": 40.4716,
+      "lng": -7.93303,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Oliveira Do Conde ",
+      "active": true,
+      "sadoId": "20260484118",
+      "sharepointId": 27006134,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213012,
+      "weather": {
+        "stationId": 6213012,
+        "stationLocation": "Carregal do Sal (CIM)",
+        "temperatura": 11,
+        "humidade": 60,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-04T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775288534
+      },
+      "updated": {
+        "sec": 1775289853
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d0c2bbc3f9be77f66d75fb"
+      },
+      "id": "20260484150",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775288760
+      },
+      "date": "04-04-2026",
+      "hour": "08:46",
+      "location": "Faro, Loulé, Loulé (São Sebastião)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Loulé (São Sebastião)",
+      "dico": "0808",
+      "lat": 37.10436,
+      "lng": -8.07524,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Bacelada ",
+      "active": true,
+      "sadoId": "20260484150",
+      "sharepointId": 27006166,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 6210872,
+      "weather": {
+        "stationId": 6210872,
+        "stationLocation": "Loulé (CML)",
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1022.1,
+        "date": "2026-04-04T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775289019
+      },
+      "updated": {
+        "sec": 1775289732
       }
     }
   ]
