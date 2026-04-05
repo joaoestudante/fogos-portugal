@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 12,
+        "temperatura": 11.7,
         "humidade": 98,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": 1022.2,
-        "date": "2026-04-05T04:00:00.000000Z"
+        "date": "2026-04-05T05:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -89,24 +89,24 @@
       },
       "date": "05-04-2026",
       "hour": "07:34",
-      "location": "Porto, Trofa, Coronado (São Romão E São Mamede)",
+      "location": "Porto, Maia, Folgosa",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 2,
       "terrain": 1,
       "district": "Porto",
-      "concelho": "Trofa",
-      "freguesia": "Coronado (São Romão E São Mamede)",
-      "dico": "1318",
-      "lat": 41.27526,
-      "lng": -8.55217,
+      "concelho": "Maia",
+      "freguesia": "Folgosa",
+      "dico": "1306",
+      "lat": 41.274482,
+      "lng": -8.55008,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Coronado (São Romão E São Mamede) ",
       "active": true,
@@ -130,22 +130,92 @@
       "weather": {
         "stationId": 1200545,
         "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "temperatura": 9.4,
-        "humidade": 97,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
+        "temperatura": 9.6,
+        "humidade": 93,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1021.8,
-        "date": "2026-04-05T04:00:00.000000Z"
+        "pressao": 1022,
+        "date": "2026-04-05T05:00:00.000000Z"
       },
       "created": {
         "sec": 1775371094
       },
       "updated": {
-        "sec": 1775371693
+        "sec": 1775375059
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d20e261608a42e1e78ccba"
+      },
+      "id": "20260488464",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775373660
+      },
+      "date": "05-04-2026",
+      "hour": "08:21",
+      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Vinhais",
+      "freguesia": "Moimenta E Montouto",
+      "dico": "0412",
+      "lat": 41.951427,
+      "lng": -6.971727,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Moimenta ",
+      "active": true,
+      "sadoId": "20260488464",
+      "sharepointId": 27010480,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210612,
+      "weather": {
+        "stationId": 1210612,
+        "stationLocation": "Vinhais",
+        "temperatura": 10.2,
+        "humidade": 63,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-05T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775373862
+      },
+      "updated": {
+        "sec": 1775373975
       }
     }
   ]
