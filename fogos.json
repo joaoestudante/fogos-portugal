@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 11.7,
-        "humidade": 98,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 11.3,
+        "humidade": 99,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1022.2,
-        "date": "2026-04-05T05:00:00.000000Z"
+        "pressao": 1022.3,
+        "date": "2026-04-05T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -108,7 +108,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "União Das Freguesias De Coronado (São Romão E São Mamede) ",
+      "localidade": " ",
       "active": true,
       "sadoId": "20260488371",
       "sharepointId": 27010387,
@@ -130,22 +130,22 @@
       "weather": {
         "stationId": 1200545,
         "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "temperatura": 9.6,
-        "humidade": 93,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 10.1,
+        "humidade": 87,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1022,
-        "date": "2026-04-05T05:00:00.000000Z"
+        "radiacao": 100.9,
+        "pressao": 1022.3,
+        "date": "2026-04-05T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775371094
       },
       "updated": {
-        "sec": 1775375059
+        "sec": 1775376737
       }
     },
     {
@@ -159,26 +159,26 @@
       },
       "date": "05-04-2026",
       "hour": "08:21",
-      "location": "Bragança, Vinhais, Moimenta E Montouto",
+      "location": "Bragança, Vinhais, Soeira, Fresulfe E Mofreita",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 7,
       "terrain": 2,
       "district": "Bragança",
       "concelho": "Vinhais",
-      "freguesia": "Moimenta E Montouto",
+      "freguesia": "Soeira, Fresulfe E Mofreita",
       "dico": "0412",
-      "lat": 41.951427,
-      "lng": -6.971727,
+      "lat": 41.94112,
+      "lng": -6.908563,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Moimenta ",
+      "localidade": "Mofreita ",
       "active": true,
       "sadoId": "20260488464",
       "sharepointId": 27010480,
@@ -200,22 +200,92 @@
       "weather": {
         "stationId": 1210612,
         "stationLocation": "Vinhais",
-        "temperatura": 10.2,
-        "humidade": 63,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
+        "temperatura": 10.7,
+        "humidade": 62,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-05T05:00:00.000000Z"
+        "date": "2026-04-05T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775373862
       },
       "updated": {
-        "sec": 1775373975
+        "sec": 1775377213
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d220df8debf32efd440054"
+      },
+      "id": "20260488690",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775378460
+      },
+      "date": "05-04-2026",
+      "hour": "09:41",
+      "location": "Vila Real, Boticas, Ardãos E Bobadela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Boticas",
+      "freguesia": "Ardãos E Bobadela",
+      "dico": "1702",
+      "lat": 41.76452,
+      "lng": -7.60884,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Ardãos E Bobadela ",
+      "active": true,
+      "sadoId": "20260488690",
+      "sharepointId": 27010706,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "temperatura": 4.5,
+        "humidade": 92,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 115.2,
+        "pressao": 1024.7,
+        "date": "2026-04-05T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775378655
+      },
+      "updated": {
+        "sec": 1775378673
       }
     }
   ]
