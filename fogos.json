@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 11.5,
+        "temperatura": 12.2,
         "humidade": 99,
         "intensidadeVento": 1.3,
         "intensidadeVentoKM": 4.7,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 80,
-        "pressao": 1022.5,
-        "date": "2026-04-05T07:00:00.000000Z"
+        "radiacao": 612.4,
+        "pressao": 1022.7,
+        "date": "2026-04-05T08:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -134,16 +134,16 @@
       "weather": {
         "stationId": 1210612,
         "stationLocation": "Vinhais",
-        "temperatura": 13,
-        "humidade": 57,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 15.3,
+        "humidade": 54,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-05T07:00:00.000000Z"
+        "date": "2026-04-05T08:00:00.000000Z"
       },
       "created": {
         "sec": 1775373862
@@ -172,15 +172,15 @@
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
       "dico": "1702",
-      "lat": 41.76452,
-      "lng": -7.60884,
+      "lat": 41.764565,
+      "lng": -7.73038,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Ardãos E Bobadela ",
       "active": true,
@@ -188,8 +188,12 @@
       "sharepointId": 27010706,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ardãos. Boticas. Portugal (ARDAOS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -200,26 +204,26 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
+      "nearestWeatherStationId": 1210611,
       "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "temperatura": 7.3,
-        "humidade": 83,
+        "stationId": 1210611,
+        "stationLocation": "Montalegre",
+        "temperatura": 15.2,
+        "humidade": 44,
         "intensidadeVento": 0.8,
         "intensidadeVentoKM": 2.9,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 589.9,
-        "pressao": 1024.6,
-        "date": "2026-04-05T07:00:00.000000Z"
+        "radiacao": 1551.9,
+        "pressao": null,
+        "date": "2026-04-05T08:00:00.000000Z"
       },
       "created": {
         "sec": 1775378655
       },
       "updated": {
-        "sec": 1775380454
+        "sec": 1775383094
       }
     },
     {
@@ -258,8 +262,12 @@
       "sharepointId": 27010832,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Macieira (TENDAIS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -289,7 +297,7 @@
         "sec": 1775380693
       },
       "updated": {
-        "sec": 1775381169
+        "sec": 1775382852
       }
     },
     {
@@ -304,16 +312,16 @@
       "date": "05-04-2026",
       "hour": "10:24",
       "location": "Vila Real, Vila Pouca de Aguiar, Alvão",
-      "aerial": 0,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 8,
       "terrain": 2,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Alvão",
       "dico": "1713",
-      "lat": 41.474064,
-      "lng": -7.74765,
+      "lat": 41.44646,
+      "lng": -7.73038,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -322,14 +330,18 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Pinduradouro ",
+      "localidade": "Gouvães Da Serra ",
       "active": true,
       "sadoId": "20260488856",
       "sharepointId": 27010872,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Pinduradouro (Antas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -344,22 +356,22 @@
       "weather": {
         "stationId": 1240566,
         "stationLocation": "Vila Real (Cidade)",
-        "temperatura": 12.4,
-        "humidade": 61,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 15.5,
+        "humidade": 55,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-05T07:00:00.000000Z"
+        "date": "2026-04-05T08:00:00.000000Z"
       },
       "created": {
         "sec": 1775381291
       },
       "updated": {
-        "sec": 1775381427
+        "sec": 1775383378
       }
     }
   ]
