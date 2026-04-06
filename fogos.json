@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 13.3,
-        "humidade": 81,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 15.1,
+        "humidade": 69,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0.1,
-        "pressao": 1016.9,
-        "date": "2026-04-06T04:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": 1016.4,
+        "date": "2026-04-06T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -104,9 +104,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Freitas ",
       "active": true,
@@ -134,22 +134,22 @@
       "weather": {
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "temperatura": 20.3,
-        "humidade": 39,
-        "intensidadeVento": 1.8,
-        "intensidadeVentoKM": 6.5,
+        "temperatura": 20.9,
+        "humidade": 36,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1017,
-        "date": "2026-04-06T04:00:00.000000Z"
+        "pressao": 1016.6,
+        "date": "2026-04-06T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775405652
       },
       "updated": {
-        "sec": 1775421974
+        "sec": 1775458332
       }
     },
     {
@@ -166,8 +166,8 @@
       "location": "Braga, Vieira do Minho, Anjos E Vilar Do Chão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 9,
+      "man": 37,
+      "terrain": 11,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Anjos E Vilar Do Chão",
@@ -208,92 +208,22 @@
       "weather": {
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
-        "temperatura": 8.4,
-        "humidade": 99,
-        "intensidadeVento": 0.2,
-        "intensidadeVentoKM": 0.7,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 7.9,
+        "humidade": 100,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 83.2,
         "pressao": null,
-        "date": "2026-04-06T04:00:00.000000Z"
+        "date": "2026-04-06T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775423173
       },
       "updated": {
-        "sec": 1775456533
-      }
-    },
-    {
-      "_id": {
-        "$id": "69d31f7202d692720a6ba902"
-      },
-      "id": "20260492231",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775442660
-      },
-      "date": "06-04-2026",
-      "hour": "03:31",
-      "location": "Vila Real, Peso da Régua, Peso Da Régua E Godim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Peso Da Régua",
-      "freguesia": "Peso Da Régua E Godim",
-      "dico": "1708",
-      "lat": 41.16525,
-      "lng": -7.804575,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Peso Da Régua E Godim ",
-      "active": true,
-      "sadoId": "20260492231",
-      "sharepointId": 27014247,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "nearestWeatherStationId": 1200567,
-      "weather": {
-        "stationId": 1200567,
-        "stationLocation": "Vila Real",
-        "temperatura": 14.3,
-        "humidade": 62,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1018.9,
-        "date": "2026-04-06T04:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1775443826
-      },
-      "updated": {
-        "sec": 1775443848
+        "sec": 1775458838
       }
     },
     {
@@ -307,24 +237,24 @@
       },
       "date": "06-04-2026",
       "hour": "06:45",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Soajo",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Cabana Maior",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
-      "freguesia": "Soajo",
+      "freguesia": "Cabana Maior",
       "dico": "1601",
-      "lat": 41.8871,
-      "lng": -8.31359,
+      "lat": 41.87928,
+      "lng": -8.318687,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Soajo ",
       "active": true,
@@ -350,7 +280,7 @@
         "sec": 1775454493
       },
       "updated": {
-        "sec": 1775456054
+        "sec": 1775462893
       }
     },
     {
@@ -367,21 +297,21 @@
       "location": "Braga, Fafe, Passos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 5,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Passos",
       "dico": "0307",
-      "lat": 41.479571,
-      "lng": -8.202719,
+      "lat": 41.473693,
+      "lng": -8.21487,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -405,22 +335,162 @@
       "weather": {
         "stationId": 1210625,
         "stationLocation": "Guimarães",
-        "temperatura": 10.9,
+        "temperatura": 11.1,
         "humidade": 81,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": null,
-        "radiacao": 0,
-        "pressao": 1017.2,
-        "date": "2026-04-06T04:00:00.000000Z"
+        "radiacao": 57.7,
+        "pressao": 1017,
+        "date": "2026-04-06T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775455828
       },
       "updated": {
-        "sec": 1775455849
+        "sec": 1775460853
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d364c45814781f3904f163"
+      },
+      "id": "20260492745",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775460720
+      },
+      "date": "06-04-2026",
+      "hour": "08:32",
+      "location": "Porto, Vila Nova de Gaia, Sandim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Sandim",
+      "dico": "1317",
+      "lat": 41.03032,
+      "lng": -8.49543,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Sandim, Olival, Lever E Crestuma ",
+      "active": true,
+      "sadoId": "20260492745",
+      "sharepointId": 27014761,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "temperatura": 12.5,
+        "humidade": 98,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 132.5,
+        "pressao": 1016.2,
+        "date": "2026-04-06T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775461572
+      },
+      "updated": {
+        "sec": 1775462297
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d36890ae1f075ae66f61ee"
+      },
+      "id": "20260492844",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775462340
+      },
+      "date": "06-04-2026",
+      "hour": "08:59",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Cabreiro",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Cabreiro",
+      "dico": "1601",
+      "lat": 41.943478,
+      "lng": -8.397242,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vilela Seca ",
+      "active": true,
+      "sadoId": "20260492844",
+      "sharepointId": 27014860,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211213,
+      "weather": {
+        "stationId": 6211213,
+        "stationLocation": "Paredes De Coura - Vascões (CIM)",
+        "temperatura": 16.2,
+        "humidade": 48,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": null,
+        "radiacao": 61.7,
+        "pressao": 1016.5,
+        "date": "2026-04-06T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775462544
+      },
+      "updated": {
+        "sec": 1775462652
       }
     }
   ]
