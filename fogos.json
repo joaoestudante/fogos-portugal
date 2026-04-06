@@ -60,16 +60,16 @@
       "weather": {
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
-        "temperatura": 12.9,
+        "temperatura": 13.3,
         "humidade": 81,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1017.9,
-        "date": "2026-04-06T02:00:00.000000Z"
+        "radiacao": 0.1,
+        "pressao": 1016.9,
+        "date": "2026-04-06T04:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -134,16 +134,16 @@
       "weather": {
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "temperatura": 17.6,
-        "humidade": 47,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 20.3,
+        "humidade": 39,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.5,
-        "date": "2026-04-06T02:00:00.000000Z"
+        "pressao": 1017,
+        "date": "2026-04-06T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775405652
@@ -182,7 +182,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": " ",
+      "localidade": "Anjos ",
       "active": true,
       "sadoId": "20260491604",
       "sharepointId": 27013620,
@@ -208,22 +208,22 @@
       "weather": {
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
-        "temperatura": 9.4,
-        "humidade": 97,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 8.4,
+        "humidade": 99,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-04-06T02:00:00.000000Z"
+        "date": "2026-04-06T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775423173
       },
       "updated": {
-        "sec": 1775448614
+        "sec": 1775456533
       }
     },
     {
@@ -278,22 +278,149 @@
       "weather": {
         "stationId": 1200567,
         "stationLocation": "Vila Real",
-        "temperatura": 14.5,
-        "humidade": 63,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 1,
+        "temperatura": 14.3,
+        "humidade": 62,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.7,
-        "date": "2026-04-06T02:00:00.000000Z"
+        "pressao": 1018.9,
+        "date": "2026-04-06T04:00:00.000000Z"
       },
       "created": {
         "sec": 1775443826
       },
       "updated": {
         "sec": 1775443848
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d3491dcff95e2c31130bc3"
+      },
+      "id": "20260492441",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775454300
+      },
+      "date": "06-04-2026",
+      "hour": "06:45",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Soajo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Soajo",
+      "dico": "1601",
+      "lat": 41.8871,
+      "lng": -8.31359,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Soajo ",
+      "active": true,
+      "sadoId": "20260492441",
+      "sharepointId": 27014457,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211214,
+      "weather": null,
+      "created": {
+        "sec": 1775454493
+      },
+      "updated": {
+        "sec": 1775456054
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d34e54071ff8015f6202fb"
+      },
+      "id": "20260492481",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775455680
+      },
+      "date": "06-04-2026",
+      "hour": "07:08",
+      "location": "Braga, Fafe, Passos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Passos",
+      "dico": "0307",
+      "lat": 41.479571,
+      "lng": -8.202719,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20260492481",
+      "sharepointId": 27014497,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "temperatura": 10.9,
+        "humidade": 81,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1017.2,
+        "date": "2026-04-06T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775455828
+      },
+      "updated": {
+        "sec": 1775455849
       }
     }
   ]
