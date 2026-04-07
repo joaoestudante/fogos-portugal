@@ -62,14 +62,14 @@
         "stationLocation": "Aveiro (Universidade)",
         "temperatura": 17.9,
         "humidade": 67,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1009,
-        "date": "2026-04-07T04:00:00.000000Z"
+        "radiacao": 25.1,
+        "pressao": 1009.1,
+        "date": "2026-04-07T06:00:00.000000Z"
       },
       "created": {
         "sec": 1774953493
@@ -134,16 +134,16 @@
       "weather": {
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
-        "temperatura": 17.1,
-        "humidade": 66,
-        "intensidadeVento": 8.1,
-        "intensidadeVentoKM": 29.2,
+        "temperatura": 17.5,
+        "humidade": 62,
+        "intensidadeVento": 8.2,
+        "intensidadeVentoKM": 29.5,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1010.9,
-        "date": "2026-04-07T04:00:00.000000Z"
+        "pressao": 1010.5,
+        "date": "2026-04-07T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775478253
@@ -208,16 +208,16 @@
       "weather": {
         "stationId": 1210803,
         "stationLocation": "Zebreira",
-        "temperatura": 14.6,
-        "humidade": 76,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
+        "temperatura": 13.8,
+        "humidade": 84,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0.4,
+        "radiacao": 25.5,
         "pressao": null,
-        "date": "2026-04-07T04:00:00.000000Z"
+        "date": "2026-04-07T06:00:00.000000Z"
       },
       "created": {
         "sec": 1775493259
@@ -228,38 +228,108 @@
     },
     {
       "_id": {
-        "$id": "69d4a03bea9b987fdc4db697"
+        "$id": "69d4aa8ea83ce25f862a89f0"
       },
-      "id": "20260497367",
+      "id": "20260497488",
       "coords": true,
       "dateTime": {
-        "sec": 1775541300
+        "sec": 1775544780
       },
       "date": "07-04-2026",
-      "hour": "06:55",
-      "location": "Porto, Penafiel, Paço De Sousa",
+      "hour": "07:53",
+      "location": "Viseu, São Pedro do Sul, Valadares",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Paço De Sousa",
-      "dico": "1311",
-      "lat": 41.162245,
-      "lng": -8.347298,
+      "district": "Viseu",
+      "concelho": "São Pedro Do Sul",
+      "freguesia": "Valadares",
+      "dico": "1816",
+      "lat": 40.76006,
+      "lng": -8.199592,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Paço De Sousa ",
+      "localidade": "Valadares ",
       "active": true,
-      "sadoId": "20260497367",
-      "sharepointId": 27019383,
+      "sadoId": "20260497488",
+      "sharepointId": 27019504,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213016,
+      "weather": {
+        "stationId": 6213016,
+        "stationLocation": "Oliveira de Frades (CIM)",
+        "temperatura": 12.8,
+        "humidade": 80,
+        "intensidadeVento": 5.6,
+        "intensidadeVentoKM": 20.2,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-07T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775544974
+      },
+      "updated": {
+        "sec": 1775545695
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d4af3e19d9c3771829b3f3"
+      },
+      "id": "20260497503",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775545080
+      },
+      "date": "07-04-2026",
+      "hour": "07:58",
+      "location": "Porto, Amarante, Gouveia (São Simão)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Gouveia (São Simão)",
+      "dico": "1301",
+      "lat": 41.23077,
+      "lng": -8.063181,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Gouveia (São Simão) ",
+      "active": true,
+      "sadoId": "20260497503",
+      "sharepointId": 27019519,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -278,22 +348,92 @@
       "weather": {
         "stationId": 1210657,
         "stationLocation": "Luzim",
-        "temperatura": 15,
-        "humidade": 71,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
+        "temperatura": 15.2,
+        "humidade": 68,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 18.5,
         "pressao": null,
-        "date": "2026-04-07T04:00:00.000000Z"
+        "date": "2026-04-07T06:00:00.000000Z"
       },
       "created": {
-        "sec": 1775542331
+        "sec": 1775546174
       },
       "updated": {
-        "sec": 1775543171
+        "sec": 1775547856
+      }
+    },
+    {
+      "_id": {
+        "$id": "69d4b20c19d9c3771829b408"
+      },
+      "id": "20260497610",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775546400
+      },
+      "date": "07-04-2026",
+      "hour": "08:20",
+      "location": "Guarda, Seia, Torrozelo E Folhadosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Seia",
+      "freguesia": "Torrozelo E Folhadosa",
+      "dico": "0912",
+      "lat": 40.381911,
+      "lng": -7.782188,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Folhadosa ",
+      "active": true,
+      "sadoId": "20260497610",
+      "sharepointId": 27019626,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 6213620,
+      "weather": {
+        "stationId": 6213620,
+        "stationLocation": "Oliveira do Hospital (CIM)",
+        "temperatura": 15.4,
+        "humidade": 68,
+        "intensidadeVento": 6.3,
+        "intensidadeVentoKM": 22.7,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-07T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775546892
+      },
+      "updated": {
+        "sec": 1775547855
       }
     }
   ]
