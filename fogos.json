@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Guilhabreu ",
       "active": true,
@@ -59,43 +59,43 @@
         "sec": 1775679614
       },
       "updated": {
-        "sec": 1775680068
+        "sec": 1775682613
       }
     },
     {
       "_id": {
-        "$id": "20260505757"
+        "$id": "20260505839"
       },
-      "id": "20260505757",
+      "id": "20260505839",
       "coords": true,
       "dateTime": {
-        "sec": 1775680260
+        "sec": 1775681700
       },
       "date": "08-04-2026",
-      "hour": "21:31",
-      "location": "Porto, Póvoa de Varzim, Amorim",
+      "hour": "21:55",
+      "location": "Leiria, Batalha, Batalha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
+      "man": 2,
       "terrain": 1,
-      "district": "Porto",
-      "concelho": "Póvoa De Varzim",
-      "freguesia": "Amorim",
-      "dico": "1313",
-      "lat": 41.407272,
-      "lng": -8.749283,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "district": "Leiria",
+      "concelho": "Batalha",
+      "freguesia": "Batalha",
+      "dico": "1004",
+      "lat": 39.65989,
+      "lng": -8.824108,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "União Das Freguesias De Aver-o-mar, Amorim E Terroso ",
+      "localidade": "Batalha ",
       "active": true,
-      "sadoId": "20260505757",
-      "sharepointId": 27027775,
+      "sadoId": "20260505839",
+      "sharepointId": 27027857,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -108,28 +108,85 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6212126,
-      "weather": {
-        "stationId": 6212126,
-        "stationLocation": "Esposende (CIM)",
-        "temperatura": 14.4,
-        "humidade": 98,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1021.8,
-        "date": "2026-04-08T19:00:00.000000Z"
-      },
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": null,
+      "weather": null,
       "created": {
-        "sec": 1775680784
+        "sec": 1775682016
       },
       "updated": {
-        "sec": 1775681772
+        "sec": 1775682016
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260505833"
+      },
+      "id": "20260505833",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775680980
+      },
+      "date": "08-04-2026",
+      "hour": "21:43",
+      "location": "Viseu, Mangualde, Tavares (Chãs, Várzea E Travanca)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Mangualde",
+      "freguesia": "Tavares (Chãs, Várzea E Travanca)",
+      "dico": "1806",
+      "lat": 40.615245,
+      "lng": -7.653883,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Corvaceira ",
+      "active": true,
+      "sadoId": "20260505833",
+      "sharepointId": 27027851,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213014,
+      "weather": {
+        "stationId": 6213014,
+        "stationLocation": "Mangualde / Chãs de Tavares  (CIM)",
+        "temperatura": 9,
+        "humidade": 85,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-08T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775683334
+      },
+      "updated": {
+        "sec": 1775683457
       }
     }
   ]
