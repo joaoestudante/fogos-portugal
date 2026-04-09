@@ -53,16 +53,16 @@
       "weather": {
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
-        "temperatura": 15.6,
-        "humidade": 69,
-        "intensidadeVento": 4.6,
-        "intensidadeVentoKM": 16.6,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 18,
+        "humidade": 60,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 1803,
-        "pressao": 1018.2,
-        "date": "2026-04-09T10:00:00.000000Z"
+        "radiacao": 2352.2,
+        "pressao": 1017.6,
+        "date": "2026-04-09T11:00:00.000000Z"
       },
       "created": {
         "sec": 1775718494
@@ -199,8 +199,8 @@
       "location": "Aveiro, Sever do Vouga, Paradela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 4,
+      "terrain": 1,
       "district": "Aveiro",
       "concelho": "Sever Do Vouga",
       "freguesia": "Paradela",
@@ -237,79 +237,22 @@
       "weather": {
         "stationId": 6213016,
         "stationLocation": "Oliveira de Frades (CIM)",
-        "temperatura": 14.9,
-        "humidade": 68,
-        "intensidadeVento": 4,
-        "intensidadeVentoKM": 14.4,
+        "temperatura": 16.8,
+        "humidade": 66,
+        "intensidadeVento": 4.3,
+        "intensidadeVentoKM": 15.5,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-09T10:00:00.000000Z"
+        "date": "2026-04-09T11:00:00.000000Z"
       },
       "created": {
         "sec": 1775729177
       },
       "updated": {
-        "sec": 1775731552
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260508122"
-      },
-      "id": "20260508122",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775733360
-      },
-      "date": "09-04-2026",
-      "hour": "12:16",
-      "location": "Coimbra, Coimbra, Assafarge E Antanhol",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Coimbra",
-      "concelho": "Coimbra",
-      "freguesia": "Assafarge E Antanhol",
-      "dico": "0603",
-      "lat": 40.16304,
-      "lng": -8.46188,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Antanhol ",
-      "active": true,
-      "sadoId": "20260508122",
-      "sharepointId": 27030140,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "nearestWeatherStationId": null,
-      "weather": null,
-      "created": {
-        "sec": 1775733853
-      },
-      "updated": {
-        "sec": 1775734273
+        "sec": 1775737459
       }
     },
     {
@@ -380,26 +323,26 @@
       },
       "date": "09-04-2026",
       "hour": "12:25",
-      "location": "Coimbra, Figueira da Foz, Paião",
+      "location": "Coimbra, Figueira da Foz, Alqueidão",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 4,
       "terrain": 1,
       "district": "Coimbra",
       "concelho": "Figueira Da Foz",
-      "freguesia": "Paião",
+      "freguesia": "Alqueidão",
       "dico": "0605",
-      "lat": 40.05621,
-      "lng": -8.802347,
+      "lat": 40.07639,
+      "lng": -8.77528,
       "naturezaCode": "3111",
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "A17 43.01 Norte>sul ",
+      "localidade": "Asseiçó ",
       "active": true,
       "sadoId": "20260508175",
       "sharepointId": 27030193,
@@ -417,13 +360,26 @@
       "anepcDirectUpdate": false,
       "regiao": "Centro",
       "sub_regiao": "Região de Coimbra",
-      "nearestWeatherStationId": null,
-      "weather": null,
+      "nearestWeatherStationId": 1210713,
+      "weather": {
+        "stationId": 1210713,
+        "stationLocation": "Figueira da Foz, Vila Verde",
+        "temperatura": 18.3,
+        "humidade": null,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-09T11:00:00.000000Z"
+      },
       "created": {
         "sec": 1775734271
       },
       "updated": {
-        "sec": 1775734271
+        "sec": 1775737817
       }
     }
   ]
