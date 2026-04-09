@@ -3,63 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "20260510479"
-      },
-      "id": "20260510479",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775762880
-      },
-      "date": "09-04-2026",
-      "hour": "20:28",
-      "location": "Viseu, Viseu, Boa Aldeia, Farminhão E Torredeita",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Viseu",
-      "freguesia": "Boa Aldeia, Farminhão E Torredeita",
-      "dico": "1823",
-      "lat": 40.628073,
-      "lng": -8.057738,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Boa Aldeia ",
-      "active": true,
-      "sadoId": "20260510479",
-      "sharepointId": 27032497,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 6213023,
-      "weather": null,
-      "created": {
-        "sec": 1775766258
-      },
-      "updated": {
-        "sec": 1775768532
-      }
-    },
-    {
-      "_id": {
         "$id": "20260510949"
       },
       "id": "20260510949",
@@ -84,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Marim ",
       "active": true,
@@ -94,8 +37,12 @@
       "sharepointId": 27032967,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Agarez (Negral)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -110,22 +57,22 @@
       "weather": {
         "stationId": 1240566,
         "stationLocation": "Vila Real (Cidade)",
-        "temperatura": 20.6,
-        "humidade": 42,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 19.7,
+        "humidade": 45,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-09T21:00:00.000000Z"
+        "date": "2026-04-09T22:00:00.000000Z"
       },
       "created": {
         "sec": 1775771293
       },
       "updated": {
-        "sec": 1775774773
+        "sec": 1775776337
       }
     }
   ]
