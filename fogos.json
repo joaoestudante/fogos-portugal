@@ -13,10 +13,10 @@
       "date": "11-04-2026",
       "hour": "11:08",
       "location": "Vila Real, Ribeira de Pena, Cerva E Limões",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 1,
+      "man": 8,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
       "freguesia": "Cerva E Limões",
@@ -69,7 +69,7 @@
         "sec": 1775902334
       },
       "updated": {
-        "sec": 1775905340
+        "sec": 1775906295
       }
     },
     {
@@ -84,9 +84,9 @@
       "date": "11-04-2026",
       "hour": "10:57",
       "location": "Porto, Gondomar, Melres E Medas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
+      "man": 4,
       "terrain": 1,
       "district": "Porto",
       "concelho": "Gondomar",
@@ -140,7 +140,7 @@
         "sec": 1775902695
       },
       "updated": {
-        "sec": 1775905093
+        "sec": 1775906535
       }
     },
     {
@@ -225,24 +225,24 @@
       },
       "date": "11-04-2026",
       "hour": "11:36",
-      "location": "Braga, Guimarães, Briteiros São Salvador E Briteiros Santa Leocádia",
+      "location": "Braga, Guimarães, Longos",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 10,
       "terrain": 2,
       "district": "Braga",
       "concelho": "Guimarães",
-      "freguesia": "Briteiros São Salvador E Briteiros Santa Leocádia",
+      "freguesia": "Longos",
       "dico": "0308",
-      "lat": 41.526908,
-      "lng": -8.332529,
+      "lat": 41.530835,
+      "lng": -8.356405,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -266,7 +266,7 @@
       "weather": {
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
-        "stationDistance": 7.8,
+        "stationDistance": 5.7,
         "temperatura": 12,
         "humidade": 79,
         "intensidadeVento": 6.3,
@@ -282,7 +282,149 @@
         "sec": 1775904014
       },
       "updated": {
-        "sec": 1775904622
+        "sec": 1775907255
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260518366"
+      },
+      "id": "20260518366",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775905740
+      },
+      "date": "11-04-2026",
+      "hour": "12:09",
+      "location": "Vila Real, Vila Real, Borbela E Lamas De Olo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Borbela E Lamas De Olo",
+      "dico": "1714",
+      "lat": 41.39752,
+      "lng": -7.794423,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Dornelas ",
+      "active": true,
+      "sadoId": "20260518366",
+      "sharepointId": 27040384,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1240566,
+      "weather": {
+        "stationId": 1240566,
+        "stationLocation": "Vila Real (Cidade)",
+        "stationDistance": 10.8,
+        "temperatura": 14.3,
+        "humidade": 77,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-11T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775906415
+      },
+      "updated": {
+        "sec": 1775907633
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260518398"
+      },
+      "id": "20260518398",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775906700
+      },
+      "date": "11-04-2026",
+      "hour": "12:25",
+      "location": "Aveiro, Santa Maria da Feira, São Miguel De Souto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São Miguel De Souto",
+      "dico": "0109",
+      "lat": 40.87531,
+      "lng": -8.56054,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União De Freguesias De São Miguel De Souto E Mosteirô ",
+      "active": true,
+      "sadoId": "20260518398",
+      "sharepointId": 27040416,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210669,
+      "weather": {
+        "stationId": 1210669,
+        "stationLocation": "Arouca",
+        "stationDistance": 26.9,
+        "temperatura": 12.8,
+        "humidade": 85,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 202,
+        "pressao": null,
+        "date": "2026-04-11T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775907134
+      },
+      "updated": {
+        "sec": 1775907157
       }
     }
   ]
