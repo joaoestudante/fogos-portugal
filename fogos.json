@@ -16,7 +16,7 @@
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 3,
-      "terrain": 2,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Prado (São Miguel)",
@@ -27,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Junto À Pista De Motocross ",
       "active": true,
@@ -37,8 +37,18 @@
       "sharepointId": 27043261,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 5,
+          "agricola": 0,
+          "mato": 25,
+          "total": 30
+        },
+        "altitude": 450.712,
+        "incendio": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Marvão (Monte da Cheira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -69,7 +79,7 @@
         "sec": 1775955375
       },
       "updated": {
-        "sec": 1775990894
+        "sec": 1775993397
       }
     },
     {
@@ -86,8 +96,8 @@
       "location": "Viseu, Mangualde, Cunha Baixa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Cunha Baixa",
@@ -98,9 +108,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cunha Baixa ",
       "active": true,
@@ -126,64 +136,7 @@
         "sec": 1775988260
       },
       "updated": {
-        "sec": 1775991133
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260522560"
-      },
-      "id": "20260522560",
-      "coords": true,
-      "dateTime": {
-        "sec": 1775987100
-      },
-      "date": "12-04-2026",
-      "hour": "10:45",
-      "location": "Porto, Santo Tirso, Rebordões",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Santo Tirso",
-      "freguesia": "Rebordões",
-      "dico": "1314",
-      "lat": 41.351615,
-      "lng": -8.430409,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": " ",
-      "active": true,
-      "sadoId": "20260522560",
-      "sharepointId": 27044578,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6212410,
-      "weather": null,
-      "created": {
-        "sec": 1775988853
-      },
-      "updated": {
-        "sec": 1775988876
+        "sec": 1775993539
       }
     },
     {
@@ -255,6 +208,290 @@
       },
       "updated": {
         "sec": 1775991394
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260522772"
+      },
+      "id": "20260522772",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775992020
+      },
+      "date": "12-04-2026",
+      "hour": "12:07",
+      "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Foz Do Sousa E Covelo",
+      "dico": "1304",
+      "lat": 41.081111,
+      "lng": -8.48389,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": " ",
+      "active": true,
+      "sadoId": "20260522772",
+      "sharepointId": 27044790,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 11.8,
+        "temperatura": 12.3,
+        "humidade": 63,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1020.7,
+        "date": "2026-04-12T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775992335
+      },
+      "updated": {
+        "sec": 1775993652
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260522803"
+      },
+      "id": "20260522803",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775992620
+      },
+      "date": "12-04-2026",
+      "hour": "12:17",
+      "location": "Castelo Branco, Idanha-a-Nova, Monfortinho E Salvaterra Do Extremo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 5,
+      "district": "Castelo Branco",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "Monfortinho E Salvaterra Do Extremo",
+      "dico": "0505",
+      "lat": 39.98946,
+      "lng": -6.883657,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "União Das Freguesias De Monfortinho E Salvaterra Do Extremo ",
+      "active": true,
+      "sadoId": "20260522803",
+      "sharepointId": 27044821,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1210803,
+      "weather": {
+        "stationId": 1210803,
+        "stationLocation": "Zebreira",
+        "stationDistance": 17.8,
+        "temperatura": 13.7,
+        "humidade": 32,
+        "intensidadeVento": 9.9,
+        "intensidadeVentoKM": 35.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2494.1,
+        "pressao": null,
+        "date": "2026-04-12T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775993054
+      },
+      "updated": {
+        "sec": 1775994255
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260522823"
+      },
+      "id": "20260522823",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775992500
+      },
+      "date": "12-04-2026",
+      "hour": "12:15",
+      "location": "Bragança, Mogadouro, Mogadouro, Valverde, Vale De Porco E Vilar De Rei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Mogadouro",
+      "freguesia": "Mogadouro, Valverde, Vale De Porco E Vilar De Rei",
+      "dico": "0408",
+      "lat": 41.339826,
+      "lng": -6.706687,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mogadouro ",
+      "active": true,
+      "sadoId": "20260522823",
+      "sharepointId": 27044841,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210637,
+      "weather": {
+        "stationId": 1210637,
+        "stationLocation": "Mogadouro",
+        "stationDistance": 2.3,
+        "temperatura": 7.5,
+        "humidade": 50,
+        "intensidadeVento": 6.6,
+        "intensidadeVentoKM": 23.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2405.3,
+        "pressao": null,
+        "date": "2026-04-12T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775993174
+      },
+      "updated": {
+        "sec": 1775993534
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260522855"
+      },
+      "id": "20260522855",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775993580
+      },
+      "date": "12-04-2026",
+      "hour": "12:33",
+      "location": "Coimbra, Coimbra, Trouxemil E Torre De Vilela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Coimbra",
+      "concelho": "Coimbra",
+      "freguesia": "Trouxemil E Torre De Vilela",
+      "dico": "0603",
+      "lat": 40.27846,
+      "lng": -8.45095,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Adões ",
+      "active": true,
+      "sadoId": "20260522855",
+      "sharepointId": 27044873,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210707,
+      "weather": {
+        "stationId": 1210707,
+        "stationLocation": "Coimbra, Bencanta",
+        "stationDistance": 7.2,
+        "temperatura": 13.5,
+        "humidade": 51,
+        "intensidadeVento": 5,
+        "intensidadeVentoKM": 18,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-12T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775994136
+      },
+      "updated": {
+        "sec": 1775994165
       }
     }
   ]
