@@ -15,8 +15,8 @@
       "location": "Braga, Vila Verde, Prado (São Miguel)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 8,
+      "man": 3,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Prado (São Miguel)",
@@ -54,22 +54,22 @@
         "stationId": 6211218,
         "stationLocation": "Ponte De Lima - Anais (CIM)",
         "stationDistance": 6.1,
-        "temperatura": 8.5,
-        "humidade": 69,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
+        "temperatura": 9.4,
+        "humidade": 73,
+        "intensidadeVento": 3.6,
+        "intensidadeVentoKM": 13,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": null,
-        "radiacao": 2714.2,
-        "pressao": 1020.6,
-        "date": "2026-04-12T09:00:00.000000Z"
+        "radiacao": 2888.6,
+        "pressao": 1020.5,
+        "date": "2026-04-12T10:00:00.000000Z"
       },
       "created": {
         "sec": 1775955375
       },
       "updated": {
-        "sec": 1775989217
+        "sec": 1775990894
       }
     },
     {
@@ -86,7 +86,7 @@
       "location": "Viseu, Mangualde, Cunha Baixa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
+      "man": 7,
       "terrain": 2,
       "district": "Viseu",
       "concelho": "Mangualde",
@@ -126,7 +126,7 @@
         "sec": 1775988260
       },
       "updated": {
-        "sec": 1775989217
+        "sec": 1775991133
       }
     },
     {
@@ -184,6 +184,77 @@
       },
       "updated": {
         "sec": 1775988876
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260522700"
+      },
+      "id": "20260522700",
+      "coords": true,
+      "dateTime": {
+        "sec": 1775990400
+      },
+      "date": "12-04-2026",
+      "hour": "11:40",
+      "location": "Faro, Tavira, Santa Catarina Da Fonte Do Bispo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Tavira",
+      "freguesia": "Santa Catarina Da Fonte Do Bispo",
+      "dico": "0814",
+      "lat": 37.144417,
+      "lng": -7.77626,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Alcarias ",
+      "active": true,
+      "sadoId": "20260522700",
+      "sharepointId": 27044718,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210881,
+      "weather": {
+        "stationId": 1210881,
+        "stationLocation": "Olhão, EPPO",
+        "stationDistance": 13,
+        "temperatura": 16.1,
+        "humidade": 45,
+        "intensidadeVento": 6,
+        "intensidadeVentoKM": 21.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2335.6,
+        "pressao": 1016.7,
+        "date": "2026-04-12T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1775991382
+      },
+      "updated": {
+        "sec": 1775991394
       }
     }
   ]
