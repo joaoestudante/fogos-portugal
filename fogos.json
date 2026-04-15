@@ -54,16 +54,16 @@
         "stationId": 1210746,
         "stationLocation": "Santa Cruz (Aeródromo)",
         "stationDistance": 8.8,
-        "temperatura": 13.8,
-        "humidade": 94,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 15.6,
+        "humidade": 75,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 449.7,
-        "pressao": 1025,
-        "date": "2026-04-15T09:00:00.000000Z"
+        "radiacao": 579.8,
+        "pressao": 1025.1,
+        "date": "2026-04-15T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776175215
@@ -129,12 +129,12 @@
         "humidade": null,
         "intensidadeVento": 0.8,
         "intensidadeVentoKM": 2.9,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-15T09:00:00.000000Z"
+        "date": "2026-04-15T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776235458
@@ -196,16 +196,16 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 18.5,
-        "temperatura": 12.8,
-        "humidade": 98,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 14.8,
+        "humidade": 89,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 1103.9,
+        "radiacao": 1150.6,
         "pressao": 1025.2,
-        "date": "2026-04-15T09:00:00.000000Z"
+        "date": "2026-04-15T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776236772
@@ -240,9 +240,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -267,22 +267,93 @@
         "stationId": 1210649,
         "stationLocation": "S. Gens",
         "stationDistance": 8.7,
-        "temperatura": 13,
-        "humidade": 100,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 15.1,
+        "humidade": 99,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 548.6,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-04-15T09:00:00.000000Z"
+        "date": "2026-04-15T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776247221
       },
       "updated": {
-        "sec": 1776247247
+        "sec": 1776248774
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260536074"
+      },
+      "id": "20260536074",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776243960
+      },
+      "date": "15-04-2026",
+      "hour": "10:06",
+      "location": "Lisboa, Torres Vedras, S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "dico": "1113",
+      "lat": 39.070336,
+      "lng": -9.238903,
+      "naturezaCode": "3109",
+      "natureza": "Gestão de Combustível",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Casal Da Portela ",
+      "active": true,
+      "sadoId": "20260536074",
+      "sharepointId": 27058092,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210739,
+      "weather": {
+        "stationId": 1210739,
+        "stationLocation": "Torres Vedras, Dois Portos",
+        "stationDistance": 5.9,
+        "temperatura": 14.1,
+        "humidade": 99,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 929,
+        "pressao": null,
+        "date": "2026-04-15T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1776248532
+      },
+      "updated": {
+        "sec": 1776248542
       }
     }
   ]
