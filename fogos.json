@@ -54,16 +54,16 @@
         "stationId": 1210550,
         "stationLocation": "Coruche / Cruz Do Leão",
         "stationDistance": 12.8,
-        "temperatura": 25.4,
-        "humidade": 42,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
+        "temperatura": 21.5,
+        "humidade": 60,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1014.5,
-        "date": "2026-04-18T19:00:00.000000Z"
+        "pressao": 1015,
+        "date": "2026-04-18T20:00:00.000000Z"
       },
       "created": {
         "sec": 1776526092
@@ -98,9 +98,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Covelinhas ",
       "active": true,
@@ -125,93 +125,22 @@
         "stationId": 6213013,
         "stationLocation": "Castro Daire / Mézio (CIM)",
         "stationDistance": 12.2,
-        "temperatura": 19.1,
-        "humidade": 50,
+        "temperatura": 16.1,
+        "humidade": 56,
         "intensidadeVento": 2.4,
         "intensidadeVentoKM": 8.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-04-18T19:00:00.000000Z"
+        "date": "2026-04-18T20:00:00.000000Z"
       },
       "created": {
         "sec": 1776535096
       },
       "updated": {
-        "sec": 1776543974
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260553812"
-      },
-      "id": "20260553812",
-      "coords": true,
-      "dateTime": {
-        "sec": 1776540960
-      },
-      "date": "18-04-2026",
-      "hour": "20:36",
-      "location": "Vila Real, Valpaços, Fornos Do Pinhal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Valpaços",
-      "freguesia": "Fornos Do Pinhal",
-      "dico": "1712",
-      "lat": 41.6583,
-      "lng": -7.264651,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Fornos Do Pinhal ",
-      "active": true,
-      "sadoId": "20260553812",
-      "sharepointId": 27075830,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210632,
-      "weather": {
-        "stationId": 1210632,
-        "stationLocation": "Mirandela",
-        "stationDistance": 17.1,
-        "temperatura": 24.5,
-        "humidade": 41,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 95.3,
-        "pressao": null,
-        "date": "2026-04-18T19:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1776541136
-      },
-      "updated": {
-        "sec": 1776542653
+        "sec": 1776546975
       }
     },
     {
@@ -228,8 +157,8 @@
       "location": "Viseu, Viseu, Faíl E Vila Chã De Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Faíl E Vila Chã De Sá",
@@ -268,7 +197,7 @@
         "sec": 1776541816
       },
       "updated": {
-        "sec": 1776545297
+        "sec": 1776546018
       }
     },
     {
@@ -291,15 +220,15 @@
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Rio Douro",
       "dico": "0304",
-      "lat": 41.5719,
-      "lng": -7.963524,
+      "lat": 41.58471,
+      "lng": -7.964733,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Rio Douro ",
       "active": true,
@@ -323,59 +252,59 @@
       "weather": {
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 4.3,
-        "temperatura": 24.3,
-        "humidade": 39,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "stationDistance": 5.7,
+        "temperatura": 20.1,
+        "humidade": 58,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 163.8,
+        "radiacao": 2.3,
         "pressao": null,
-        "date": "2026-04-18T19:00:00.000000Z"
+        "date": "2026-04-18T20:00:00.000000Z"
       },
       "created": {
         "sec": 1776543975
       },
       "updated": {
-        "sec": 1776544818
+        "sec": 1776546492
       }
     },
     {
       "_id": {
-        "$id": "20260554019"
+        "$id": "20260554075"
       },
-      "id": "20260554019",
+      "id": "20260554075",
       "coords": true,
       "dateTime": {
-        "sec": 1776543900
+        "sec": 1776545280
       },
       "date": "18-04-2026",
-      "hour": "21:25",
-      "location": "Lisboa, Alenquer, Aldeia Galega Da Merceana E Aldeia Gavinha",
+      "hour": "21:48",
+      "location": "Braga, Vizela, Vizela (Santo Adrião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Aldeia Galega Da Merceana E Aldeia Gavinha",
-      "dico": "1101",
-      "lat": 39.095613,
-      "lng": -9.132958,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 2,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vizela",
+      "freguesia": "Vizela (Santo Adrião)",
+      "dico": "0314",
+      "lat": 41.36879,
+      "lng": -8.299473,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Paiol ",
+      "localidade": "Vizela (Santo Adrião) ",
       "active": true,
-      "sadoId": "20260554019",
-      "sharepointId": 27076037,
+      "sadoId": "20260554075",
+      "sharepointId": 27076093,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -388,100 +317,29 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210739,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
       "weather": {
-        "stationId": 1210739,
-        "stationLocation": "Torres Vedras, Dois Portos",
-        "stationDistance": 7,
-        "temperatura": 20.1,
-        "humidade": 72,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 335.6,
-        "pressao": null,
-        "date": "2026-04-18T19:00:00.000000Z"
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 6.9,
+        "temperatura": 17.7,
+        "humidade": 50,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1015.9,
+        "date": "2026-04-18T20:00:00.000000Z"
       },
       "created": {
-        "sec": 1776544336
+        "sec": 1776545413
       },
       "updated": {
-        "sec": 1776544453
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260554037"
-      },
-      "id": "20260554037",
-      "coords": true,
-      "dateTime": {
-        "sec": 1776544500
-      },
-      "date": "18-04-2026",
-      "hour": "21:35",
-      "location": "Setúbal, Sesimbra, Sesimbra (castelo)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Sesimbra",
-      "freguesia": "Sesimbra (castelo)",
-      "dico": "1511",
-      "lat": 38.50302,
-      "lng": -9.148627,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 3,
-      "statusColor": "FF6E02",
-      "status": "Despacho",
-      "important": false,
-      "localidade": "Sesimbra (castelo) ",
-      "active": true,
-      "sadoId": "20260554037",
-      "sharepointId": 27076055,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210773,
-      "weather": {
-        "stationId": 1210773,
-        "stationLocation": "Almada, P.Rainha",
-        "stationDistance": 13.9,
-        "temperatura": 18.6,
-        "humidade": 73,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": 148,
-        "pressao": null,
-        "date": "2026-04-18T19:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1776544818
-      },
-      "updated": {
-        "sec": 1776544850
+        "sec": 1776546854
       }
     }
   ]
