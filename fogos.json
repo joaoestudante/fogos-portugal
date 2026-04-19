@@ -27,9 +27,9 @@
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Casais Da Arriota   ",
       "active": true,
@@ -54,22 +54,22 @@
         "stationId": 1210746,
         "stationLocation": "Santa Cruz (Aeródromo)",
         "stationDistance": 7.3,
-        "temperatura": 10.8,
+        "temperatura": 11,
         "humidade": 99,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 35.6,
-        "pressao": 1016,
-        "date": "2026-04-19T07:00:00.000000Z"
+        "radiacao": 151.9,
+        "pressao": 1016.2,
+        "date": "2026-04-19T08:00:00.000000Z"
       },
       "created": {
         "sec": 1776585502
       },
       "updated": {
-        "sec": 1776587173
+        "sec": 1776590532
       }
     },
     {
@@ -98,9 +98,9 @@
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Caldas Da Rainha ",
       "active": true,
@@ -120,13 +120,226 @@
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Oeste",
-      "nearestWeatherStationId": null,
-      "weather": null,
+      "nearestWeatherStationId": 1210729,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 19.4,
+        "temperatura": 12,
+        "humidade": 92,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": null,
+        "radiacao": 851,
+        "pressao": null,
+        "date": "2026-04-19T08:00:00.000000Z"
+      },
       "created": {
         "sec": 1776587894
       },
       "updated": {
-        "sec": 1776587894
+        "sec": 1776588373
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260555645"
+      },
+      "id": "20260555645",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776588720
+      },
+      "date": "19-04-2026",
+      "hour": "09:52",
+      "location": "Porto, Santo Tirso, Rebordões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Rebordões",
+      "dico": "1314",
+      "lat": 41.34671,
+      "lng": -8.438872,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Rebordões ",
+      "active": true,
+      "sadoId": "20260555645",
+      "sharepointId": 27077663,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6212410,
+      "weather": null,
+      "created": {
+        "sec": 1776589095
+      },
+      "updated": {
+        "sec": 1776589102
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260555689"
+      },
+      "id": "20260555689",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776589320
+      },
+      "date": "19-04-2026",
+      "hour": "10:02",
+      "location": "Vila Real, Chaves, Travancas E Roriz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Travancas E Roriz",
+      "dico": "1703",
+      "lat": 41.82168,
+      "lng": -7.319287,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "União Das Freguesias De Travancas E Roriz ",
+      "active": true,
+      "sadoId": "20260555689",
+      "sharepointId": 27077707,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 16.2,
+        "temperatura": 13,
+        "humidade": 82,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 732.6,
+        "pressao": 1017.5,
+        "date": "2026-04-19T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1776589572
+      },
+      "updated": {
+        "sec": 1776589583
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260555744"
+      },
+      "id": "20260555744",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776589980
+      },
+      "date": "19-04-2026",
+      "hour": "10:13",
+      "location": "Lisboa, Sobral de Monte Agraço, Sobral De Monte Agraço",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sobral De Monte Agraço",
+      "freguesia": "Sobral De Monte Agraço",
+      "dico": "1112",
+      "lat": 39.00805,
+      "lng": -9.180963,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobral De Monte Agraço ",
+      "active": true,
+      "sadoId": "20260555744",
+      "sharepointId": 27077762,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210739,
+      "weather": {
+        "stationId": 1210739,
+        "stationLocation": "Torres Vedras, Dois Portos",
+        "stationDistance": 4,
+        "temperatura": 10.4,
+        "humidade": 99,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": 309.5,
+        "pressao": null,
+        "date": "2026-04-19T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1776590294
+      },
+      "updated": {
+        "sec": 1776590900
       }
     }
   ]
