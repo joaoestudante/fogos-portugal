@@ -98,9 +98,9 @@
       "natureza": "Gestão de Combustível",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Santo Antão ",
       "active": true,
@@ -126,7 +126,7 @@
         "sec": 1776670934
       },
       "updated": {
-        "sec": 1776675014
+        "sec": 1776684034
       }
     },
     {
@@ -182,16 +182,16 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 18.5,
-        "temperatura": 15.4,
-        "humidade": 79,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 18.9,
+        "humidade": 67,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 1425,
-        "pressao": 1013.4,
-        "date": "2026-04-20T09:00:00.000000Z"
+        "radiacao": 1975.5,
+        "pressao": 1013.1,
+        "date": "2026-04-20T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776671417
@@ -253,16 +253,16 @@
         "stationId": 1210739,
         "stationLocation": "Torres Vedras, Dois Portos",
         "stationDistance": 9.1,
-        "temperatura": 15.6,
-        "humidade": 84,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 19.5,
+        "humidade": 62,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 493.8,
+        "radiacao": 1171.9,
         "pressao": null,
-        "date": "2026-04-20T09:00:00.000000Z"
+        "date": "2026-04-20T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776673453
@@ -324,16 +324,16 @@
         "stationId": 6212125,
         "stationLocation": "Barcelos (CIM)",
         "stationDistance": 7.8,
-        "temperatura": 12.9,
-        "humidade": 90,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 16.9,
+        "humidade": 65,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 1280.4,
+        "radiacao": 1268.4,
         "pressao": null,
-        "date": "2026-04-20T09:00:00.000000Z"
+        "date": "2026-04-20T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776675494
@@ -395,16 +395,16 @@
         "stationId": 1210633,
         "stationLocation": "Macedo Cavaleiros, Bagueixe",
         "stationDistance": 15.3,
-        "temperatura": null,
-        "humidade": null,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 4,
-        "direccVento": "SE",
-        "precAcumulada": 0,
+        "temperatura": 20.4,
+        "humidade": 52,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
-        "pressao": null,
-        "date": "2026-04-20T09:00:00.000000Z"
+        "pressao": 1012.3,
+        "date": "2026-04-20T10:00:00.000000Z"
       },
       "created": {
         "sec": 1776675618
@@ -427,7 +427,7 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
+      "man": 21,
       "terrain": 5,
       "district": "Braga",
       "concelho": "Vila Verde",
@@ -439,9 +439,9 @@
       "natureza": "Gestão de Combustível",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -481,78 +481,7 @@
         "sec": 1776675852
       },
       "updated": {
-        "sec": 1776676938
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260559860"
-      },
-      "id": "20260559860",
-      "coords": true,
-      "dateTime": {
-        "sec": 1776674940
-      },
-      "date": "20-04-2026",
-      "hour": "09:49",
-      "location": "Braga, Terras de Bouro, Gondoriz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Terras De Bouro",
-      "freguesia": "Gondoriz",
-      "dico": "0310",
-      "lat": 42.729878,
-      "lng": -8.304638,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Gondoriz ",
-      "active": true,
-      "sadoId": "20260559860",
-      "sharepointId": 27081878,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 1210605,
-      "weather": {
-        "stationId": 1210605,
-        "stationLocation": "Monção, Valinha",
-        "stationDistance": 74,
-        "temperatura": 14.8,
-        "humidade": 75,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 1486.7,
-        "pressao": null,
-        "date": "2026-04-20T09:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1776676216
-      },
-      "updated": {
-        "sec": 1776678137
+        "sec": 1776682695
       }
     },
     {
@@ -638,9 +567,9 @@
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Águas Livres ",
       "active": true,
@@ -666,7 +595,7 @@
         "sec": 1776677775
       },
       "updated": {
-        "sec": 1776679454
+        "sec": 1776683056
       }
     },
     {
@@ -752,23 +681,23 @@
       "date": "20-04-2026",
       "hour": "10:57",
       "location": "Aveiro, Oliveira de Azeméis, Macieira De Sarnes",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
+      "man": 7,
       "terrain": 2,
       "district": "Aveiro",
       "concelho": "Oliveira De Azeméis",
       "freguesia": "Macieira De Sarnes",
       "dico": "0113",
-      "lat": 40.903021,
-      "lng": -8.461675,
+      "lat": 40.904382,
+      "lng": -8.455327,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": " ",
       "active": true,
@@ -788,13 +717,98 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6900,
-      "weather": null,
+      "nearestWeatherStationId": 1210669,
+      "weather": {
+        "stationId": 1210669,
+        "stationLocation": "Arouca",
+        "stationDistance": 17.5,
+        "temperatura": 20.8,
+        "humidade": 55,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 1995.2,
+        "pressao": null,
+        "date": "2026-04-20T10:00:00.000000Z"
+      },
       "created": {
         "sec": 1776679455
       },
       "updated": {
-        "sec": 1776679693
+        "sec": 1776682696
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260560651"
+      },
+      "id": "20260560651",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776682260
+      },
+      "date": "20-04-2026",
+      "hour": "11:51",
+      "location": "Aveiro, Sever do Vouga, Rocas Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Sever Do Vouga",
+      "freguesia": "Rocas Do Vouga",
+      "dico": "0117",
+      "lat": 40.74658,
+      "lng": -8.350699,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Rocas Do Vouga ",
+      "active": true,
+      "sadoId": "20260560651",
+      "sharepointId": 27082669,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 6213016,
+      "weather": {
+        "stationId": 6213016,
+        "stationLocation": "Oliveira de Frades (CIM)",
+        "stationDistance": 13,
+        "temperatura": 22.8,
+        "humidade": 47,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-04-19T16:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1776682454
+      },
+      "updated": {
+        "sec": 1776685097
       }
     }
   ]
