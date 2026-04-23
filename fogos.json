@@ -55,22 +55,94 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 4.6,
-        "temperatura": 9.3,
+        "temperatura": 8.9,
         "humidade": 98,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1013.5,
-        "date": "2026-04-23T03:00:00.000000Z"
+        "intensidadeVento": 0.3,
+        "intensidadeVentoKM": 1.1,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1013.3,
+        "date": "2026-04-23T04:00:00.000000Z"
       },
       "created": {
         "sec": 1776889691
       },
       "updated": {
         "sec": 1776902532
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260574182"
+      },
+      "id": "20260574182",
+      "coords": true,
+      "dateTime": {
+        "sec": 1776923700
+      },
+      "date": "23-04-2026",
+      "hour": "06:55",
+      "location": "Setúbal, Almada, Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "dico": "1503",
+      "lat": 38.67769,
+      "lng": -9.17125,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Almada, Cova Da Piedade, Pragal E Cacilhas ",
+      "active": true,
+      "sadoId": "20260574182",
+      "sharepointId": 27096200,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210762,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210762,
+        "stationLocation": "Lisboa, Tapada da Ajuda",
+        "stationDistance": 3.7,
+        "temperatura": 10.6,
+        "humidade": 100,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-04-23T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1776923893
+      },
+      "updated": {
+        "sec": 1776925094
       }
     }
   ]
