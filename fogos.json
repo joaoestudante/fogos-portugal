@@ -84,17 +84,17 @@
       },
       "date": "24-04-2026",
       "hour": "22:40",
-      "location": "Lisboa, Lourinhã, Reguengo Grande",
+      "location": "Lisboa, Lourinhã, São Bartolomeu Dos Galegos E Moledo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
+      "man": 39,
+      "terrain": 11,
       "district": "Lisboa",
       "concelho": "Lourinhã",
-      "freguesia": "Reguengo Grande",
+      "freguesia": "São Bartolomeu Dos Galegos E Moledo",
       "dico": "1108",
-      "lat": 39.302661,
-      "lng": -9.244872,
+      "lat": 39.30278,
+      "lng": -9.25222,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -126,7 +126,7 @@
       "weather": {
         "stationId": 1200531,
         "stationLocation": "Cabo Carvoeiro",
-        "stationDistance": 16.4,
+        "stationDistance": 15.9,
         "temperatura": 16.3,
         "humidade": 90,
         "intensidadeVento": 4,
@@ -142,7 +142,79 @@
         "sec": 1777067296
       },
       "updated": {
-        "sec": 1777068016
+        "sec": 1777069694
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260583569"
+      },
+      "id": "20260583569",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777068420
+      },
+      "date": "24-04-2026",
+      "hour": "23:07",
+      "location": "Viana Do Castelo, Viana do Castelo, Alvarães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Alvarães",
+      "dico": "1609",
+      "lat": 41.64214,
+      "lng": -8.73922,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rua De Pepim ",
+      "active": true,
+      "sadoId": "20260583569",
+      "sharepointId": 27105588,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1200551,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 5.5,
+        "temperatura": 13.2,
+        "humidade": 100,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1019.9,
+        "date": "2026-04-24T21:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777068621
+      },
+      "updated": {
+        "sec": 1777069454
       }
     }
   ]
