@@ -15,8 +15,8 @@
       "location": "Braga, Guimarães, Briteiros Santo Estêvão E Donim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 61,
-      "terrain": 19,
+      "man": 74,
+      "terrain": 23,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Briteiros Santo Estêvão E Donim",
@@ -55,22 +55,22 @@
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
         "stationDistance": 9.9,
-        "temperatura": 24.4,
-        "humidade": 50,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
+        "temperatura": 23.1,
+        "humidade": 53,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1017.6,
-        "date": "2026-04-26T18:00:00.000000Z"
+        "pressao": 1017.9,
+        "date": "2026-04-26T19:00:00.000000Z"
       },
       "created": {
         "sec": 1777212373
       },
       "updated": {
-        "sec": 1777230975
+        "sec": 1777233616
       }
     },
     {
@@ -127,16 +127,16 @@
         "stationId": 6211216,
         "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
         "stationDistance": 6.8,
-        "temperatura": 23.8,
-        "humidade": 53,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 22.4,
+        "humidade": 57,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1016.2,
-        "date": "2026-04-26T18:00:00.000000Z"
+        "pressao": 1016.4,
+        "date": "2026-04-26T19:00:00.000000Z"
       },
       "created": {
         "sec": 1777226057
@@ -217,8 +217,8 @@
       "location": "Braga, Esposende, Fonte Boa E Rio Tinto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 4,
+      "man": 11,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Esposende",
       "freguesia": "Fonte Boa E Rio Tinto",
@@ -257,22 +257,22 @@
         "stationId": 6212126,
         "stationLocation": "Esposende (CIM)",
         "stationDistance": 5.5,
-        "temperatura": 17.3,
+        "temperatura": 16.8,
         "humidade": 98,
-        "intensidadeVento": 5.9,
-        "intensidadeVentoKM": 21.2,
+        "intensidadeVento": 4.7,
+        "intensidadeVentoKM": 16.9,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.2,
-        "date": "2026-04-26T18:00:00.000000Z"
+        "pressao": 1018.1,
+        "date": "2026-04-26T19:00:00.000000Z"
       },
       "created": {
         "sec": 1777226896
       },
       "updated": {
-        "sec": 1777230735
+        "sec": 1777232774
       }
     },
     {
@@ -403,6 +403,150 @@
       },
       "updated": {
         "sec": 1777231695
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260592217"
+      },
+      "id": "20260592217",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777231620
+      },
+      "date": "26-04-2026",
+      "hour": "20:27",
+      "location": "Braga, Guimarães, Creixomil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Creixomil",
+      "dico": "0308",
+      "lat": 41.44197,
+      "lng": -8.305476,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Creixomil ",
+      "active": true,
+      "sadoId": "20260592217",
+      "sharepointId": 27114236,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 1.8,
+        "temperatura": 25.4,
+        "humidade": 47,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 933.7,
+        "pressao": 1015.7,
+        "date": "2026-04-26T18:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777232052
+      },
+      "updated": {
+        "sec": 1777232893
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260592310"
+      },
+      "id": "20260592310",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777233180
+      },
+      "date": "26-04-2026",
+      "hour": "20:53",
+      "location": "Aveiro, Aveiro, Glória E Vera Cruz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Glória E Vera Cruz",
+      "dico": "0105",
+      "lat": 40.63972,
+      "lng": -8.64088,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Glória E Vera Cruz ",
+      "active": true,
+      "sadoId": "20260592310",
+      "sharepointId": 27114329,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 1.7,
+        "temperatura": 18.6,
+        "humidade": 80,
+        "intensidadeVento": 4.2,
+        "intensidadeVentoKM": 15.1,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 434.2,
+        "pressao": 1016.8,
+        "date": "2026-04-26T19:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777233735
+      },
+      "updated": {
+        "sec": 1777233755
       }
     }
   ]
