@@ -15,8 +15,8 @@
       "location": "Braga, Guimarães, Briteiros Santo Estêvão E Donim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 108,
-      "terrain": 34,
+      "man": 106,
+      "terrain": 33,
       "district": "Braga",
       "concelho": "Guimarães",
       "freguesia": "Briteiros Santo Estêvão E Donim",
@@ -55,22 +55,22 @@
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
         "stationDistance": 9.9,
-        "temperatura": 21.4,
-        "humidade": 57,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 20.5,
+        "humidade": 62,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.1,
-        "date": "2026-04-26T20:00:00.000000Z"
+        "pressao": 1018.4,
+        "date": "2026-04-26T21:00:00.000000Z"
       },
       "created": {
         "sec": 1777212373
       },
       "updated": {
-        "sec": 1777239375
+        "sec": 1777240574
       }
     },
     {
@@ -99,9 +99,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Janas ",
       "active": true,
@@ -128,7 +128,79 @@
         "sec": 1777237337
       },
       "updated": {
-        "sec": 1777239491
+        "sec": 1777240933
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260592637"
+      },
+      "id": "20260592637",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777239000
+      },
+      "date": "26-04-2026",
+      "hour": "22:30",
+      "location": "Setúbal, Sesimbra, Sesimbra (castelo)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Sesimbra",
+      "freguesia": "Sesimbra (castelo)",
+      "dico": "1511",
+      "lat": 38.447133,
+      "lng": -9.155525,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Azioa  ",
+      "active": true,
+      "sadoId": "20260592637",
+      "sharepointId": 27114656,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210773,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210773,
+        "stationLocation": "Almada, P.Rainha",
+        "stationDistance": 19.5,
+        "temperatura": 21.9,
+        "humidade": 56,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-04-26T21:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777239733
+      },
+      "updated": {
+        "sec": 1777240695
       }
     }
   ]
