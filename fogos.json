@@ -55,16 +55,16 @@
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
         "stationDistance": 9.9,
-        "temperatura": 20.5,
-        "humidade": 62,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 19.8,
+        "humidade": 66,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.4,
-        "date": "2026-04-26T21:00:00.000000Z"
+        "pressao": 1018.6,
+        "date": "2026-04-26T22:00:00.000000Z"
       },
       "created": {
         "sec": 1777212373
@@ -75,38 +75,38 @@
     },
     {
       "_id": {
-        "$id": "20260592536"
+        "$id": "20260592742"
       },
-      "id": "20260592536",
+      "id": "20260592742",
       "coords": true,
       "dateTime": {
-        "sec": 1777236780
+        "sec": 1777241940
       },
       "date": "26-04-2026",
-      "hour": "21:53",
-      "location": "Lisboa, Sintra, Colares",
+      "hour": "23:19",
+      "location": "Viana Do Castelo, Viana do Castelo, Alvarães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "Colares",
-      "dico": "1111",
-      "lat": 38.824992,
-      "lng": -9.445808,
+      "man": 9,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Alvarães",
+      "dico": "1609",
+      "lat": 41.63703,
+      "lng": -8.73453,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Janas ",
+      "localidade": "Rua Do Rego 613 ",
       "active": true,
-      "sadoId": "20260592536",
-      "sharepointId": 27114555,
+      "sadoId": "20260592742",
+      "sharepointId": 27114761,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -119,40 +119,54 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1210747,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1200551,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 6,
+        "temperatura": 13.8,
+        "humidade": 100,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.2,
+        "date": "2026-04-26T22:00:00.000000Z"
+      },
       "created": {
-        "sec": 1777237337
+        "sec": 1777242136
       },
       "updated": {
-        "sec": 1777240933
+        "sec": 1777242976
       }
     },
     {
       "_id": {
-        "$id": "20260592637"
+        "$id": "20260592775"
       },
-      "id": "20260592637",
+      "id": "20260592775",
       "coords": true,
       "dateTime": {
-        "sec": 1777239000
+        "sec": 1777242660
       },
       "date": "26-04-2026",
-      "hour": "22:30",
-      "location": "Setúbal, Sesimbra, Sesimbra (castelo)",
+      "hour": "23:31",
+      "location": "Faro, Loulé, Quarteira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Sesimbra",
-      "freguesia": "Sesimbra (castelo)",
-      "dico": "1511",
-      "lat": 38.447133,
-      "lng": -9.155525,
+      "man": 7,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Loulé",
+      "freguesia": "Quarteira",
+      "dico": "0808",
+      "lat": 37.074657,
+      "lng": -8.08246,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -161,10 +175,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Azioa  ",
+      "localidade": "Fonte Santa ",
       "active": true,
-      "sadoId": "20260592637",
-      "sharepointId": 27114656,
+      "sadoId": "20260592775",
+      "sharepointId": 27114794,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -177,30 +191,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210773,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 6210872,
       "isFire": true,
       "weather": {
-        "stationId": 1210773,
-        "stationLocation": "Almada, P.Rainha",
-        "stationDistance": 19.5,
-        "temperatura": 21.9,
-        "humidade": 56,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "stationId": 6210872,
+        "stationLocation": "Loulé (CML)",
+        "stationDistance": 6.3,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-04-26T21:00:00.000000Z"
+        "radiacao": null,
+        "pressao": 1015.1,
+        "date": "2026-04-26T22:00:00.000000Z"
       },
       "created": {
-        "sec": 1777239733
+        "sec": 1777243094
       },
       "updated": {
-        "sec": 1777240695
+        "sec": 1777244535
       }
     }
   ]
