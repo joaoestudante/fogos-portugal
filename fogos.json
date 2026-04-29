@@ -97,15 +97,15 @@
       "concelho": "Braga",
       "freguesia": "Ferreiros E Gondizalves",
       "dico": "0303",
-      "lat": 41.52953,
-      "lng": -8.44026,
+      "lat": 41.530388,
+      "lng": -8.441977,
       "naturezaCode": "3111",
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Ferreiros E Gondizalves ",
       "active": true,
@@ -130,23 +130,95 @@
       "weather": {
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
-        "stationDistance": 1.4,
-        "temperatura": 15,
+        "stationDistance": 1.5,
+        "temperatura": 14.5,
         "humidade": 88,
-        "intensidadeVento": 3.1,
-        "intensidadeVentoKM": 11.2,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1010.6,
-        "date": "2026-04-29T19:00:00.000000Z"
+        "pressao": 1011.5,
+        "date": "2026-04-29T20:00:00.000000Z"
       },
       "created": {
         "sec": 1777494254
       },
       "updated": {
-        "sec": 1777494734
+        "sec": 1777497135
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260607611"
+      },
+      "id": "20260607611",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777495500
+      },
+      "date": "29-04-2026",
+      "hour": "21:45",
+      "location": "Aveiro, Vagos, Ouca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Vagos",
+      "freguesia": "Ouca",
+      "dico": "0118",
+      "lat": 40.492573,
+      "lng": -8.650752,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Ouca ",
+      "active": true,
+      "sadoId": "20260607611",
+      "sharepointId": 27129630,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210704,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210704,
+        "stationLocation": "Dunas de Mira",
+        "stationDistance": 10.7,
+        "temperatura": 15.4,
+        "humidade": 86,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 13.6,
+        "pressao": null,
+        "date": "2026-04-29T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777496177
+      },
+      "updated": {
+        "sec": 1777497374
       }
     }
   ]
