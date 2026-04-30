@@ -15,8 +15,8 @@
       "location": "Viana Do Castelo, Viana do Castelo, Afife",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
+      "man": 5,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Viana Do Castelo",
       "freguesia": "Afife",
@@ -60,43 +60,43 @@
         "sec": 1777322775
       },
       "updated": {
-        "sec": 1777563731
+        "sec": 1777568055
       }
     },
     {
       "_id": {
-        "$id": "20260611060"
+        "$id": "20260611566"
       },
-      "id": "20260611060",
+      "id": "20260611566",
       "coords": true,
       "dateTime": {
-        "sec": 1777563480
+        "sec": 1777570740
       },
       "date": "30-04-2026",
-      "hour": "16:38",
-      "location": "Castelo Branco, Castelo Branco, Lardosa",
+      "hour": "18:39",
+      "location": "Bragança, Macedo de Cavaleiros, Amendoeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Lardosa",
-      "dico": "0502",
-      "lat": 39.98914,
-      "lng": -7.45416,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
+      "man": 3,
+      "terrain": 1,
+      "district": "Bragança",
+      "concelho": "Macedo De Cavaleiros",
+      "freguesia": "Amendoeira",
+      "dico": "0405",
+      "lat": 41.56681957027951,
+      "lng": -6.987214820388838,
+      "naturezaCode": "4335",
+      "natureza": "Prevenção a Queimadas",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Lardosa ",
+      "localidade": "Amendoeira ",
       "active": true,
-      "sadoId": "20260611060",
-      "sharepointId": 27133079,
+      "sadoId": "20260611566",
+      "sharepointId": 27133585,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -109,30 +109,102 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "nearestWeatherStationId": 1200570,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210633,
       "isFire": true,
       "weather": {
-        "stationId": 1200570,
-        "stationLocation": "Castelo Branco",
-        "stationDistance": 17.4,
-        "temperatura": 17.7,
-        "humidade": 57,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "stationId": 1210633,
+        "stationLocation": "Macedo Cavaleiros, Bagueixe",
+        "stationDistance": 17,
+        "temperatura": 16.9,
+        "humidade": 59,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 1295.5,
-        "pressao": 1016.7,
-        "date": "2026-04-30T15:00:00.000000Z"
+        "radiacao": null,
+        "pressao": 1015.9,
+        "date": "2026-04-30T16:00:00.000000Z"
       },
       "created": {
-        "sec": 1777563732
+        "sec": 1777570817
       },
       "updated": {
-        "sec": 1777565901
+        "sec": 1777570842
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260611571"
+      },
+      "id": "20260611571",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777570860
+      },
+      "date": "30-04-2026",
+      "hour": "18:41",
+      "location": "Braga, Braga, Nogueiró E Tenões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Nogueiró E Tenões",
+      "dico": "0303",
+      "lat": 41.55473,
+      "lng": -8.37699,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Nogueiró E Tenões ",
+      "active": true,
+      "sadoId": "20260611571",
+      "sharepointId": 27133590,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212124,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212124,
+        "stationLocation": "Braga (CIM)",
+        "stationDistance": 4.5,
+        "temperatura": 17.1,
+        "humidade": 72,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1019.4,
+        "date": "2026-04-30T16:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777571174
+      },
+      "updated": {
+        "sec": 1777571774
       }
     }
   ]
