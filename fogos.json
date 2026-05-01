@@ -55,156 +55,26 @@
       "sub_regiao": "Alto Minho",
       "nearestWeatherStationId": 6211217,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 6211217,
+        "stationLocation": "Viana Do Castelo - Fonte Louçã (CIM)",
+        "stationDistance": 6,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1018.3,
+        "date": "2026-05-01T00:00:00.000000Z"
+      },
       "created": {
         "sec": 1777322775
       },
       "updated": {
         "sec": 1777579936
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260612484"
-      },
-      "id": "20260612484",
-      "coords": true,
-      "dateTime": {
-        "sec": 1777585980
-      },
-      "date": "30-04-2026",
-      "hour": "22:53",
-      "location": "Lisboa, Alenquer, Ribafria E Pereiro De Palhacana",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Ribafria E Pereiro De Palhacana",
-      "dico": "1101",
-      "lat": 39.070679,
-      "lng": -9.099098,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Sobreiros ",
-      "active": true,
-      "sadoId": "20260612484",
-      "sharepointId": 27134503,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210739,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210739,
-        "stationLocation": "Torres Vedras, Dois Portos",
-        "stationDistance": 7.5,
-        "temperatura": 12.5,
-        "humidade": 93,
-        "intensidadeVento": 0.2,
-        "intensidadeVentoKM": 0.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-04-30T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1777586534
-      },
-      "updated": {
-        "sec": 1777586658
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260612640"
-      },
-      "id": "20260612640",
-      "coords": true,
-      "dateTime": {
-        "sec": 1777590060
-      },
-      "date": "01-05-2026",
-      "hour": "00:01",
-      "location": "Braga, Braga, Espinho",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Braga",
-      "freguesia": "Espinho",
-      "dico": "0303",
-      "lat": 41.53783,
-      "lng": -8.36362,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Espinho ",
-      "active": true,
-      "sadoId": "20260612640",
-      "sharepointId": 27134659,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 6212124,
-      "isFire": true,
-      "weather": {
-        "stationId": 6212124,
-        "stationLocation": "Braga (CIM)",
-        "stationDistance": 5.1,
-        "temperatura": 13.7,
-        "humidade": 84,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1021.3,
-        "date": "2026-04-30T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1777590735
-      },
-      "updated": {
-        "sec": 1777591942
       }
     }
   ]
