@@ -55,16 +55,16 @@
         "stationId": 6213022,
         "stationLocation": "Vila Nova de Paiva (CIM)",
         "stationDistance": 7.1,
-        "temperatura": 7.6,
+        "temperatura": 10.5,
         "humidade": null,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-05-04T08:00:00.000000Z"
+        "date": "2026-05-04T10:00:00.000000Z"
       },
       "created": {
         "sec": 1777878741
@@ -127,16 +127,16 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 18.5,
-        "temperatura": 13.6,
-        "humidade": 85,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 15.8,
+        "humidade": 70,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 712.8,
-        "pressao": 1016.9,
-        "date": "2026-05-04T08:00:00.000000Z"
+        "radiacao": 921.3,
+        "pressao": 1017.5,
+        "date": "2026-05-04T10:00:00.000000Z"
       },
       "created": {
         "sec": 1777880423
@@ -201,20 +201,164 @@
         "stationDistance": 13.7,
         "temperatura": null,
         "humidade": null,
-        "intensidadeVento": 7.4,
-        "intensidadeVentoKM": 26.6,
+        "intensidadeVento": 4.7,
+        "intensidadeVentoKM": 16.9,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1016.9,
-        "date": "2026-05-04T08:00:00.000000Z"
+        "pressao": 1017.7,
+        "date": "2026-05-04T10:00:00.000000Z"
       },
       "created": {
         "sec": 1777884975
       },
       "updated": {
         "sec": 1777885007
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260626554"
+      },
+      "id": "20260626554",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777889100
+      },
+      "date": "04-05-2026",
+      "hour": "11:05",
+      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Montijo E Afonsoeiro",
+      "dico": "1507",
+      "lat": 38.702323,
+      "lng": -8.975715,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Montijo ",
+      "active": true,
+      "sadoId": "20260626554",
+      "sharepointId": 27148574,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 7,
+        "temperatura": 17.9,
+        "humidade": 62,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 2190.8,
+        "pressao": null,
+        "date": "2026-05-04T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777889772
+      },
+      "updated": {
+        "sec": 1777890617
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260626866"
+      },
+      "id": "20260626866",
+      "coords": true,
+      "dateTime": {
+        "sec": 1777893000
+      },
+      "date": "04-05-2026",
+      "hour": "12:10",
+      "location": "Santarém, Golegã, Golegã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Santarém",
+      "concelho": "Golegã",
+      "freguesia": "Golegã",
+      "dico": "1412",
+      "lat": 39.41557,
+      "lng": -8.49016,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Golegã ",
+      "active": true,
+      "sadoId": "20260626866",
+      "sharepointId": 27148886,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210735,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210735,
+        "stationLocation": "Chamusca / Chouto",
+        "stationDistance": 20.1,
+        "temperatura": 14.8,
+        "humidade": 78,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0.3,
+        "radiacao": null,
+        "pressao": 1017.2,
+        "date": "2026-05-04T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1777893255
+      },
+      "updated": {
+        "sec": 1777893495
       }
     }
   ]
