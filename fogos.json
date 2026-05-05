@@ -55,16 +55,16 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 11.8,
-        "temperatura": 14.5,
-        "humidade": 70,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 13,
+        "humidade": 78,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 196.2,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-05T19:00:00.000000Z"
+        "date": "2026-05-05T21:00:00.000000Z"
       },
       "created": {
         "sec": 1776261974
@@ -131,16 +131,16 @@
         "stationId": 6213613,
         "stationLocation": "Coimbra / Mata de São Pedro (CIM)",
         "stationDistance": 5,
-        "temperatura": 13.4,
-        "humidade": 70,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 10.6,
+        "humidade": 88,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-05-05T19:00:00.000000Z"
+        "date": "2026-05-05T21:00:00.000000Z"
       },
       "created": {
         "sec": 1776948614
@@ -163,8 +163,8 @@
       "location": "Santarém, Salvaterra de Magos, Foros De Salvaterra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 6,
+      "man": 13,
+      "terrain": 4,
       "district": "Santarém",
       "concelho": "Salvaterra De Magos",
       "freguesia": "Foros De Salvaterra",
@@ -203,22 +203,22 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 20.6,
-        "temperatura": 16.7,
-        "humidade": 59,
-        "intensidadeVento": 4,
-        "intensidadeVentoKM": 14.4,
+        "temperatura": 13.6,
+        "humidade": 74,
+        "intensidadeVento": 4.2,
+        "intensidadeVentoKM": 15.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 683.3,
-        "pressao": 1016.6,
-        "date": "2026-05-05T19:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": 1017.4,
+        "date": "2026-05-05T21:00:00.000000Z"
       },
       "created": {
         "sec": 1778003293
       },
       "updated": {
-        "sec": 1778014335
+        "sec": 1778018293
       }
     },
     {
@@ -247,9 +247,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pomar Da Guarda ",
       "active": true,
@@ -275,22 +275,22 @@
         "stationId": 1210846,
         "stationLocation": "Montemor-O-Novo",
         "stationDistance": 15.5,
-        "temperatura": 17.3,
-        "humidade": 55,
-        "intensidadeVento": 4.3,
-        "intensidadeVentoKM": 15.5,
+        "temperatura": 13.8,
+        "humidade": 68,
+        "intensidadeVento": 2.8,
+        "intensidadeVentoKM": 10.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1016.2,
-        "date": "2026-05-05T19:00:00.000000Z"
+        "pressao": 1017.6,
+        "date": "2026-05-05T21:00:00.000000Z"
       },
       "created": {
         "sec": 1778009173
       },
       "updated": {
-        "sec": 1778012300
+        "sec": 1778016254
       }
     },
     {
@@ -307,8 +307,8 @@
       "location": "Leiria, Pombal, Redinha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Leiria",
       "concelho": "Pombal",
       "freguesia": "Redinha",
@@ -319,9 +319,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Redinha ",
       "active": true,
@@ -348,7 +348,79 @@
         "sec": 1778013501
       },
       "updated": {
-        "sec": 1778014454
+        "sec": 1778017942
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260634058"
+      },
+      "id": "20260634058",
+      "coords": true,
+      "dateTime": {
+        "sec": 1778014620
+      },
+      "date": "05-05-2026",
+      "hour": "21:57",
+      "location": "Aveiro, Estarreja, Canelas E Fermelã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Canelas E Fermelã",
+      "dico": "0108",
+      "lat": 40.706203,
+      "lng": -8.55111,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Fermelã ",
+      "active": true,
+      "sadoId": "20260634058",
+      "sharepointId": 27156078,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 12.1,
+        "temperatura": 15.4,
+        "humidade": 75,
+        "intensidadeVento": 6,
+        "intensidadeVentoKM": 21.6,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.9,
+        "date": "2026-05-05T21:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1778015057
+      },
+      "updated": {
+        "sec": 1778016853
       }
     }
   ]
