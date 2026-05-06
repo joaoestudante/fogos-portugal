@@ -55,16 +55,16 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 11.8,
-        "temperatura": 13.8,
-        "humidade": 71,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
+        "temperatura": 10.9,
+        "humidade": 89,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 16.9,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-06T20:00:00.000000Z"
+        "date": "2026-05-06T21:00:00.000000Z"
       },
       "created": {
         "sec": 1776261974
@@ -87,8 +87,8 @@
       "location": "Beja, Aljustrel, Aljustrel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Aljustrel",
       "freguesia": "Aljustrel",
@@ -127,22 +127,94 @@
         "stationId": 1200562,
         "stationLocation": "Beja",
         "stationDistance": 25.2,
-        "temperatura": 17.1,
-        "humidade": 54,
-        "intensidadeVento": 5.2,
-        "intensidadeVentoKM": 18.7,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 15.7,
+        "humidade": 59,
+        "intensidadeVento": 4.1,
+        "intensidadeVentoKM": 14.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 24.8,
-        "pressao": 1009.9,
-        "date": "2026-05-06T20:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": 1010.5,
+        "date": "2026-05-06T21:00:00.000000Z"
       },
       "created": {
         "sec": 1778085976
       },
       "updated": {
-        "sec": 1778103256
+        "sec": 1778106134
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260638988"
+      },
+      "id": "20260638988",
+      "coords": true,
+      "dateTime": {
+        "sec": 1778105400
+      },
+      "date": "06-05-2026",
+      "hour": "23:10",
+      "location": "Castelo Branco, Covilhã, Cantar-galo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Cantar-galo",
+      "dico": "0503",
+      "lat": 40.299256,
+      "lng": -7.516434,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": " Cantar Galo ",
+      "active": true,
+      "sadoId": "20260638988",
+      "sharepointId": 27161008,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210687,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210687,
+        "stationLocation": "Covilhã (Aeródromo)",
+        "stationDistance": 4.8,
+        "temperatura": 13.5,
+        "humidade": 58,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-05-06T21:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1778106018
+      },
+      "updated": {
+        "sec": 1778106494
       }
     }
   ]
