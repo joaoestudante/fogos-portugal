@@ -55,16 +55,16 @@
         "stationId": 1200554,
         "stationLocation": "Faro (Aeródromo)",
         "stationDistance": 7.2,
-        "temperatura": 18.4,
+        "temperatura": 17.6,
         "humidade": null,
-        "intensidadeVento": 4,
-        "intensidadeVentoKM": 14.4,
+        "intensidadeVento": 5,
+        "intensidadeVentoKM": 18,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 1060,
-        "pressao": 1011,
-        "date": "2026-05-09T18:00:00.000000Z"
+        "radiacao": 241.1,
+        "pressao": 1011.4,
+        "date": "2026-05-09T19:00:00.000000Z"
       },
       "created": {
         "sec": 1778339295
@@ -129,6 +129,78 @@
       },
       "updated": {
         "sec": 1778353356
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260652536"
+      },
+      "id": "20260652536",
+      "coords": true,
+      "dateTime": {
+        "sec": 1778356560
+      },
+      "date": "09-05-2026",
+      "hour": "20:56",
+      "location": "Leiria, Alcobaça, Alfeizerão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Alcobaça",
+      "freguesia": "Alfeizerão",
+      "dico": "1001",
+      "lat": 39.46485,
+      "lng": -9.09476,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 3,
+      "statusColor": "FF6E02",
+      "status": "Despacho",
+      "important": false,
+      "localidade": "Alfeizerão ",
+      "active": true,
+      "sadoId": "20260652536",
+      "sharepointId": 27174556,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210726,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210726,
+        "stationLocation": "Alcobaça",
+        "stationDistance": 12.4,
+        "temperatura": 16.9,
+        "humidade": 67,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 424.5,
+        "pressao": null,
+        "date": "2026-05-09T19:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1778356933
+      },
+      "updated": {
+        "sec": 1778356951
       }
     }
   ]
