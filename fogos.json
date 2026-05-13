@@ -55,22 +55,94 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 16.1,
-        "temperatura": 10.6,
+        "temperatura": 14.6,
         "humidade": 98,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 30.3,
-        "pressao": 1020.1,
-        "date": "2026-05-13T06:00:00.000000Z"
+        "radiacao": 1217.1,
+        "pressao": 1020.9,
+        "date": "2026-05-13T09:00:00.000000Z"
       },
       "created": {
         "sec": 1778656936
       },
       "updated": {
         "sec": 1778656944
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260668067"
+      },
+      "id": "20260668067",
+      "coords": true,
+      "dateTime": {
+        "sec": 1778664720
+      },
+      "date": "13-05-2026",
+      "hour": "10:32",
+      "location": "Coimbra, Cantanhede, Sanguinheira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Cantanhede",
+      "freguesia": "Sanguinheira",
+      "dico": "0602",
+      "lat": 40.321447,
+      "lng": -8.731988,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Carreiros ",
+      "active": true,
+      "sadoId": "20260668067",
+      "sharepointId": 27190087,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213612,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213612,
+        "stationLocation": "Cantanhede / Fonte Dom Pedro (CIM)",
+        "stationDistance": 13.3,
+        "temperatura": 13.6,
+        "humidade": 96,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-05-13T09:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1778665103
+      },
+      "updated": {
+        "sec": 1778666654
       }
     }
   ]
