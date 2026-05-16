@@ -15,8 +15,8 @@
       "location": "Leiria, Alcobaça, Pataias E Martingança",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 92,
-      "terrain": 26,
+      "man": 38,
+      "terrain": 13,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Pataias E Martingança",
@@ -70,7 +70,7 @@
         "sec": 1778944834
       },
       "updated": {
-        "sec": 1778969053
+        "sec": 1778973853
       }
     },
     {
@@ -127,22 +127,94 @@
         "stationId": 1210666,
         "stationLocation": "Trancoso, Bandarra",
         "stationDistance": 8.6,
-        "temperatura": 11.3,
-        "humidade": 76,
-        "intensidadeVento": 3.9,
-        "intensidadeVentoKM": 14,
+        "temperatura": 9.6,
+        "humidade": 86,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-16T21:00:00.000000Z"
+        "date": "2026-05-16T22:00:00.000000Z"
       },
       "created": {
         "sec": 1778956698
       },
       "updated": {
         "sec": 1778966774
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260685990"
+      },
+      "id": "20260685990",
+      "coords": true,
+      "dateTime": {
+        "sec": 1778973180
+      },
+      "date": "17-05-2026",
+      "hour": "00:13",
+      "location": "Lisboa, Sintra, Rio De Mouro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Rio De Mouro",
+      "dico": "1111",
+      "lat": 38.75763,
+      "lng": -9.344491,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Albarraque ",
+      "active": true,
+      "sadoId": "20260685990",
+      "sharepointId": 27208010,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210752,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210752,
+        "stationLocation": "Sintra/Tapada do Mouco",
+        "stationDistance": 5.5,
+        "temperatura": 9.7,
+        "humidade": 87,
+        "intensidadeVento": 5.3,
+        "intensidadeVentoKM": 19.1,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-05-16T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1778973612
+      },
+      "updated": {
+        "sec": 1778973634
       }
     }
   ]
