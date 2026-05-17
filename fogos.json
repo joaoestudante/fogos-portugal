@@ -127,16 +127,16 @@
         "stationId": 1210766,
         "stationLocation": "Barreiro, Lavradio",
         "stationDistance": 12.2,
-        "temperatura": 16.4,
-        "humidade": 73,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
+        "temperatura": 18,
+        "humidade": 67,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 755.6,
+        "radiacao": 1720.9,
         "pressao": null,
-        "date": "2026-05-17T08:00:00.000000Z"
+        "date": "2026-05-17T09:00:00.000000Z"
       },
       "created": {
         "sec": 1779005533
@@ -159,8 +159,8 @@
       "location": "Setúbal, Santiago do Cacém, Santo André",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 6,
+      "man": 11,
+      "terrain": 5,
       "district": "Setúbal",
       "concelho": "Santiago Do Cacém",
       "freguesia": "Santo André",
@@ -171,9 +171,9 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Santo André ",
       "active": true,
@@ -199,22 +199,94 @@
         "stationId": 1200541,
         "stationLocation": "Sines",
         "stationDistance": 12.8,
-        "temperatura": 15.3,
-        "humidade": 82,
-        "intensidadeVento": 6,
-        "intensidadeVentoKM": 21.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 15.7,
+        "humidade": 80,
+        "intensidadeVento": 5.4,
+        "intensidadeVentoKM": 19.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 1163.4,
-        "pressao": 1018,
-        "date": "2026-05-17T08:00:00.000000Z"
+        "radiacao": 1156.9,
+        "pressao": 1018.5,
+        "date": "2026-05-17T09:00:00.000000Z"
       },
       "created": {
         "sec": 1779005897
       },
       "updated": {
-        "sec": 1779008056
+        "sec": 1779013454
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260687137"
+      },
+      "id": "20260687137",
+      "coords": true,
+      "dateTime": {
+        "sec": 1779005640
+      },
+      "date": "17-05-2026",
+      "hour": "09:14",
+      "location": "Viseu, Tabuaço, Chavães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 4,
+      "district": "Viseu",
+      "concelho": "Tabuaço",
+      "freguesia": "Chavães",
+      "dico": "1819",
+      "lat": 41.077982,
+      "lng": -7.546695,
+      "naturezaCode": "3109",
+      "natureza": "Gestão de Combustível",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Chavães ",
+      "active": true,
+      "sadoId": "20260687137",
+      "sharepointId": 27209157,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210655,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210655,
+        "stationLocation": "Pinhão, Santa Bárbara",
+        "stationDistance": 10.5,
+        "temperatura": 14.9,
+        "humidade": 67,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-05-17T09:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1779013334
+      },
+      "updated": {
+        "sec": 1779014292
       }
     }
   ]
