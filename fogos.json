@@ -15,8 +15,8 @@
       "location": "Beja, Ourique, Panoias E Conceição",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 5,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Ourique",
       "freguesia": "Panoias E Conceição",
@@ -55,22 +55,22 @@
         "stationId": 1210783,
         "stationLocation": "Alvalade",
         "stationDistance": 23.5,
-        "temperatura": 33.8,
-        "humidade": 21,
-        "intensidadeVento": 4.2,
-        "intensidadeVentoKM": 15.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 32.7,
+        "humidade": 28,
+        "intensidadeVento": 4.9,
+        "intensidadeVentoKM": 17.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 2900,
+        "radiacao": 2360.1,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779618854
       },
       "updated": {
-        "sec": 1779636132
+        "sec": 1779640578
       }
     },
     {
@@ -127,16 +127,16 @@
         "stationId": 1210788,
         "stationLocation": "Zambujeira",
         "stationDistance": 18.8,
-        "temperatura": 26.4,
+        "temperatura": 26.7,
         "humidade": 49,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 3413.7,
+        "radiacao": 3127.2,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779621012
@@ -159,16 +159,16 @@
       "location": "Santarém, Abrantes, São Facundo E Vale Das Mós",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 51,
-      "terrain": 14,
+      "man": 22,
+      "terrain": 7,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "São Facundo E Vale Das Mós",
       "dico": "1401",
       "lat": 39.45579,
       "lng": -8.126345,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
@@ -199,94 +199,22 @@
         "stationId": 1210812,
         "stationLocation": "Alvega",
         "stationDistance": 6.7,
-        "temperatura": 35,
-        "humidade": 23,
-        "intensidadeVento": 3.4,
-        "intensidadeVentoKM": 12.2,
+        "temperatura": 34.2,
+        "humidade": 22,
+        "intensidadeVento": 2.8,
+        "intensidadeVentoKM": 10.1,
         "idDireccVento": 5,
         "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779621492
       },
       "updated": {
-        "sec": 1779634093
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260723329"
-      },
-      "id": "20260723329",
-      "coords": true,
-      "dateTime": {
-        "sec": 1779621240
-      },
-      "date": "24-05-2026",
-      "hour": "12:14",
-      "location": "Porto, Amarante, Louredo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Louredo",
-      "dico": "1301",
-      "lat": 41.247453,
-      "lng": -8.12639,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Louredo ",
-      "active": true,
-      "sadoId": "20260723329",
-      "sharepointId": 27245350,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 15.3,
-        "temperatura": 25.5,
-        "humidade": 60,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 3069.9,
-        "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1779621855
-      },
-      "updated": {
-        "sec": 1779635294
+        "sec": 1779639735
       }
     },
     {
@@ -343,16 +271,16 @@
         "stationId": 1210657,
         "stationLocation": "Luzim",
         "stationDistance": 3.5,
-        "temperatura": 25.5,
-        "humidade": 60,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 26.2,
+        "humidade": 53,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 3069.9,
+        "radiacao": 2683.9,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779625574
@@ -415,94 +343,22 @@
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
         "stationDistance": 17.3,
-        "temperatura": 31.1,
-        "humidade": 35,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 30.9,
+        "humidade": 36,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 2435.4,
+        "radiacao": 1812.8,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779629415
       },
       "updated": {
         "sec": 1779634938
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260723877"
-      },
-      "id": "20260723877",
-      "coords": true,
-      "dateTime": {
-        "sec": 1779629100
-      },
-      "date": "24-05-2026",
-      "hour": "14:25",
-      "location": "Faro, Tavira, Luz De Tavira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
-      "district": "Faro",
-      "concelho": "Tavira",
-      "freguesia": "Luz De Tavira",
-      "dico": "0814",
-      "lat": 37.088727,
-      "lng": -7.718319,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Luz De Tavira ",
-      "active": true,
-      "sadoId": "20260723877",
-      "sharepointId": 27245898,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "nearestWeatherStationId": 1210883,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210883,
-        "stationLocation": "Tavira",
-        "stationDistance": 9.4,
-        "temperatura": 26.5,
-        "humidade": 41,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 4,
-        "direccVento": "SE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1021.4,
-        "date": "2026-05-24T14:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1779629415
-      },
-      "updated": {
-        "sec": 1779634342
       }
     },
     {
@@ -519,8 +375,8 @@
       "location": "Évora, Mora, Mora",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
+      "man": 4,
+      "terrain": 2,
       "district": "Évora",
       "concelho": "Mora",
       "freguesia": "Mora",
@@ -559,22 +415,22 @@
         "stationId": 1210826,
         "stationLocation": "Mora",
         "stationDistance": 1.9,
-        "temperatura": 32.5,
-        "humidade": 24,
-        "intensidadeVento": 4,
-        "intensidadeVentoKM": 14.4,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 31.4,
+        "humidade": 26,
+        "intensidadeVento": 3.1,
+        "intensidadeVentoKM": 11.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 3663.7,
+        "radiacao": 2328.5,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779629415
       },
       "updated": {
-        "sec": 1779636013
+        "sec": 1779640818
       }
     },
     {
@@ -649,8 +505,8 @@
       "location": "Faro, Silves, Pêra",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 5,
+      "man": 6,
+      "terrain": 2,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "Pêra",
@@ -661,9 +517,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Alcantarilha E Pêra ",
       "active": true,
@@ -689,22 +545,22 @@
         "stationId": 1210874,
         "stationLocation": "Albufeira",
         "stationDistance": 9.6,
-        "temperatura": 25,
-        "humidade": 44,
-        "intensidadeVento": 5.9,
-        "intensidadeVentoKM": 21.2,
+        "temperatura": 25.1,
+        "humidade": 45,
+        "intensidadeVento": 5.6,
+        "intensidadeVentoKM": 20.2,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779630616
       },
       "updated": {
-        "sec": 1779633375
+        "sec": 1779640224
       }
     },
     {
@@ -761,94 +617,22 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 13,
-        "temperatura": 30.2,
-        "humidade": 32,
-        "intensidadeVento": 3.3,
-        "intensidadeVentoKM": 11.9,
+        "temperatura": 30.9,
+        "humidade": 28,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 3396.9,
+        "radiacao": 2449.6,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779631094
       },
       "updated": {
         "sec": 1779636743
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260724010"
-      },
-      "id": "20260724010",
-      "coords": true,
-      "dateTime": {
-        "sec": 1779631080
-      },
-      "date": "24-05-2026",
-      "hour": "14:58",
-      "location": "Porto, Marco de Canaveses, Tabuado",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Tabuado",
-      "dico": "1307",
-      "lat": 41.18722,
-      "lng": -8.114172,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Marco ",
-      "active": true,
-      "sadoId": "20260724010",
-      "sharepointId": 27246031,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 12.2,
-        "temperatura": 25.5,
-        "humidade": 60,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 3069.9,
-        "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1779631335
-      },
-      "updated": {
-        "sec": 1779635896
       }
     },
     {
@@ -877,9 +661,9 @@
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Mouchão Da Póvoa ",
       "active": true,
@@ -920,7 +704,7 @@
         "sec": 1779632537
       },
       "updated": {
-        "sec": 1779632582
+        "sec": 1779639014
       }
     },
     {
@@ -935,23 +719,23 @@
       "date": "24-05-2026",
       "hour": "15:31",
       "location": "Santarém, Ourém, Fátima",
-      "aerial": 3,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 78,
-      "terrain": 21,
+      "man": 68,
+      "terrain": 22,
       "district": "Santarém",
       "concelho": "Ourém",
       "freguesia": "Fátima",
       "dico": "1421",
-      "lat": 39.583346,
-      "lng": -8.64875,
+      "lat": 39.572897,
+      "lng": -8.642527,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boleiros ",
       "active": true,
@@ -978,7 +762,7 @@
         "sec": 1779633375
       },
       "updated": {
-        "sec": 1779636372
+        "sec": 1779640818
       }
     },
     {
@@ -995,8 +779,8 @@
       "location": "Beja, Moura, Santo Aleixo Da Restauração",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 15,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Moura",
       "freguesia": "Santo Aleixo Da Restauração",
@@ -1035,22 +819,22 @@
         "stationId": 1210851,
         "stationLocation": "Amareleja",
         "stationDistance": 15.8,
-        "temperatura": 32.5,
-        "humidade": 17,
-        "intensidadeVento": 5.3,
-        "intensidadeVentoKM": 19.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 33.9,
+        "humidade": 16,
+        "intensidadeVento": 4.5,
+        "intensidadeVentoKM": 16.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 2443.4,
-        "pressao": 1018.5,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "radiacao": 2945.3,
+        "pressao": 1018.1,
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779633732
       },
       "updated": {
-        "sec": 1779636612
+        "sec": 1779638428
       }
     },
     {
@@ -1060,28 +844,28 @@
       "id": "20260724282",
       "coords": true,
       "dateTime": {
-        "sec": 1779635220
+        "sec": 1779634860
       },
       "date": "24-05-2026",
-      "hour": "16:07",
+      "hour": "16:01",
       "location": "Beja, Odemira, São Teotónio",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 7,
+      "man": 28,
+      "terrain": 8,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Teotónio",
       "dico": "0211",
-      "lat": 37.507506,
-      "lng": -8.718925,
+      "lat": 37.50602,
+      "lng": -8.62695,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "São Teotónio ",
       "active": true,
@@ -1106,59 +890,203 @@
       "weather": {
         "stationId": 1210577,
         "stationLocation": "Odemira, S.Teotónio",
-        "stationDistance": 4.5,
-        "temperatura": 25.4,
+        "stationDistance": 10.1,
+        "temperatura": 25.8,
         "humidade": 47,
-        "intensidadeVento": 3.4,
-        "intensidadeVentoKM": 12.2,
+        "intensidadeVento": 3.8,
+        "intensidadeVentoKM": 13.7,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 3404.8,
+        "radiacao": 3210.3,
         "pressao": null,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
         "sec": 1779635654
       },
       "updated": {
-        "sec": 1779636612
+        "sec": 1779639373
       }
     },
     {
       "_id": {
-        "$id": "20260724341"
+        "$id": "20260724420"
       },
-      "id": "20260724341",
+      "id": "20260724420",
       "coords": true,
       "dateTime": {
-        "sec": 1779636120
+        "sec": 1779636840
       },
       "date": "24-05-2026",
-      "hour": "16:22",
-      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "hour": "16:34",
+      "location": "Lisboa, Loures, Bucelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
+      "man": 7,
       "terrain": 3,
-      "district": "Évora",
-      "concelho": "Évora",
-      "freguesia": "Bacelo E Senhora Da Saúde",
-      "dico": "0705",
-      "lat": 38.58554,
-      "lng": -7.90729,
+      "district": "Lisboa",
+      "concelho": "Loures",
+      "freguesia": "Bucelas",
+      "dico": "1107",
+      "lat": 38.912805,
+      "lng": -9.128079,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Bemposta ",
+      "active": true,
+      "sadoId": "20260724420",
+      "sharepointId": 27246441,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210739,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210739,
+        "stationLocation": "Torres Vedras, Dois Portos",
+        "stationDistance": 15.2,
+        "temperatura": 23.6,
+        "humidade": 66,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 2302,
+        "pressao": null,
+        "date": "2026-05-24T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1779637332
+      },
+      "updated": {
+        "sec": 1779640818
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260724484"
+      },
+      "id": "20260724484",
+      "coords": true,
+      "dateTime": {
+        "sec": 1779638280
+      },
+      "date": "24-05-2026",
+      "hour": "16:58",
+      "location": "Setúbal, Almada, Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 30,
+      "terrain": 7,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Almada, Cova Da Piedade, Pragal E Cacilhas",
+      "dico": "1503",
+      "lat": 38.67491,
+      "lng": -9.179635,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Almada, Cova Da Piedade, Pragal E Cacilhas ",
+      "active": true,
+      "sadoId": "20260724484",
+      "sharepointId": 27246505,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210762,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210762,
+        "stationLocation": "Lisboa, Tapada da Ajuda",
+        "stationDistance": 3.9,
+        "temperatura": 25.7,
+        "humidade": 50,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 2610.3,
+        "pressao": null,
+        "date": "2026-05-24T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1779638658
+      },
+      "updated": {
+        "sec": 1779640818
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260724568"
+      },
+      "id": "20260724568",
+      "coords": true,
+      "dateTime": {
+        "sec": 1779639600
+      },
+      "date": "24-05-2026",
+      "hour": "17:20",
+      "location": "Portalegre, Alter do Chão, Alter Do Chão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 6,
+      "district": "Portalegre",
+      "concelho": "Alter Do Chão",
+      "freguesia": "Alter Do Chão",
+      "dico": "1201",
+      "lat": 39.221469,
+      "lng": -7.690588,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Évora ",
+      "localidade": " ",
       "active": true,
-      "sadoId": "20260724341",
-      "sharepointId": 27246362,
+      "sadoId": "20260724568",
+      "sharepointId": 27246589,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1172,29 +1100,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "nearestWeatherStationId": 1200558,
+      "sub_regiao": "Alto Alentejo",
+      "nearestWeatherStationId": 1210824,
       "isFire": true,
       "weather": {
-        "stationId": 1200558,
-        "stationLocation": "Évora (C.Coordenação)",
-        "stationDistance": 6.2,
-        "temperatura": 28.2,
-        "humidade": 32,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "stationId": 1210824,
+        "stationLocation": "Avis, Benavila",
+        "stationDistance": 20.3,
+        "temperatura": 32.4,
+        "humidade": 22,
+        "intensidadeVento": 5.5,
+        "intensidadeVentoKM": 19.8,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 1279.8,
-        "pressao": 1019.5,
-        "date": "2026-05-24T14:00:00.000000Z"
+        "radiacao": 2782.1,
+        "pressao": null,
+        "date": "2026-05-24T15:00:00.000000Z"
       },
       "created": {
-        "sec": 1779636612
+        "sec": 1779640093
       },
       "updated": {
-        "sec": 1779636743
+        "sec": 1779640818
       }
     }
   ]
