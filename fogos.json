@@ -15,8 +15,8 @@
       "location": "Aveiro, Arouca, Escariz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 3,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Escariz",
@@ -59,22 +59,22 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 11.7,
-        "temperatura": 19.7,
-        "humidade": 80,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
+        "temperatura": 18,
+        "humidade": 88,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
+        "date": "2026-05-28T22:00:00.000000Z"
       },
       "created": {
         "sec": 1779899893
       },
       "updated": {
-        "sec": 1780003453
+        "sec": 1780011020
       }
     },
     {
@@ -91,8 +91,8 @@
       "location": "Aveiro, Arouca, Fermedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 46,
-      "terrain": 13,
+      "man": 31,
+      "terrain": 8,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Fermedo",
@@ -135,22 +135,22 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 11.4,
-        "temperatura": 19.7,
-        "humidade": 80,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
+        "temperatura": 18,
+        "humidade": 88,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
+        "date": "2026-05-28T22:00:00.000000Z"
       },
       "created": {
         "sec": 1779971414
       },
       "updated": {
-        "sec": 1780006455
+        "sec": 1780011020
       }
     },
     {
@@ -190,8 +190,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 2.1,
+          "agricola": 0,
+          "mato": 0,
+          "total": 2.1
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Bombeiros"
       },
       "detailLocation": "São Lourenço",
@@ -211,98 +217,22 @@
         "stationId": 1210812,
         "stationLocation": "Alvega",
         "stationDistance": 14,
-        "temperatura": 23.1,
-        "humidade": 63,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
+        "temperatura": 21.5,
+        "humidade": 70,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
+        "date": "2026-05-28T22:00:00.000000Z"
       },
       "created": {
         "sec": 1779983776
       },
       "updated": {
-        "sec": 1780005623
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260747130"
-      },
-      "id": "20260747130",
-      "coords": true,
-      "dateTime": {
-        "sec": 1780000920
-      },
-      "date": "28-05-2026",
-      "hour": "21:42",
-      "location": "Lisboa, Alenquer, Carregado E Cadafais",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Alenquer",
-      "freguesia": "Carregado E Cadafais",
-      "dico": "1101",
-      "lat": 39.021628,
-      "lng": -8.969185,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Carregado E Cadafais ",
-      "active": true,
-      "sadoId": "20260747130",
-      "sharepointId": 27269151,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Estrada da Meirinha 32. 2580-510 Alenquer. Portugal (A1-N-S Km 30)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210739,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210739,
-        "stationLocation": "Torres Vedras, Dois Portos",
-        "stationDistance": 18.3,
-        "temperatura": 17.3,
-        "humidade": 88,
-        "intensidadeVento": 5.3,
-        "intensidadeVentoKM": 19.1,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1780001176
-      },
-      "updated": {
-        "sec": 1780003940
+        "sec": 1780009220
       }
     },
     {
@@ -319,14 +249,14 @@
       "location": "Setúbal, Sesimbra, Quinta Do Conde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 15,
       "terrain": 4,
       "district": "Setúbal",
       "concelho": "Sesimbra",
       "freguesia": "Quinta Do Conde",
       "dico": "1511",
-      "lat": 38.570355,
-      "lng": -9.03613,
+      "lat": 38.536338,
+      "lng": -9.048258,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -341,8 +271,12 @@
       "sharepointId": 27269340,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Condominio Quinta do Peru (Fonte do Piolho)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -353,28 +287,28 @@
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210766,
+      "nearestWeatherStationId": 1210770,
       "isFire": true,
       "weather": {
-        "stationId": 1210766,
-        "stationLocation": "Barreiro, Lavradio",
-        "stationDistance": 11.6,
-        "temperatura": 21.4,
-        "humidade": 66,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
+        "stationId": 1210770,
+        "stationLocation": "Setúbal",
+        "stationDistance": 13.8,
+        "temperatura": 20.6,
+        "humidade": 67,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
+        "pressao": 1019.9,
+        "date": "2026-05-28T22:00:00.000000Z"
       },
       "created": {
         "sec": 1780004657
       },
       "updated": {
-        "sec": 1780006576
+        "sec": 1780011020
       }
     },
     {
@@ -388,24 +322,24 @@
       },
       "date": "28-05-2026",
       "hour": "22:49",
-      "location": "Beja, Mértola, Corte Do Pinto",
+      "location": "Beja, Serpa, Vila Nova De São Bento",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 15,
+      "terrain": 5,
       "district": "Beja",
-      "concelho": "Mértola",
-      "freguesia": "Corte Do Pinto",
-      "dico": "0209",
-      "lat": 37.713365,
-      "lng": -7.480703,
+      "concelho": "Serpa",
+      "freguesia": "Vila Nova De São Bento",
+      "dico": "0213",
+      "lat": 37.755215,
+      "lng": -7.439132,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Corte Azinha ",
       "active": true,
@@ -413,8 +347,12 @@
       "sharepointId": 27269359,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Corte da Azinha (Monte do Francisco Raposo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -430,23 +368,237 @@
       "weather": {
         "stationId": 1210863,
         "stationLocation": "Mértola, Vale Formoso",
-        "stationDistance": 7.3,
-        "temperatura": 22.9,
-        "humidade": 59,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "stationDistance": 9.8,
+        "temperatura": 20.6,
+        "humidade": 70,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-05-28T21:00:00.000000Z"
+        "date": "2026-05-28T22:00:00.000000Z"
       },
       "created": {
         "sec": 1780005254
       },
       "updated": {
-        "sec": 1780005854
+        "sec": 1780011020
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260747535"
+      },
+      "id": "20260747535",
+      "coords": true,
+      "dateTime": {
+        "sec": 1780009500
+      },
+      "date": "29-05-2026",
+      "hour": "00:05",
+      "location": "Bragança, Mirandela, Mirandela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Mirandela",
+      "freguesia": "Mirandela",
+      "dico": "0407",
+      "lat": 41.48768,
+      "lng": -7.19571,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Mirandela ",
+      "active": true,
+      "sadoId": "20260747535",
+      "sharepointId": 27269556,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Santa Catarina 25. 5370-359 Mirandela. Portugal (EN213 (EN213) Km 49)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210632,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210632,
+        "stationLocation": "Mirandela",
+        "stationDistance": 3,
+        "temperatura": 25.8,
+        "humidade": 50,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-05-28T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1780010114
+      },
+      "updated": {
+        "sec": 1780011021
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260747563"
+      },
+      "id": "20260747563",
+      "coords": true,
+      "dateTime": {
+        "sec": 1780009500
+      },
+      "date": "29-05-2026",
+      "hour": "00:05",
+      "location": "Aveiro, São João da Madeira, São João Da Madeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "São João Da Madeira",
+      "freguesia": "São João Da Madeira",
+      "dico": "0116",
+      "lat": 40.896053,
+      "lng": -8.497441,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São João Da Madeira ",
+      "active": true,
+      "sadoId": "20260747563",
+      "sharepointId": 27269584,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar Vale do Vouga (SÃO JOÃO DA MADEIRA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6900,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1780011020
+      },
+      "updated": {
+        "sec": 1780011052
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260747589"
+      },
+      "id": "20260747589",
+      "coords": true,
+      "dateTime": {
+        "sec": 1780011360
+      },
+      "date": "29-05-2026",
+      "hour": "00:36",
+      "location": "Setúbal, Montijo, Montijo -> Número de meios -1. Sem informação disponivel de momento.",
+      "aerial": -1,
+      "meios_aquaticos": -1,
+      "man": -1,
+      "terrain": -1,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Montijo",
+      "dico": "150702",
+      "lat": 38.7086799997754,
+      "lng": -8.99149000008901,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Rua Mário Viegas 55 (Rua Mário Viegas)",
+      "active": true,
+      "sadoId": "20260747589",
+      "sharepointId": 20260747589,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Mário Viegas 55 (Rua Mário Viegas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": false,
+      "sub_regiao": false,
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 6.2,
+        "temperatura": 20.3,
+        "humidade": 71,
+        "intensidadeVento": 3.4,
+        "intensidadeVentoKM": 12.2,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-05-28T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1780011916
+      },
+      "updated": {
+        "sec": 1780011924
       }
     }
   ]
