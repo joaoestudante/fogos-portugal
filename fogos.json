@@ -15,8 +15,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Monsanto E Idanha-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 12,
+      "terrain": 4,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Monsanto E Idanha-a-velha",
@@ -37,8 +37,12 @@
       "sharepointId": 27284849,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 473.332,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Barreiro",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -55,58 +59,58 @@
         "stationId": 1210803,
         "stationLocation": "Zebreira",
         "stationDistance": 20,
-        "temperatura": 15.6,
-        "humidade": 78,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 22.1,
+        "humidade": 50,
+        "intensidadeVento": 7.4,
+        "intensidadeVentoKM": 26.6,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 1529.1,
         "pressao": null,
-        "date": "2026-06-02T05:00:00.000000Z"
+        "date": "2026-06-02T09:00:00.000000Z"
       },
       "created": {
         "sec": 1780269931
       },
       "updated": {
-        "sec": 1780338134
+        "sec": 1780388921
       }
     },
     {
       "_id": {
-        "$id": "20260768625"
+        "$id": "20260769460"
       },
-      "id": "20260768625",
+      "id": "20260769460",
       "coords": true,
       "dateTime": {
-        "sec": 1780376040
+        "sec": 1780390380
       },
       "date": "02-06-2026",
-      "hour": "05:54",
-      "location": "Évora, Évora, Nossa Senhora Da Tourega E Nossa Senhora De Guadalupe",
+      "hour": "09:53",
+      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
+      "man": 12,
       "terrain": 3,
-      "district": "Évora",
-      "concelho": "Évora",
-      "freguesia": "Nossa Senhora Da Tourega E Nossa Senhora De Guadalupe",
-      "dico": "0705",
-      "lat": 38.47511,
-      "lng": -8.018348,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "district": "Santarém",
+      "concelho": "Abrantes",
+      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
+      "dico": "1401",
+      "lat": 39.478182,
+      "lng": -8.21652,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Monte Do Tojal ",
+      "localidade": "União Das Freguesias De Abrantes (São Vicente E São João) E Alferrarede ",
       "active": true,
-      "sadoId": "20260768625",
-      "sharepointId": 27290646,
+      "sadoId": "20260769460",
+      "sharepointId": 27291481,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -119,102 +123,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "nearestWeatherStationId": 1200843,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "nearestWeatherStationId": 1210812,
       "isFire": true,
       "weather": {
-        "stationId": 1200843,
-        "stationLocation": "Évora (Aeródromo)",
-        "stationDistance": 12.6,
-        "temperatura": 16,
-        "humidade": 87,
-        "intensidadeVento": 6.5,
-        "intensidadeVentoKM": 23.4,
+        "stationId": 1210812,
+        "stationLocation": "Alvega",
+        "stationDistance": 14.4,
+        "temperatura": 22.4,
+        "humidade": 63,
+        "intensidadeVento": 5,
+        "intensidadeVentoKM": 18,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.8,
-        "date": "2026-06-02T05:00:00.000000Z"
+        "pressao": null,
+        "date": "2026-06-02T09:00:00.000000Z"
       },
       "created": {
-        "sec": 1780376466
+        "sec": 1780390870
       },
       "updated": {
-        "sec": 1780380736
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260768735"
-      },
-      "id": "20260768735",
-      "coords": true,
-      "dateTime": {
-        "sec": 1780380360
-      },
-      "date": "02-06-2026",
-      "hour": "07:06",
-      "location": "Beja, Moura, Póvoa De São Miguel",
-      "aerial": -1,
-      "meios_aquaticos": -1,
-      "man": -1,
-      "terrain": -1,
-      "district": "Beja",
-      "concelho": "Moura",
-      "freguesia": "Póvoa De São Miguel Sem informação do número de meios neste momento. Informação recolhida via Fogos.pt",
-      "dico": "21002",
-      "lat": 38.2225389999814,
-      "lng": -7.33941399998135,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Povoa De São Miguel (Póvoa De São Miguel)",
-      "active": true,
-      "sadoId": "20260768735",
-      "sharepointId": 20260768735,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": false,
-      "sub_regiao": false,
-      "nearestWeatherStationId": 1210851,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210851,
-        "stationLocation": "Amareleja",
-        "stationDistance": 10.2,
-        "temperatura": 16.3,
-        "humidade": 86,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 0.2,
-        "pressao": 1018.2,
-        "date": "2026-06-02T05:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1780381257
-      },
-      "updated": {
-        "sec": 1780381265
+        "sec": 1780396706
       }
     }
   ]
