@@ -59,16 +59,16 @@
         "stationId": 1210803,
         "stationLocation": "Zebreira",
         "stationDistance": 20,
-        "temperatura": 16.8,
-        "humidade": 63,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
+        "temperatura": 16.4,
+        "humidade": 56,
+        "intensidadeVento": 3.6,
+        "intensidadeVentoKM": 13,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 138.9,
         "pressao": null,
-        "date": "2026-06-03T01:00:00.000000Z"
+        "date": "2026-06-03T06:00:00.000000Z"
       },
       "created": {
         "sec": 1780269931
@@ -79,114 +79,38 @@
     },
     {
       "_id": {
-        "$id": "20260773494"
+        "$id": "20260773849"
       },
-      "id": "20260773494",
+      "id": "20260773849",
       "coords": true,
       "dateTime": {
-        "sec": 1780446240
+        "sec": 1780467000
       },
       "date": "03-06-2026",
-      "hour": "01:24",
-      "location": "Setúbal, Montijo, Canha",
+      "hour": "07:10",
+      "location": "Beja, Moura, Póvoa De São Miguel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Montijo",
-      "freguesia": "Canha",
-      "dico": "1507",
-      "lat": 38.743545,
-      "lng": -8.62405,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Canha Foros Da Boavista",
-      "active": true,
-      "sadoId": "20260773494",
-      "sharepointId": 20260773494,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Outros"
-      },
-      "detailLocation": "Foros da Boavista (CANHA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210767,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210767,
-        "stationLocation": "Pegões",
-        "stationDistance": 10.4,
-        "temperatura": 15,
-        "humidade": 100,
-        "intensidadeVento": 3.8,
-        "intensidadeVentoKM": 13.7,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-06-03T01:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1780446930
-      },
-      "updated": {
-        "sec": 1780451705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260773538"
-      },
-      "id": "20260773538",
-      "coords": true,
-      "dateTime": {
-        "sec": 1780448520
-      },
-      "date": "03-06-2026",
-      "hour": "02:02",
-      "location": "Aveiro, Santa Maria da Feira, Lourosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
+      "man": 4,
       "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Lourosa",
-      "dico": "0109",
-      "lat": 40.98201,
-      "lng": -8.54384,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "district": "Beja",
+      "concelho": "Moura",
+      "freguesia": "Póvoa De São Miguel",
+      "dico": "0210",
+      "lat": 38.246366,
+      "lng": -7.344706,
+      "naturezaCode": "4335",
+      "natureza": "Prevenção a Queimadas",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Rua Do Ervideiro Ervideiro",
+      "localidade": "Povoa De S. Miguel Monte Da Pata",
       "active": true,
-      "sadoId": "20260773538",
-      "sharepointId": 20260773538,
+      "sadoId": "20260773849",
+      "sharepointId": 20260773849,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -199,16 +123,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6900,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1210851,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210851,
+        "stationLocation": "Amareleja",
+        "stationDistance": 11.5,
+        "temperatura": 12.2,
+        "humidade": 85,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 166.4,
+        "pressao": 1020.1,
+        "date": "2026-06-03T06:00:00.000000Z"
+      },
       "created": {
-        "sec": 1780449305
+        "sec": 1780467904
       },
       "updated": {
-        "sec": 1780451104
+        "sec": 1780467919
       }
     }
   ]
