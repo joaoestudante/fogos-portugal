@@ -59,16 +59,16 @@
         "stationId": 1210803,
         "stationLocation": "Zebreira",
         "stationDistance": 20,
-        "temperatura": 14.8,
-        "humidade": 82,
-        "intensidadeVento": 3.2,
-        "intensidadeVentoKM": 11.5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 17.4,
+        "humidade": 67,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 1498.5,
         "pressao": null,
-        "date": "2026-06-04T04:00:00.000000Z"
+        "date": "2026-06-04T08:00:00.000000Z"
       },
       "created": {
         "sec": 1780269931
@@ -113,8 +113,12 @@
       "sharepointId": 20260774345,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 207.91,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Fonte do Mata Mouros",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -131,22 +135,22 @@
         "stationId": 1210803,
         "stationLocation": "Zebreira",
         "stationDistance": 6.4,
-        "temperatura": 14.8,
-        "humidade": 82,
-        "intensidadeVento": 3.2,
-        "intensidadeVentoKM": 11.5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 17.4,
+        "humidade": 67,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 1498.5,
         "pressao": null,
-        "date": "2026-06-04T04:00:00.000000Z"
+        "date": "2026-06-04T08:00:00.000000Z"
       },
       "created": {
         "sec": 1780475403
       },
       "updated": {
-        "sec": 1780534504
+        "sec": 1780557610
       }
     },
     {
@@ -163,8 +167,8 @@
       "location": "Castelo Branco, Idanha-a-Nova, Monsanto E Idanha-a-velha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 12,
+      "man": 12,
+      "terrain": 3,
       "district": "Castelo Branco",
       "concelho": "Idanha-a-nova",
       "freguesia": "Monsanto E Idanha-a-velha",
@@ -203,22 +207,22 @@
         "stationId": 1210803,
         "stationLocation": "Zebreira",
         "stationDistance": 16.4,
-        "temperatura": 14.8,
-        "humidade": 82,
-        "intensidadeVento": 3.2,
-        "intensidadeVentoKM": 11.5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 17.4,
+        "humidade": 67,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 1498.5,
         "pressao": null,
-        "date": "2026-06-04T04:00:00.000000Z"
+        "date": "2026-06-04T08:00:00.000000Z"
       },
       "created": {
         "sec": 1780500604
       },
       "updated": {
-        "sec": 1780536604
+        "sec": 1780556410
       }
     },
     {
@@ -235,8 +239,8 @@
       "location": "Beja, Mértola, Corte Do Pinto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 13,
+      "man": 14,
+      "terrain": 5,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "Corte Do Pinto",
@@ -247,9 +251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Mina De São Domingos Mina De São Domingos",
       "active": true,
@@ -275,46 +279,118 @@
         "stationId": 1210863,
         "stationLocation": "Mértola, Vale Formoso",
         "stationDistance": 8.2,
-        "temperatura": 16.8,
-        "humidade": 82,
-        "intensidadeVento": 4.4,
-        "intensidadeVentoKM": 15.8,
+        "temperatura": 18.6,
+        "humidade": 69,
+        "intensidadeVento": 5.8,
+        "intensidadeVentoKM": 20.9,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 823.1,
         "pressao": null,
-        "date": "2026-06-04T04:00:00.000000Z"
+        "date": "2026-06-04T08:00:00.000000Z"
       },
       "created": {
         "sec": 1780517404
       },
       "updated": {
-        "sec": 1780547702
+        "sec": 1780556704
       }
     },
     {
       "_id": {
-        "$id": "20260778508"
+        "$id": "20260778852"
       },
-      "id": "20260778508",
+      "id": "20260778852",
       "coords": true,
       "dateTime": {
-        "sec": 1780549080
+        "sec": 1780558920
       },
       "date": "04-06-2026",
-      "hour": "05:58",
-      "location": "Setúbal, Almada, Caparica E Trafaria",
-      "aerial": 0,
+      "hour": "08:42",
+      "location": "Beja, Castro Verde, Castro Verde E Casével",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "dico": "1503",
-      "lat": 38.66559,
-      "lng": -9.18271,
+      "man": 41,
+      "terrain": 13,
+      "district": "Beja",
+      "concelho": "Castro Verde",
+      "freguesia": "Castro Verde E Casével",
+      "dico": "0206",
+      "lat": 37.651472,
+      "lng": -7.991608,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Santa Bárbara De Padrões Santo Barbara Dos Padrões",
+      "active": true,
+      "sadoId": "20260778852",
+      "sharepointId": 20260778852,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1210864,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210864,
+        "stationLocation": "Castro Verde, N.Corvo",
+        "stationDistance": 8.5,
+        "temperatura": 18.2,
+        "humidade": 78,
+        "intensidadeVento": 6.4,
+        "intensidadeVentoKM": 23,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 717.9,
+        "pressao": null,
+        "date": "2026-06-04T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1780559714
+      },
+      "updated": {
+        "sec": 1780563607
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260779113"
+      },
+      "id": "20260779113",
+      "coords": true,
+      "dateTime": {
+        "sec": 1780562820
+      },
+      "date": "04-06-2026",
+      "hour": "09:47",
+      "location": "Santarém, Rio Maior, Outeiro Da Cortiçada E Arruda Dos Pisões",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Santarém",
+      "concelho": "Rio Maior",
+      "freguesia": "Outeiro Da Cortiçada E Arruda Dos Pisões",
+      "dico": "1414",
+      "lat": 39.34327,
+      "lng": -8.803631,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -323,10 +399,10 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "União Das Freguesias De Caparica E Trafaria Avenida Torrado Da Silva, 2825 Almada, Portugal",
+      "localidade": "União Das Freguesias De Outeiro Da Cortiçada E Arruda Dos Pisões Rua Joaquim Batista E Silva 194, 2040-172 Rio Maior, Portugal",
       "active": true,
-      "sadoId": "20260778508",
-      "sharepointId": 20260778508,
+      "sadoId": "20260779113",
+      "sharepointId": 20260779113,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -340,29 +416,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210762,
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
       "isFire": true,
       "weather": {
-        "stationId": 1210762,
-        "stationLocation": "Lisboa, Tapada da Ajuda",
-        "stationDistance": 4.9,
-        "temperatura": 16.3,
-        "humidade": 77,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 11.2,
+        "temperatura": 17.9,
+        "humidade": 71,
+        "intensidadeVento": 3.9,
+        "intensidadeVentoKM": 14,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 724.1,
         "pressao": null,
-        "date": "2026-06-04T04:00:00.000000Z"
+        "date": "2026-06-04T08:00:00.000000Z"
       },
       "created": {
-        "sec": 1780549805
+        "sec": 1780563303
       },
       "updated": {
-        "sec": 1780549834
+        "sec": 1780563607
       }
     }
   ]
