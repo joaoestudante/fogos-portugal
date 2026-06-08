@@ -65,16 +65,16 @@
         "stationId": 1210851,
         "stationLocation": "Amareleja",
         "stationDistance": 17,
-        "temperatura": 25.5,
-        "humidade": 42,
-        "intensidadeVento": 3.8,
-        "intensidadeVentoKM": 13.7,
+        "temperatura": 23.8,
+        "humidade": 49,
+        "intensidadeVento": 4.9,
+        "intensidadeVentoKM": 17.6,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0.5,
-        "pressao": 1017.3,
-        "date": "2026-06-08T21:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": 1018.2,
+        "date": "2026-06-08T22:00:00.000000Z"
       },
       "created": {
         "sec": 1780840517
@@ -141,16 +141,16 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 9.7,
-        "temperatura": 21.4,
-        "humidade": 47,
+        "temperatura": 20.1,
+        "humidade": 55,
         "intensidadeVento": 2.4,
         "intensidadeVentoKM": 8.6,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.6,
-        "date": "2026-06-08T21:00:00.000000Z"
+        "pressao": 1020.5,
+        "date": "2026-06-08T22:00:00.000000Z"
       },
       "created": {
         "sec": 1780916424
@@ -377,8 +377,8 @@
       "location": "Guarda, Vila Nova de Foz Côa, Vila Nova De Foz Côa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 7,
+      "man": 5,
+      "terrain": 1,
       "district": "Guarda",
       "concelho": "Vila Nova De Foz Côa",
       "freguesia": "Vila Nova De Foz Côa",
@@ -422,43 +422,119 @@
         "sec": 1780940403
       },
       "updated": {
-        "sec": 1780958403
+        "sec": 1780962603
       }
     },
     {
       "_id": {
-        "$id": "20260800814"
+        "$id": "20260801531"
       },
-      "id": "20260800814",
+      "id": "20260801531",
       "coords": true,
       "dateTime": {
-        "sec": 1780946700
+        "sec": 1780958700
       },
       "date": "08-06-2026",
-      "hour": "20:25",
-      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
+      "hour": "23:45",
+      "location": "Viana Do Castelo, Viana do Castelo, São Romão De Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
-      "dico": "1401",
-      "lat": 39.465455,
-      "lng": -8.195442,
+      "man": 14,
+      "terrain": 4,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "São Romão De Neiva",
+      "dico": "1609",
+      "lat": 41.616302,
+      "lng": -8.773103,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Castelo  ---",
+      "localidade": "Beco De Lagares Beco De Lagares",
       "active": true,
-      "sadoId": "20260800814",
-      "sharepointId": 20260800814,
+      "sadoId": "20260801531",
+      "sharepointId": 20260801531,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Beco de Lagares (Gandara)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1200551,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 4.5,
+        "temperatura": 15.8,
+        "humidade": 100,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1023,
+        "date": "2026-06-08T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1780959609
+      },
+      "updated": {
+        "sec": 1780961406
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260801547"
+      },
+      "id": "20260801547",
+      "coords": true,
+      "dateTime": {
+        "sec": 1780958940
+      },
+      "date": "08-06-2026",
+      "hour": "23:49",
+      "location": "Leiria, Caldas da Rainha, Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Caldas Da Rainha - Santo Onofre E Serra Do Bouro",
+      "dico": "1006",
+      "lat": 39.39611,
+      "lng": -9.14861,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Caldas Da Rainha Bairro Das Morenas",
+      "active": true,
+      "sadoId": "20260801547",
+      "sharepointId": 20260801547,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -472,73 +548,69 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210812,
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210729,
       "isFire": true,
       "weather": {
-        "stationId": 1210812,
-        "stationLocation": "Alvega",
-        "stationDistance": 12.5,
-        "temperatura": 20.6,
-        "humidade": 70,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 19.2,
+        "temperatura": 17.9,
+        "humidade": 85,
+        "intensidadeVento": 6.3,
+        "intensidadeVentoKM": 22.7,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": null,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-08T21:00:00.000000Z"
+        "date": "2026-06-08T22:00:00.000000Z"
       },
       "created": {
-        "sec": 1780947005
+        "sec": 1780959609
       },
       "updated": {
-        "sec": 1780949103
+        "sec": 1780961406
       }
     },
     {
       "_id": {
-        "$id": "20260801394"
+        "$id": "20260801505"
       },
-      "id": "20260801394",
+      "id": "20260801505",
       "coords": true,
       "dateTime": {
-        "sec": 1780956000
+        "sec": 1780958460
       },
       "date": "08-06-2026",
-      "hour": "23:00",
-      "location": "Leiria, Porto de Mós, Mira De Aire",
+      "hour": "23:41",
+      "location": "Porto, Baião, Santa Cruz Do Douro E São Tomé De Covelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 6,
-      "district": "Leiria",
-      "concelho": "Porto De Mós",
-      "freguesia": "Mira De Aire",
-      "dico": "1016",
-      "lat": 39.53871,
-      "lng": -8.715415,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Santa Cruz Do Douro E São Tomé De Covelas",
+      "dico": "1302",
+      "lat": 41.111843,
+      "lng": -8.011088,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Mira De Aire Rua Constantino Laureano Duque",
+      "localidade": "Santa Cruz Do Douro Nossa Senhora Ajuda",
       "active": true,
-      "sadoId": "20260801394",
-      "sharepointId": 20260801394,
+      "sadoId": "20260801505",
+      "sharepointId": 20260801505,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua Constantino Laureano Duque (Bairro das Grutas)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -547,16 +619,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "nearestWeatherStationId": 1210723,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 6213013,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 6213013,
+        "stationLocation": "Castro Daire / Mézio (CIM)",
+        "stationDistance": 18.1,
+        "temperatura": 13.3,
+        "humidade": 91,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-06-08T22:00:00.000000Z"
+      },
       "created": {
-        "sec": 1780956604
+        "sec": 1780960505
       },
       "updated": {
-        "sec": 1780958103
+        "sec": 1780961704
       }
     }
   ]
