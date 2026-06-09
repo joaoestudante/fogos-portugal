@@ -147,16 +147,16 @@
         "stationId": 1210865,
         "stationLocation": "Alcoutim, Mart.Longo",
         "stationDistance": 14.2,
-        "temperatura": 23.8,
-        "humidade": 41,
-        "intensidadeVento": 5.1,
-        "intensidadeVentoKM": 18.4,
+        "temperatura": 21.3,
+        "humidade": 42,
+        "intensidadeVento": 4.9,
+        "intensidadeVentoKM": 17.6,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1015.5,
-        "date": "2026-06-09T21:00:00.000000Z"
+        "pressao": 1016.7,
+        "date": "2026-06-09T22:00:00.000000Z"
       },
       "created": {
         "sec": 1781011504
@@ -179,8 +179,8 @@
       "location": "Beja, Mértola, Mértola",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Mértola",
       "freguesia": "Mértola",
@@ -202,8 +202,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 7,
+          "total": 7
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Fernandes (Almarginho)",
@@ -223,180 +229,22 @@
         "stationId": 1210863,
         "stationLocation": "Mértola, Vale Formoso",
         "stationDistance": 17.8,
-        "temperatura": 25,
-        "humidade": 35,
-        "intensidadeVento": 5.3,
-        "intensidadeVentoKM": 19.1,
+        "temperatura": 22.7,
+        "humidade": 37,
+        "intensidadeVento": 4.2,
+        "intensidadeVentoKM": 15.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-09T21:00:00.000000Z"
+        "date": "2026-06-09T22:00:00.000000Z"
       },
       "created": {
         "sec": 1781012706
       },
       "updated": {
-        "sec": 1781039405
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260805247"
-      },
-      "id": "20260805247",
-      "coords": true,
-      "dateTime": {
-        "sec": 1781022960
-      },
-      "date": "09-06-2026",
-      "hour": "17:36",
-      "location": "Santarém, Tomar, Madalena E Beselga",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Tomar",
-      "freguesia": "Madalena E Beselga",
-      "dico": "1418",
-      "lat": 39.5564,
-      "lng": -8.446493,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Marmeleiro   ---",
-      "active": true,
-      "sadoId": "20260805247",
-      "sharepointId": 20260805247,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0.45,
-          "mato": 0,
-          "total": 0.45
-        },
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Marmeleiro (Juncalinho)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210724,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210724,
-        "stationLocation": "Tomar, Valdonas",
-        "stationDistance": 8.4,
-        "temperatura": null,
-        "humidade": 65,
-        "intensidadeVento": 5.1,
-        "intensidadeVentoKM": 18.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0.9,
-        "pressao": null,
-        "date": "2026-06-09T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1781023203
-      },
-      "updated": {
-        "sec": 1781039104
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260805286"
-      },
-      "id": "20260805286",
-      "coords": true,
-      "dateTime": {
-        "sec": 1781023260
-      },
-      "date": "09-06-2026",
-      "hour": "17:41",
-      "location": "Évora, Évora, Torre De Coelheiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Évora",
-      "concelho": "Évora",
-      "freguesia": "Torre De Coelheiros",
-      "dico": "0705",
-      "lat": 38.441888,
-      "lng": -7.926317,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Monte Da Silveira Monte Da Silveira",
-      "active": true,
-      "sadoId": "20260805286",
-      "sharepointId": 20260805286,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Monte do Outeiro (ER254 (ER254) Km 68)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "nearestWeatherStationId": 1200843,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200843,
-        "stationLocation": "Évora (Aeródromo)",
-        "stationDistance": 10.2,
-        "temperatura": 21.1,
-        "humidade": 41,
-        "intensidadeVento": 5.4,
-        "intensidadeVentoKM": 19.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1016.6,
-        "date": "2026-06-09T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1781023529
-      },
-      "updated": {
-        "sec": 1781041502
+        "sec": 1781046010
       }
     },
     {
@@ -413,8 +261,8 @@
       "location": "Guarda, Figueira de Castelo Rodrigo, Algodres, Vale De Afonsinho E Vilar De Amargo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 6,
+      "man": 10,
+      "terrain": 2,
       "district": "Guarda",
       "concelho": "Figueira De Castelo Rodrigo",
       "freguesia": "Algodres, Vale De Afonsinho E Vilar De Amargo",
@@ -458,83 +306,7 @@
         "sec": 1781025633
       },
       "updated": {
-        "sec": 1781034603
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260805495"
-      },
-      "id": "20260805495",
-      "coords": true,
-      "dateTime": {
-        "sec": 1781026200
-      },
-      "date": "09-06-2026",
-      "hour": "18:30",
-      "location": "Setúbal, Setúbal, S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Setúbal",
-      "freguesia": "S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
-      "dico": "1512",
-      "lat": 38.52277,
-      "lng": -8.905728,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Setúbal (São Julião, Nossa Senhora Da Anunciada E Santa Maria Da Graça) Rua Do Convento 4, 2900-332 Setúbal, Portugal",
-      "active": true,
-      "sadoId": "20260805495",
-      "sharepointId": 20260805495,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Convento 4. 2900-332 Setúbal. Portugal (São Francisco)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210770,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210770,
-        "stationLocation": "Setúbal",
-        "stationDistance": 3.1,
-        "temperatura": 18.2,
-        "humidade": 51,
-        "intensidadeVento": 6.2,
-        "intensidadeVentoKM": 22.3,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1018.2,
-        "date": "2026-06-09T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1781027106
-      },
-      "updated": {
-        "sec": 1781031645
+        "sec": 1781048105
       }
     },
     {
@@ -551,8 +323,8 @@
       "location": "Setúbal, Setúbal, S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "S.Julião, N.S. Da Anunciada E S. Maria Da Graça",
@@ -574,11 +346,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.35,
+          "mato": 0,
+          "total": 0.35
+        },
         "altitude": 0,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Estrada de Santo António (Portuguesa)",
+      "detailLocation": "Estrada de Santo António (Rua Justa Rodrigues Pereira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -595,46 +373,46 @@
         "stationId": 1210770,
         "stationLocation": "Setúbal",
         "stationDistance": 1.8,
-        "temperatura": 18.2,
-        "humidade": 51,
+        "temperatura": 17.2,
+        "humidade": 58,
         "intensidadeVento": 6.2,
         "intensidadeVentoKM": 22.3,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1018.2,
-        "date": "2026-06-09T21:00:00.000000Z"
+        "pressao": 1018.8,
+        "date": "2026-06-09T22:00:00.000000Z"
       },
       "created": {
         "sec": 1781031612
       },
       "updated": {
-        "sec": 1781039705
+        "sec": 1781046037
       }
     },
     {
       "_id": {
-        "$id": "20260806456"
+        "$id": "20260806382"
       },
-      "id": "20260806456",
+      "id": "20260806382",
       "coords": true,
       "dateTime": {
-        "sec": 1781040420
+        "sec": 1781039580
       },
       "date": "09-06-2026",
-      "hour": "22:27",
-      "location": "Lisboa, Torres Vedras, S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "hour": "22:13",
+      "location": "Braga, Celorico de Basto, Agilde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
+      "man": 10,
       "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Torres Vedras",
-      "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
-      "dico": "1113",
-      "lat": 39.093936,
-      "lng": -9.219623,
+      "district": "Braga",
+      "concelho": "Celorico De Basto",
+      "freguesia": "Agilde",
+      "dico": "0305",
+      "lat": 41.375368,
+      "lng": -8.13808,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -643,158 +421,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Matacães Rua Da Zulmeira",
+      "localidade": "Agilde Agilde",
       "active": true,
-      "sadoId": "20260806456",
-      "sharepointId": 20260806456,
+      "sadoId": "20260806382",
+      "sharepointId": 20260806382,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210739,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210739,
-        "stationLocation": "Torres Vedras, Dois Portos",
-        "stationDistance": 6.6,
-        "temperatura": 15.2,
-        "humidade": 77,
-        "intensidadeVento": 4.1,
-        "intensidadeVentoKM": 14.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0.3,
-        "pressao": null,
-        "date": "2026-06-09T21:00:00.000000Z"
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
       },
-      "created": {
-        "sec": 1781041204
-      },
-      "updated": {
-        "sec": 1781042705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260806487"
-      },
-      "id": "20260806487",
-      "coords": true,
-      "dateTime": {
-        "sec": 1781041620
-      },
-      "date": "09-06-2026",
-      "hour": "22:47",
-      "location": "Setúbal, Almada, Caparica E Trafaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
-      "district": "Setúbal",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "dico": "1503",
-      "lat": 38.66386,
-      "lng": -9.20362,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Caparica E Trafaria Alameda Timor Lorosae",
-      "active": true,
-      "sadoId": "20260806487",
-      "sharepointId": 20260806487,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210773,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210773,
-        "stationLocation": "Almada, P.Rainha",
-        "stationDistance": 5.3,
-        "temperatura": 17.9,
-        "humidade": 49,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
-        "idDireccVento": 1,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-06-09T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1781042104
-      },
-      "updated": {
-        "sec": 1781042705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260806509"
-      },
-      "id": "20260806509",
-      "coords": true,
-      "dateTime": {
-        "sec": 1781041380
-      },
-      "date": "09-06-2026",
-      "hour": "22:43",
-      "location": "Aveiro, Oliveira de Azeméis, O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "O. Azeméis, Riba-ul, Ul, Macinhata Seixa, Madail",
-      "dico": "0113",
-      "lat": 40.836334,
-      "lng": -8.482939,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "---  Rua Do Fontanário",
-      "active": true,
-      "sadoId": "20260806509",
-      "sharepointId": 20260806509,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "detailLocation": "Agilde (Idães)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -804,15 +442,105 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6900,
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210625,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 16.1,
+        "temperatura": 17.9,
+        "humidade": 51,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1021.1,
+        "date": "2026-06-09T22:00:00.000000Z"
+      },
       "created": {
-        "sec": 1781042409
+        "sec": 1781040605
       },
       "updated": {
-        "sec": 1781042459
+        "sec": 1781046038
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260806562"
+      },
+      "id": "20260806562",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781043240
+      },
+      "date": "09-06-2026",
+      "hour": "23:14",
+      "location": "Castelo Branco, Castelo Branco, Castelo Branco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Castelo Branco",
+      "concelho": "Castelo Branco",
+      "freguesia": "Castelo Branco",
+      "dico": "0502",
+      "lat": 39.860655,
+      "lng": -7.498753,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Castelo Branco A23 - Km 123 N/s",
+      "active": true,
+      "sadoId": "20260806562",
+      "sharepointId": 20260806562,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Concessionários rodoviários"
+      },
+      "detailLocation": "A23 - Km 123 N/S (Estação dos Caminhos de Ferro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1200570,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200570,
+        "stationLocation": "Castelo Branco",
+        "stationDistance": 4.1,
+        "temperatura": 21,
+        "humidade": 53,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1016.6,
+        "date": "2026-06-09T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1781043904
+      },
+      "updated": {
+        "sec": 1781048105
       }
     }
   ]
