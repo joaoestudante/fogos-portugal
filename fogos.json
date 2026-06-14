@@ -59,16 +59,16 @@
         "stationId": 1210788,
         "stationLocation": "Zambujeira",
         "stationDistance": 19.6,
-        "temperatura": 17.3,
+        "temperatura": 17,
         "humidade": 100,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781089210
@@ -141,16 +141,16 @@
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
         "stationDistance": 10.4,
-        "temperatura": 25.7,
-        "humidade": 35,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 19.7,
+        "humidade": 64,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1016.4,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "pressao": 1016.1,
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781118304
@@ -223,16 +223,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 18.8,
-        "temperatura": 18.7,
-        "humidade": 90,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 18.1,
+        "humidade": 96,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1017.5,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "pressao": 1015.8,
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781126704
@@ -305,16 +305,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 16.3,
-        "temperatura": 18.1,
-        "humidade": 75,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 15.7,
+        "humidade": 99,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781186704
@@ -381,16 +381,16 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 6.6,
-        "temperatura": 22.3,
-        "humidade": 56,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 16.6,
+        "humidade": 80,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1015.9,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "pressao": 1015.8,
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781188804
@@ -442,7 +442,7 @@
           "mato": 0,
           "total": 0.62
         },
-        "altitude": 0,
+        "altitude": 143.316,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -464,7 +464,7 @@
         "sec": 1781355614
       },
       "updated": {
-        "sec": 1781369704
+        "sec": 1781406017
       }
     },
     {
@@ -481,8 +481,8 @@
       "location": "Beja, Aljustrel, Aljustrel",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 81,
-      "terrain": 29,
+      "man": 9,
+      "terrain": 4,
       "district": "Beja",
       "concelho": "Aljustrel",
       "freguesia": "Aljustrel",
@@ -504,7 +504,13 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 287,
+          "mato": 0,
+          "total": 287
+        },
+        "altitude": 49.5788,
         "agricola": true,
         "fontealerta": "112"
       },
@@ -525,22 +531,22 @@
         "stationId": 1210783,
         "stationLocation": "Alvalade",
         "stationDistance": 23.5,
-        "temperatura": 17.8,
-        "humidade": 93,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 16,
+        "humidade": 97,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781356504
       },
       "updated": {
-        "sec": 1781400905
+        "sec": 1781416814
       }
     },
     {
@@ -586,7 +592,7 @@
           "mato": 1,
           "total": 1
         },
-        "altitude": 0,
+        "altitude": 46.8506,
         "incendio": true,
         "fontealerta": "112"
       },
@@ -607,58 +613,58 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 16,
-        "temperatura": 18.4,
-        "humidade": 95,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
+        "temperatura": 18.8,
+        "humidade": 98,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-06-14T00:00:00.000000Z"
+        "date": "2026-06-14T05:00:00.000000Z"
       },
       "created": {
         "sec": 1781359214
       },
       "updated": {
-        "sec": 1781377255
+        "sec": 1781406025
       }
     },
     {
       "_id": {
-        "$id": "20260827531"
+        "$id": "20260828088"
       },
-      "id": "20260827531",
+      "id": "20260828088",
       "coords": true,
       "dateTime": {
-        "sec": 1781388720
+        "sec": 1781403660
       },
-      "date": "13-06-2026",
-      "hour": "23:12",
-      "location": "Bragança, Carrazeda de Ansiães, Carrazeda De Ansiães",
+      "date": "14-06-2026",
+      "hour": "03:21",
+      "location": "Viana Do Castelo, Vila Nova de Cerveira, Sapardos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Bragança",
-      "concelho": "Carrazeda De Ansiães",
-      "freguesia": "Carrazeda De Ansiães",
-      "dico": "0403",
-      "lat": 41.218677,
-      "lng": -7.290422,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 12,
+      "terrain": 3,
+      "district": "Viana Do Castelo",
+      "concelho": "Vila Nova De Cerveira",
+      "freguesia": "Sapardos",
+      "dico": "1610",
+      "lat": 41.917128,
+      "lng": -8.644483,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Carrazeda De Ansiães Carrazeda De Ansiães, Portugal",
+      "localidade": "Rua Castanheiros Rua Castanheiros",
       "active": true,
-      "sadoId": "20260827531",
-      "sharepointId": 20260827531,
+      "sadoId": "20260828088",
+      "sharepointId": 20260828088,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -666,7 +672,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Carrazeda de Ansiães. Portugal (SELORES)",
+      "detailLocation": "Rua Castanheiros (Sande)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -676,29 +682,221 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "nearestWeatherStationId": 1210644,
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211212,
       "isFire": true,
-      "weather": {
-        "stationId": 1210644,
-        "stationLocation": "Carrazêda de Ansiães",
-        "stationDistance": 1.7,
-        "temperatura": 14.3,
-        "humidade": 87,
-        "intensidadeVento": 0.1,
-        "intensidadeVentoKM": 0.4,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0.2,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-06-14T00:00:00.000000Z"
-      },
+      "weather": null,
       "created": {
-        "sec": 1781389503
+        "sec": 1781404203
       },
       "updated": {
-        "sec": 1781394004
+        "sec": 1781414703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260828173"
+      },
+      "id": "20260828173",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781407620
+      },
+      "date": "14-06-2026",
+      "hour": "04:27",
+      "location": "Porto, Santo Tirso, Lamelas E Guimarei",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 45,
+      "terrain": 12,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Lamelas E Guimarei",
+      "dico": "1314",
+      "lat": 41.291543,
+      "lng": -8.48365,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "União Das Freguesias De Lamelas E Guimarei Alto De Lamelas",
+      "active": true,
+      "sadoId": "20260828173",
+      "sharepointId": 20260828173,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210643,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1781408105
+      },
+      "updated": {
+        "sec": 1781417703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260828285"
+      },
+      "id": "20260828285",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781412900
+      },
+      "date": "14-06-2026",
+      "hour": "05:55",
+      "location": "Leiria, Ansião, Chão De Couce",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Ansião",
+      "freguesia": "Chão De Couce",
+      "dico": "1003",
+      "lat": 39.90412,
+      "lng": -8.366357,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Chão De Couce Ic3 - Chão De Couce",
+      "active": true,
+      "sadoId": "20260828285",
+      "sharepointId": 20260828285,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "IC3 - Chão de Couce (Corga)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210716,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210716,
+        "stationLocation": "Ansião",
+        "stationDistance": 2.9,
+        "temperatura": 15.7,
+        "humidade": 99,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-06-14T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1781413261
+      },
+      "updated": {
+        "sec": 1781417464
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260828318"
+      },
+      "id": "20260828318",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781414460
+      },
+      "date": "14-06-2026",
+      "hour": "06:21",
+      "location": "Porto, Felgueiras, Friande",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Friande",
+      "dico": "1303",
+      "lat": 41.361517,
+      "lng": -8.163528,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Friande Rua De Vilarinho 84, 4610-576 Felgueiras, Portugal",
+      "active": true,
+      "sadoId": "20260828318",
+      "sharepointId": 20260828318,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 14.9,
+        "temperatura": 18.3,
+        "humidade": 88,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1015.4,
+        "date": "2026-06-14T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1781415904
+      },
+      "updated": {
+        "sec": 1781417703
       }
     }
   ]
