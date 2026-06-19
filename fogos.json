@@ -65,16 +65,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 10,
-        "temperatura": 14.9,
+        "temperatura": 14.2,
         "humidade": 99,
-        "intensidadeVento": 3.1,
-        "intensidadeVentoKM": 11.2,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 33.9,
         "pressao": null,
-        "date": "2026-06-19T01:00:00.000000Z"
+        "date": "2026-06-19T06:00:00.000000Z"
       },
       "created": {
         "sec": 1781621138
@@ -97,7 +97,7 @@
       "location": "Portalegre, Castelo de Vide, Santa Maria Da Devesa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
+      "man": 18,
       "terrain": 6,
       "district": "Portalegre",
       "concelho": "Castelo De Vide",
@@ -137,22 +137,22 @@
         "stationId": 1200571,
         "stationLocation": "Portalegre",
         "stationDistance": 14.8,
-        "temperatura": 25.3,
-        "humidade": 13,
-        "intensidadeVento": 3.8,
-        "intensidadeVentoKM": 13.7,
+        "temperatura": 25.4,
+        "humidade": 8,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1013,
-        "date": "2026-06-19T01:00:00.000000Z"
+        "radiacao": 121.3,
+        "pressao": 1012.8,
+        "date": "2026-06-19T06:00:00.000000Z"
       },
       "created": {
         "sec": 1781714703
       },
       "updated": {
-        "sec": 1781824803
+        "sec": 1781853905
       }
     },
     {
@@ -209,16 +209,16 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 6.8,
-        "temperatura": 14.9,
-        "humidade": 91,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 12.3,
+        "humidade": 87,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1015,
-        "date": "2026-06-19T01:00:00.000000Z"
+        "pressao": 1015.4,
+        "date": "2026-06-19T06:00:00.000000Z"
       },
       "created": {
         "sec": 1781763903
@@ -299,8 +299,8 @@
       "location": "Leiria, Marinha Grande, Marinha Grande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Marinha Grande",
       "freguesia": "Marinha Grande",
@@ -311,9 +311,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Casal Galego Casal Galego",
       "active": true,
@@ -339,22 +339,152 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.7,
-        "temperatura": 17.7,
+        "temperatura": 17.6,
         "humidade": 85,
-        "intensidadeVento": 3.1,
-        "intensidadeVentoKM": 11.2,
-        "idDireccVento": 1,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
+        "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1016.2,
-        "date": "2026-06-19T01:00:00.000000Z"
+        "radiacao": 46.2,
+        "pressao": 1015.5,
+        "date": "2026-06-19T06:00:00.000000Z"
       },
       "created": {
         "sec": 1781827215
       },
       "updated": {
-        "sec": 1781835303
+        "sec": 1781835905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260854155"
+      },
+      "id": "20260854155",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781842860
+      },
+      "date": "19-06-2026",
+      "hour": "05:21",
+      "location": "Porto, Vila Nova de Gaia, Olival",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Olival",
+      "dico": "1317",
+      "lat": 41.0497,
+      "lng": -8.533852,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Sandim, Olival, Lever E Crestuma Castanheira",
+      "active": true,
+      "sadoId": "20260854155",
+      "sharepointId": 20260854155,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 11.4,
+        "temperatura": 16.4,
+        "humidade": 100,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1014.3,
+        "date": "2026-06-19T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1781843714
+      },
+      "updated": {
+        "sec": 1781852103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260854374"
+      },
+      "id": "20260854374",
+      "coords": true,
+      "dateTime": {
+        "sec": 1781850480
+      },
+      "date": "19-06-2026",
+      "hour": "07:28",
+      "location": "Porto, Valongo, Alfena",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Valongo",
+      "freguesia": "Alfena",
+      "dico": "1315",
+      "lat": 41.220062,
+      "lng": -8.534287,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alfena Cabêda, Valongo, Portugal",
+      "active": true,
+      "sadoId": "20260854374",
+      "sharepointId": 20260854374,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210649,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1781851264
+      },
+      "updated": {
+        "sec": 1781852103
       }
     }
   ]
