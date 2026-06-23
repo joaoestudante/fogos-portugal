@@ -65,16 +65,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 10,
-        "temperatura": 17.5,
-        "humidade": 99,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 22.8,
+        "humidade": 72,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 357,
         "pressao": null,
-        "date": "2026-06-23T03:00:00.000000Z"
+        "date": "2026-06-23T07:00:00.000000Z"
       },
       "created": {
         "sec": 1781621138
@@ -97,8 +97,8 @@
       "location": "Portalegre, Castelo de Vide, Santa Maria Da Devesa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 21,
+      "terrain": 6,
       "district": "Portalegre",
       "concelho": "Castelo De Vide",
       "freguesia": "Santa Maria Da Devesa",
@@ -109,9 +109,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Barregão Barregão",
       "active": true,
@@ -147,22 +147,22 @@
         "stationId": 1200571,
         "stationLocation": "Portalegre",
         "stationDistance": 14.8,
-        "temperatura": 23.8,
-        "humidade": 49,
-        "intensidadeVento": 2.4,
-        "intensidadeVentoKM": 8.6,
+        "temperatura": 23.4,
+        "humidade": 45,
+        "intensidadeVento": 3.1,
+        "intensidadeVentoKM": 11.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1014.3,
-        "date": "2026-06-23T03:00:00.000000Z"
+        "radiacao": 675.5,
+        "pressao": 1014.8,
+        "date": "2026-06-23T07:00:00.000000Z"
       },
       "created": {
         "sec": 1781714703
       },
       "updated": {
-        "sec": 1782188103
+        "sec": 1782190505
       }
     },
     {
@@ -223,16 +223,16 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 6.8,
-        "temperatura": 22.4,
-        "humidade": 82,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 24.8,
+        "humidade": 53,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1013.6,
-        "date": "2026-06-23T03:00:00.000000Z"
+        "pressao": 1014.1,
+        "date": "2026-06-23T07:00:00.000000Z"
       },
       "created": {
         "sec": 1781763903
@@ -367,16 +367,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.7,
-        "temperatura": 18.4,
-        "humidade": 98,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 19.8,
+        "humidade": 92,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1014.6,
-        "date": "2026-06-23T03:00:00.000000Z"
+        "radiacao": 297.1,
+        "pressao": 1013.5,
+        "date": "2026-06-23T07:00:00.000000Z"
       },
       "created": {
         "sec": 1781827215
@@ -449,16 +449,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 16,
-        "temperatura": 17.5,
-        "humidade": 99,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 22.8,
+        "humidade": 72,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 357,
         "pressao": null,
-        "date": "2026-06-23T03:00:00.000000Z"
+        "date": "2026-06-23T07:00:00.000000Z"
       },
       "created": {
         "sec": 1781898302
@@ -503,8 +503,18 @@
       "sharepointId": 20260862856,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.06,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.06
+        },
+        "altitude": 165.59,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Frei Joaquim das Neves 74. 2420-151 Leiria. Portugal (Longra)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -522,115 +532,43 @@
         "sec": 1781976303
       },
       "updated": {
-        "sec": 1782022803
+        "sec": 1782197186
       }
     },
     {
       "_id": {
-        "$id": "20260874621"
+        "$id": "20260875168"
       },
-      "id": "20260874621",
+      "id": "20260875168",
       "coords": true,
       "dateTime": {
-        "sec": 1782168360
-      },
-      "date": "22-06-2026",
-      "hour": "23:46",
-      "location": "Porto, Vila Nova de Gaia, Oliveira Do Douro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Oliveira Do Douro",
-      "dico": "1317",
-      "lat": 41.13084,
-      "lng": -8.58154,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Oliveira Do Douro Rua Grupo Recreativo Oliveirense 71, 4430-426 Vila Nova De Gaia, Portugal",
-      "active": true,
-      "sadoId": "20260874621",
-      "sharepointId": 20260874621,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
-      "isFire": true,
-      "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 2,
-        "temperatura": 17.9,
-        "humidade": 100,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1013.4,
-        "date": "2026-06-23T03:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782169213
-      },
-      "updated": {
-        "sec": 1782171003
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260875045"
-      },
-      "id": "20260875045",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782187260
+        "sec": 1782192960
       },
       "date": "23-06-2026",
-      "hour": "05:01",
-      "location": "Leiria, Leiria, Santa Eufémia E Boa Vista",
+      "hour": "06:36",
+      "location": "Lisboa, Azambuja, Alcoentre",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
-      "district": "Leiria",
-      "concelho": "Leiria",
-      "freguesia": "Santa Eufémia E Boa Vista",
-      "dico": "1009",
-      "lat": 39.76388,
-      "lng": -8.75046,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 3,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Alcoentre",
+      "dico": "1103",
+      "lat": 39.206794,
+      "lng": -8.968984,
+      "naturezaCode": "3109",
+      "natureza": "Gestão de Combustível",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Santa Eufemia Rua Das Serradas",
+      "localidade": "Alcoentre  ---",
       "active": true,
-      "sadoId": "20260875045",
-      "sharepointId": 20260875045,
+      "sadoId": "20260875168",
+      "sharepointId": 20260875168,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -643,16 +581,88 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "nearestWeatherStationId": 1240916,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 16.2,
+        "temperatura": 19.8,
+        "humidade": 88,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 182.5,
+        "pressao": null,
+        "date": "2026-06-23T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782193205
+      },
+      "updated": {
+        "sec": 1782193243
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260875673"
+      },
+      "id": "20260875673",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782201300
+      },
+      "date": "23-06-2026",
+      "hour": "08:55",
+      "location": "Lisboa, Amadora, Encosta Do Sol",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Amadora",
+      "freguesia": "Encosta Do Sol",
+      "dico": "1115",
+      "lat": 38.77945,
+      "lng": -9.223012,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Encosta Do Sol Avenida Raúl Rego",
+      "active": true,
+      "sadoId": "20260875673",
+      "sharepointId": 20260875673,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1240935,
       "isFire": true,
       "weather": null,
       "created": {
-        "sec": 1782188705
+        "sec": 1782201903
       },
       "updated": {
-        "sec": 1782188729
+        "sec": 1782201924
       }
     }
   ]
