@@ -65,16 +65,16 @@
         "stationId": 1210553,
         "stationLocation": "Loulé / Cavalos De Caldeirão",
         "stationDistance": 3.2,
-        "temperatura": 26.1,
-        "humidade": 45,
-        "intensidadeVento": 6.7,
-        "intensidadeVentoKM": 24.1,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 25,
+        "humidade": 52,
+        "intensidadeVento": 6.6,
+        "intensidadeVentoKM": 23.8,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1019.3,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "pressao": 1019.6,
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
         "sec": 1782209105
@@ -137,16 +137,16 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 17.2,
-        "temperatura": 26.9,
-        "humidade": 38,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 25.2,
+        "humidade": 40,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1020,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "pressao": 1020.5,
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
         "sec": 1782651903
@@ -169,8 +169,8 @@
       "location": "Vila Real, Murça, Noura E Palheiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 222,
-      "terrain": 70,
+      "man": 196,
+      "terrain": 61,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Noura E Palheiros",
@@ -181,9 +181,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Varges Varges",
       "active": true,
@@ -213,46 +213,46 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 19.8,
-        "temperatura": 26.9,
-        "humidade": 39,
-        "intensidadeVento": 5.4,
-        "intensidadeVentoKM": 19.4,
+        "temperatura": 25.1,
+        "humidade": 45,
+        "intensidadeVento": 2.8,
+        "intensidadeVentoKM": 10.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
         "sec": 1782820816
       },
       "updated": {
-        "sec": 1782860103
+        "sec": 1782864906
       }
     },
     {
       "_id": {
-        "$id": "20260913896"
+        "$id": "20260914590"
       },
-      "id": "20260913896",
+      "id": "20260914590",
       "coords": true,
       "dateTime": {
-        "sec": 1782836280
+        "sec": 1782845760
       },
       "date": "30-06-2026",
-      "hour": "17:18",
-      "location": "Beja, Aljustrel, Aljustrel",
+      "hour": "19:56",
+      "location": "Évora, Mourão, Mourão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Beja",
-      "concelho": "Aljustrel",
-      "freguesia": "Aljustrel",
-      "dico": "0201",
-      "lat": 37.80623,
-      "lng": -8.10021,
+      "man": 0,
+      "terrain": 0,
+      "district": "Évora",
+      "concelho": "Mourão",
+      "freguesia": "Mourão",
+      "dico": "0708",
+      "lat": 38.365972,
+      "lng": -7.296107,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
@@ -261,24 +261,14 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Monte Da Chainça Nova Monte Da Chainça Nova",
+      "localidade": "Monte Vicente Monte Vicente",
       "active": true,
-      "sadoId": "20260913896",
-      "sharepointId": 20260913896,
+      "sadoId": "20260914590",
+      "sharepointId": 20260914590,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 4.1204,
-          "mato": 0,
-          "total": 4.1204
-        },
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "N2. 7600 Aljustrel. Portugal (CHAINÇA NOVA)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -288,257 +278,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "nearestWeatherStationId": 1210864,
+      "sub_regiao": "Alentejo Central",
+      "nearestWeatherStationId": 1210851,
       "isFire": true,
       "weather": {
-        "stationId": 1210864,
-        "stationLocation": "Castro Verde, N.Corvo",
-        "stationDistance": 27.9,
-        "temperatura": 28.1,
-        "humidade": 43,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-06-30T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782837004
-      },
-      "updated": {
-        "sec": 1782850203
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260914043"
-      },
-      "id": "20260914043",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782838260
-      },
-      "date": "30-06-2026",
-      "hour": "17:51",
-      "location": "Vila Real, Chaves, Travancas E Roriz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Travancas E Roriz",
-      "dico": "1703",
-      "lat": 41.820362,
-      "lng": -7.319897,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mairos  ---",
-      "active": true,
-      "sadoId": "20260914043",
-      "sharepointId": 20260914043,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "MAIROS (Plaina de São Cornélio)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "stationDistance": 16.1,
-        "temperatura": 23.8,
-        "humidade": 56,
-        "intensidadeVento": 5.3,
-        "intensidadeVentoKM": 19.1,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1020.8,
-        "date": "2026-06-30T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782838815
-      },
-      "updated": {
-        "sec": 1782858305
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260914205"
-      },
-      "id": "20260914205",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782840480
-      },
-      "date": "30-06-2026",
-      "hour": "18:28",
-      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Fânzeres E São Pedro Da Cova",
-      "dico": "1304",
-      "lat": 41.166318,
-      "lng": -8.51714,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Fânzeres E São Pedro Da Cova Bela Vista",
-      "active": true,
-      "sadoId": "20260914205",
-      "sharepointId": 20260914205,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Bela Vista (Farrobo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
-      "isFire": true,
-      "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 7.8,
-        "temperatura": 20.7,
-        "humidade": 94,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
+        "stationId": 1210851,
+        "stationLocation": "Amareleja",
+        "stationDistance": 19.4,
+        "temperatura": 29.3,
+        "humidade": 40,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.7,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "pressao": 1018,
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
-        "sec": 1782841504
+        "sec": 1782846303
       },
       "updated": {
-        "sec": 1782860411
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260914616"
-      },
-      "id": "20260914616",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782846660
-      },
-      "date": "30-06-2026",
-      "hour": "20:11",
-      "location": "Viseu, Mangualde, Santiago De Cassurrães E Póvoa De Cervães",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
-      "district": "Viseu",
-      "concelho": "Mangualde",
-      "freguesia": "Santiago De Cassurrães E Póvoa De Cervães",
-      "dico": "1806",
-      "lat": 40.538775,
-      "lng": -7.718757,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Contensas De Cima Contensas De Cima",
-      "active": true,
-      "sadoId": "20260914616",
-      "sharepointId": 20260914616,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Contensas de Cima (RIO MONDEGO)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 1259203,
-      "isFire": true,
-      "weather": {
-        "stationId": 1259203,
-        "stationLocation": "Seia/Aeródromo",
-        "stationDistance": 9.7,
-        "temperatura": 21.2,
-        "humidade": 67,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1022.2,
-        "date": "2026-06-30T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782847504
-      },
-      "updated": {
-        "sec": 1782860412
+        "sec": 1782864013
       }
     },
     {
@@ -599,16 +361,16 @@
         "stationId": 1210881,
         "stationLocation": "Olhão, EPPO",
         "stationDistance": 6.5,
-        "temperatura": 26.6,
-        "humidade": 63,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 24.9,
+        "humidade": 74,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1017.8,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "pressao": 1017.7,
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
         "sec": 1782848404
@@ -643,9 +405,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Xertelo  ---",
       "active": true,
@@ -675,66 +437,66 @@
         "stationId": 1210619,
         "stationLocation": "Cabril",
         "stationDistance": 3.9,
-        "temperatura": 22.9,
-        "humidade": 56,
-        "intensidadeVento": 7.3,
-        "intensidadeVentoKM": 26.3,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 22.1,
+        "humidade": 42,
+        "intensidadeVento": 6.5,
+        "intensidadeVentoKM": 23.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
         "sec": 1782852304
       },
       "updated": {
-        "sec": 1782860427
+        "sec": 1782860704
       }
     },
     {
       "_id": {
-        "$id": "20260915233"
+        "$id": "20260915507"
       },
-      "id": "20260915233",
+      "id": "20260915507",
       "coords": true,
       "dateTime": {
-        "sec": 1782856200
+        "sec": 1782862560
       },
-      "date": "30-06-2026",
-      "hour": "22:50",
-      "location": "Porto, Penafiel, Duas Igrejas",
+      "date": "01-07-2026",
+      "hour": "00:36",
+      "location": "Braga, Vila Verde, Valbom (São Pedro), Passô E Valbom (São Martinho)",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 20,
       "terrain": 4,
-      "district": "Porto",
-      "concelho": "Penafiel",
-      "freguesia": "Duas Igrejas",
-      "dico": "1311",
-      "lat": 41.179613,
-      "lng": -8.281378,
+      "district": "Braga",
+      "concelho": "Vila Verde",
+      "freguesia": "Valbom (São Pedro), Passô E Valbom (São Martinho)",
+      "dico": "0313",
+      "lat": 41.713767,
+      "lng": -8.34793,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Duas Igrejas  Rua Da Liberdade 1164, 4560-071 Penafiel, Portugal",
+      "localidade": "---  Lugar Do Barreiro",
       "active": true,
-      "sadoId": "20260915233",
-      "sharepointId": 20260915233,
+      "sadoId": "20260915507",
+      "sharepointId": 20260915507,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "117"
       },
-      "detailLocation": "Rua da Liberdade 1164. 4560-071 Penafiel. Portugal (Vila)",
+      "detailLocation": "Lugar do Barreiro (Avale)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -744,29 +506,105 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212121,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212121,
+        "stationLocation": "Terras de Bouro/Barral (CIM)",
+        "stationDistance": 2.8,
+        "temperatura": 23.2,
+        "humidade": 52,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1022.1,
+        "date": "2026-06-30T23:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782863404
+      },
+      "updated": {
+        "sec": 1782864906
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260915516"
+      },
+      "id": "20260915516",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782862740
+      },
+      "date": "01-07-2026",
+      "hour": "00:39",
+      "location": "Porto, Gondomar, Melres E Medas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Melres E Medas",
+      "dico": "1304",
+      "lat": 41.06875,
+      "lng": -8.417228,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Campidouro",
+      "active": true,
+      "sadoId": "20260915516",
+      "sharepointId": 20260915516,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Campidouro (Quinta da Varziela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
       "nearestWeatherStationId": 1210657,
       "isFire": true,
       "weather": {
         "stationId": 1210657,
         "stationLocation": "Luzim",
-        "stationDistance": 4.6,
-        "temperatura": 21.3,
-        "humidade": 74,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "stationDistance": 16.5,
+        "temperatura": 20.3,
+        "humidade": 79,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-06-30T22:00:00.000000Z"
+        "date": "2026-06-30T23:00:00.000000Z"
       },
       "created": {
-        "sec": 1782857104
+        "sec": 1782864303
       },
       "updated": {
-        "sec": 1782860427
+        "sec": 1782864604
       }
     }
   ]
