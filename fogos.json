@@ -3,88 +3,6 @@
   "data": [
     {
       "_id": {
-        "$id": "20260876378"
-      },
-      "id": "20260876378",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782208140
-      },
-      "date": "23-06-2026",
-      "hour": "10:49",
-      "location": "Faro, Loulé, Ameixial",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Faro",
-      "concelho": "Loulé",
-      "freguesia": "Ameixial",
-      "dico": "0808",
-      "lat": 37.3322,
-      "lng": -7.95928,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Besteiros Besteiros-ameixial, Loulé, Portugal",
-      "active": true,
-      "sadoId": "20260876378",
-      "sharepointId": 20260876378,
-      "extra": "14:30 - EN2 cortada",
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 553.187712252021,
-          "agricola": 7.79150628590584,
-          "mato": 495.488138399243,
-          "total": 1056.46735693717
-        },
-        "altitude": 462.217,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Besteiros-Ameixial. Loulé. Portugal (ER2 (EN2) Km 693)",
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\r\n  <Document>\r\n    <Placemark><Polygon><outerBoundaryIs><LinearRing><coordinates>-7.973328,37.372613,0 -7.969551,37.376569,0 -7.964573,37.376296,0 -7.959080,37.381207,0 -7.953930,37.378615,0 -7.949982,37.374386,0 -7.951698,37.365655,0 -7.951012,37.359925,0 -7.955389,37.355013,0 -7.952814,37.346279,0 -7.952299,37.340274,0 -7.955046,37.336589,0 -7.961397,37.334405,0 -7.967577,37.336316,0 -7.972727,37.343823,0 -7.975473,37.351874,0 -7.974100,37.359242,0 -7.974100,37.362244,0 -7.973328,37.372613,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>\r\n  \n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "nearestWeatherStationId": 1210553,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210553,
-        "stationLocation": "Loulé / Cavalos De Caldeirão",
-        "stationDistance": 3.2,
-        "temperatura": 35.1,
-        "humidade": 26,
-        "intensidadeVento": 7.2,
-        "intensidadeVentoKM": 25.9,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1014.9,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782209105
-      },
-      "updated": {
-        "sec": 1782913204
-      }
-    },
-    {
-      "_id": {
         "$id": "20260912577"
       },
       "id": "20260912577",
@@ -97,8 +15,8 @@
       "location": "Vila Real, Murça, Noura E Palheiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 89,
-      "terrain": 28,
+      "man": 74,
+      "terrain": 25,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Noura E Palheiros",
@@ -109,9 +27,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Varges Varges",
       "active": true,
@@ -141,166 +59,22 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 19.8,
-        "temperatura": 36.3,
-        "humidade": 17,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 34.1,
+        "humidade": 13,
+        "intensidadeVento": 4.6,
+        "intensidadeVentoKM": 16.6,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 2761.8,
+        "radiacao": 791.1,
         "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782820816
       },
       "updated": {
-        "sec": 1782930303
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260917989"
-      },
-      "id": "20260917989",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782909780
-      },
-      "date": "01-07-2026",
-      "hour": "13:43",
-      "location": "Porto, Maia, Castêlo Da Maia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Maia",
-      "freguesia": "Castêlo Da Maia",
-      "dico": "1306",
-      "lat": 41.260068,
-      "lng": -8.59691,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "---  Gondim",
-      "active": true,
-      "sadoId": "20260917989",
-      "sharepointId": 20260917989,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1200545,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200545,
-        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "stationDistance": 7.7,
-        "temperatura": 31.5,
-        "humidade": 42,
-        "intensidadeVento": 6.3,
-        "intensidadeVentoKM": 22.7,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2587,
-        "pressao": 1017.9,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782910505
-      },
-      "updated": {
-        "sec": 1782927604
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260918340"
-      },
-      "id": "20260918340",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782913800
-      },
-      "date": "01-07-2026",
-      "hour": "14:50",
-      "location": "Porto, Maia, Folgosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Maia",
-      "freguesia": "Folgosa",
-      "dico": "1306",
-      "lat": 41.262773,
-      "lng": -8.558255,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Folgosa Outeiro",
-      "active": true,
-      "sadoId": "20260918340",
-      "sharepointId": 20260918340,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1200545,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200545,
-        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "stationDistance": 10.8,
-        "temperatura": 31.5,
-        "humidade": 42,
-        "intensidadeVento": 6.3,
-        "intensidadeVentoKM": 22.7,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2587,
-        "pressao": 1017.9,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782914703
-      },
-      "updated": {
-        "sec": 1782929104
+        "sec": 1782937205
       }
     },
     {
@@ -315,10 +89,10 @@
       "date": "01-07-2026",
       "hour": "15:39",
       "location": "Bragança, Alfândega da Fé, Eucisia, Gouveia E Valverde",
-      "aerial": 8,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 129,
-      "terrain": 39,
+      "man": 122,
+      "terrain": 42,
       "district": "Bragança",
       "concelho": "Alfândega Da Fé",
       "freguesia": "Eucisia, Gouveia E Valverde",
@@ -339,8 +113,12 @@
       "sharepointId": 20260918562,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "CABREIRA",
       "kml": null,
       "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\r\n  <Document>\r\n    <Placemark><Polygon><outerBoundaryIs><LinearRing><coordinates>-6.981125,41.257227,0 -6.982241,41.260356,0 -6.988635,41.263259,0 -6.998892,41.262840,0 -7.006187,41.260582,0 -7.016702,41.259904,0 -7.020564,41.259291,0 -7.021894,41.256839,0 -7.011466,41.252452,0 -7.004514,41.248128,0 -6.992755,41.249774,0 -6.984515,41.255130,0 -6.981125,41.257227,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>\r\n  \n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
       "pco": null,
@@ -357,22 +135,22 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 9.6,
-        "temperatura": 34.1,
-        "humidade": 20,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 31.4,
+        "humidade": 17,
+        "intensidadeVento": 4.8,
+        "intensidadeVentoKM": 17.3,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 2800.7,
-        "pressao": 1017.4,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "radiacao": 484.5,
+        "pressao": 1018,
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782917105
       },
       "updated": {
-        "sec": 1782930328
+        "sec": 1782935704
       }
     },
     {
@@ -389,8 +167,8 @@
       "location": "Braga, Barcelos, Milhazes, Vilar De Figos E Faria",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Barcelos",
       "freguesia": "Milhazes, Vilar De Figos E Faria",
@@ -401,9 +179,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Milhazes Rua Alialva",
       "active": true,
@@ -429,22 +207,22 @@
         "stationId": 6212125,
         "stationLocation": "Barcelos (CIM)",
         "stationDistance": 5.8,
-        "temperatura": 35,
-        "humidade": 34,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 34.2,
+        "humidade": 36,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": null,
-        "radiacao": 2466,
-        "pressao": 1019.3,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "radiacao": null,
+        "pressao": 1018.6,
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782918016
       },
       "updated": {
-        "sec": 1782929403
+        "sec": 1782937205
       }
     },
     {
@@ -483,8 +261,18 @@
       "sharepointId": 20260918696,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.24,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.24
+        },
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Fonte. 2025 Santarém. Portugal (Alqueidão do Mato)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -501,94 +289,22 @@
         "stationId": 1210729,
         "stationLocation": "Rio Maior",
         "stationDistance": 14.6,
-        "temperatura": 29.8,
-        "humidade": 48,
-        "intensidadeVento": 4.5,
-        "intensidadeVentoKM": 16.2,
+        "temperatura": 28.3,
+        "humidade": 51,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 2344.3,
+        "radiacao": 762.9,
         "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782918905
       },
       "updated": {
-        "sec": 1782924302
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260918759"
-      },
-      "id": "20260918759",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782919140
-      },
-      "date": "01-07-2026",
-      "hour": "16:19",
-      "location": "Braga, Vieira do Minho, Ruivães E Campos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Vieira Do Minho",
-      "freguesia": "Ruivães E Campos",
-      "dico": "0311",
-      "lat": 41.681782,
-      "lng": -8.004613,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "---  Lugar Da Paradinha",
-      "active": true,
-      "sadoId": "20260918759",
-      "sharepointId": 20260918759,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 1210619,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210619,
-        "stationLocation": "Cabril",
-        "stationDistance": 4,
-        "temperatura": 32.5,
-        "humidade": 37,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
-        "idDireccVento": 1,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782919503
-      },
-      "updated": {
-        "sec": 1782929703
+        "sec": 1782932617
       }
     },
     {
@@ -627,8 +343,12 @@
       "sharepointId": 20260918781,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Cadorcas (Cadorças)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -645,94 +365,22 @@
         "stationId": 6211216,
         "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
         "stationDistance": 1.2,
-        "temperatura": 30.5,
-        "humidade": 39,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
+        "temperatura": 28.1,
+        "humidade": 44,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1019.3,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "pressao": 1018.9,
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782919503
       },
       "updated": {
-        "sec": 1782923705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260918603"
-      },
-      "id": "20260918603",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782917280
-      },
-      "date": "01-07-2026",
-      "hour": "15:48",
-      "location": "Porto, Póvoa de Varzim, Beiriz",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Póvoa De Varzim",
-      "freguesia": "Beiriz",
-      "dico": "1313",
-      "lat": 41.39368,
-      "lng": -8.74466,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias Da Póvoa De Varzim, Beiriz E Argivai Autoestrada Do Litoral Norte, 4490 Póvoa De Varzim, Portugal",
-      "active": true,
-      "sadoId": "20260918603",
-      "sharepointId": 20260918603,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6212126,
-      "isFire": true,
-      "weather": {
-        "stationId": 6212126,
-        "stationLocation": "Esposende (CIM)",
-        "stationDistance": 15.1,
-        "temperatura": 22.1,
-        "humidade": 75,
-        "intensidadeVento": 8.5,
-        "intensidadeVentoKM": 30.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1020,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782920106
-      },
-      "updated": {
-        "sec": 1782920149
+        "sec": 1782932617
       }
     },
     {
@@ -749,8 +397,8 @@
       "location": "Coimbra, Oliveira do Hospital, Meruge",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Oliveira Do Hospital",
       "freguesia": "Meruge",
@@ -771,8 +419,12 @@
       "sharepointId": 20260918818,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Meruge (Quinta do Pinheiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -789,22 +441,22 @@
         "stationId": 6213620,
         "stationLocation": "Oliveira do Hospital (CIM)",
         "stationDistance": 4.6,
-        "temperatura": 36.4,
-        "humidade": 23,
-        "intensidadeVento": 3.8,
-        "intensidadeVentoKM": 13.7,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
+        "temperatura": 35.2,
+        "humidade": 20,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782920405
       },
       "updated": {
-        "sec": 1782928503
+        "sec": 1782933303
       }
     },
     {
@@ -821,8 +473,8 @@
       "location": "Bragança, Bragança, Parada E Faílde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 10,
+      "terrain": 2,
       "district": "Bragança",
       "concelho": "Bragança",
       "freguesia": "Parada E Faílde",
@@ -833,9 +485,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "União Das Freguesias De Parada E Faílde Parada",
       "active": true,
@@ -843,8 +495,12 @@
       "sharepointId": 20260918825,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Parada (Folgosa)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -861,22 +517,22 @@
         "stationId": 1210633,
         "stationLocation": "Macedo Cavaleiros, Bagueixe",
         "stationDistance": 13.8,
-        "temperatura": 33.4,
-        "humidade": 23,
-        "intensidadeVento": 3.7,
-        "intensidadeVentoKM": 13.3,
+        "temperatura": 29.6,
+        "humidade": 22,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1017.4,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "pressao": 1018.5,
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782920405
       },
       "updated": {
-        "sec": 1782929104
+        "sec": 1782936904
       }
     },
     {
@@ -893,8 +549,8 @@
       "location": "Beja, Odemira, São Luís",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 38,
-      "terrain": 13,
+      "man": 15,
+      "terrain": 7,
       "district": "Beja",
       "concelho": "Odemira",
       "freguesia": "São Luís",
@@ -915,8 +571,12 @@
       "sharepointId": 20260918894,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EM1100 Vale Bejinha (Vale Bejinha)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -933,94 +593,22 @@
         "stationId": 1210788,
         "stationLocation": "Zambujeira",
         "stationDistance": 12.2,
-        "temperatura": 27.6,
-        "humidade": 58,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 23.7,
+        "humidade": 72,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 2724.4,
+        "radiacao": 534.7,
         "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
         "sec": 1782921632
       },
       "updated": {
-        "sec": 1782928203
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260919038"
-      },
-      "id": "20260919038",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782923100
-      },
-      "date": "01-07-2026",
-      "hour": "17:25",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Souto E Tabaçô",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Souto E Tabaçô",
-      "dico": "1601",
-      "lat": 41.81001,
-      "lng": -8.44466,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "União Das Freguesias De Souto E Tabaçô Caminho Do Real 7, 4970-680 Arcos De Valdevez, Portugal",
-      "active": true,
-      "sadoId": "20260919038",
-      "sharepointId": 20260919038,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
-      "isFire": true,
-      "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "stationDistance": 2.3,
-        "temperatura": 30.5,
-        "humidade": 39,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1019.3,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782923706
-      },
-      "updated": {
-        "sec": 1782927303
+        "sec": 1782933005
       }
     },
     {
@@ -1059,8 +647,12 @@
       "sharepointId": 20260919309,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "ÁGUAS BOAS",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1078,105 +670,51 @@
         "sec": 1782926405
       },
       "updated": {
-        "sec": 1782929403
+        "sec": 1782932619
       }
     },
     {
       "_id": {
-        "$id": "20260919324"
+        "$id": "20260919788"
       },
-      "id": "20260919324",
+      "id": "20260919788",
       "coords": true,
       "dateTime": {
-        "sec": 1782926160
+        "sec": 1782932280
       },
       "date": "01-07-2026",
-      "hour": "18:16",
-      "location": "Coimbra, Miranda do Corvo, Vila Nova",
+      "hour": "19:58",
+      "location": "Santarém, Salvaterra de Magos, Marinhais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 5,
-      "district": "Coimbra",
-      "concelho": "Miranda Do Corvo",
-      "freguesia": "Vila Nova",
-      "dico": "0609",
-      "lat": 40.044573,
-      "lng": -8.318256,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 0,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Salvaterra De Magos",
+      "freguesia": "Marinhais",
+      "dico": "1415",
+      "lat": 39.054812,
+      "lng": -8.671763,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Cardeal  ---",
+      "localidade": "Marinhais Rua Vale Telhão",
       "active": true,
-      "sadoId": "20260919324",
-      "sharepointId": 20260919324,
+      "sadoId": "20260919788",
+      "sharepointId": 20260919788,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "nearestWeatherStationId": 6213618,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1782926704
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
       },
-      "updated": {
-        "sec": 1782929105
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260919453"
-      },
-      "id": "20260919453",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782926760
-      },
-      "date": "01-07-2026",
-      "hour": "18:26",
-      "location": "Lisboa, Loures, Loures",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Loures",
-      "freguesia": "Loures",
-      "dico": "1107",
-      "lat": 38.85261,
-      "lng": -9.184009,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Malhapão (Fa) Malhapão",
-      "active": true,
-      "sadoId": "20260919453",
-      "sharepointId": 20260919453,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "detailLocation": "Rua Vale Telhão (MARINHAIS)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1186,69 +724,301 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 6215302,
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
       "isFire": true,
       "weather": {
-        "stationId": 6215302,
-        "stationLocation": "Lisboa, Carnide (CML)",
-        "stationDistance": 8.6,
-        "temperatura": 32.7,
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 17.2,
+        "temperatura": 30.1,
         "humidade": 45,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": null,
+        "radiacao": 831.5,
         "pressao": 1016.2,
-        "date": "2026-07-01T16:00:00.000000Z"
+        "date": "2026-07-01T19:00:00.000000Z"
       },
       "created": {
-        "sec": 1782927906
+        "sec": 1782932704
       },
       "updated": {
-        "sec": 1782930303
+        "sec": 1782935704
       }
     },
     {
       "_id": {
-        "$id": "20260919602"
+        "$id": "20260919823"
       },
-      "id": "20260919602",
+      "id": "20260919823",
       "coords": true,
       "dateTime": {
-        "sec": 1782928920
+        "sec": 1782932880
       },
       "date": "01-07-2026",
-      "hour": "19:02",
-      "location": "Setúbal, Moita, Alhos Vedros",
+      "hour": "20:08",
+      "location": "Beja, Serpa, Serpa (salvador E Santa Maria)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
-      "district": "Setúbal",
-      "concelho": "Moita",
-      "freguesia": "Alhos Vedros",
-      "dico": "1506",
-      "lat": 38.608472,
-      "lng": -8.998723,
+      "man": 14,
+      "terrain": 4,
+      "district": "Beja",
+      "concelho": "Serpa",
+      "freguesia": "Serpa (salvador E Santa Maria)",
+      "dico": "0213",
+      "lat": 37.974025,
+      "lng": -7.607067,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Horta Dos Berreiros Horta Dos Berreiros",
+      "active": true,
+      "sadoId": "20260919823",
+      "sharepointId": 20260919823,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N265. 7830 Serpa. Portugal (Herdade da Retorta)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 23.5,
+        "temperatura": 36.1,
+        "humidade": 18,
+        "intensidadeVento": 4.6,
+        "intensidadeVentoKM": 16.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 679.7,
+        "pressao": 1014.4,
+        "date": "2026-07-01T19:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782933303
+      },
+      "updated": {
+        "sec": 1782937505
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260919964"
+      },
+      "id": "20260919964",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782934860
+      },
+      "date": "01-07-2026",
+      "hour": "20:41",
+      "location": "Évora, Évora, Bacelo E Senhora Da Saúde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Évora",
+      "concelho": "Évora",
+      "freguesia": "Bacelo E Senhora Da Saúde",
+      "dico": "0705",
+      "lat": 38.58227,
+      "lng": -7.902967,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Évora   Bairro Frei Aleixo",
+      "active": true,
+      "sadoId": "20260919964",
+      "sharepointId": 20260919964,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "R Fr Aleixo 11. Senhora da Saúde. EV. Portugal (RUA JOSÉ JOAQUIM DA SILVA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "nearestWeatherStationId": 1200558,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200558,
+        "stationLocation": "Évora (C.Coordenação)",
+        "stationDistance": 5.7,
+        "temperatura": 37.6,
+        "humidade": 17,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 724.1,
+        "pressao": 1014.3,
+        "date": "2026-07-01T19:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782935404
+      },
+      "updated": {
+        "sec": 1782936904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260920005"
+      },
+      "id": "20260920005",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782935400
+      },
+      "date": "01-07-2026",
+      "hour": "20:50",
+      "location": "Beja, Beja, Beja (salvador E Santa Maria Da Feira)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Beja (salvador E Santa Maria Da Feira)",
+      "dico": "0205",
+      "lat": 38.026463,
+      "lng": -7.867352,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ip8 / En 260 Ip8 / En 260",
+      "active": true,
+      "sadoId": "20260920005",
+      "sharepointId": 20260920005,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Mestre António Pato 2. 7800-163 Beja. Portugal (Moinho da Calçadinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 0.2,
+        "temperatura": 36.1,
+        "humidade": 18,
+        "intensidadeVento": 4.6,
+        "intensidadeVentoKM": 16.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 679.7,
+        "pressao": 1014.4,
+        "date": "2026-07-01T19:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782936014
+      },
+      "updated": {
+        "sec": 1782937205
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260920010"
+      },
+      "id": "20260920010",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782935520
+      },
+      "date": "01-07-2026",
+      "hour": "20:52",
+      "location": "Aveiro, Santa Maria da Feira, São Miguel De Souto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "São Miguel De Souto",
+      "dico": "0109",
+      "lat": 40.89096,
+      "lng": -8.568107,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Barra Cheia Estr. Nossa Sra Da Atalainha",
+      "localidade": "União De Freguesias De São Miguel De Souto E Mosteirô A1",
       "active": true,
-      "sadoId": "20260919602",
-      "sharepointId": 20260919602,
+      "sadoId": "20260920010",
+      "sharepointId": 20260920010,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Autoestrada do Norte. 4520 Santa Maria da Feira. Portugal (A1-S-N Km 270)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1257,30 +1027,16 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210766,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6900,
       "isFire": true,
-      "weather": {
-        "stationId": 1210766,
-        "stationLocation": "Barreiro, Lavradio",
-        "stationDistance": 8.5,
-        "temperatura": 35.4,
-        "humidade": 35,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2761,
-        "pressao": null,
-        "date": "2026-07-01T16:00:00.000000Z"
-      },
+      "weather": null,
       "created": {
-        "sec": 1782929703
+        "sec": 1782936904
       },
       "updated": {
-        "sec": 1782930003
+        "sec": 1782936964
       }
     }
   ]
