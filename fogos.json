@@ -65,16 +65,16 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 19.8,
-        "temperatura": 31.9,
-        "humidade": 16,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 35.5,
+        "humidade": 11,
+        "intensidadeVento": 6.4,
+        "intensidadeVentoKM": 23,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 3611.3,
+        "radiacao": 3624.6,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782820816
@@ -97,8 +97,8 @@
       "location": "Bragança, Alfândega da Fé, Eucisia, Gouveia E Valverde",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 178,
-      "terrain": 58,
+      "man": 171,
+      "terrain": 56,
       "district": "Bragança",
       "concelho": "Alfândega Da Fé",
       "freguesia": "Eucisia, Gouveia E Valverde",
@@ -109,9 +109,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cabreira  ---",
       "active": true,
@@ -147,22 +147,22 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 9.6,
-        "temperatura": 29.3,
-        "humidade": 19,
-        "intensidadeVento": 5.2,
-        "intensidadeVentoKM": 18.7,
+        "temperatura": 32.6,
+        "humidade": 14,
+        "intensidadeVento": 4.9,
+        "intensidadeVentoKM": 17.6,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 3408.2,
-        "pressao": 1021.6,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "radiacao": 3550.6,
+        "pressao": 1019.8,
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782917105
       },
       "updated": {
-        "sec": 1782994202
+        "sec": 1783003504
       }
     },
     {
@@ -177,10 +177,10 @@
       "date": "02-07-2026",
       "hour": "00:41",
       "location": "Braga, Vila Nova de Famalicão, Vermoim",
-      "aerial": 3,
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 20,
+      "man": 75,
+      "terrain": 22,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Vermoim",
@@ -202,8 +202,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 105.713825929594,
+          "agricola": 1.61473981971741,
+          "mato": 0,
+          "total": 107.328565749311
+        },
         "altitude": 251.604,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Avenida Sao Jose do Monte (Casal)",
@@ -224,7 +230,7 @@
         "sec": 1782950104
       },
       "updated": {
-        "sec": 1782997504
+        "sec": 1783005603
       }
     },
     {
@@ -239,10 +245,10 @@
       "date": "02-07-2026",
       "hour": "03:04",
       "location": "Viseu, Vouzela, Cambra E Carvalhal De Vermilhas",
-      "aerial": 6,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 292,
-      "terrain": 85,
+      "man": 301,
+      "terrain": 90,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Cambra E Carvalhal De Vermilhas",
@@ -264,13 +270,19 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 117.164630490881,
+          "agricola": 12.6441609175023,
+          "mato": 7.44944611982927,
+          "total": 137.258237528212
+        },
         "altitude": 526.329,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Tourelhe 2 (Tourelhe)",
       "kml": null,
-      "kmlVost": null,
+      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\">\r\n  <Document>\r\n    <Placemark><Polygon><outerBoundaryIs><LinearRing><coordinates>-8.145719,40.683111,0 -8.151126,40.682656,0 -8.153701,40.676798,0 -8.153615,40.672827,0 -8.149066,40.669442,0 -8.139539,40.670353,0 -8.133788,40.671655,0 -8.134303,40.678165,0 -8.136020,40.681419,0 -8.139024,40.684088,0 -8.145719,40.683111,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>\r\n  \n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
       "pco": null,
       "cos": null,
       "heliFight": 0,
@@ -286,7 +298,7 @@
         "sec": 1782959104
       },
       "updated": {
-        "sec": 1782997504
+        "sec": 1783006144
       }
     },
     {
@@ -303,8 +315,8 @@
       "location": "Aveiro, Arouca, Várzea",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 43,
-      "terrain": 13,
+      "man": 41,
+      "terrain": 12,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Várzea",
@@ -347,22 +359,22 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 5.5,
-        "temperatura": 33.2,
-        "humidade": 14,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 34.9,
+        "humidade": 15,
+        "intensidadeVento": 3.2,
+        "intensidadeVentoKM": 11.5,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 3508.6,
+        "radiacao": 3542.8,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782967806
       },
       "updated": {
-        "sec": 1782996304
+        "sec": 1783003805
       }
     },
     {
@@ -429,16 +441,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 7,
-        "temperatura": 33.3,
-        "humidade": 27,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 37,
+        "humidade": 23,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 3451.7,
+        "radiacao": 3375.9,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782969005
@@ -505,16 +517,16 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 16.6,
-        "temperatura": 33.3,
-        "humidade": 27,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 37,
+        "humidade": 23,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 3451.7,
+        "radiacao": 3375.9,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782977703
@@ -537,8 +549,8 @@
       "location": "Porto, Gondomar, Foz Do Sousa E Covelo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 2,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Foz Do Sousa E Covelo",
@@ -581,22 +593,22 @@
         "stationId": 1240546,
         "stationLocation": "Porto, Serra do Pilar",
         "stationDistance": 8.9,
-        "temperatura": 33.6,
-        "humidade": 25,
-        "intensidadeVento": 9.2,
-        "intensidadeVentoKM": 33.1,
+        "temperatura": 37.1,
+        "humidade": 23,
+        "intensidadeVento": 7.9,
+        "intensidadeVentoKM": 28.4,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1017.5,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "pressao": 1016.3,
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782979215
       },
       "updated": {
-        "sec": 1782996605
+        "sec": 1783003805
       }
     },
     {
@@ -657,104 +669,22 @@
         "stationId": 1200541,
         "stationLocation": "Sines",
         "stationDistance": 17.9,
-        "temperatura": 32,
-        "humidade": 39,
-        "intensidadeVento": 4.7,
-        "intensidadeVentoKM": 16.9,
+        "temperatura": 34.1,
+        "humidade": 31,
+        "intensidadeVento": 5.3,
+        "intensidadeVentoKM": 19.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 3382.2,
-        "pressao": 1016.2,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "radiacao": 3445,
+        "pressao": 1015.8,
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782980105
       },
       "updated": {
         "sec": 1782990286
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260922207"
-      },
-      "id": "20260922207",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782982380
-      },
-      "date": "02-07-2026",
-      "hour": "09:53",
-      "location": "Leiria, Alcobaça, Turquel",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Alcobaça",
-      "freguesia": "Turquel",
-      "dico": "1001",
-      "lat": 39.481274,
-      "lng": -8.929673,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Covão Do Milho En1 Pk 89.7",
-      "active": true,
-      "sadoId": "20260922207",
-      "sharepointId": 20260922207,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 0.005,
-          "total": 0.005
-        },
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "EN1 Pk 89.7 (Covão do Milho)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210726,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210726,
-        "stationLocation": "Alcobaça",
-        "stationDistance": 5.1,
-        "temperatura": 36.6,
-        "humidade": 24,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 3366.7,
-        "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782983105
-      },
-      "updated": {
-        "sec": 1782990287
       }
     },
     {
@@ -815,256 +745,22 @@
         "stationId": 1210625,
         "stationLocation": "Guimarães",
         "stationDistance": 12.4,
-        "temperatura": 31.9,
-        "humidade": 19,
+        "temperatura": 34.3,
+        "humidade": 17,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": null,
-        "radiacao": 3444.1,
-        "pressao": 1020.5,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "radiacao": 3463.4,
+        "pressao": 1019.6,
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782983404
       },
       "updated": {
         "sec": 1782996004
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260922340"
-      },
-      "id": "20260922340",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782983580
-      },
-      "date": "02-07-2026",
-      "hour": "10:13",
-      "location": "Aveiro, Águeda, Valongo Do Vouga",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Águeda",
-      "freguesia": "Valongo Do Vouga",
-      "dico": "0101",
-      "lat": 40.613077,
-      "lng": -8.439475,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Quinta Aguieira Quinta Aguieira",
-      "active": true,
-      "sadoId": "20260922340",
-      "sharepointId": 20260922340,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Quinta Aguieira (Quinta da Aguieira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210702,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210702,
-        "stationLocation": "Aveiro (Universidade)",
-        "stationDistance": 18.7,
-        "temperatura": 33.3,
-        "humidade": 20,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 3226.3,
-        "pressao": 1019.5,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782984003
-      },
-      "updated": {
-        "sec": 1782993304
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260922346"
-      },
-      "id": "20260922346",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782983700
-      },
-      "date": "02-07-2026",
-      "hour": "10:15",
-      "location": "Guarda, Seia, Seia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 9,
-      "district": "Guarda",
-      "concelho": "Seia",
-      "freguesia": "Seia",
-      "dico": "0912",
-      "lat": 40.4379,
-      "lng": -7.706113,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Arrifana Arrifana - Arrifana",
-      "active": true,
-      "sadoId": "20260922346",
-      "sharepointId": 20260922346,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Arrifana - Arrifana (Prado)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "nearestWeatherStationId": 1259203,
-      "isFire": true,
-      "weather": {
-        "stationId": 1259203,
-        "stationLocation": "Seia/Aeródromo",
-        "stationDistance": 2.6,
-        "temperatura": 29.2,
-        "humidade": 33,
-        "intensidadeVento": 6.5,
-        "intensidadeVentoKM": 23.4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1019.9,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782984304
-      },
-      "updated": {
-        "sec": 1782990288
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260922399"
-      },
-      "id": "20260922399",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782984060
-      },
-      "date": "02-07-2026",
-      "hour": "10:21",
-      "location": "Santarém, Santarém, Achete, Azoia De Baixo E Póvoa De Santarém",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Santarém",
-      "freguesia": "Achete, Azoia De Baixo E Póvoa De Santarém",
-      "dico": "1416",
-      "lat": 39.353442,
-      "lng": -8.66975,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Nabais  ---",
-      "active": true,
-      "sadoId": "20260922399",
-      "sharepointId": 20260922399,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 0.013,
-          "total": 0.013
-        },
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Nabais",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210734,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210734,
-        "stationLocation": "Santarém, Fonte Boa",
-        "stationDistance": 17.9,
-        "temperatura": 35.1,
-        "humidade": 23,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": 0,
-        "radiacao": 3118.5,
-        "pressao": 1017.5,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782984304
-      },
-      "updated": {
-        "sec": 1782990288
       }
     },
     {
@@ -1131,64 +827,6 @@
     },
     {
       "_id": {
-        "$id": "20260923082"
-      },
-      "id": "20260923082",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782990120
-      },
-      "date": "02-07-2026",
-      "hour": "12:02",
-      "location": "Setúbal, Palmela, Pinhal Novo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
-      "district": "Setúbal",
-      "concelho": "Palmela",
-      "freguesia": "Pinhal Novo",
-      "dico": "1508",
-      "lat": 38.657057,
-      "lng": -8.887197,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Salgueirinha Rua Lagoa Da Palha Velha",
-      "active": true,
-      "sadoId": "20260923082",
-      "sharepointId": 20260923082,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1240929,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1782990905
-      },
-      "updated": {
-        "sec": 1782995404
-      }
-    },
-    {
-      "_id": {
         "$id": "20260923185"
       },
       "id": "20260923185",
@@ -1228,7 +866,7 @@
         "fogacho": true,
         "fontealerta": "Outros"
       },
-      "detailLocation": "Monserrate (Quinta da Fonte do Cedro)",
+      "detailLocation": "(FA) Monserrate (Quinta da Fonte do Cedro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1245,232 +883,22 @@
         "stationId": 1210752,
         "stationLocation": "Sintra/Tapada do Mouco",
         "stationDistance": 1,
-        "temperatura": 33.3,
-        "humidade": 27,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
+        "temperatura": 31.3,
+        "humidade": 32,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782992404
       },
       "updated": {
-        "sec": 1782995706
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260923273"
-      },
-      "id": "20260923273",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782993000
-      },
-      "date": "02-07-2026",
-      "hour": "12:50",
-      "location": "Aveiro, Ovar, São Vicente De Pereira Jusã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 6,
-      "district": "Aveiro",
-      "concelho": "Ovar",
-      "freguesia": "São Vicente De Pereira Jusã",
-      "dico": "0115",
-      "lat": 40.88068,
-      "lng": -8.528013,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "São Vicente De Pereira Juza Rua Do Casal",
-      "active": true,
-      "sadoId": "20260923273",
-      "sharepointId": 20260923273,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Casal (Pereira)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 6900,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1782993616
-      },
-      "updated": {
-        "sec": 1782996304
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260923269"
-      },
-      "id": "20260923269",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782992940
-      },
-      "date": "02-07-2026",
-      "hour": "12:49",
-      "location": "Viana Do Castelo, Arcos de Valdevez, Ázere",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "Ázere",
-      "dico": "1601",
-      "lat": 41.867287,
-      "lng": -8.384242,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "En 202 En 202",
-      "active": true,
-      "sadoId": "20260923269",
-      "sharepointId": 20260923269,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
-      "isFire": true,
-      "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "stationDistance": 6.4,
-        "temperatura": 29,
-        "humidade": 39,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1021.5,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782993904
-      },
-      "updated": {
-        "sec": 1782996333
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260923285"
-      },
-      "id": "20260923285",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782993180
-      },
-      "date": "02-07-2026",
-      "hour": "12:53",
-      "location": "Viana Do Castelo, Viana do Castelo, Darque",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
-      "district": "Viana Do Castelo",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Darque",
-      "dico": "1609",
-      "lat": 41.682603,
-      "lng": -8.803018,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Rua Sebastião Cunha Rua Sebastião Cunha",
-      "active": true,
-      "sadoId": "20260923285",
-      "sharepointId": 20260923285,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Sebastião Cunha (Areia)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 1240610,
-      "isFire": true,
-      "weather": {
-        "stationId": 1240610,
-        "stationLocation": "Viana do Castelo",
-        "stationDistance": 2.6,
-        "temperatura": 30.5,
-        "humidade": 21,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782993904
-      },
-      "updated": {
-        "sec": 1782997215
+        "sec": 1783004976
       }
     },
     {
@@ -1487,21 +915,21 @@
       "location": "Setúbal, Montijo, Canha",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 81,
-      "terrain": 22,
+      "man": 125,
+      "terrain": 41,
       "district": "Setúbal",
       "concelho": "Montijo",
       "freguesia": "Canha",
       "dico": "1507",
       "lat": 38.7495,
       "lng": -8.664356,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Canha En10 - Taipada Para Canha",
       "active": true,
@@ -1514,7 +942,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "EN10  N10 - TAIPADA PARA CANHA (EN10 (EN10) Km 82)",
+      "detailLocation": "EN10 - TAIPADA PARA CANHA (EN10 (EN10) Km 82)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1532,159 +960,7 @@
         "sec": 1782995706
       },
       "updated": {
-        "sec": 1782997505
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260923437"
-      },
-      "id": "20260923437",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782994860
-      },
-      "date": "02-07-2026",
-      "hour": "13:21",
-      "location": "Viseu, Castro Daire, Mezio E Moura Morta",
-      "aerial": 1,
-      "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 6,
-      "district": "Viseu",
-      "concelho": "Castro Daire",
-      "freguesia": "Mezio E Moura Morta",
-      "dico": "1803",
-      "lat": 40.979165,
-      "lng": -7.864602,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Vale Abrigoso  ---",
-      "active": true,
-      "sadoId": "20260923437",
-      "sharepointId": 20260923437,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Vale Abrigoso",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 6213013,
-      "isFire": true,
-      "weather": {
-        "stationId": 6213013,
-        "stationLocation": "Castro Daire / Mézio (CIM)",
-        "stationDistance": 1.6,
-        "temperatura": 24.3,
-        "humidade": 31,
-        "intensidadeVento": 5.5,
-        "intensidadeVentoKM": 19.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782995706
-      },
-      "updated": {
-        "sec": 1782996304
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260923499"
-      },
-      "id": "20260923499",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782995280
-      },
-      "date": "02-07-2026",
-      "hour": "13:28",
-      "location": "Viseu, Lamego, Cambres",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Viseu",
-      "concelho": "Lamego",
-      "freguesia": "Cambres",
-      "dico": "1805",
-      "lat": 41.13087,
-      "lng": -7.813777,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Cambres  ---",
-      "active": true,
-      "sadoId": "20260923499",
-      "sharepointId": 20260923499,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "CAMBRES",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "nearestWeatherStationId": 6213013,
-      "isFire": true,
-      "weather": {
-        "stationId": 6213013,
-        "stationLocation": "Castro Daire / Mézio (CIM)",
-        "stationDistance": 17.7,
-        "temperatura": 24.3,
-        "humidade": 31,
-        "intensidadeVento": 5.5,
-        "intensidadeVentoKM": 19.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782996004
-      },
-      "updated": {
-        "sec": 1782997505
+        "sec": 1783005603
       }
     },
     {
@@ -1701,8 +977,8 @@
       "location": "Aveiro, São João da Madeira, São João Da Madeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 8,
-      "terrain": 3,
+      "man": 6,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "São João Da Madeira",
       "freguesia": "São João Da Madeira",
@@ -1723,8 +999,12 @@
       "sharepointId": 20260923548,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Rua Dr. Serafim Leite (SÃO JOÃO DA MADEIRA)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1742,7 +1022,7 @@
         "sec": 1782996304
       },
       "updated": {
-        "sec": 1782997505
+        "sec": 1783004977
       }
     },
     {
@@ -1756,24 +1036,24 @@
       },
       "date": "02-07-2026",
       "hour": "13:44",
-      "location": "Braga, Vila Nova de Famalicão, Nine",
+      "location": "Braga, Vila Nova de Famalicão, Arnoso (Santa Maria E Santa Eulália) E Sezures",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 4,
+      "man": 73,
+      "terrain": 21,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
-      "freguesia": "Nine",
+      "freguesia": "Arnoso (Santa Maria E Santa Eulália) E Sezures",
       "dico": "0312",
-      "lat": 41.46827,
-      "lng": -8.53231,
+      "lat": 41.468885,
+      "lng": -8.49773,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Nine  Travessa Do Moleiro, 4775 Vila Nova De Famalicão, Portugal",
       "active": true,
@@ -1781,8 +1061,12 @@
       "sharepointId": 20260923565,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa do Moleiro. 4775 Vila Nova de Famalicão. Portugal (Laje)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1800,7 +1084,7 @@
         "sec": 1782996606
       },
       "updated": {
-        "sec": 1782997505
+        "sec": 1783004977
       }
     },
     {
@@ -1815,23 +1099,23 @@
       "date": "02-07-2026",
       "hour": "13:42",
       "location": "Lisboa, Torres Vedras, Dois Portos",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 19,
+      "terrain": 6,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Dois Portos",
       "dico": "1113",
-      "lat": 39.043737,
-      "lng": -9.193442,
+      "lat": 39.0407,
+      "lng": -9.192378,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ribaldeira  ---",
       "active": true,
@@ -1844,7 +1128,7 @@
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Ribaldeira",
+      "detailLocation": "Ribaldeira (IC11 (EN248) Km 5)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1861,62 +1145,128 @@
         "stationId": 1210739,
         "stationLocation": "Torres Vedras, Dois Portos",
         "stationDistance": 1.2,
-        "temperatura": 34.5,
-        "humidade": 29,
+        "temperatura": 37.7,
+        "humidade": 24,
         "intensidadeVento": 0,
         "intensidadeVentoKM": 0,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 3369.4,
+        "radiacao": 3494,
         "pressao": null,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
         "sec": 1782996905
       },
       "updated": {
-        "sec": 1782997505
+        "sec": 1783004977
       }
     },
     {
       "_id": {
-        "$id": "20260923683"
+        "$id": "20260923703"
       },
-      "id": "20260923683",
+      "id": "20260923703",
       "coords": true,
       "dateTime": {
-        "sec": 1782996540
+        "sec": 1782997440
       },
       "date": "02-07-2026",
-      "hour": "13:49",
-      "location": "Porto, Gondomar, Rio Tinto",
-      "aerial": 0,
+      "hour": "14:04",
+      "location": "Santarém, Ourém, Espite",
+      "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Rio Tinto",
-      "dico": "1304",
-      "lat": 41.183094,
-      "lng": -8.556242,
+      "man": 136,
+      "terrain": 38,
+      "district": "Santarém",
+      "concelho": "Ourém",
+      "freguesia": "Espite",
+      "dico": "1421",
+      "lat": 39.762637,
+      "lng": -8.634917,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Rio Tinto Rua Padre António Carneiro Azevedo",
+      "localidade": "Espite  ---",
       "active": true,
-      "sadoId": "20260923683",
-      "sharepointId": 20260923683,
+      "sadoId": "20260923703",
+      "sharepointId": 20260923703,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "ESPITE",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "nearestWeatherStationId": 1240916,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1782998104
+      },
+      "updated": {
+        "sec": 1783005004
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923723"
+      },
+      "id": "20260923723",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782997680
+      },
+      "date": "02-07-2026",
+      "hour": "14:08",
+      "location": "Vila Real, Mondim de Basto, Mondim De Basto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 8,
+      "district": "Vila Real",
+      "concelho": "Mondim De Basto",
+      "freguesia": "Mondim De Basto",
+      "dico": "1705",
+      "lat": 41.423577,
+      "lng": -7.935252,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "São Cristóvão De Mondim De Basto N312, 4880 Mondim De Basto, Portugal",
+      "active": true,
+      "sadoId": "20260923723",
+      "sharepointId": 20260923723,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N312. 4880 Mondim de Basto. Portugal (Sobreira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1926,29 +1276,1217 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210630,
       "isFire": true,
       "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 6.3,
-        "temperatura": 33.6,
+        "stationId": 1210630,
+        "stationLocation": "Cabeceiras de Basto",
+        "stationDistance": 12.5,
+        "temperatura": 34.2,
+        "humidade": 15,
+        "intensidadeVento": 3.6,
+        "intensidadeVentoKM": 13,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 3561.2,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1782998104
+      },
+      "updated": {
+        "sec": 1783004978
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923791"
+      },
+      "id": "20260923791",
+      "coords": true,
+      "dateTime": {
+        "sec": 1782998340
+      },
+      "date": "02-07-2026",
+      "hour": "14:19",
+      "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 6,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Charneca De Caparica E Sobreda",
+      "dico": "1503",
+      "lat": 38.63995,
+      "lng": -9.17725,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Charneca De Caparica E Sobreda Rua Tomás De Alcaide, 2815 Almada, Portugal",
+      "active": true,
+      "sadoId": "20260923791",
+      "sharepointId": 20260923791,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Tomás de Alcaide. 2815 Almada. Portugal (Vale Figueira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210773,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1782999003
+      },
+      "updated": {
+        "sec": 1783001404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923940"
+      },
+      "id": "20260923940",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000080
+      },
+      "date": "02-07-2026",
+      "hour": "14:48",
+      "location": "Viana Do Castelo, Ponte de Lima, Facha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 4,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Facha",
+      "dico": "1607",
+      "lat": 41.716677,
+      "lng": -8.618228,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Rua Latada Rua Latada",
+      "active": true,
+      "sadoId": "20260923940",
+      "sharepointId": 20260923940,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Latada (Arribão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1210615,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210615,
+        "stationLocation": "Ponte de Lima",
+        "stationDistance": 5.7,
+        "temperatura": 35.2,
+        "humidade": 26,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 3495,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783000504
+      },
+      "updated": {
+        "sec": 1783005904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923945"
+      },
+      "id": "20260923945",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000140
+      },
+      "date": "02-07-2026",
+      "hour": "14:49",
+      "location": "Braga, Barcelos, Milhazes, Vilar De Figos E Faria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Barcelos",
+      "freguesia": "Milhazes, Vilar De Figos E Faria",
+      "dico": "0302",
+      "lat": 41.493615,
+      "lng": -8.665107,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Milhazes Milhazes",
+      "active": true,
+      "sadoId": "20260923945",
+      "sharepointId": 20260923945,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Milhazes",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212125,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212125,
+        "stationLocation": "Barcelos (CIM)",
+        "stationDistance": 5.1,
+        "temperatura": 36.6,
+        "humidade": 14,
+        "intensidadeVento": 4.4,
+        "intensidadeVentoKM": 15.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": null,
+        "radiacao": 3275.4,
+        "pressao": 1020.9,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783000504
+      },
+      "updated": {
+        "sec": 1783005004
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923947"
+      },
+      "id": "20260923947",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000020
+      },
+      "date": "02-07-2026",
+      "hour": "14:47",
+      "location": "Lisboa, Azambuja, Alcoentre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Alcoentre",
+      "dico": "1103",
+      "lat": 39.19592,
+      "lng": -8.978115,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Casais Das Boiças  ---",
+      "active": true,
+      "sadoId": "20260923947",
+      "sharepointId": 20260923947,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Casais das Boiças (Casal dos Queijos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 17.6,
+        "temperatura": 38.8,
+        "humidade": 20,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 3288.7,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783000504
+      },
+      "updated": {
+        "sec": 1783005303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923984"
+      },
+      "id": "20260923984",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000440
+      },
+      "date": "02-07-2026",
+      "hour": "14:54",
+      "location": "Aveiro, Águeda, Macinhata Do Vouga",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 7,
+      "district": "Aveiro",
+      "concelho": "Águeda",
+      "freguesia": "Macinhata Do Vouga",
+      "dico": "0101",
+      "lat": 40.655065,
+      "lng": -8.469592,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Macinhata Do Vouga Serem De Cima",
+      "active": true,
+      "sadoId": "20260923984",
+      "sharepointId": 20260923984,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Serem de Cima (Serém de Cima)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 16.2,
+        "temperatura": 34.9,
         "humidade": 25,
-        "intensidadeVento": 9.2,
-        "intensidadeVentoKM": 33.1,
+        "intensidadeVento": 5.3,
+        "intensidadeVentoKM": 19.1,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 3372.6,
+        "pressao": 1018.7,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783001104
+      },
+      "updated": {
+        "sec": 1783004979
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924000"
+      },
+      "id": "20260924000",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000560
+      },
+      "date": "02-07-2026",
+      "hour": "14:56",
+      "location": "Beja, Vidigueira, Pedrógão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 3,
+      "district": "Beja",
+      "concelho": "Vidigueira",
+      "freguesia": "Pedrógão",
+      "dico": "0214",
+      "lat": 38.142505,
+      "lng": -7.678535,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Monte Do Peso Monte Do Peso",
+      "active": true,
+      "sadoId": "20260924000",
+      "sharepointId": 20260924000,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Monte do Peso",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 21.1,
+        "temperatura": 40.8,
+        "humidade": 16,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1017.5,
-        "date": "2026-07-02T12:00:00.000000Z"
+        "radiacao": 3450.9,
+        "pressao": 1014.6,
+        "date": "2026-07-02T14:00:00.000000Z"
       },
       "created": {
-        "sec": 1782997505
+        "sec": 1783001104
       },
       "updated": {
-        "sec": 1782997547
+        "sec": 1783004980
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924004"
+      },
+      "id": "20260924004",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000740
+      },
+      "date": "02-07-2026",
+      "hour": "14:59",
+      "location": "Viseu, São Pedro do Sul, Valadares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 4,
+      "district": "Viseu",
+      "concelho": "São Pedro Do Sul",
+      "freguesia": "Valadares",
+      "dico": "1816",
+      "lat": 40.757252,
+      "lng": -8.20102,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Valadares  ---",
+      "active": true,
+      "sadoId": "20260924004",
+      "sharepointId": 20260924004,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "VALADARES (Ermidinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213016,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213016,
+        "stationLocation": "Oliveira de Frades (CIM)",
+        "stationDistance": 4.5,
+        "temperatura": 31.9,
+        "humidade": 17,
+        "intensidadeVento": 8.2,
+        "intensidadeVentoKM": 29.5,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783001104
+      },
+      "updated": {
+        "sec": 1783002604
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260923992"
+      },
+      "id": "20260923992",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783000560
+      },
+      "date": "02-07-2026",
+      "hour": "14:56",
+      "location": "Aveiro, Vagos, Ouca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Aveiro",
+      "concelho": "Vagos",
+      "freguesia": "Ouca",
+      "dico": "0118",
+      "lat": 40.525987,
+      "lng": -8.648765,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ouca Rua Do Marquês 8, 3840 Vagos, Portugal",
+      "active": true,
+      "sadoId": "20260923992",
+      "sharepointId": 20260923992,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Marquês 8. 3840 Vagos. Portugal (Boco)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 12.2,
+        "temperatura": 34.9,
+        "humidade": 25,
+        "intensidadeVento": 5.3,
+        "intensidadeVentoKM": 19.1,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 3372.6,
+        "pressao": 1018.7,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783001404
+      },
+      "updated": {
+        "sec": 1783004980
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924047"
+      },
+      "id": "20260924047",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783001220
+      },
+      "date": "02-07-2026",
+      "hour": "15:07",
+      "location": "Braga, Barcelos, Viatodos, Grimancelos, Minhotães E Monte De Fralães",
+      "aerial": 3,
+      "meios_aquaticos": 0,
+      "man": 55,
+      "terrain": 12,
+      "district": "Braga",
+      "concelho": "Barcelos",
+      "freguesia": "Viatodos, Grimancelos, Minhotães E Monte De Fralães",
+      "dico": "0302",
+      "lat": 41.444472,
+      "lng": -8.570268,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Monte Fralães Monte Fralães",
+      "active": true,
+      "sadoId": "20260924047",
+      "sharepointId": 20260924047,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Monte Fralães (Outeiro Poente)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212410,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1783001705
+      },
+      "updated": {
+        "sec": 1783005004
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924096"
+      },
+      "id": "20260924096",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783001640
+      },
+      "date": "02-07-2026",
+      "hour": "15:14",
+      "location": "Vila Real, Valpaços, Friões",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 36,
+      "terrain": 7,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Friões",
+      "dico": "1712",
+      "lat": 41.65423,
+      "lng": -7.425413,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Ladário  ---",
+      "active": true,
+      "sadoId": "20260924096",
+      "sharepointId": 20260924096,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Ladário",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 8.6,
+        "temperatura": 34.9,
+        "humidade": 12,
+        "intensidadeVento": 5.8,
+        "intensidadeVentoKM": 20.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 2778.1,
+        "pressao": 1018.5,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783002306
+      },
+      "updated": {
+        "sec": 1783005303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924166"
+      },
+      "id": "20260924166",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783002300
+      },
+      "date": "02-07-2026",
+      "hour": "15:25",
+      "location": "Guarda, Trancoso, Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 7,
+      "district": "Guarda",
+      "concelho": "Trancoso",
+      "freguesia": "Torre Do Terrenho, Sebadelhe Da Serra E Terrenho",
+      "dico": "0913",
+      "lat": 40.878574,
+      "lng": -7.391691,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Sebadelhe Parque Eolico Sebadelhe",
+      "active": true,
+      "sadoId": "20260924166",
+      "sharepointId": 20260924166,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Parque Eolico Sebadelhe (LAGAR)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210666,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210666,
+        "stationLocation": "Trancoso, Bandarra",
+        "stationDistance": 10.8,
+        "temperatura": 28.4,
+        "humidade": 21,
+        "intensidadeVento": 4.7,
+        "intensidadeVentoKM": 16.9,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 3541.9,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783002905
+      },
+      "updated": {
+        "sec": 1783005904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924326"
+      },
+      "id": "20260924326",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783004340
+      },
+      "date": "02-07-2026",
+      "hour": "15:59",
+      "location": "Vila Real, Chaves, Vidago, Arcossó, Selhariz E Vilarinho Das Paranheiras",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Vidago, Arcossó, Selhariz E Vilarinho Das Paranheiras",
+      "dico": "1703",
+      "lat": 41.65151,
+      "lng": -7.550926,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Valverde Valverde",
+      "active": true,
+      "sadoId": "20260924326",
+      "sharepointId": 20260924326,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Valverde",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 10.8,
+        "temperatura": 34.9,
+        "humidade": 12,
+        "intensidadeVento": 5.8,
+        "intensidadeVentoKM": 20.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 2778.1,
+        "pressao": 1018.5,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783004703
+      },
+      "updated": {
+        "sec": 1783005303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924329"
+      },
+      "id": "20260924329",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783004040
+      },
+      "date": "02-07-2026",
+      "hour": "15:54",
+      "location": "Vila Real, Vila Pouca de Aguiar, Vreia De Bornes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Vreia De Bornes",
+      "dico": "1713",
+      "lat": 41.555158,
+      "lng": -7.548194,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Barbadães De Cima  ---",
+      "active": true,
+      "sadoId": "20260924329",
+      "sharepointId": 20260924329,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Barbadães de Cima",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 20.1,
+        "temperatura": 34.9,
+        "humidade": 12,
+        "intensidadeVento": 5.8,
+        "intensidadeVentoKM": 20.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 2778.1,
+        "pressao": 1018.5,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783004703
+      },
+      "updated": {
+        "sec": 1783005303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924323"
+      },
+      "id": "20260924323",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783004280
+      },
+      "date": "02-07-2026",
+      "hour": "15:58",
+      "location": "Viana Do Castelo, Viana do Castelo, Alvarães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Alvarães",
+      "dico": "1609",
+      "lat": 41.64013,
+      "lng": -8.740767,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Rua Do Rego Rua Do Rego",
+      "active": true,
+      "sadoId": "20260924323",
+      "sharepointId": 20260924323,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Rego (Sardal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1200551,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 5.4,
+        "temperatura": 35.4,
+        "humidade": 26,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 3566.6,
+        "pressao": 1019.5,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783005005
+      },
+      "updated": {
+        "sec": 1783005514
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924357"
+      },
+      "id": "20260924357",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783004760
+      },
+      "date": "02-07-2026",
+      "hour": "16:06",
+      "location": "Santarém, Rio Maior, São João Da Ribeira E Ribeira De São João",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 80,
+      "terrain": 19,
+      "district": "Santarém",
+      "concelho": "Rio Maior",
+      "freguesia": "São João Da Ribeira E Ribeira De São João",
+      "dico": "1414",
+      "lat": 39.286628,
+      "lng": -8.885325,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ribeira De São João  ---",
+      "active": true,
+      "sadoId": "20260924357",
+      "sharepointId": 20260924357,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Ribeira de São João",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 8.2,
+        "temperatura": 38.8,
+        "humidade": 20,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 3288.7,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783005303
+      },
+      "updated": {
+        "sec": 1783005904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260924414"
+      },
+      "id": "20260924414",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783005360
+      },
+      "date": "02-07-2026",
+      "hour": "16:16",
+      "location": "Aveiro, Mealhada, Pampilhosa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 5,
+      "district": "Aveiro",
+      "concelho": "Mealhada",
+      "freguesia": "Pampilhosa",
+      "dico": "0111",
+      "lat": 40.336152,
+      "lng": -8.420263,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pampilhosa  ---",
+      "active": true,
+      "sadoId": "20260924414",
+      "sharepointId": 20260924414,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Outros"
+      },
+      "detailLocation": "PAMPILHOSA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213613,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213613,
+        "stationLocation": "Coimbra / Mata de São Pedro (CIM)",
+        "stationDistance": 3.9,
+        "temperatura": 33.4,
+        "humidade": 21,
+        "intensidadeVento": 4.9,
+        "intensidadeVentoKM": 17.6,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-07-02T14:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783005904
+      },
+      "updated": {
+        "sec": 1783006037
       }
     }
   ]
