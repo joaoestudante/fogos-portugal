@@ -15,8 +15,8 @@
       "location": "Vila Real, Murça, Noura E Palheiros",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
-      "terrain": 12,
+      "man": 27,
+      "terrain": 8,
       "district": "Vila Real",
       "concelho": "Murça",
       "freguesia": "Noura E Palheiros",
@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 58.9776997523308,
+          "agricola": 11.0802307745934,
+          "mato": 65.1045029136658,
+          "total": 135.16243344059
+        },
+        "altitude": 429.419,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Varges",
@@ -59,8 +65,8 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 19.8,
-        "temperatura": 28.5,
-        "humidade": 26,
+        "temperatura": 24.3,
+        "humidade": 32,
         "intensidadeVento": 3.1,
         "intensidadeVentoKM": 11.2,
         "idDireccVento": 3,
@@ -68,13 +74,13 @@
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
+        "date": "2026-07-02T00:00:00.000000Z"
       },
       "created": {
         "sec": 1782820816
       },
       "updated": {
-        "sec": 1782947704
+        "sec": 1782953402
       }
     },
     {
@@ -141,560 +147,22 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 9.6,
-        "temperatura": 26.2,
-        "humidade": 25,
-        "intensidadeVento": 4.3,
-        "intensidadeVentoKM": 15.5,
+        "temperatura": 22.1,
+        "humidade": 32,
+        "intensidadeVento": 4.4,
+        "intensidadeVentoKM": 15.8,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1020.6,
-        "date": "2026-07-01T22:00:00.000000Z"
+        "pressao": 1023.1,
+        "date": "2026-07-02T00:00:00.000000Z"
       },
       "created": {
         "sec": 1782917105
       },
       "updated": {
         "sec": 1782948904
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920159"
-      },
-      "id": "20260920159",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782937740
-      },
-      "date": "01-07-2026",
-      "hour": "21:29",
-      "location": "Porto, Marco de Canaveses, Bem Viver",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Bem Viver",
-      "dico": "1307",
-      "lat": 41.11453,
-      "lng": -8.22875,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Bem Viver 4625, Vila Nova De Pavões, Marco De Canaveses, Portugal",
-      "active": true,
-      "sadoId": "20260920159",
-      "sharepointId": 20260920159,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 0.005,
-          "total": 0.005
-        },
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "4625. Vila Nova de Pavões. Marco de Canaveses. Portugal (Vila)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 3.9,
-        "temperatura": 28.7,
-        "humidade": 24,
-        "intensidadeVento": 3.7,
-        "intensidadeVentoKM": 13.3,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782938403
-      },
-      "updated": {
-        "sec": 1782946975
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920209"
-      },
-      "id": "20260920209",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782938340
-      },
-      "date": "01-07-2026",
-      "hour": "21:39",
-      "location": "Guarda, Seia, Paranhos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 7,
-      "district": "Guarda",
-      "concelho": "Seia",
-      "freguesia": "Paranhos",
-      "dico": "0912",
-      "lat": 40.479867,
-      "lng": -7.789823,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Paranhos  ---",
-      "active": true,
-      "sadoId": "20260920209",
-      "sharepointId": 20260920209,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "PARANHOS (EN231 (IC37) Km 32)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "nearestWeatherStationId": 1210685,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210685,
-        "stationLocation": "Nelas",
-        "stationDistance": 6.5,
-        "temperatura": 29,
-        "humidade": 25,
-        "intensidadeVento": 5.5,
-        "intensidadeVentoKM": 19.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782938704
-      },
-      "updated": {
-        "sec": 1782948305
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920424"
-      },
-      "id": "20260920424",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782941580
-      },
-      "date": "01-07-2026",
-      "hour": "22:33",
-      "location": "Évora, Évora, Torre De Coelheiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Évora",
-      "concelho": "Évora",
-      "freguesia": "Torre De Coelheiros",
-      "dico": "0705",
-      "lat": 38.464053,
-      "lng": -7.946378,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sitima Sitima",
-      "active": true,
-      "sadoId": "20260920424",
-      "sharepointId": 20260920424,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Sitima (Sitema)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "nearestWeatherStationId": 1200843,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200843,
-        "stationLocation": "Évora (Aeródromo)",
-        "stationDistance": 8.7,
-        "temperatura": 29.5,
-        "humidade": 46,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1016,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782943504
-      },
-      "updated": {
-        "sec": 1782946816
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920492"
-      },
-      "id": "20260920492",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782942840
-      },
-      "date": "01-07-2026",
-      "hour": "22:54",
-      "location": "Braga, Celorico de Basto, Britelo, Gémeos E Ourilhe",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Celorico De Basto",
-      "freguesia": "Britelo, Gémeos E Ourilhe",
-      "dico": "0305",
-      "lat": 41.415702,
-      "lng": -8.01791,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Britelo, Gémeos E Ourilhe Cerdeirinhas-ourilhe 4, 4890 Celorico De Basto, Portugal",
-      "active": true,
-      "sadoId": "20260920492",
-      "sharepointId": 20260920492,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Cerdeirinhas-Ourilhe 4. 4890 Celorico de Basto. Portugal (Vinha)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210630,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210630,
-        "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 13.8,
-        "temperatura": 24.7,
-        "humidade": 58,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782943804
-      },
-      "updated": {
-        "sec": 1782947103
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920551"
-      },
-      "id": "20260920551",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782943740
-      },
-      "date": "01-07-2026",
-      "hour": "23:09",
-      "location": "Leiria, Alcobaça, Pataias E Martingança",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
-      "district": "Leiria",
-      "concelho": "Alcobaça",
-      "freguesia": "Pataias E Martingança",
-      "dico": "1001",
-      "lat": 39.680973,
-      "lng": -8.984732,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Burinhosa Rua Das Lagoas",
-      "active": true,
-      "sadoId": "20260920551",
-      "sharepointId": 20260920551,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Rua das Lagoas (EN242 (EN242) Km 22)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210721,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210721,
-        "stationLocation": "São Pedro de Moel",
-        "stationDistance": 10,
-        "temperatura": 18,
-        "humidade": 87,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782944104
-      },
-      "updated": {
-        "sec": 1782948904
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920609"
-      },
-      "id": "20260920609",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782945060
-      },
-      "date": "01-07-2026",
-      "hour": "23:31",
-      "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Vila Boa De Quires E Maureles",
-      "dico": "1307",
-      "lat": 41.20339,
-      "lng": -8.2041,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vila Boa De Quires E Maureles Rua Da Covela 575, 4635-680 Marco De Canaveses, Portugal",
-      "active": true,
-      "sadoId": "20260920609",
-      "sharepointId": 20260920609,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "PV"
-      },
-      "detailLocation": "Rua da Covela 575. 4635-680 Marco de Canaveses. Portugal (Covela)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 7.4,
-        "temperatura": 28.7,
-        "humidade": 24,
-        "intensidadeVento": 3.7,
-        "intensidadeVentoKM": 13.3,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782945904
-      },
-      "updated": {
-        "sec": 1782948904
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260920646"
-      },
-      "id": "20260920646",
-      "coords": true,
-      "dateTime": {
-        "sec": 1782945720
-      },
-      "date": "01-07-2026",
-      "hour": "23:42",
-      "location": "Setúbal, Montijo, Sarilhos Grandes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
-      "district": "Setúbal",
-      "concelho": "Montijo",
-      "freguesia": "Sarilhos Grandes",
-      "dico": "1507",
-      "lat": 38.67944,
-      "lng": -8.962217,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Lançada Estrada Do Malpique",
-      "active": true,
-      "sadoId": "20260920646",
-      "sharepointId": 20260920646,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Estrada do malpique (Quinta de Santo António)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210766,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210766,
-        "stationLocation": "Barreiro, Lavradio",
-        "stationDistance": 7.4,
-        "temperatura": 24.2,
-        "humidade": 70,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1782946503
-      },
-      "updated": {
-        "sec": 1782948004
       }
     },
     {
@@ -711,8 +179,8 @@
       "location": "Braga, Vila Verde, Ribeira Do Neiva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 4,
+      "man": 38,
+      "terrain": 9,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Ribeira Do Neiva",
@@ -723,9 +191,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias Da Ribeira Do Neiva Sit S Miguel-o-anjo 35, Ribeira Do Neiva, Br, Portugal",
       "active": true,
@@ -755,58 +223,58 @@
         "stationId": 6211218,
         "stationLocation": "Ponte De Lima - Anais (CIM)",
         "stationDistance": 2.2,
-        "temperatura": 26.2,
-        "humidade": 45,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 22.7,
+        "humidade": 55,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": null,
         "radiacao": 0,
-        "pressao": 1019.1,
-        "date": "2026-07-01T22:00:00.000000Z"
+        "pressao": 1020.2,
+        "date": "2026-07-02T00:00:00.000000Z"
       },
       "created": {
         "sec": 1782946816
       },
       "updated": {
-        "sec": 1782948904
+        "sec": 1782952204
       }
     },
     {
       "_id": {
-        "$id": "20260920676"
+        "$id": "20260920758"
       },
-      "id": "20260920676",
+      "id": "20260920758",
       "coords": true,
       "dateTime": {
-        "sec": 1782946680
+        "sec": 1782949260
       },
-      "date": "01-07-2026",
-      "hour": "23:58",
-      "location": "Castelo Branco, Castelo Branco, Póvoa De Rio De Moinhos E Cafede",
+      "date": "02-07-2026",
+      "hour": "00:41",
+      "location": "Braga, Vila Nova de Famalicão, Vermoim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Póvoa De Rio De Moinhos E Cafede",
-      "dico": "0502",
-      "lat": 39.91035,
-      "lng": -7.511882,
+      "man": 52,
+      "terrain": 14,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Vermoim",
+      "dico": "0312",
+      "lat": 41.425485,
+      "lng": -8.45368,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Cafede Rua Dr. Oliveira Salazar",
+      "localidade": "Vermoim Avenida Sao Jose Do Monte",
       "active": true,
-      "sadoId": "20260920676",
-      "sharepointId": 20260920676,
+      "sadoId": "20260920758",
+      "sharepointId": 20260920758,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -819,66 +287,52 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "nearestWeatherStationId": 1200570,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 6212410,
       "isFire": true,
-      "weather": {
-        "stationId": 1200570,
-        "stationLocation": "Castelo Branco",
-        "stationDistance": 9.4,
-        "temperatura": 31,
-        "humidade": 34,
-        "intensidadeVento": 4.1,
-        "intensidadeVentoKM": 14.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1015.7,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
+      "weather": null,
       "created": {
-        "sec": 1782947103
+        "sec": 1782950104
       },
       "updated": {
-        "sec": 1782948904
+        "sec": 1782955803
       }
     },
     {
       "_id": {
-        "$id": "20260920706"
+        "$id": "20260920862"
       },
-      "id": "20260920706",
+      "id": "20260920862",
       "coords": true,
       "dateTime": {
-        "sec": 1782947820
+        "sec": 1782952440
       },
       "date": "02-07-2026",
-      "hour": "00:17",
-      "location": "Porto, Maia, Folgosa",
+      "hour": "01:34",
+      "location": "Setúbal, Setúbal, Setúbal (São Sebastião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Maia",
-      "freguesia": "Folgosa",
-      "dico": "1306",
-      "lat": 41.26255,
-      "lng": -8.55802,
+      "man": 19,
+      "terrain": 5,
+      "district": "Setúbal",
+      "concelho": "Setúbal",
+      "freguesia": "Setúbal (São Sebastião)",
+      "dico": "1512",
+      "lat": 38.55808,
+      "lng": -8.866683,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Folgosa Rua Do Outeiro",
+      "localidade": "Setúbal (São Sebastião) Em 534-1",
       "active": true,
-      "sadoId": "20260920706",
-      "sharepointId": 20260920706,
+      "sadoId": "20260920862",
+      "sharepointId": 20260920862,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -886,7 +340,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua do Outeiro (Rua Professor António Marques)",
+      "detailLocation": "EM 534-1 (A12-S-N Km 22)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -895,30 +349,16 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1200545,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1240929,
       "isFire": true,
-      "weather": {
-        "stationId": 1200545,
-        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "stationDistance": 10.8,
-        "temperatura": 29.5,
-        "humidade": 47,
-        "intensidadeVento": 3.3,
-        "intensidadeVentoKM": 11.9,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1017.8,
-        "date": "2026-07-01T22:00:00.000000Z"
-      },
+      "weather": null,
       "created": {
-        "sec": 1782948305
+        "sec": 1782953105
       },
       "updated": {
-        "sec": 1782948904
+        "sec": 1782954903
       }
     }
   ]
