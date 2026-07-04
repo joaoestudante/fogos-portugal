@@ -15,8 +15,8 @@
       "location": "Braga, Vila Nova de Famalicão, Vermoim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 19,
+      "terrain": 5,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Vermoim",
@@ -66,7 +66,7 @@
         "sec": 1782950104
       },
       "updated": {
-        "sec": 1783134604
+        "sec": 1783152011
       }
     },
     {
@@ -81,10 +81,10 @@
       "date": "02-07-2026",
       "hour": "03:04",
       "location": "Viseu, Vouzela, Cambra E Carvalhal De Vermilhas",
-      "aerial": 0,
+      "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 1108,
-      "terrain": 368,
+      "man": 1077,
+      "terrain": 362,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Cambra E Carvalhal De Vermilhas",
@@ -134,7 +134,7 @@
         "sec": 1782959104
       },
       "updated": {
-        "sec": 1783134011
+        "sec": 1783152304
       }
     },
     {
@@ -174,7 +174,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 59.7,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -196,7 +196,7 @@
         "sec": 1782995706
       },
       "updated": {
-        "sec": 1783113903
+        "sec": 1783145465
       }
     },
     {
@@ -236,8 +236,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 3,
+          "agricola": 0,
+          "mato": 0,
+          "total": 3
+        },
+        "altitude": 193.158,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "ESPITE",
@@ -258,7 +264,7 @@
         "sec": 1782998104
       },
       "updated": {
-        "sec": 1783061402
+        "sec": 1783145467
       }
     },
     {
@@ -275,8 +281,8 @@
       "location": "Braga, Barcelos, Viatodos, Grimancelos, Minhotães E Monte De Fralães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 72,
-      "terrain": 26,
+      "man": 73,
+      "terrain": 27,
       "district": "Braga",
       "concelho": "Barcelos",
       "freguesia": "Viatodos, Grimancelos, Minhotães E Monte De Fralães",
@@ -298,8 +304,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 170.170933273458,
+          "agricola": 97.5575148764133,
+          "mato": 0,
+          "total": 267.728448149872
+        },
+        "altitude": 104.415,
+        "incendio": true,
         "fontealerta": "Populares"
       },
       "detailLocation": "Monte Fralães (Outeiro Poente)",
@@ -320,7 +332,7 @@
         "sec": 1783001705
       },
       "updated": {
-        "sec": 1783130105
+        "sec": 1783148702
       }
     },
     {
@@ -360,7 +372,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 22.8587,
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
@@ -381,22 +393,22 @@
         "stationId": 1210729,
         "stationLocation": "Rio Maior",
         "stationDistance": 8.2,
-        "temperatura": 23.4,
-        "humidade": 60,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 22.6,
+        "humidade": 69,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 414.8,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783005303
       },
       "updated": {
-        "sec": 1783104903
+        "sec": 1783145614
       }
     },
     {
@@ -413,8 +425,8 @@
       "location": "Santarém, Alpiarça, Alpiarça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 60,
-      "terrain": 21,
+      "man": 54,
+      "terrain": 18,
       "district": "Santarém",
       "concelho": "Alpiarça",
       "freguesia": "Alpiarça",
@@ -436,7 +448,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 81.8262,
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
@@ -457,22 +469,22 @@
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
         "stationDistance": 16.1,
-        "temperatura": 24.3,
-        "humidade": 56,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 22.8,
+        "humidade": 60,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1018.9,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 542.9,
+        "pressao": 1020,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783007704
       },
       "updated": {
-        "sec": 1783124102
+        "sec": 1783150504
       }
     },
     {
@@ -489,8 +501,8 @@
       "location": "Viseu, Cinfães, Moimenta",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 7,
+      "man": 11,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Cinfães",
       "freguesia": "Moimenta",
@@ -501,9 +513,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Moimenta Moimenta",
       "active": true,
@@ -512,11 +524,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 157.015146429086,
+          "agricola": 70.8930185993433,
+          "mato": 1.59973684211969,
+          "total": 229.507901870549
+        },
+        "altitude": 379.737,
+        "incendio": true,
         "fontealerta": "112"
       },
-      "detailLocation": "M556-2. 4690 Cinfães. Portugal (MOIMENTA)",
+      "detailLocation": "Moimenta (Barrelo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -534,21 +552,21 @@
         "stationLocation": "Luzim",
         "stationDistance": 11.6,
         "temperatura": 26.9,
-        "humidade": 32,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "humidade": 27,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 726.8,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783011709
       },
       "updated": {
-        "sec": 1783131304
+        "sec": 1783149904
       }
     },
     {
@@ -588,7 +606,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 99.8625,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -609,22 +627,22 @@
         "stationId": 1210577,
         "stationLocation": "Odemira, S.Teotónio",
         "stationDistance": 10,
-        "temperatura": 25.4,
-        "humidade": 50,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 25.1,
+        "humidade": 52,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 509.2,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783015805
       },
       "updated": {
-        "sec": 1783096804
+        "sec": 1783145769
       }
     },
     {
@@ -664,11 +682,11 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 234.088,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Memória. Leiria. Portugal (Memória)",
+      "detailLocation": "Memória. Leiria. Portugal (Couções)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -685,22 +703,22 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 15.6,
-        "temperatura": 17.9,
-        "humidade": 79,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 19.9,
+        "humidade": 73,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1019.8,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 559.9,
+        "pressao": 1020.3,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783032303
       },
       "updated": {
-        "sec": 1783119304
+        "sec": 1783145782
       }
     },
     {
@@ -740,11 +758,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 102.95820232203,
+          "agricola": 42.5746648339748,
+          "mato": 0,
+          "total": 145.532867156005
+        },
+        "altitude": 128.442,
+        "incendio": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Crosso. 4550 Castelo de Paiva. Portugal (Crosso)",
+      "detailLocation": "BAIRROS (Outeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -762,21 +786,21 @@
         "stationLocation": "Luzim",
         "stationDistance": 11.6,
         "temperatura": 26.9,
-        "humidade": 32,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "humidade": 27,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 726.8,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783036505
       },
       "updated": {
-        "sec": 1783127403
+        "sec": 1783145784
       }
     },
     {
@@ -833,16 +857,16 @@
         "stationId": 1210654,
         "stationLocation": "Moncorvo",
         "stationDistance": 8,
-        "temperatura": 21.4,
-        "humidade": 55,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 20.9,
+        "humidade": 52,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1023.7,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 643.5,
+        "pressao": 1024.8,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783067105
@@ -905,16 +929,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.2,
-        "temperatura": 17.9,
-        "humidade": 79,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 19.9,
+        "humidade": 73,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1019.8,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 559.9,
+        "pressao": 1020.3,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783067706
@@ -977,16 +1001,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.6,
-        "temperatura": 17.9,
-        "humidade": 79,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 19.9,
+        "humidade": 73,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1019.8,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 559.9,
+        "pressao": 1020.3,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783068305
@@ -1049,16 +1073,16 @@
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
         "stationDistance": 13.7,
-        "temperatura": 28.8,
-        "humidade": 29,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 29.5,
+        "humidade": 25,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1021.4,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "pressao": 1022.1,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783074304
@@ -1121,16 +1145,16 @@
         "stationId": 6213612,
         "stationLocation": "Cantanhede / Fonte Dom Pedro (CIM)",
         "stationDistance": 15.2,
-        "temperatura": 17.2,
-        "humidade": 83,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 19.4,
+        "humidade": 78,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783081806
@@ -1153,8 +1177,8 @@
       "location": "Setúbal, Setúbal, Setúbal (São Sebastião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 243,
-      "terrain": 77,
+      "man": 241,
+      "terrain": 75,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Setúbal (São Sebastião)",
@@ -1194,7 +1218,7 @@
         "sec": 1783086337
       },
       "updated": {
-        "sec": 1783141803
+        "sec": 1783149604
       }
     },
     {
@@ -1251,16 +1275,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 6.5,
-        "temperatura": 17.9,
-        "humidade": 79,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 19.9,
+        "humidade": 73,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1019.8,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 559.9,
+        "pressao": 1020.3,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783089905
@@ -1323,16 +1347,16 @@
         "stationId": 1240546,
         "stationLocation": "Porto, Serra do Pilar",
         "stationDistance": 4.8,
-        "temperatura": 26.9,
-        "humidade": 46,
-        "intensidadeVento": 5.6,
-        "intensidadeVentoKM": 20.2,
+        "temperatura": 29.1,
+        "humidade": 40,
+        "intensidadeVento": 8.1,
+        "intensidadeVentoKM": 29.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1017.6,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "pressao": 1017.8,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783092319
@@ -1355,8 +1379,8 @@
       "location": "Aveiro, Arouca, São Miguel Do Mato",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 9,
+      "man": 34,
+      "terrain": 10,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "São Miguel Do Mato",
@@ -1395,22 +1419,22 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 11,
-        "temperatura": 29.8,
-        "humidade": 23,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 28.4,
+        "humidade": 32,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 248.6,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783096504
       },
       "updated": {
-        "sec": 1783131904
+        "sec": 1783151704
       }
     },
     {
@@ -1501,7 +1525,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Biscainho Latlong(38.89396000,-8.64854000) - N119, 2100 Coruche, Portugal",
+      "localidade": "Biscainho  ---",
       "active": true,
       "sadoId": "20260931057",
       "sharepointId": 20260931057,
@@ -1525,22 +1549,22 @@
         "stationId": 1210744,
         "stationLocation": "Coruche",
         "stationDistance": 12.9,
-        "temperatura": 19.4,
+        "temperatura": 20.2,
         "humidade": null,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 332.6,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783099505
       },
       "updated": {
-        "sec": 1783104305
+        "sec": 1783149302
       }
     },
     {
@@ -1597,16 +1621,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 10.1,
-        "temperatura": 17.9,
-        "humidade": 79,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 19.9,
+        "humidade": 73,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1019.8,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "radiacao": 559.9,
+        "pressao": 1020.3,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783121119
@@ -1629,8 +1653,8 @@
       "location": "Porto, Marco de Canaveses, Sande E São Lourenço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 5,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Sande E São Lourenço",
@@ -1641,9 +1665,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Sande E São Lourenço Do Douro Calçada De Loureiro 85, 4625-461 Marco De Canaveses, Portugal",
       "active": true,
@@ -1670,223 +1694,21 @@
         "stationLocation": "Luzim",
         "stationDistance": 7.9,
         "temperatura": 26.9,
-        "humidade": 32,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "humidade": 27,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 726.8,
         "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783128668
       },
       "updated": {
-        "sec": 1783142103
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260932971"
-      },
-      "id": "20260932971",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783129740
-      },
-      "date": "04-07-2026",
-      "hour": "02:49",
-      "location": "Santarém, Tomar, Olalhas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Tomar",
-      "freguesia": "Olalhas",
-      "dico": "1418",
-      "lat": 39.640328,
-      "lng": -8.297147,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Olalhas Vendas Do Rijo, Tomar, Portugal",
-      "active": true,
-      "sadoId": "20260932971",
-      "sharepointId": 20260932971,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210724,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1783130411
-      },
-      "updated": {
-        "sec": 1783142404
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260933015"
-      },
-      "id": "20260933015",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783131600
-      },
-      "date": "04-07-2026",
-      "hour": "03:20",
-      "location": "Aveiro, Oliveira do Bairro, Oiã",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
-      "district": "Aveiro",
-      "concelho": "Oliveira Do Bairro",
-      "freguesia": "Oiã",
-      "dico": "0114",
-      "lat": 40.534628,
-      "lng": -8.530483,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Oiã Regatinha",
-      "active": true,
-      "sadoId": "20260933015",
-      "sharepointId": 20260933015,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210705,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210705,
-        "stationLocation": "Anadia",
-        "stationDistance": 13.1,
-        "temperatura": 17.9,
-        "humidade": 84,
-        "intensidadeVento": 0,
-        "intensidadeVentoKM": 0,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1783131904
-      },
-      "updated": {
-        "sec": 1783140004
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260933045"
-      },
-      "id": "20260933045",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783132980
-      },
-      "date": "04-07-2026",
-      "hour": "03:43",
-      "location": "Aveiro, Oliveira do Bairro, Oliveira Do Bairro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Oliveira Do Bairro",
-      "freguesia": "Oliveira Do Bairro",
-      "dico": "0114",
-      "lat": 40.508427,
-      "lng": -8.466647,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Oliveira Do Bairro Em 657",
-      "active": true,
-      "sadoId": "20260933045",
-      "sharepointId": 20260933045,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210705,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210705,
-        "stationLocation": "Anadia",
-        "stationDistance": 8.1,
-        "temperatura": 17.9,
-        "humidade": 84,
-        "intensidadeVento": 0,
-        "intensidadeVentoKM": 0,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-04T04:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1783134011
-      },
-      "updated": {
-        "sec": 1783139404
+        "sec": 1783149605
       }
     },
     {
@@ -1903,7 +1725,7 @@
       "location": "Braga, Póvoa de Lanhoso, Campos E Louredo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
+      "man": 16,
       "terrain": 4,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
@@ -1915,11 +1737,11 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Campos  Avenida Da República, Vivenda Macedo",
+      "localidade": "Campos  Ventozelas",
       "active": true,
       "sadoId": "20260933157",
       "sharepointId": 20260933157,
@@ -1943,80 +1765,22 @@
         "stationId": 6212124,
         "stationLocation": "Braga (CIM)",
         "stationDistance": 12.3,
-        "temperatura": 28.8,
-        "humidade": 29,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 29.5,
+        "humidade": 25,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1021.4,
-        "date": "2026-07-04T04:00:00.000000Z"
+        "pressao": 1022.1,
+        "date": "2026-07-04T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783138835
       },
       "updated": {
-        "sec": 1783141803
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260933177"
-      },
-      "id": "20260933177",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783139100
-      },
-      "date": "04-07-2026",
-      "hour": "05:25",
-      "location": "Braga, Vila Nova de Famalicão, Arnoso (Santa Maria E Santa Eulália) E Sezures",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Vila Nova De Famalicão",
-      "freguesia": "Arnoso (Santa Maria E Santa Eulália) E Sezures",
-      "dico": "0312",
-      "lat": 41.47054,
-      "lng": -8.519341,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Arnoso (Santa Maria E Santa Eulália) E Sezures Quintão (Arnoso Santa Eulália), Rua Padre José Barbosa, 4775-486 Vila Nova De Famalicão, Portugal",
-      "active": true,
-      "sadoId": "20260933177",
-      "sharepointId": 20260933177,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 6212410,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1783140038
-      },
-      "updated": {
-        "sec": 1783141803
+        "sec": 1783152305
       }
     },
     {
@@ -2033,21 +1797,21 @@
       "location": "Braga, Vila Nova de Famalicão, Vale (São Martinho)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
       "freguesia": "Vale (São Martinho)",
       "dico": "0312",
-      "lat": 41.428369,
-      "lng": -8.477875,
+      "lat": 41.430118,
+      "lng": -8.471113,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "---  Rua De Croito",
       "active": true,
@@ -2074,7 +1838,267 @@
         "sec": 1783140606
       },
       "updated": {
-        "sec": 1783141803
+        "sec": 1783150205
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260933329"
+      },
+      "id": "20260933329",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783144980
+      },
+      "date": "04-07-2026",
+      "hour": "07:03",
+      "location": "Aveiro, Santa Maria da Feira, Canedo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 26,
+      "terrain": 7,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Canedo",
+      "dico": "0109",
+      "lat": 41.019779,
+      "lng": -8.446234,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "---  Rua Dos Moinhos",
+      "active": true,
+      "sadoId": "20260933329",
+      "sharepointId": 20260933329,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6900,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1783145704
+      },
+      "updated": {
+        "sec": 1783150504
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260933524"
+      },
+      "id": "20260933524",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783149240
+      },
+      "date": "04-07-2026",
+      "hour": "08:14",
+      "location": "Viana Do Castelo, Viana do Castelo, Perre",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Perre",
+      "dico": "1609",
+      "lat": 41.72305,
+      "lng": -8.77175,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Perre Perre, Viana Do Castelo, Portugal",
+      "active": true,
+      "sadoId": "20260933524",
+      "sharepointId": 20260933524,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211217,
+      "isFire": true,
+      "weather": {
+        "stationId": 6211217,
+        "stationLocation": "Viana Do Castelo - Fonte Louçã (CIM)",
+        "stationDistance": 4.4,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 6.2,
+        "intensidadeVentoKM": 22.3,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 944,
+        "pressao": 1022.6,
+        "date": "2026-07-04T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783149918
+      },
+      "updated": {
+        "sec": 1783150205
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260933633"
+      },
+      "id": "20260933633",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783150260
+      },
+      "date": "04-07-2026",
+      "hour": "08:31",
+      "location": "Porto, Santo Tirso, St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "St.Tirso, Couto (S.Cristina E S.Miguel) E Burgães",
+      "dico": "1314",
+      "lat": 41.35106,
+      "lng": -8.506941,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Santo Tirso, Couto (Santa Cristina E São Miguel) E Burgães Autoestrada Do Minho, 4780 Santo Tirso, Portugal",
+      "active": true,
+      "sadoId": "20260933633",
+      "sharepointId": 20260933633,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6212410,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1783151132
+      },
+      "updated": {
+        "sec": 1783151705
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260933663"
+      },
+      "id": "20260933663",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783150560
+      },
+      "date": "04-07-2026",
+      "hour": "08:36",
+      "location": "Porto, Maia, Castêlo Da Maia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Castêlo Da Maia",
+      "dico": "1306",
+      "lat": 41.267591,
+      "lng": -8.616749,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Gondim",
+      "active": true,
+      "sadoId": "20260933663",
+      "sharepointId": 20260933663,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 6.6,
+        "temperatura": 29.8,
+        "humidade": 28,
+        "intensidadeVento": 4.5,
+        "intensidadeVentoKM": 16.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 649.3,
+        "pressao": 1019.7,
+        "date": "2026-07-04T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783151133
+      },
+      "updated": {
+        "sec": 1783151405
       }
     }
   ]
