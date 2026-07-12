@@ -15,8 +15,8 @@
       "location": "Viseu, Vouzela, Cambra E Carvalhal De Vermilhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 50,
-      "terrain": 18,
+      "man": 47,
+      "terrain": 16,
       "district": "Viseu",
       "concelho": "Vouzela",
       "freguesia": "Cambra E Carvalhal De Vermilhas",
@@ -66,7 +66,7 @@
         "sec": 1782959104
       },
       "updated": {
-        "sec": 1783894802
+        "sec": 1783896303
       }
     },
     {
@@ -201,16 +201,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 8.8,
-        "temperatura": 20.3,
-        "humidade": 78,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
+        "temperatura": 19.2,
+        "humidade": 85,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1015.3,
-        "date": "2026-07-12T21:00:00.000000Z"
+        "pressao": 1015.8,
+        "date": "2026-07-12T22:00:00.000000Z"
       },
       "created": {
         "sec": 1783703703
@@ -421,16 +421,16 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 14.6,
-        "temperatura": 20.4,
+        "temperatura": 20.1,
         "humidade": 86,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-12T21:00:00.000000Z"
+        "date": "2026-07-12T22:00:00.000000Z"
       },
       "created": {
         "sec": 1783820123
@@ -476,8 +476,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 1,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Bombeiros"
       },
       "detailLocation": "Beco da Mata (Gandara)",
@@ -497,198 +503,46 @@
         "stationId": 1200551,
         "stationLocation": "Viana Castelo, Chafé",
         "stationDistance": 4.1,
-        "temperatura": 18.4,
-        "humidade": 97,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
+        "temperatura": 17.9,
+        "humidade": 100,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 4.8,
-        "pressao": 1014.3,
-        "date": "2026-07-12T21:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": 1014.7,
+        "date": "2026-07-12T22:00:00.000000Z"
       },
       "created": {
         "sec": 1783864503
       },
       "updated": {
-        "sec": 1783885503
+        "sec": 1783897209
       }
     },
     {
       "_id": {
-        "$id": "20260979715"
+        "$id": "20260981303"
       },
-      "id": "20260979715",
+      "id": "20260981303",
       "coords": true,
       "dateTime": {
-        "sec": 1783869060
+        "sec": 1783895100
       },
       "date": "12-07-2026",
-      "hour": "16:11",
-      "location": "Vila Real, Santa Marta de Penaguião, Fontes",
+      "hour": "23:25",
+      "location": "Guarda, Mêda, Marialva",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Vila Real",
-      "concelho": "Santa Marta De Penaguião",
-      "freguesia": "Fontes",
-      "dico": "1711",
-      "lat": 41.23339,
-      "lng": -7.811255,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Castelo  ---",
-      "active": true,
-      "sadoId": "20260979715",
-      "sharepointId": 20260979715,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Castelo (LEBRE)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "nearestWeatherStationId": 1200567,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200567,
-        "stationLocation": "Vila Real",
-        "stationDistance": 9.1,
-        "temperatura": 19.9,
-        "humidade": 69,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 0.2,
-        "pressao": 1013.3,
-        "date": "2026-07-12T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1783869303
-      },
-      "updated": {
-        "sec": 1783894802
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260979945"
-      },
-      "id": "20260979945",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783872780
-      },
-      "date": "12-07-2026",
-      "hour": "17:13",
-      "location": "Beja, Odemira, São Teotónio",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 9,
-      "district": "Beja",
-      "concelho": "Odemira",
-      "freguesia": "São Teotónio",
-      "dico": "0211",
-      "lat": 37.45306,
-      "lng": -8.767593,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "São Teotónio Baiona, Odemira, Portugal",
-      "active": true,
-      "sadoId": "20260979945",
-      "sharepointId": 20260979945,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Baiona. Odemira. Portugal (Alturas do Vale da Telha)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Litoral",
-      "nearestWeatherStationId": 1210577,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210577,
-        "stationLocation": "Odemira, S.Teotónio",
-        "stationDistance": 11,
-        "temperatura": 19.8,
-        "humidade": 98,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-12T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1783873503
-      },
-      "updated": {
-        "sec": 1783894802
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260980417"
-      },
-      "id": "20260980417",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783880280
-      },
-      "date": "12-07-2026",
-      "hour": "19:18",
-      "location": "Viseu, Sátão, Ferreira De Aves",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Viseu",
-      "concelho": "Sátão",
-      "freguesia": "Ferreira De Aves",
-      "dico": "1817",
-      "lat": 40.779593,
-      "lng": -7.6424,
+      "man": 31,
+      "terrain": 7,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Marialva",
+      "dico": "0909",
+      "lat": 40.889038,
+      "lng": -7.246427,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -697,18 +551,18 @@
       "statusColor": "6ABF59",
       "status": "Em Resolução",
       "important": false,
-      "localidade": "Quinta Da Carrasqueira Quinta Da Carrasqueira",
+      "localidade": "Marialva Ip2",
       "active": true,
-      "sadoId": "20260980417",
-      "sharepointId": 20260980417,
+      "sadoId": "20260981303",
+      "sharepointId": 20260981303,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "RNPV"
+        "fontealerta": "112"
       },
-      "detailLocation": "FERREIRA DE AVES (Senhora da Cabeça)",
+      "detailLocation": "LatLong(40.90462359.-7.21664303) - IP2. 6430 Mêda. Portugal (IP2 (EN102) Km 98)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -718,39 +572,53 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 6213020,
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210665,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210665,
+        "stationLocation": "Mêda",
+        "stationDistance": 8.9,
+        "temperatura": 18.3,
+        "humidade": 64,
+        "intensidadeVento": 5.3,
+        "intensidadeVentoKM": 19.1,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1013.1,
+        "date": "2026-07-12T22:00:00.000000Z"
+      },
       "created": {
-        "sec": 1783881074
+        "sec": 1783895705
       },
       "updated": {
-        "sec": 1783894504
+        "sec": 1783898403
       }
     },
     {
       "_id": {
-        "$id": "20260981145"
+        "$id": "20260981318"
       },
-      "id": "20260981145",
+      "id": "20260981318",
       "coords": true,
       "dateTime": {
-        "sec": 1783892220
+        "sec": 1783895640
       },
       "date": "12-07-2026",
-      "hour": "22:37",
-      "location": "Leiria, Peniche, Serra D'el-rei",
+      "hour": "23:34",
+      "location": "Santarém, Coruche, Couço",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Leiria",
-      "concelho": "Peniche",
-      "freguesia": "Serra D'el-rei",
-      "dico": "1014",
-      "lat": 39.32657,
-      "lng": -9.27354,
+      "man": 17,
+      "terrain": 4,
+      "district": "Santarém",
+      "concelho": "Coruche",
+      "freguesia": "Couço",
+      "dico": "1409",
+      "lat": 38.98291,
+      "lng": -8.296823,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -759,10 +627,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Serra D El-rei Rua Da Varginha 21, 2525-825 Peniche, Portugal",
+      "localidade": "Couço Rua Do Povo Unido 38, 2100-374 Coruche, Portugal",
       "active": true,
-      "sadoId": "20260981145",
-      "sharepointId": 20260981145,
+      "sadoId": "20260981318",
+      "sharepointId": 20260981318,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -770,7 +638,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Varginha 21. 2525-825 Peniche. Portugal (Malgasta)",
+      "detailLocation": "Rua do Povo Unido 38. 2100-374 Coruche. Portugal (Lagoiços)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -780,29 +648,257 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1200531,
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210826,
       "isFire": true,
       "weather": {
-        "stationId": 1200531,
-        "stationLocation": "Cabo Carvoeiro",
-        "stationDistance": 13,
-        "temperatura": null,
-        "humidade": null,
-        "intensidadeVento": 2.4,
-        "intensidadeVentoKM": 8.6,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "stationId": 1210826,
+        "stationLocation": "Mora",
+        "stationDistance": 12.4,
+        "temperatura": 21.3,
+        "humidade": 61,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1015.1,
-        "date": "2026-07-12T21:00:00.000000Z"
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-07-12T22:00:00.000000Z"
       },
       "created": {
-        "sec": 1783892705
+        "sec": 1783896004
       },
       "updated": {
-        "sec": 1783893615
+        "sec": 1783898105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260981313"
+      },
+      "id": "20260981313",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783895340
+      },
+      "date": "12-07-2026",
+      "hour": "23:29",
+      "location": "Guarda, Mêda, Rabaçal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Rabaçal",
+      "dico": "0909",
+      "lat": 40.854383,
+      "lng": -7.256767,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Rabaçal N102, 6420 Trancoso, Portugal",
+      "active": true,
+      "sadoId": "20260981313",
+      "sharepointId": 20260981313,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N102. 6420 Trancoso. Portugal (IP2 (EN102) Km 107)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210666,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210666,
+        "stationLocation": "Trancoso, Bandarra",
+        "stationDistance": 12.2,
+        "temperatura": 16.9,
+        "humidade": 76,
+        "intensidadeVento": 4.4,
+        "intensidadeVentoKM": 15.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-07-12T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783896303
+      },
+      "updated": {
+        "sec": 1783898403
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260981325"
+      },
+      "id": "20260981325",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783895700
+      },
+      "date": "12-07-2026",
+      "hour": "23:35",
+      "location": "Faro, Faro, Faro (Sé E São Pedro)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Faro (Sé E São Pedro)",
+      "dico": "0805",
+      "lat": 37.03283,
+      "lng": -7.939329,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Faro (Sé E São Pedro) Latlong(37.03282540,-7.93932890) - Rua Doutor May Viana, 8005 Faro, Portugal",
+      "active": true,
+      "sadoId": "20260981325",
+      "sharepointId": 20260981325,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.03282540.-7.93932890) - Rua Doutor May Viana. 8005 Faro. Portugal (Cerro do Bruxo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1200554,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200554,
+        "stationLocation": "Faro (Aeródromo)",
+        "stationDistance": 3.4,
+        "temperatura": 21.6,
+        "humidade": 85,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1015.8,
+        "date": "2026-07-12T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783896303
+      },
+      "updated": {
+        "sec": 1783898403
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260981338"
+      },
+      "id": "20260981338",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783896180
+      },
+      "date": "12-07-2026",
+      "hour": "23:43",
+      "location": "Vila Real, Valpaços, Santa Maria De Emeres",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Santa Maria De Emeres",
+      "dico": "1712",
+      "lat": 41.539075,
+      "lng": -7.409602,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Rendufe Rendufe",
+      "active": true,
+      "sadoId": "20260981338",
+      "sharepointId": 20260981338,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.53918986.-7.41078144) - N314. 5445 Valpaços. Portugal (ER314 (ER314) Km 25)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210632,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210632,
+        "stationLocation": "Mirandela",
+        "stationDistance": 18.4,
+        "temperatura": 21.6,
+        "humidade": 49,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-07-12T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783896903
+      },
+      "updated": {
+        "sec": 1783898105
       }
     }
   ]
