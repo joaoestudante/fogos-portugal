@@ -44,7 +44,7 @@
           "mato": 912.379385793517,
           "total": 13596.7729480413
         },
-        "altitude": 526.329,
+        "altitude": 648.644,
         "incendio": true,
         "fontealerta": "112"
       },
@@ -66,7 +66,7 @@
         "sec": 1782959104
       },
       "updated": {
-        "sec": 1783896303
+        "sec": 1783908736
       }
     },
     {
@@ -201,16 +201,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 8.8,
-        "temperatura": 16.9,
-        "humidade": 92,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 14.9,
+        "humidade": 94,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1016,
-        "date": "2026-07-13T00:00:00.000000Z"
+        "pressao": 1015.5,
+        "date": "2026-07-13T03:00:00.000000Z"
       },
       "created": {
         "sec": 1783703703
@@ -421,94 +421,22 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 14.6,
-        "temperatura": 18,
-        "humidade": 94,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 16.5,
+        "humidade": 97,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-13T00:00:00.000000Z"
+        "date": "2026-07-13T03:00:00.000000Z"
       },
       "created": {
         "sec": 1783820123
       },
       "updated": {
         "sec": 1783858503
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260981462"
-      },
-      "id": "20260981462",
-      "coords": true,
-      "dateTime": {
-        "sec": 1783899660
-      },
-      "date": "13-07-2026",
-      "hour": "00:41",
-      "location": "Santarém, Ferreira do Zêzere, Beco",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Ferreira Do Zêzere",
-      "freguesia": "Beco",
-      "dico": "1411",
-      "lat": 39.771711,
-      "lng": -8.300011,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Beco  ---",
-      "active": true,
-      "sadoId": "20260981462",
-      "sharepointId": 20260981462,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210716,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210716,
-        "stationLocation": "Ansião",
-        "stationDistance": 16.6,
-        "temperatura": 15.5,
-        "humidade": 92,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-13T00:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1783899904
-      },
-      "updated": {
-        "sec": 1783901704
       }
     },
     {
@@ -525,21 +453,21 @@
       "location": "Vila Real, Montalegre, Ferral",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Vila Real",
       "concelho": "Montalegre",
       "freguesia": "Ferral",
       "dico": "1706",
-      "lat": 41.698819,
-      "lng": -7.998594,
+      "lat": 41.699965,
+      "lng": -7.99083,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Viveiro  ---",
       "active": true,
@@ -547,8 +475,18 @@
       "sharepointId": 20260981560,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.01,
+          "total": 0.01
+        },
+        "altitude": 608.936,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Viveiro (Pardieiros)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -564,23 +502,95 @@
       "weather": {
         "stationId": 1210619,
         "stationLocation": "Cabril",
-        "stationDistance": 2.5,
-        "temperatura": 16.4,
-        "humidade": 88,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "stationDistance": 2.8,
+        "temperatura": 15.1,
+        "humidade": 94,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-13T00:00:00.000000Z"
+        "date": "2026-07-13T03:00:00.000000Z"
       },
       "created": {
         "sec": 1783904418
       },
       "updated": {
-        "sec": 1783904469
+        "sec": 1783916696
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260981782"
+      },
+      "id": "20260981782",
+      "coords": true,
+      "dateTime": {
+        "sec": 1783915200
+      },
+      "date": "13-07-2026",
+      "hour": "05:00",
+      "location": "Braga, Braga, Braga (São José De São Lázaro E São João Do Souto)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Braga",
+      "freguesia": "Braga (São José De São Lázaro E São João Do Souto)",
+      "dico": "0303",
+      "lat": 41.539688,
+      "lng": -8.411877,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Monte Do Picoto - Rotunda Santo Adrião",
+      "active": true,
+      "sadoId": "20260981782",
+      "sharepointId": 20260981782,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212124,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212124,
+        "stationLocation": "Braga (CIM)",
+        "stationDistance": 1.2,
+        "temperatura": 16.5,
+        "humidade": 86,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-07-13T03:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1783915826
+      },
+      "updated": {
+        "sec": 1783917004
       }
     }
   ]
