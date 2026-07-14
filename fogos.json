@@ -267,16 +267,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 15.2,
-        "temperatura": 16.4,
+        "temperatura": 16.5,
         "humidade": 100,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1016,
-        "date": "2026-07-14T05:00:00.000000Z"
+        "radiacao": 283.2,
+        "pressao": 1016.6,
+        "date": "2026-07-14T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783952105
@@ -287,26 +287,26 @@
     },
     {
       "_id": {
-        "$id": "20260986947"
+        "$id": "20260987490"
       },
-      "id": "20260986947",
+      "id": "20260987490",
       "coords": true,
       "dateTime": {
-        "sec": 1783996320
+        "sec": 1784014500
       },
       "date": "14-07-2026",
-      "hour": "03:32",
-      "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
+      "hour": "08:35",
+      "location": "Portalegre, Ponte de Sor, Tramaga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Marco De Canaveses",
-      "freguesia": "Vila Boa De Quires E Maureles",
-      "dico": "1307",
-      "lat": 41.184612,
-      "lng": -8.208567,
+      "man": 24,
+      "terrain": 7,
+      "district": "Portalegre",
+      "concelho": "Ponte De Sor",
+      "freguesia": "Tramaga",
+      "dico": "1213",
+      "lat": 39.19791,
+      "lng": -8.083076,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -315,10 +315,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Cavadinha  ---",
+      "localidade": "União Das Freguesias De Ponte De Sor, Tramaga E Vale De Açor Hrd Vale Das Porcas De Baixo Sin, Ponte De Sor, Tramaga E Vale De Açor, Pa, Portugal",
       "active": true,
-      "sadoId": "20260986947",
-      "sharepointId": 20260986947,
+      "sadoId": "20260987490",
+      "sharepointId": 20260987490,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -331,30 +331,102 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "nearestWeatherStationId": 6210817,
       "isFire": true,
       "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 5.5,
-        "temperatura": 14,
-        "humidade": 94,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
+        "stationId": 6210817,
+        "stationLocation": "Ponte de Sôr / Aeródromo",
+        "stationDistance": 3.2,
+        "temperatura": 18,
+        "humidade": 82,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 7,
         "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-07-14T05:00:00.000000Z"
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1015.8,
+        "date": "2026-07-14T07:00:00.000000Z"
       },
       "created": {
-        "sec": 1783996804
+        "sec": 1784015103
       },
       "updated": {
-        "sec": 1783998302
+        "sec": 1784016904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20260987744"
+      },
+      "id": "20260987744",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784017080
+      },
+      "date": "14-07-2026",
+      "hour": "09:18",
+      "location": "Castelo Branco, Covilhã, Boidobra",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Boidobra",
+      "dico": "0503",
+      "lat": 40.25503,
+      "lng": -7.492826,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Boidobra Latlong(40.25503271,-7.49282631) - N18, 6200 Covilhã, Portugal",
+      "active": true,
+      "sadoId": "20260987744",
+      "sharepointId": 20260987744,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210687,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210687,
+        "stationLocation": "Covilhã (Aeródromo)",
+        "stationDistance": 1.4,
+        "temperatura": 16.4,
+        "humidade": 76,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 402.3,
+        "pressao": null,
+        "date": "2026-07-14T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784017505
+      },
+      "updated": {
+        "sec": 1784017803
       }
     }
   ]
