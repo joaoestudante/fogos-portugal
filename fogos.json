@@ -133,16 +133,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 14.9,
-        "temperatura": 20.5,
-        "humidade": 91,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 17.8,
+        "humidade": 96,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1020.3,
-        "date": "2026-07-15T22:00:00.000000Z"
+        "pressao": 1019.9,
+        "date": "2026-07-16T00:00:00.000000Z"
       },
       "created": {
         "sec": 1783952105
@@ -215,16 +215,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 16,
-        "temperatura": 20.5,
-        "humidade": 91,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 17.8,
+        "humidade": 96,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1020.3,
-        "date": "2026-07-15T22:00:00.000000Z"
+        "pressao": 1019.9,
+        "date": "2026-07-16T00:00:00.000000Z"
       },
       "created": {
         "sec": 1784060704
@@ -269,8 +269,18 @@
       "sharepointId": 20260991502,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.0005,
+          "mato": 0,
+          "total": 0.0005
+        },
+        "altitude": 291.59,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N237. 3260 Figueiró dos Vinhos. Portugal (Marvila)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -287,22 +297,22 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 10,
-        "temperatura": 26.4,
-        "humidade": 41,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1018.3,
-        "date": "2026-07-15T12:00:00.000000Z"
+        "pressao": null,
+        "date": "2026-07-16T00:00:00.000000Z"
       },
       "created": {
         "sec": 1784065205
       },
       "updated": {
-        "sec": 1784070015
+        "sec": 1784162117
       }
     },
     {
@@ -319,8 +329,8 @@
       "location": "Porto, Lousada, Silvares, Pias, Nogueira E Alvarenga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 8,
+      "man": 15,
+      "terrain": 6,
       "district": "Porto",
       "concelho": "Lousada",
       "freguesia": "Silvares, Pias, Nogueira E Alvarenga",
@@ -359,210 +369,22 @@
         "stationId": 1210643,
         "stationLocation": "Paços Ferreira",
         "stationDistance": 9.3,
-        "temperatura": 17.4,
-        "humidade": 82,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 15,
+        "humidade": 92,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-15T22:00:00.000000Z"
+        "date": "2026-07-16T00:00:00.000000Z"
       },
       "created": {
         "sec": 1784120448
       },
       "updated": {
-        "sec": 1784158204
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260996529"
-      },
-      "id": "20260996529",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784149200
-      },
-      "date": "15-07-2026",
-      "hour": "22:00",
-      "location": "Setúbal, Setúbal, Sado",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 8,
-      "district": "Setúbal",
-      "concelho": "Setúbal",
-      "freguesia": "Sado",
-      "dico": "1512",
-      "lat": 38.499983,
-      "lng": -8.815402,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Sado Avenida Do Rio Guadiana",
-      "active": true,
-      "sadoId": "20260996529",
-      "sharepointId": 20260996529,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1240929,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1784149821
-      },
-      "updated": {
-        "sec": 1784157604
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260996645"
-      },
-      "id": "20260996645",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784151300
-      },
-      "date": "15-07-2026",
-      "hour": "22:35",
-      "location": "Setúbal, Setúbal, Sado",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 1,
-      "terrain": 1,
-      "district": "Setúbal",
-      "concelho": "Setúbal",
-      "freguesia": "Sado",
-      "dico": "1512",
-      "lat": 38.496521,
-      "lng": -8.796448,
-      "naturezaCode": "4335",
-      "natureza": "Prevenção a Queimadas",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Mitrena The Navigator Campany",
-      "active": true,
-      "sadoId": "20260996645",
-      "sharepointId": 20260996645,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1240929,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1784151903
-      },
-      "updated": {
-        "sec": 1784151944
-      }
-    },
-    {
-      "_id": {
-        "$id": "20260996759"
-      },
-      "id": "20260996759",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784153940
-      },
-      "date": "15-07-2026",
-      "hour": "23:19",
-      "location": "Porto, Paredes, Rebordosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Rebordosa",
-      "dico": "1310",
-      "lat": 41.226573,
-      "lng": -8.419788,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "---  Rua Fijó De Baixo",
-      "active": true,
-      "sadoId": "20260996759",
-      "sharepointId": 20260996759,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1210643,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210643,
-        "stationLocation": "Paços Ferreira",
-        "stationDistance": 6.2,
-        "temperatura": 17.4,
-        "humidade": 82,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-15T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1784154605
-      },
-      "updated": {
-        "sec": 1784157002
+        "sec": 1784160905
       }
     }
   ]
