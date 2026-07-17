@@ -83,7 +83,7 @@
       "location": "Castelo Branco, Proença-a-Nova, São Pedro Do Esteval",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 120,
+      "man": 123,
       "terrain": 39,
       "district": "Castelo Branco",
       "concelho": "Proença-a-nova",
@@ -123,22 +123,22 @@
         "stationId": 1210806,
         "stationLocation": "Proença-a-Nova, P.Moitas",
         "stationDistance": 6.6,
-        "temperatura": 16.4,
-        "humidade": 88,
-        "intensidadeVento": 2.4,
-        "intensidadeVentoKM": 8.6,
+        "temperatura": 16.3,
+        "humidade": 86,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-17T03:00:00.000000Z"
+        "date": "2026-07-17T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784210470
       },
       "updated": {
-        "sec": 1784258105
+        "sec": 1784269204
       }
     },
     {
@@ -195,16 +195,16 @@
         "stationId": 1210770,
         "stationLocation": "Setúbal",
         "stationDistance": 3.8,
-        "temperatura": 16.2,
-        "humidade": 90,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 15.2,
+        "humidade": 92,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.2,
-        "date": "2026-07-17T03:00:00.000000Z"
+        "pressao": 1018.9,
+        "date": "2026-07-17T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784219105
@@ -267,22 +267,94 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 13,
-        "temperatura": 14.7,
-        "humidade": 91,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 13.7,
+        "humidade": 99,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-17T03:00:00.000000Z"
+        "date": "2026-07-17T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784220903
       },
       "updated": {
         "sec": 1784242502
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261002533"
+      },
+      "id": "20261002533",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784262120
+      },
+      "date": "17-07-2026",
+      "hour": "05:22",
+      "location": "Castelo Branco, Idanha-a-Nova, Idanha-a-nova E Alcafozes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Castelo Branco",
+      "concelho": "Idanha-a-nova",
+      "freguesia": "Idanha-a-nova E Alcafozes",
+      "dico": "0505",
+      "lat": 39.932535,
+      "lng": -7.125172,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alcafozes N332 - Km 178.7",
+      "active": true,
+      "sadoId": "20261002533",
+      "sharepointId": 20261002533,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1210803,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210803,
+        "stationLocation": "Zebreira",
+        "stationDistance": 11.8,
+        "temperatura": 15.7,
+        "humidade": 92,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-07-17T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784262658
+      },
+      "updated": {
+        "sec": 1784270105
       }
     }
   ]
