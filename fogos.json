@@ -133,16 +133,16 @@
         "stationId": 1210806,
         "stationLocation": "Proença-a-Nova, P.Moitas",
         "stationDistance": 6.6,
-        "temperatura": 17,
-        "humidade": 81,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 15.1,
+        "humidade": 91,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-18T02:00:00.000000Z"
+        "date": "2026-07-18T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784210470
@@ -215,16 +215,16 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 13,
-        "temperatura": 14.4,
-        "humidade": 92,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
+        "temperatura": 12.9,
+        "humidade": 98,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-18T02:00:00.000000Z"
+        "date": "2026-07-18T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784220903
@@ -287,16 +287,16 @@
         "stationId": 1210848,
         "stationLocation": "Portel, Oriola",
         "stationDistance": 15.1,
-        "temperatura": 18.8,
-        "humidade": 70,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 15.2,
+        "humidade": 88,
+        "intensidadeVento": 0.1,
+        "intensidadeVentoKM": 0.4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-18T02:00:00.000000Z"
+        "date": "2026-07-18T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784316924
@@ -359,16 +359,16 @@
         "stationId": 1210612,
         "stationLocation": "Vinhais",
         "stationDistance": 13.1,
-        "temperatura": 18.4,
-        "humidade": 67,
-        "intensidadeVento": 6.1,
-        "intensidadeVentoKM": 22,
+        "temperatura": 17.9,
+        "humidade": 72,
+        "intensidadeVento": 3.9,
+        "intensidadeVentoKM": 14,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-18T02:00:00.000000Z"
+        "date": "2026-07-18T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784329503
@@ -391,8 +391,8 @@
       "location": "Leiria, Alcobaça, Pataias E Martingança",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Pataias E Martingança",
@@ -432,21 +432,93 @@
         "stationLocation": "São Pedro de Moel",
         "stationDistance": 7.6,
         "temperatura": 19.2,
-        "humidade": 91,
-        "intensidadeVento": 4.9,
-        "intensidadeVentoKM": 17.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "humidade": 90,
+        "intensidadeVento": 3.2,
+        "intensidadeVentoKM": 11.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-18T02:00:00.000000Z"
+        "date": "2026-07-18T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784330404
       },
       "updated": {
-        "sec": 1784346304
+        "sec": 1784353203
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261008036"
+      },
+      "id": "20261008036",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784352180
+      },
+      "date": "18-07-2026",
+      "hour": "06:23",
+      "location": "Viseu, Penedono, Penedono E Granja",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Viseu",
+      "concelho": "Penedono",
+      "freguesia": "Penedono E Granja",
+      "dico": "1812",
+      "lat": 40.9904,
+      "lng": -7.404202,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "União Das Freguesias De Penedono E Granja N229, 3630 Penedono, Portugal",
+      "active": true,
+      "sadoId": "20261008036",
+      "sharepointId": 20261008036,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210665,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210665,
+        "stationLocation": "Mêda",
+        "stationDistance": 12.6,
+        "temperatura": 15.6,
+        "humidade": 88,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1015.4,
+        "date": "2026-07-18T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784352640
+      },
+      "updated": {
+        "sec": 1784353503
       }
     }
   ]
