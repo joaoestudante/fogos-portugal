@@ -141,8 +141,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Ribeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Ribeira",
@@ -153,9 +153,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
+      "statusCode": 9,
       "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Rua Das Tapadas Rua Das Tapadas",
       "active": true,
@@ -181,22 +181,22 @@
         "stationId": 1210615,
         "stationLocation": "Ponte de Lima",
         "stationDistance": 2.8,
-        "temperatura": 19.5,
-        "humidade": 94,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 19.7,
+        "humidade": 91,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 11.3,
         "pressao": null,
-        "date": "2026-07-20T03:00:00.000000Z"
+        "date": "2026-07-20T06:00:00.000000Z"
       },
       "created": {
         "sec": 1784500504
       },
       "updated": {
-        "sec": 1784521503
+        "sec": 1784532604
       }
     },
     {
@@ -213,8 +213,8 @@
       "location": "Leiria, Caldas da Rainha, Santa Catarina",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 6,
+      "man": 11,
+      "terrain": 4,
       "district": "Leiria",
       "concelho": "Caldas Da Rainha",
       "freguesia": "Santa Catarina",
@@ -253,58 +253,130 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 8.7,
-        "temperatura": 19.7,
-        "humidade": 90,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 18.9,
+        "humidade": 91,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 25.5,
         "pressao": null,
-        "date": "2026-07-20T03:00:00.000000Z"
+        "date": "2026-07-20T06:00:00.000000Z"
       },
       "created": {
         "sec": 1784511922
       },
       "updated": {
-        "sec": 1784522703
+        "sec": 1784525704
       }
     },
     {
       "_id": {
-        "$id": "20261017550"
+        "$id": "20261017885"
       },
-      "id": "20261017550",
+      "id": "20261017885",
       "coords": true,
       "dateTime": {
-        "sec": 1784519040
+        "sec": 1784530800
       },
       "date": "20-07-2026",
-      "hour": "04:44",
-      "location": "Viana Do Castelo, Arcos de Valdevez, São Salvador, Vila Fonche E Parada",
+      "hour": "08:00",
+      "location": "Coimbra, Penacova, Sazes Do Lorvão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Viana Do Castelo",
-      "concelho": "Arcos De Valdevez",
-      "freguesia": "São Salvador, Vila Fonche E Parada",
-      "dico": "1601",
-      "lat": 41.8459,
-      "lng": -8.4209,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 16,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Penacova",
+      "freguesia": "Sazes Do Lorvão",
+      "dico": "0613",
+      "lat": 40.327314,
+      "lng": -8.342565,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Rua De São Bento  Rua De São Bento",
+      "localidade": "Contenças Rua Da Espanha",
       "active": true,
-      "sadoId": "20261017550",
-      "sharepointId": 20261017550,
+      "sadoId": "20261017885",
+      "sharepointId": 20261017885,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213613,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213613,
+        "stationLocation": "Coimbra / Mata de São Pedro (CIM)",
+        "stationDistance": 2.8,
+        "temperatura": 17.4,
+        "humidade": 87,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-07-20T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784531403
+      },
+      "updated": {
+        "sec": 1784532904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261017900"
+      },
+      "id": "20261017900",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784530500
+      },
+      "date": "20-07-2026",
+      "hour": "07:55",
+      "location": "Viana Do Castelo, Ponte de Lima, Refóios Do Lima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Viana Do Castelo",
+      "concelho": "Ponte De Lima",
+      "freguesia": "Refóios Do Lima",
+      "dico": "1607",
+      "lat": 41.800597,
+      "lng": -8.540179,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Lg Refoios Lg Refoios",
+      "active": true,
+      "sadoId": "20261017900",
+      "sharepointId": 20261017900,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -319,28 +391,28 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
+      "nearestWeatherStationId": 1210615,
       "isFire": true,
       "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "stationDistance": 2.5,
-        "temperatura": 18.2,
-        "humidade": 88,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "stationId": 1210615,
+        "stationLocation": "Ponte de Lima",
+        "stationDistance": 6,
+        "temperatura": 19.7,
+        "humidade": 91,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1015.8,
-        "date": "2026-07-20T03:00:00.000000Z"
+        "radiacao": 11.3,
+        "pressao": null,
+        "date": "2026-07-20T06:00:00.000000Z"
       },
       "created": {
-        "sec": 1784519718
+        "sec": 1784531403
       },
       "updated": {
-        "sec": 1784522703
+        "sec": 1784533204
       }
     }
   ]
