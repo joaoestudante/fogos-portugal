@@ -154,8 +154,8 @@
       "location": "Leiria, Batalha, São Mamede",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
+      "man": 9,
+      "terrain": 3,
       "district": "Leiria",
       "concelho": "Batalha",
       "freguesia": "São Mamede",
@@ -195,7 +195,7 @@
         "sec": 1784555704
       },
       "updated": {
-        "sec": 1784589904
+        "sec": 1784624704
       }
     },
     {
@@ -228,7 +228,7 @@
       "statusColor": "6ABF59",
       "status": "Vigilância",
       "important": false,
-      "localidade": "Foios Veigas",
+      "localidade": "Foios Veigas - Foios",
       "active": true,
       "sadoId": "20261020736",
       "sharepointId": 20261020736,
@@ -252,22 +252,166 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 13.2,
-        "temperatura": 13.7,
-        "humidade": 78,
-        "intensidadeVento": 3.3,
-        "intensidadeVentoKM": 11.9,
+        "temperatura": 19.8,
+        "humidade": 55,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 43.6,
+        "radiacao": 1313.2,
         "pressao": null,
-        "date": "2026-07-21T06:00:00.000000Z"
+        "date": "2026-07-21T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784561405
       },
       "updated": {
-        "sec": 1784617216
+        "sec": 1784620503
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261024022"
+      },
+      "id": "20261024022",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784625540
+      },
+      "date": "21-07-2026",
+      "hour": "10:19",
+      "location": "Braga, Vizela, Santa Eulália",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vizela",
+      "freguesia": "Santa Eulália",
+      "dico": "0314",
+      "lat": 41.352987,
+      "lng": -8.297164,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "---  Rua Bom Viver",
+      "active": true,
+      "sadoId": "20261024022",
+      "sharepointId": 20261024022,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 8.6,
+        "temperatura": 20.7,
+        "humidade": 76,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 781.8,
+        "pressao": 1017.5,
+        "date": "2026-07-21T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784625903
+      },
+      "updated": {
+        "sec": 1784625931
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261024039"
+      },
+      "id": "20261024039",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784625720
+      },
+      "date": "21-07-2026",
+      "hour": "10:22",
+      "location": "Porto, Maia, Castêlo Da Maia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Castêlo Da Maia",
+      "dico": "1306",
+      "lat": 41.26865,
+      "lng": -8.64126,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Castêlo Da Maia Caminho Do Passal, 4475 Maia, Portugal",
+      "active": true,
+      "sadoId": "20261024039",
+      "sharepointId": 20261024039,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 5.1,
+        "temperatura": 20.6,
+        "humidade": 83,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 591.6,
+        "pressao": 1017.7,
+        "date": "2026-07-21T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784626505
+      },
+      "updated": {
+        "sec": 1784626533
       }
     }
   ]
