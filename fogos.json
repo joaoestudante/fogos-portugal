@@ -212,8 +212,8 @@
       "location": "Guarda, Sabugal, Fóios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 5,
+      "man": 11,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Fóios",
@@ -252,22 +252,22 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 13.2,
-        "temperatura": 19.8,
-        "humidade": 55,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 24.8,
+        "humidade": 37,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 1313.2,
+        "radiacao": 2662.4,
         "pressao": null,
-        "date": "2026-07-21T08:00:00.000000Z"
+        "date": "2026-07-21T10:00:00.000000Z"
       },
       "created": {
         "sec": 1784561405
       },
       "updated": {
-        "sec": 1784620503
+        "sec": 1784631004
       }
     },
     {
@@ -284,21 +284,21 @@
       "location": "Braga, Vizela, Santa Eulália",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Vizela",
       "freguesia": "Santa Eulália",
       "dico": "0314",
-      "lat": 41.352987,
-      "lng": -8.297164,
+      "lat": 41.354778,
+      "lng": -8.306993,
       "naturezaCode": "3105",
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "---  Rua Bom Viver",
       "active": true,
@@ -323,23 +323,23 @@
       "weather": {
         "stationId": 1210625,
         "stationLocation": "Guimarães",
-        "stationDistance": 8.6,
-        "temperatura": 20.7,
-        "humidade": 76,
+        "stationDistance": 8.3,
+        "temperatura": 24.3,
+        "humidade": 64,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": null,
-        "radiacao": 781.8,
-        "pressao": 1017.5,
-        "date": "2026-07-21T08:00:00.000000Z"
+        "radiacao": 2673.2,
+        "pressao": 1016.9,
+        "date": "2026-07-21T10:00:00.000000Z"
       },
       "created": {
         "sec": 1784625903
       },
       "updated": {
-        "sec": 1784625931
+        "sec": 1784629504
       }
     },
     {
@@ -362,15 +362,15 @@
       "concelho": "Maia",
       "freguesia": "Castêlo Da Maia",
       "dico": "1306",
-      "lat": 41.26865,
-      "lng": -8.64126,
+      "lat": 41.277258,
+      "lng": -8.640835,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Castêlo Da Maia Caminho Do Passal, 4475 Maia, Portugal",
       "active": true,
@@ -395,23 +395,81 @@
       "weather": {
         "stationId": 1200545,
         "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "stationDistance": 5.1,
-        "temperatura": 20.6,
-        "humidade": 83,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "stationDistance": 5.9,
+        "temperatura": 22.3,
+        "humidade": 75,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 591.6,
-        "pressao": 1017.7,
-        "date": "2026-07-21T08:00:00.000000Z"
+        "radiacao": 1090,
+        "pressao": 1017.4,
+        "date": "2026-07-21T10:00:00.000000Z"
       },
       "created": {
         "sec": 1784626505
       },
       "updated": {
-        "sec": 1784626533
+        "sec": 1784628604
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261024200"
+      },
+      "id": "20261024200",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784627520
+      },
+      "date": "21-07-2026",
+      "hour": "10:52",
+      "location": "Coimbra, Penela, Podentes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 8,
+      "district": "Coimbra",
+      "concelho": "Penela",
+      "freguesia": "Podentes",
+      "dico": "0614",
+      "lat": 40.066487,
+      "lng": -8.430325,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alfafar  ---",
+      "active": true,
+      "sadoId": "20261024200",
+      "sharepointId": 20261024200,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213621,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1784628016
+      },
+      "updated": {
+        "sec": 1784631904
       }
     }
   ]
