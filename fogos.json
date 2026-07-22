@@ -176,8 +176,18 @@
       "sharepointId": 20261020186,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.07,
+          "total": 0.07
+        },
+        "altitude": 423.663,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Principal 30. 2495-022 Batalha. Portugal (Cabeço Marouço)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -195,7 +205,7 @@
         "sec": 1784555704
       },
       "updated": {
-        "sec": 1784655904
+        "sec": 1784682200
       }
     },
     {
@@ -252,166 +262,22 @@
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
         "stationDistance": 10.5,
-        "temperatura": 20.9,
-        "humidade": 89,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 20.5,
+        "humidade": 91,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1018.5,
-        "date": "2026-07-21T22:00:00.000000Z"
+        "pressao": 1018.4,
+        "date": "2026-07-22T00:00:00.000000Z"
       },
       "created": {
         "sec": 1784638828
       },
       "updated": {
         "sec": 1784674816
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261027360"
-      },
-      "id": "20261027360",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784666940
-      },
-      "date": "21-07-2026",
-      "hour": "21:49",
-      "location": "Vila Real, Montalegre, Cabril",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Montalegre",
-      "freguesia": "Cabril",
-      "dico": "1706",
-      "lat": 41.72384,
-      "lng": -8.02559,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
-      "important": false,
-      "localidade": "Cabril Fontaínho (Pnp Gerês)",
-      "active": true,
-      "sadoId": "20261027360",
-      "sharepointId": 20261027360,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210619,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210619,
-        "stationLocation": "Cabril",
-        "stationDistance": 1.1,
-        "temperatura": 19.5,
-        "humidade": 85,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-21T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1784667616
-      },
-      "updated": {
-        "sec": 1784676905
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261027419"
-      },
-      "id": "20261027419",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784667780
-      },
-      "date": "21-07-2026",
-      "hour": "22:03",
-      "location": "Bragança, Vinhais, Vale Das Fontes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Bragança",
-      "concelho": "Vinhais",
-      "freguesia": "Vale Das Fontes",
-      "dico": "0412",
-      "lat": 41.731605,
-      "lng": -7.095357,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vale Das Fontes Vale Das Fontes",
-      "active": true,
-      "sadoId": "20261027419",
-      "sharepointId": 20261027419,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "nearestWeatherStationId": 1210612,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210612,
-        "stationLocation": "Vinhais",
-        "stationDistance": 14.6,
-        "temperatura": 24,
-        "humidade": 62,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-21T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1784668504
-      },
-      "updated": {
-        "sec": 1784675704
       }
     },
     {
@@ -428,8 +294,8 @@
       "location": "Porto, Maia, Águas Santas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Maia",
       "freguesia": "Águas Santas",
@@ -440,9 +306,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "---  Rua Do Souto",
       "active": true,
@@ -468,22 +334,22 @@
         "stationId": 1210649,
         "stationLocation": "S. Gens",
         "stationDistance": 5,
-        "temperatura": 19.3,
+        "temperatura": 18.6,
         "humidade": 100,
         "intensidadeVento": 0.5,
         "intensidadeVentoKM": 1.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-21T22:00:00.000000Z"
+        "date": "2026-07-22T00:00:00.000000Z"
       },
       "created": {
         "sec": 1784673003
       },
       "updated": {
-        "sec": 1784675704
+        "sec": 1784680505
       }
     }
   ]
