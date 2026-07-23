@@ -244,8 +244,12 @@
       "sharepointId": 20261025152,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Cafelada (Passadouro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -262,22 +266,22 @@
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
         "stationDistance": 10.5,
-        "temperatura": 20.7,
-        "humidade": 88,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 19.2,
+        "humidade": 93,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.6,
-        "date": "2026-07-23T00:00:00.000000Z"
+        "pressao": 1019.1,
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
         "sec": 1784638828
       },
       "updated": {
-        "sec": 1784758803
+        "sec": 1784772517
       }
     },
     {
@@ -294,8 +298,8 @@
       "location": "Vila Real, Alijó, Vilar De Maçada",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 616,
-      "terrain": 193,
+      "man": 533,
+      "terrain": 173,
       "district": "Vila Real",
       "concelho": "Alijó",
       "freguesia": "Vilar De Maçada",
@@ -334,8 +338,8 @@
         "stationId": 1200567,
         "stationLocation": "Vila Real",
         "stationDistance": 14,
-        "temperatura": 16.3,
-        "humidade": 98,
+        "temperatura": 14.6,
+        "humidade": 100,
         "intensidadeVento": 0.3,
         "intensidadeVentoKM": 1.1,
         "idDireccVento": 4,
@@ -343,13 +347,13 @@
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": 1019.2,
-        "date": "2026-07-23T00:00:00.000000Z"
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
         "sec": 1784724006
       },
       "updated": {
-        "sec": 1784768703
+        "sec": 1784781005
       }
     },
     {
@@ -406,94 +410,22 @@
         "stationId": 1210657,
         "stationLocation": "Luzim",
         "stationDistance": 17,
-        "temperatura": 15.6,
-        "humidade": 93,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 15,
+        "humidade": 96,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 0.2,
         "pressao": null,
-        "date": "2026-07-23T00:00:00.000000Z"
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
         "sec": 1784732104
       },
       "updated": {
         "sec": 1784764503
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261031423"
-      },
-      "id": "20261031423",
-      "coords": true,
-      "dateTime": {
-        "sec": 1784735340
-      },
-      "date": "22-07-2026",
-      "hour": "16:49",
-      "location": "Lisboa, Mafra, Igreja Nova E Cheleiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 10,
-      "district": "Lisboa",
-      "concelho": "Mafra",
-      "freguesia": "Igreja Nova E Cheleiros",
-      "dico": "1109",
-      "lat": 38.892222,
-      "lng": -9.341082,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Igreja Nova E Cheleiros Avenida Silvério Galrão Nogueira 26, 2640-169 Mafra, Portugal",
-      "active": true,
-      "sadoId": "20261031423",
-      "sharepointId": 20261031423,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1210752,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210752,
-        "stationLocation": "Sintra/Tapada do Mouco",
-        "stationDistance": 13.3,
-        "temperatura": 16.7,
-        "humidade": 100,
-        "intensidadeVento": 3.4,
-        "intensidadeVentoKM": 12.2,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-07-23T00:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1784736014
-      },
-      "updated": {
-        "sec": 1784768703
       }
     },
     {
@@ -510,8 +442,8 @@
       "location": "Castelo Branco, Castelo Branco, Sarzedas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 9,
+      "man": 32,
+      "terrain": 8,
       "district": "Castelo Branco",
       "concelho": "Castelo Branco",
       "freguesia": "Sarzedas",
@@ -550,22 +482,22 @@
         "stationId": 1210806,
         "stationLocation": "Proença-a-Nova, P.Moitas",
         "stationDistance": 17.5,
-        "temperatura": 19.5,
-        "humidade": 80,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
+        "temperatura": 17.6,
+        "humidade": 90,
+        "intensidadeVento": 2.8,
+        "intensidadeVentoKM": 10.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-23T00:00:00.000000Z"
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
         "sec": 1784737805
       },
       "updated": {
-        "sec": 1784768420
+        "sec": 1784772903
       }
     },
     {
@@ -622,16 +554,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 5.8,
-        "temperatura": 21.6,
-        "humidade": 54,
-        "intensidadeVento": 1.4,
-        "intensidadeVentoKM": 5,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 18.1,
+        "humidade": 65,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-23T00:00:00.000000Z"
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
         "sec": 1784738705
@@ -642,38 +574,110 @@
     },
     {
       "_id": {
-        "$id": "20261033306"
+        "$id": "20261033485"
       },
-      "id": "20261033306",
+      "id": "20261033485",
       "coords": true,
       "dateTime": {
-        "sec": 1784767200
+        "sec": 1784778420
       },
       "date": "23-07-2026",
-      "hour": "01:40",
-      "location": "Viseu, Castro Daire, Reriz E Gafanhão",
+      "hour": "04:47",
+      "location": "Leiria, Caldas da Rainha, Carvalhal Benfeito",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Castro Daire",
-      "freguesia": "Reriz E Gafanhão",
-      "dico": "1803",
-      "lat": 40.907339,
-      "lng": -7.981206,
+      "man": 14,
+      "terrain": 4,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Carvalhal Benfeito",
+      "dico": "1006",
+      "lat": 39.459478,
+      "lng": -9.04915,
       "naturezaCode": "3103",
       "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Casal Do Rio Mata Das Mestras",
+      "active": true,
+      "sadoId": "20261033485",
+      "sharepointId": 20261033485,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210726,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210726,
+        "stationLocation": "Alcobaça",
+        "stationDistance": 9.5,
+        "temperatura": 16.4,
+        "humidade": 93,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-07-23T03:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784779216
+      },
+      "updated": {
+        "sec": 1784781302
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261033521"
+      },
+      "id": "20261033521",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784780580
+      },
+      "date": "23-07-2026",
+      "hour": "05:23",
+      "location": "Coimbra, Figueira da Foz, Quiaios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Coimbra",
+      "concelho": "Figueira Da Foz",
+      "freguesia": "Quiaios",
+      "dico": "0605",
+      "lat": 40.190131,
+      "lng": -8.86,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Savariz Savariz",
+      "localidade": "Serra Da Boa Viagem  ---",
       "active": true,
-      "sadoId": "20261033306",
-      "sharepointId": 20261033306,
+      "sadoId": "20261033521",
+      "sharepointId": 20261033521,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -687,29 +691,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 6213013,
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210713,
       "isFire": true,
       "weather": {
-        "stationId": 6213013,
-        "stationLocation": "Castro Daire / Mézio (CIM)",
-        "stationDistance": 11.6,
-        "temperatura": 17.1,
-        "humidade": 77,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": null,
+        "stationId": 1210713,
+        "stationLocation": "Figueira da Foz, Vila Verde",
+        "stationDistance": 7.2,
+        "temperatura": 16.3,
+        "humidade": 96,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-07-22T07:00:00.000000Z"
+        "date": "2026-07-23T03:00:00.000000Z"
       },
       "created": {
-        "sec": 1784768104
+        "sec": 1784781302
       },
       "updated": {
-        "sec": 1784768420
+        "sec": 1784781347
       }
     }
   ]
