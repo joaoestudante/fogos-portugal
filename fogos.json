@@ -220,10 +220,10 @@
       "date": "22-07-2026",
       "hour": "13:35",
       "location": "Vila Real, Alijó, Vilar De Maçada",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 230,
-      "terrain": 75,
+      "man": 223,
+      "terrain": 70,
       "district": "Vila Real",
       "concelho": "Alijó",
       "freguesia": "Vilar De Maçada",
@@ -244,8 +244,18 @@
       "sharepointId": 20261030429,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 107.856949343777,
+          "agricola": 17.5016970396996,
+          "mato": 1001.14089314632,
+          "total": 1127.02752112255
+        },
+        "altitude": 654.436,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Agrelos",
       "kml": null,
       "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>Placemark.kml</name>\r\n\t<Style id=\"inline\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<fill>0</fill>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"inline0\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#inline</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#inline1</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"inline1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<fill>0</fill>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<styleUrl>#inline0</styleUrl>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-7.570649714883347,41.33365200279702,0 -7.568492078581231,41.33895073477447,0 -7.564584179565374,41.34052745498732,0 -7.561551168687163,41.33973948863134,0 -7.561026250725077,41.34057145132755,0 -7.56073467168954,41.34328618977059,0 -7.559334854521741,41.34578199775726,0 -7.560501610014581,41.34910970174592,0 -7.55927679963861,41.35239365189751,0 -7.554085047269954,41.35493304811354,0 -7.549476569162128,41.35607111327118,0 -7.542066670105036,41.36373290692956,0 -7.533781521651513,41.36631491546505,0 -7.52514549210705,41.36710040913704,0 -7.512663104941938,41.36315548354305,0 -7.510216744907371,41.35803182262701,0 -7.542246151563151,41.34157761716541,0 -7.556010282218627,41.33601785708772,0 -7.559217900756058,41.33706866610989,0 -7.56510854489645,41.33312739818702,0 -7.568199760896314,41.33282049913165,0 -7.570649714883347,41.33365200279702,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.7.1155\"></atom:link>\r\n\t</Placemark>\r\n\n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
       "pco": null,
@@ -262,22 +272,22 @@
         "stationId": 1200567,
         "stationLocation": "Vila Real",
         "stationDistance": 14,
-        "temperatura": 14.9,
-        "humidade": 100,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1017.5,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "temperatura": 16.9,
+        "humidade": 98,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 478.1,
+        "pressao": 1017.3,
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784724006
       },
       "updated": {
-        "sec": 1784876103
+        "sec": 1784884204
       }
     },
     {
@@ -334,16 +344,16 @@
         "stationId": 1210657,
         "stationLocation": "Luzim",
         "stationDistance": 17,
-        "temperatura": 16.3,
-        "humidade": 91,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
+        "temperatura": 18.3,
+        "humidade": 81,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 32.8,
+        "radiacao": 557.4,
         "pressao": null,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784732104
@@ -366,8 +376,8 @@
       "location": "Guarda, Seia, Paranhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 7,
+      "man": 17,
+      "terrain": 4,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "Paranhos",
@@ -406,22 +416,22 @@
         "stationId": 1210685,
         "stationLocation": "Nelas",
         "stationDistance": 6.3,
-        "temperatura": 16.2,
-        "humidade": 96,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 18,
+        "humidade": 87,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 45.5,
+        "radiacao": 776.4,
         "pressao": null,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784804415
       },
       "updated": {
-        "sec": 1784854203
+        "sec": 1784880014
       }
     },
     {
@@ -478,16 +488,16 @@
         "stationId": 1210702,
         "stationLocation": "Aveiro (Universidade)",
         "stationDistance": 10.5,
-        "temperatura": 18.6,
-        "humidade": 91,
+        "temperatura": 20.2,
+        "humidade": 85,
         "intensidadeVento": 2,
         "intensidadeVentoKM": 7.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 18.6,
-        "pressao": 1017.7,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "radiacao": 590.8,
+        "pressao": 1018,
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784805305
@@ -550,16 +560,16 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 6.8,
-        "temperatura": 13.9,
-        "humidade": 99,
-        "intensidadeVento": 1.8,
-        "intensidadeVentoKM": 6.5,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 17.3,
+        "humidade": 94,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018.3,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "pressao": 1018.5,
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784824806
@@ -622,16 +632,16 @@
         "stationId": 1210663,
         "stationLocation": "Moimenta da Beira",
         "stationDistance": 12.1,
-        "temperatura": 14.6,
-        "humidade": 85,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 17.2,
+        "humidade": 71,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 40.7,
+        "radiacao": 371.2,
         "pressao": null,
-        "date": "2026-07-24T06:00:00.000000Z"
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
         "sec": 1784825704
@@ -642,38 +652,38 @@
     },
     {
       "_id": {
-        "$id": "20261038613"
+        "$id": "20261039134"
       },
-      "id": "20261038613",
+      "id": "20261039134",
       "coords": true,
       "dateTime": {
-        "sec": 1784869980
+        "sec": 1784879100
       },
       "date": "24-07-2026",
-      "hour": "06:13",
-      "location": "Braga, Vila Nova de Famalicão, Vila Nova De Famalicão E Calendário",
+      "hour": "08:45",
+      "location": "Lisboa, Sintra, São João Das Lampas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Vila Nova De Famalicão",
-      "freguesia": "Vila Nova De Famalicão E Calendário",
-      "dico": "0312",
-      "lat": 41.422607,
-      "lng": -8.527515,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 31,
+      "terrain": 10,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "São João Das Lampas",
+      "dico": "1111",
+      "lat": 38.841782,
+      "lng": -9.418435,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "---  Rua Da Balaida",
+      "localidade": "Gouveia Rua Do Rossio De Trás (Pnsc)",
       "active": true,
-      "sadoId": "20261038613",
-      "sharepointId": 20261038613,
+      "sadoId": "20261039134",
+      "sharepointId": 20261039134,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -686,52 +696,52 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 6212410,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210747,
       "isFire": true,
       "weather": null,
       "created": {
-        "sec": 1784870405
+        "sec": 1784880305
       },
       "updated": {
-        "sec": 1784872205
+        "sec": 1784883913
       }
     },
     {
       "_id": {
-        "$id": "20261038821"
+        "$id": "20261039227"
       },
-      "id": "20261038821",
+      "id": "20261039227",
       "coords": true,
       "dateTime": {
-        "sec": 1784875800
+        "sec": 1784880960
       },
       "date": "24-07-2026",
-      "hour": "07:50",
-      "location": "Braga, Póvoa de Lanhoso, Fonte Arcada E Oliveira",
+      "hour": "09:16",
+      "location": "Faro, Albufeira, Guia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Fonte Arcada E Oliveira",
-      "dico": "0309",
-      "lat": 41.58121,
-      "lng": -8.221893,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "man": 7,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Guia",
+      "dico": "0801",
+      "lat": 37.101352,
+      "lng": -8.323515,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Oliveira Rua Da Igreja",
+      "localidade": "Quinta Da Saudade  ---",
       "active": true,
-      "sadoId": "20261038821",
-      "sharepointId": 20261038821,
+      "sadoId": "20261039227",
+      "sharepointId": 20261039227,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -744,30 +754,102 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 6212121,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210874,
       "isFire": true,
       "weather": {
-        "stationId": 6212121,
-        "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "stationDistance": 15.7,
-        "temperatura": 17,
-        "humidade": 91,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
+        "stationId": 1210874,
+        "stationLocation": "Albufeira",
+        "stationDistance": 5.5,
+        "temperatura": 19.8,
+        "humidade": 82,
+        "intensidadeVento": 8.2,
+        "intensidadeVentoKM": 29.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-07-24T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784881505
+      },
+      "updated": {
+        "sec": 1784885105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261039490"
+      },
+      "id": "20261039490",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784883720
+      },
+      "date": "24-07-2026",
+      "hour": "10:02",
+      "location": "Santarém, Coruche, São José Da Lamarosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Coruche",
+      "freguesia": "São José Da Lamarosa",
+      "dico": "1409",
+      "lat": 39.066108,
+      "lng": -8.464709,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Lamarosa Ovelhas",
+      "active": true,
+      "sadoId": "20261039490",
+      "sharepointId": 20261039490,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210550,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210550,
+        "stationLocation": "Coruche / Cruz Do Leão",
+        "stationDistance": 5.6,
+        "temperatura": 19.4,
+        "humidade": 92,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018,
-        "date": "2026-07-24T03:00:00.000000Z"
+        "pressao": 1019,
+        "date": "2026-07-24T08:00:00.000000Z"
       },
       "created": {
-        "sec": 1784876104
+        "sec": 1784883913
       },
       "updated": {
-        "sec": 1784877004
+        "sec": 1784885703
       }
     }
   ]
