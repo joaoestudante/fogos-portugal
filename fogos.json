@@ -222,8 +222,8 @@
       "location": "Vila Real, Alijó, Vilar De Maçada",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 64,
-      "terrain": 16,
+      "man": 78,
+      "terrain": 18,
       "district": "Vila Real",
       "concelho": "Alijó",
       "freguesia": "Vilar De Maçada",
@@ -272,22 +272,22 @@
         "stationId": 1200567,
         "stationLocation": "Vila Real",
         "stationDistance": 14,
-        "temperatura": 15.1,
+        "temperatura": 15.4,
         "humidade": 100,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0.9,
         "radiacao": 0,
-        "pressao": 1017,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "pressao": 1017.1,
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784724006
       },
       "updated": {
-        "sec": 1784952303
+        "sec": 1784962204
       }
     },
     {
@@ -348,16 +348,16 @@
         "stationId": 6214119,
         "stationLocation": "Pedrógão Grande (CMPG)",
         "stationDistance": 6.8,
-        "temperatura": 16.1,
-        "humidade": 89,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 16.8,
+        "humidade": 88,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1017.9,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "pressao": 1017.4,
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784824806
@@ -409,7 +409,7 @@
           "mato": 0.1364,
           "total": 0.1364
         },
-        "altitude": 0,
+        "altitude": 48.6775,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -430,22 +430,22 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 2,
-        "temperatura": 19.8,
-        "humidade": 90,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
+        "temperatura": 19.7,
+        "humidade": 91,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
         "idDireccVento": 8,
         "direccVento": "NW",
-        "precAcumulada": 0.1,
+        "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1018,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "pressao": 1018.1,
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784898905
       },
       "updated": {
-        "sec": 1784931680
+        "sec": 1784959491
       }
     },
     {
@@ -485,8 +485,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 4,
+          "total": 4
+        },
+        "altitude": 816.944,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Aldeia da Ponte (MATREMA)",
@@ -506,22 +512,22 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 16.8,
-        "temperatura": 13,
-        "humidade": 91,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 11.7,
+        "humidade": 98,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784899805
       },
       "updated": {
-        "sec": 1784930414
+        "sec": 1784959491
       }
     },
     {
@@ -561,7 +567,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 153.462,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -582,22 +588,22 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 18.3,
-        "temperatura": 19.8,
-        "humidade": 90,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
+        "temperatura": 19.7,
+        "humidade": 91,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
         "idDireccVento": 8,
         "direccVento": "NW",
-        "precAcumulada": 0.1,
+        "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1018,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "pressao": 1018.1,
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784901616
       },
       "updated": {
-        "sec": 1784919620
+        "sec": 1784959497
       }
     },
     {
@@ -643,7 +649,7 @@
           "mato": 0,
           "total": 0.18
         },
-        "altitude": 0,
+        "altitude": 192.832,
         "fogacho": true,
         "agricola": true,
         "fontealerta": "112"
@@ -666,7 +672,7 @@
         "sec": 1784909252
       },
       "updated": {
-        "sec": 1784919622
+        "sec": 1784959499
       }
     },
     {
@@ -706,7 +712,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 248.993,
         "agricola": true,
         "fontealerta": "112"
       },
@@ -727,22 +733,22 @@
         "stationId": 1210716,
         "stationLocation": "Ansião",
         "stationDistance": 17.6,
-        "temperatura": 17.2,
-        "humidade": 98,
-        "intensidadeVento": 3.1,
-        "intensidadeVentoKM": 11.2,
+        "temperatura": 16.8,
+        "humidade": 99,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784918403
       },
       "updated": {
-        "sec": 1784918462
+        "sec": 1784959499
       }
     },
     {
@@ -759,8 +765,8 @@
       "location": "Faro, Monchique, Marmelete",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 98,
+      "terrain": 32,
       "district": "Faro",
       "concelho": "Monchique",
       "freguesia": "Marmelete",
@@ -771,9 +777,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
       "localidade": "Marmelete Latlong(37.29140092,-8.63704127) - Vale De Água, 8550 Monchique, Portugal",
       "active": true,
@@ -781,8 +787,12 @@
       "sharepointId": 20261043843,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(37.29140092.-8.63704127) - Vale de Água. 8550 Monchique. Portugal (Vale de Água de Cima)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -801,20 +811,96 @@
         "stationDistance": 4.5,
         "temperatura": 13.4,
         "humidade": 100,
-        "intensidadeVento": 15.6,
-        "intensidadeVentoKM": 56.2,
+        "intensidadeVento": 15.8,
+        "intensidadeVentoKM": 56.9,
         "idDireccVento": 9,
         "direccVento": "N",
-        "precAcumulada": 0.1,
+        "precAcumulada": 0.2,
         "radiacao": 0.6,
         "pressao": null,
-        "date": "2026-07-25T03:00:00.000000Z"
+        "date": "2026-07-25T05:00:00.000000Z"
       },
       "created": {
         "sec": 1784952635
       },
       "updated": {
-        "sec": 1784952904
+        "sec": 1784961004
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261043991"
+      },
+      "id": "20261043991",
+      "coords": true,
+      "dateTime": {
+        "sec": 1784959620
+      },
+      "date": "25-07-2026",
+      "hour": "07:07",
+      "location": "Vila Real, Vila Pouca de Aguiar, Vreia De Bornes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Vila Pouca De Aguiar",
+      "freguesia": "Vreia De Bornes",
+      "dico": "1713",
+      "lat": 41.555158,
+      "lng": -7.548194,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Barbadães De Cima Barbadães De Cima, Vila Pouca De Aguiar, Portugal",
+      "active": true,
+      "sadoId": "20261043991",
+      "sharepointId": 20261043991,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Barbadães de Cima. Vila Pouca de Aguiar. Portugal (Barbadães de Cima)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 20.1,
+        "temperatura": 14.1,
+        "humidade": 91,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.4,
+        "date": "2026-07-25T05:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1784960703
+      },
+      "updated": {
+        "sec": 1784962503
       }
     }
   ]
