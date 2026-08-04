@@ -201,16 +201,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 16.2,
-        "humidade": 91,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 16.5,
+        "humidade": 89,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1016.6,
-        "date": "2026-08-04T03:00:00.000000Z"
+        "radiacao": 23,
+        "pressao": 1017.1,
+        "date": "2026-08-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
@@ -351,16 +351,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 9.8,
-        "temperatura": 16.2,
-        "humidade": 91,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 16.5,
+        "humidade": 89,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1016.6,
-        "date": "2026-08-04T03:00:00.000000Z"
+        "radiacao": 23,
+        "pressao": 1017.1,
+        "date": "2026-08-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1785416423
@@ -485,16 +485,16 @@
         "stationId": 6213016,
         "stationLocation": "Oliveira de Frades (CIM)",
         "stationDistance": 4.4,
-        "temperatura": 16.5,
-        "humidade": 97,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 16.1,
+        "humidade": 99,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-04T03:00:00.000000Z"
+        "date": "2026-08-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1785759004
@@ -557,22 +557,94 @@
         "stationId": 1200570,
         "stationLocation": "Castelo Branco",
         "stationDistance": 18.2,
-        "temperatura": 17.8,
+        "temperatura": 17,
         "humidade": 100,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1015.4,
-        "date": "2026-08-04T03:00:00.000000Z"
+        "radiacao": 31,
+        "pressao": 1016.6,
+        "date": "2026-08-04T06:00:00.000000Z"
       },
       "created": {
         "sec": 1785778946
       },
       "updated": {
         "sec": 1785801904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261095539"
+      },
+      "id": "20261095539",
+      "coords": true,
+      "dateTime": {
+        "sec": 1785823800
+      },
+      "date": "04-08-2026",
+      "hour": "07:10",
+      "location": "Porto, Felgueiras, Refontoura",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Refontoura",
+      "dico": "1303",
+      "lat": 41.3347,
+      "lng": -8.187817,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Refontoura Rua De 5 De Outubro 13, 4610-700 Felgueiras, Portugal",
+      "active": true,
+      "sadoId": "20261095539",
+      "sharepointId": 20261095539,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 15.1,
+        "temperatura": 19.6,
+        "humidade": 83,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 19.5,
+        "pressao": 1017.1,
+        "date": "2026-08-04T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1785824567
+      },
+      "updated": {
+        "sec": 1785826821
       }
     }
   ]
