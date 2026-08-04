@@ -151,8 +151,8 @@
       "location": "Vila Real, Valpaços, Ervões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 58,
-      "terrain": 23,
+      "man": 66,
+      "terrain": 26,
       "district": "Vila Real",
       "concelho": "Valpaços",
       "freguesia": "Ervões",
@@ -201,22 +201,22 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 16.5,
-        "humidade": 89,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 22.7,
+        "humidade": 65,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 23,
-        "pressao": 1017.1,
-        "date": "2026-08-04T06:00:00.000000Z"
+        "radiacao": 1087.2,
+        "pressao": 1017,
+        "date": "2026-08-04T09:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
       },
       "updated": {
-        "sec": 1785799203
+        "sec": 1785835504
       }
     },
     {
@@ -351,16 +351,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 9.8,
-        "temperatura": 16.5,
-        "humidade": 89,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 22.7,
+        "humidade": 65,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 23,
-        "pressao": 1017.1,
-        "date": "2026-08-04T06:00:00.000000Z"
+        "radiacao": 1087.2,
+        "pressao": 1017,
+        "date": "2026-08-04T09:00:00.000000Z"
       },
       "created": {
         "sec": 1785416423
@@ -467,8 +467,18 @@
       "sharepointId": 20261092089,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 1.33,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1.33
+        },
+        "altitude": 185.105,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Cunhedo (Ribeiro da Ponte de Mezio)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -485,22 +495,22 @@
         "stationId": 6213016,
         "stationLocation": "Oliveira de Frades (CIM)",
         "stationDistance": 4.4,
-        "temperatura": 16.1,
-        "humidade": 99,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
+        "temperatura": 17.3,
+        "humidade": 97,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-04T06:00:00.000000Z"
+        "date": "2026-08-04T09:00:00.000000Z"
       },
       "created": {
         "sec": 1785759004
       },
       "updated": {
-        "sec": 1785798602
+        "sec": 1785835204
       }
     },
     {
@@ -517,8 +527,8 @@
       "location": "Castelo Branco, Vila Velha de Ródão, Perais",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Castelo Branco",
       "concelho": "Vila Velha De Ródão",
       "freguesia": "Perais",
@@ -557,58 +567,58 @@
         "stationId": 1200570,
         "stationLocation": "Castelo Branco",
         "stationDistance": 18.2,
-        "temperatura": 17,
-        "humidade": 100,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
+        "temperatura": 22.6,
+        "humidade": 67,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 31,
-        "pressao": 1016.6,
-        "date": "2026-08-04T06:00:00.000000Z"
+        "radiacao": 1864.2,
+        "pressao": 1016.9,
+        "date": "2026-08-04T09:00:00.000000Z"
       },
       "created": {
         "sec": 1785778946
       },
       "updated": {
-        "sec": 1785801904
+        "sec": 1785837313
       }
     },
     {
       "_id": {
-        "$id": "20261095539"
+        "$id": "20261096160"
       },
-      "id": "20261095539",
+      "id": "20261096160",
       "coords": true,
       "dateTime": {
-        "sec": 1785823800
+        "sec": 1785832320
       },
       "date": "04-08-2026",
-      "hour": "07:10",
-      "location": "Porto, Felgueiras, Refontoura",
+      "hour": "09:32",
+      "location": "Vila Real, Chaves, Cimo De Vila Da Castanheira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Felgueiras",
-      "freguesia": "Refontoura",
-      "dico": "1303",
-      "lat": 41.3347,
-      "lng": -8.187817,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "man": 17,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Cimo De Vila Da Castanheira",
+      "dico": "1703",
+      "lat": 41.79612,
+      "lng": -7.26392,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Refontoura Rua De 5 De Outubro 13, 4610-700 Felgueiras, Portugal",
+      "localidade": "Cimo De Vila Da Castanheira Cimo De Vila Da Castanheira",
       "active": true,
-      "sadoId": "20261095539",
-      "sharepointId": 20261095539,
+      "sadoId": "20261096160",
+      "sharepointId": 20261096160,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -622,29 +632,245 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210625,
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
       "isFire": true,
       "weather": {
-        "stationId": 1210625,
-        "stationLocation": "Guimarães",
-        "stationDistance": 15.1,
-        "temperatura": 19.6,
-        "humidade": 83,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": 19.5,
-        "pressao": 1017.1,
-        "date": "2026-08-04T06:00:00.000000Z"
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 18.5,
+        "temperatura": 22.7,
+        "humidade": 65,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 1087.2,
+        "pressao": 1017,
+        "date": "2026-08-04T09:00:00.000000Z"
       },
       "created": {
-        "sec": 1785824567
+        "sec": 1785832803
       },
       "updated": {
-        "sec": 1785826821
+        "sec": 1785835504
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261096301"
+      },
+      "id": "20261096301",
+      "coords": true,
+      "dateTime": {
+        "sec": 1785833640
+      },
+      "date": "04-08-2026",
+      "hour": "09:54",
+      "location": "Lisboa, Mafra, Mafra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Lisboa",
+      "concelho": "Mafra",
+      "freguesia": "Mafra",
+      "dico": "1109",
+      "lat": 38.961979,
+      "lng": -9.356043,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Sobreiro Rua 5  Outubro",
+      "active": true,
+      "sadoId": "20261096301",
+      "sharepointId": 20261096301,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210739,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210739,
+        "stationLocation": "Torres Vedras, Dois Portos",
+        "stationDistance": 17.8,
+        "temperatura": 22.9,
+        "humidade": 80,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 343.6,
+        "pressao": null,
+        "date": "2026-08-04T09:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1785834183
+      },
+      "updated": {
+        "sec": 1785834603
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261096431"
+      },
+      "id": "20261096431",
+      "coords": true,
+      "dateTime": {
+        "sec": 1785834840
+      },
+      "date": "04-08-2026",
+      "hour": "10:14",
+      "location": "Faro, Aljezur, Aljezur",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 5,
+      "district": "Faro",
+      "concelho": "Aljezur",
+      "freguesia": "Aljezur",
+      "dico": "0803",
+      "lat": 37.351915,
+      "lng": -8.832832,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Amoreira  ---",
+      "active": true,
+      "sadoId": "20261096431",
+      "sharepointId": 20261096431,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210789,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210789,
+        "stationLocation": "Aljezur",
+        "stationDistance": 4.9,
+        "temperatura": 23.8,
+        "humidade": 78,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 1254.4,
+        "pressao": null,
+        "date": "2026-08-04T09:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1785835401
+      },
+      "updated": {
+        "sec": 1785837314
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261096594"
+      },
+      "id": "20261096594",
+      "coords": true,
+      "dateTime": {
+        "sec": 1785836580
+      },
+      "date": "04-08-2026",
+      "hour": "10:43",
+      "location": "Beja, Beja, Baleizão",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 30,
+      "terrain": 7,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Baleizão",
+      "dico": "0205",
+      "lat": 38.02478,
+      "lng": -7.757939,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Baleizão Latlong(38.02477683,-7.75793948) - N260, 7800 Beja, Portugal",
+      "active": true,
+      "sadoId": "20261096594",
+      "sharepointId": 20261096594,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 9.6,
+        "temperatura": 21.9,
+        "humidade": 75,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 1517.8,
+        "pressao": 1018.9,
+        "date": "2026-08-04T09:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1785837266
+      },
+      "updated": {
+        "sec": 1785837626
       }
     }
   ]
