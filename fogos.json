@@ -65,16 +65,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 21.8,
-        "humidade": 55,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 25.1,
+        "humidade": 47,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 1334.5,
-        "pressao": 1019.6,
-        "date": "2026-08-07T09:00:00.000000Z"
+        "radiacao": 1819.8,
+        "pressao": 1018.6,
+        "date": "2026-08-07T10:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
@@ -141,16 +141,16 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 19.6,
-        "temperatura": 23,
-        "humidade": 72,
-        "intensidadeVento": 2.4,
-        "intensidadeVentoKM": 8.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 25,
+        "humidade": 62,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
+        "date": "2026-08-07T10:00:00.000000Z"
       },
       "created": {
         "sec": 1785862828
@@ -173,8 +173,8 @@
       "location": "Viseu, Mangualde, Santiago De Cassurrães E Póvoa De Cervães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 57,
-      "terrain": 20,
+      "man": 51,
+      "terrain": 18,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Santiago De Cassurrães E Póvoa De Cervães",
@@ -217,22 +217,22 @@
         "stationId": 6213014,
         "stationLocation": "Mangualde / Chãs de Tavares  (CIM)",
         "stationDistance": 7.3,
-        "temperatura": 23.7,
-        "humidade": 36,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 24.8,
+        "humidade": 40,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
+        "date": "2026-08-07T10:00:00.000000Z"
       },
       "created": {
         "sec": 1786025703
       },
       "updated": {
-        "sec": 1786097403
+        "sec": 1786101304
       }
     },
     {
@@ -371,88 +371,26 @@
       "sub_regiao": "Beiras e Serra da Estrela",
       "nearestWeatherStationId": 1259204,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1259204,
+        "stationLocation": "Seia/Senhora do Espinheiro",
+        "stationDistance": 1,
+        "temperatura": 23,
+        "humidade": 49,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1019.6,
+        "date": "2026-08-07T10:00:00.000000Z"
+      },
       "created": {
         "sec": 1786043405
       },
       "updated": {
         "sec": 1786096503
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261111509"
-      },
-      "id": "20261111509",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786086780
-      },
-      "date": "07-08-2026",
-      "hour": "08:13",
-      "location": "Setúbal, Seixal, Corroios",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Corroios",
-      "dico": "1510",
-      "lat": 38.655737,
-      "lng": -9.147163,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Corroios Igreja Da Sagrada Família",
-      "active": true,
-      "sadoId": "20261111509",
-      "sharepointId": 20261111509,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Igreja da Sagrada Família (Quinta do Rato)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210762,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210762,
-        "stationLocation": "Lisboa, Tapada da Ajuda",
-        "stationDistance": 6.7,
-        "temperatura": 24.1,
-        "humidade": 62,
-        "intensidadeVento": 1.8,
-        "intensidadeVentoKM": 6.5,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 1627.2,
-        "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786087503
-      },
-      "updated": {
-        "sec": 1786094102
       }
     },
     {
@@ -496,7 +434,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua do Corgo 320. 3730-105 Vale de Cambra. Portugal (Merlães)",
+      "detailLocation": "Merlães",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -513,170 +451,22 @@
         "stationId": 1210669,
         "stationLocation": "Arouca",
         "stationDistance": 15.1,
-        "temperatura": 20,
-        "humidade": 55,
+        "temperatura": 23.3,
+        "humidade": 49,
         "intensidadeVento": 0.8,
         "intensidadeVentoKM": 2.9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 1616.4,
+        "radiacao": 2325.5,
         "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
+        "date": "2026-08-07T10:00:00.000000Z"
       },
       "created": {
         "sec": 1786093504
       },
       "updated": {
-        "sec": 1786096202
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261112508"
-      },
-      "id": "20261112508",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786096500
-      },
-      "date": "07-08-2026",
-      "hour": "10:55",
-      "location": "Aveiro, Vagos, Gafanha Da Boa Hora",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Vagos",
-      "freguesia": "Gafanha Da Boa Hora",
-      "dico": "0118",
-      "lat": 40.549982,
-      "lng": -8.76944,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Gafanha Da Boa Hora Rua Da Alta Tensão",
-      "active": true,
-      "sadoId": "20261112508",
-      "sharepointId": 20261112508,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210704,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210704,
-        "stationLocation": "Dunas de Mira",
-        "stationDistance": 11.6,
-        "temperatura": 22.9,
-        "humidade": 73,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 1297.1,
-        "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786097104
-      },
-      "updated": {
-        "sec": 1786098304
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261112576"
-      },
-      "id": "20261112576",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786097580
-      },
-      "date": "07-08-2026",
-      "hour": "11:13",
-      "location": "Aveiro, Estarreja, Pardilhó",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
-      "district": "Aveiro",
-      "concelho": "Estarreja",
-      "freguesia": "Pardilhó",
-      "dico": "0108",
-      "lat": 40.794679,
-      "lng": -8.635515,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Pardilho Rua Da Samaritana",
-      "active": true,
-      "sadoId": "20261112576",
-      "sharepointId": 20261112576,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua da Samaritana (Teixugueiras)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210702,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210702,
-        "stationLocation": "Aveiro (Universidade)",
-        "stationDistance": 17.8,
-        "temperatura": 21.9,
-        "humidade": 75,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": 1411.4,
-        "pressao": 1021.2,
-        "date": "2026-08-07T09:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786098004
-      },
-      "updated": {
-        "sec": 1786098304
+        "sec": 1786100625
       }
     },
     {
@@ -691,32 +481,36 @@
       "date": "07-08-2026",
       "hour": "11:19",
       "location": "Santarém, Rio Maior, Alcobertas",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Rio Maior",
       "freguesia": "Alcobertas",
       "dico": "1414",
-      "lat": 39.41491,
-      "lng": -8.923492,
+      "lat": 39.41826,
+      "lng": -8.919517,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Alcobertas Latlong(39.41490840,-8.92349250) - Terra Chã, 2040 Rio Maior, Portugal",
+      "localidade": "Alcobertas Terra Chã",
       "active": true,
       "sadoId": "20261112598",
       "sharepointId": 20261112598,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Terra Chã (Chãos)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -732,23 +526,247 @@
       "weather": {
         "stationId": 1210729,
         "stationLocation": "Rio Maior",
-        "stationDistance": 7.3,
-        "temperatura": 22.1,
-        "humidade": 76,
-        "intensidadeVento": 4,
-        "intensidadeVentoKM": 14.4,
+        "stationDistance": 7.7,
+        "temperatura": 23.8,
+        "humidade": 69,
+        "intensidadeVento": 3.2,
+        "intensidadeVentoKM": 11.5,
         "idDireccVento": 9,
         "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 1521.6,
+        "radiacao": 2247.5,
         "pressao": null,
-        "date": "2026-08-07T09:00:00.000000Z"
+        "date": "2026-08-07T10:00:00.000000Z"
       },
       "created": {
         "sec": 1786098304
       },
       "updated": {
-        "sec": 1786098605
+        "sec": 1786100703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261112764"
+      },
+      "id": "20261112764",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786099500
+      },
+      "date": "07-08-2026",
+      "hour": "11:45",
+      "location": "Porto, Paredes, Rebordosa",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Paredes",
+      "freguesia": "Rebordosa",
+      "dico": "1310",
+      "lat": 41.226737,
+      "lng": -8.41937,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Sacoto",
+      "active": true,
+      "sadoId": "20261112764",
+      "sharepointId": 20261112764,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Fijó de Baixo (Fijó)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210643,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210643,
+        "stationLocation": "Paços Ferreira",
+        "stationDistance": 6.2,
+        "temperatura": 20.7,
+        "humidade": 71,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-07T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786100105
+      },
+      "updated": {
+        "sec": 1786101905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261112836"
+      },
+      "id": "20261112836",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786100340
+      },
+      "date": "07-08-2026",
+      "hour": "11:59",
+      "location": "Setúbal, Sesimbra, Sesimbra (castelo)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Setúbal",
+      "concelho": "Sesimbra",
+      "freguesia": "Sesimbra (castelo)",
+      "dico": "1511",
+      "lat": 38.45034,
+      "lng": -9.125136,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Sesimbra (castelo) En379",
+      "active": true,
+      "sadoId": "20261112836",
+      "sharepointId": 20261112836,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210773,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210773,
+        "stationLocation": "Almada, P.Rainha",
+        "stationDistance": 20.1,
+        "temperatura": 25.8,
+        "humidade": 62,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 2181.1,
+        "pressao": null,
+        "date": "2026-08-07T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786101004
+      },
+      "updated": {
+        "sec": 1786101905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261112907"
+      },
+      "id": "20261112907",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786101120
+      },
+      "date": "07-08-2026",
+      "hour": "12:12",
+      "location": "Leiria, Leiria, Colmeias E Memória",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 7,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Colmeias E Memória",
+      "dico": "1009",
+      "lat": 39.80627,
+      "lng": -8.739163,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Agodim  ---",
+      "active": true,
+      "sadoId": "20261112907",
+      "sharepointId": 20261112907,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Agodim (Ribeira de Agodim)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 7.3,
+        "temperatura": 23.6,
+        "humidade": 70,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2318.4,
+        "pressao": 1020.4,
+        "date": "2026-08-07T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786101604
+      },
+      "updated": {
+        "sec": 1786101905
       }
     }
   ]
