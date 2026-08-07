@@ -65,16 +65,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 16.6,
-        "humidade": 75,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 19.1,
+        "humidade": 65,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 332.8,
-        "pressao": 1020.3,
-        "date": "2026-08-07T07:00:00.000000Z"
+        "radiacao": 829.7,
+        "pressao": 1020.1,
+        "date": "2026-08-07T08:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
@@ -141,16 +141,16 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 19.6,
-        "temperatura": 19.1,
-        "humidade": 95,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
+        "temperatura": 20.9,
+        "humidade": 86,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
         "idDireccVento": 1,
         "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-07T07:00:00.000000Z"
+        "date": "2026-08-07T08:00:00.000000Z"
       },
       "created": {
         "sec": 1785862828
@@ -173,8 +173,8 @@
       "location": "Viseu, Mangualde, Santiago De Cassurrães E Póvoa De Cervães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 44,
-      "terrain": 15,
+      "man": 56,
+      "terrain": 19,
       "district": "Viseu",
       "concelho": "Mangualde",
       "freguesia": "Santiago De Cassurrães E Póvoa De Cervães",
@@ -217,22 +217,22 @@
         "stationId": 6213014,
         "stationLocation": "Mangualde / Chãs de Tavares  (CIM)",
         "stationDistance": 7.3,
-        "temperatura": 19.4,
-        "humidade": 50,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 22.2,
+        "humidade": 42,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-07T07:00:00.000000Z"
+        "date": "2026-08-07T08:00:00.000000Z"
       },
       "created": {
         "sec": 1786025703
       },
       "updated": {
-        "sec": 1786087679
+        "sec": 1786095605
       }
     },
     {
@@ -429,8 +429,12 @@
       "sharepointId": 20261111399,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "PV"
+      },
+      "detailLocation": "Lugar de Barreiro (Fondegas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -447,22 +451,22 @@
         "stationId": 1210657,
         "stationLocation": "Luzim",
         "stationDistance": 8.7,
-        "temperatura": 15.1,
-        "humidade": 90,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 17.1,
+        "humidade": 83,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": 406.2,
+        "radiacao": 1063.9,
         "pressao": null,
-        "date": "2026-08-07T07:00:00.000000Z"
+        "date": "2026-08-07T08:00:00.000000Z"
       },
       "created": {
         "sec": 1786085704
       },
       "updated": {
-        "sec": 1786089305
+        "sec": 1786092342
       }
     },
     {
@@ -479,8 +483,8 @@
       "location": "Setúbal, Seixal, Corroios",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 8,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
       "concelho": "Seixal",
       "freguesia": "Corroios",
@@ -501,8 +505,12 @@
       "sharepointId": 20261111509,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Igreja da Sagrada Família (Quinta do Rato)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -519,22 +527,98 @@
         "stationId": 1210762,
         "stationLocation": "Lisboa, Tapada da Ajuda",
         "stationDistance": 6.7,
-        "temperatura": 18.9,
-        "humidade": 84,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
+        "temperatura": 22,
+        "humidade": 69,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
         "idDireccVento": 1,
         "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 169.8,
+        "radiacao": 668.6,
         "pressao": null,
-        "date": "2026-08-07T07:00:00.000000Z"
+        "date": "2026-08-07T08:00:00.000000Z"
       },
       "created": {
         "sec": 1786087503
       },
       "updated": {
-        "sec": 1786089904
+        "sec": 1786094102
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261112092"
+      },
+      "id": "20261112092",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786092960
+      },
+      "date": "07-08-2026",
+      "hour": "09:56",
+      "location": "Aveiro, Vale de Cambra, Cepelos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 4,
+      "district": "Aveiro",
+      "concelho": "Vale De Cambra",
+      "freguesia": "Cepelos",
+      "dico": "0119",
+      "lat": 40.82402,
+      "lng": -8.35594,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Cepelos Merlães",
+      "active": true,
+      "sadoId": "20261112092",
+      "sharepointId": 20261112092,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Corgo 320. 3730-105 Vale de Cambra. Portugal (Merlães)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210669,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210669,
+        "stationLocation": "Arouca",
+        "stationDistance": 15.1,
+        "temperatura": 15.6,
+        "humidade": 72,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 354.1,
+        "pressao": null,
+        "date": "2026-08-07T08:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786093504
+      },
+      "updated": {
+        "sec": 1786095605
       }
     }
   ]
