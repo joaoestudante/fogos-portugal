@@ -723,8 +723,8 @@
       "location": "Guarda, Sabugal, Pousafoles Do Bispo, Pena Lobo E Lomba",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 25,
+      "terrain": 7,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Pousafoles Do Bispo, Pena Lobo E Lomba",
@@ -746,8 +746,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0.5,
+          "agricola": 0,
+          "mato": 1.5,
+          "total": 2
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "RNPV"
       },
       "detailLocation": "Lomba - Lomba (LOMBA)",
@@ -782,7 +788,7 @@
         "sec": 1786456503
       },
       "updated": {
-        "sec": 1786485904
+        "sec": 1786490104
       }
     },
     {
@@ -821,8 +827,12 @@
       "sharepointId": 20261136077,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vilarinho de Agrochão. Macedo de Cavaleiros. Portugal (Azenha das Dobras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -854,7 +864,7 @@
         "sec": 1786468503
       },
       "updated": {
-        "sec": 1786486504
+        "sec": 1786489366
       }
     },
     {
@@ -898,7 +908,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Fonte Nova 40. 5140-162 Carrazeda de Ansiães. Portugal (MARZAGÃO)",
+      "detailLocation": "Rua da Fonte Nova 40. 5140-162 Carrazeda de Ansiães. Portugal (Abeleira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -930,7 +940,7 @@
         "sec": 1786471219
       },
       "updated": {
-        "sec": 1786480804
+        "sec": 1786489367
       }
     },
     {
@@ -947,8 +957,8 @@
       "location": "Braga, Vila Verde, Cabanelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 20,
-      "terrain": 6,
+      "man": 13,
+      "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Verde",
       "freguesia": "Cabanelas",
@@ -969,8 +979,12 @@
       "sharepointId": 20261136773,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Lugar de Regalde (Papagaios)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1002,145 +1016,7 @@
         "sec": 1786478103
       },
       "updated": {
-        "sec": 1786488004
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261137098"
-      },
-      "id": "20261137098",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786482120
-      },
-      "date": "11-08-2026",
-      "hour": "22:02",
-      "location": "Braga, Póvoa de Lanhoso, Calvos E Frades",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
-      "district": "Braga",
-      "concelho": "Póvoa De Lanhoso",
-      "freguesia": "Calvos E Frades",
-      "dico": "0309",
-      "lat": 41.611063,
-      "lng": -8.241838,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Frades Monte De S.mamede",
-      "active": true,
-      "sadoId": "20261137098",
-      "sharepointId": 20261137098,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "Monte de S.Mamede (FRADES)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 6212121,
-      "isFire": true,
-      "weather": {
-        "stationId": 6212121,
-        "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "stationDistance": 12,
-        "temperatura": 20.4,
-        "humidade": 85,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1018.5,
-        "date": "2026-08-11T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786482603
-      },
-      "updated": {
-        "sec": 1786485303
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261137304"
-      },
-      "id": "20261137304",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786485960
-      },
-      "date": "11-08-2026",
-      "hour": "23:06",
-      "location": "Viseu, Viseu, Silgueiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Viseu",
-      "concelho": "Viseu",
-      "freguesia": "Silgueiros",
-      "dico": "1823",
-      "lat": 40.583735,
-      "lng": -7.935637,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Passos De Silgueiros Passos De Silgueiros",
-      "active": true,
-      "sadoId": "20261137304",
-      "sharepointId": 20261137304,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Silgueiros (Passos)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Viseu Dão Lafões",
-      "nearestWeatherStationId": 6213015,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1786486504
-      },
-      "updated": {
-        "sec": 1786489237
+        "sec": 1786491905
       }
     }
   ]
