@@ -65,16 +65,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 30.6,
-        "humidade": 44,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 33.4,
+        "humidade": 35,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 1934.3,
-        "pressao": 1016,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "radiacao": 2188.9,
+        "pressao": 1015.2,
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
@@ -147,262 +147,22 @@
         "stationId": 6213014,
         "stationLocation": "Mangualde / Chãs de Tavares  (CIM)",
         "stationDistance": 9,
-        "temperatura": 27.6,
-        "humidade": 56,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
+        "temperatura": 29.4,
+        "humidade": 43,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786118705
       },
       "updated": {
         "sec": 1786519324
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261114590"
-      },
-      "id": "20261114590",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786119240
-      },
-      "date": "07-08-2026",
-      "hour": "17:14",
-      "location": "Leiria, Leiria, Monte Redondo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Leiria",
-      "freguesia": "Monte Redondo",
-      "dico": "1009",
-      "lat": 39.928142,
-      "lng": -8.846688,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Fonte Cova Fonte Cova",
-      "active": true,
-      "sadoId": "20261114590",
-      "sharepointId": 20261114590,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0.5623,
-          "agricola": 0,
-          "mato": 0,
-          "total": 0.5623
-        },
-        "altitude": 42.9406,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Fonte Cova",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "nearestWeatherStationId": 1210718,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210718,
-        "stationLocation": "Leiria (Aeródromo)",
-        "stationDistance": 16.6,
-        "temperatura": 24.3,
-        "humidade": 73,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2474.7,
-        "pressao": 1019.1,
-        "date": "2026-08-12T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786119786
-      },
-      "updated": {
-        "sec": 1786384505
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261114604"
-      },
-      "id": "20261114604",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786119420
-      },
-      "date": "07-08-2026",
-      "hour": "17:17",
-      "location": "Leiria, Figueiró Dos Vinhos, Aguda",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Figueiró Dos Vinhos",
-      "freguesia": "Aguda",
-      "dico": "1008",
-      "lat": 39.93613,
-      "lng": -8.268402,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Aguda Aguda Ic8, 3260 Figueiró Dos Vinhos, Portugal",
-      "active": true,
-      "sadoId": "20261114604",
-      "sharepointId": 20261114604,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0.15,
-          "agricola": 0,
-          "mato": 0,
-          "total": 0.15
-        },
-        "altitude": 487.876,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Aguda IC8. 3260 Figueiró dos Vinhos. Portugal (IC8 (IC8) Km 80)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "nearestWeatherStationId": 6214119,
-      "isFire": true,
-      "weather": {
-        "stationId": 6214119,
-        "stationLocation": "Pedrógão Grande (CMPG)",
-        "stationDistance": 10.1,
-        "temperatura": 27.6,
-        "humidade": 51,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1017.1,
-        "date": "2026-08-12T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786119905
-      },
-      "updated": {
-        "sec": 1786184705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261118506"
-      },
-      "id": "20261118506",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786189860
-      },
-      "date": "08-08-2026",
-      "hour": "12:51",
-      "location": "Leiria, Leiria, Monte Redondo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Leiria",
-      "concelho": "Leiria",
-      "freguesia": "Monte Redondo",
-      "dico": "1009",
-      "lat": 39.921573,
-      "lng": -8.841035,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Fonte Cova Fonte Cova",
-      "active": true,
-      "sadoId": "20261118506",
-      "sharepointId": 20261118506,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 41.0444,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Fonte Cova (Casas de Fonte Cova)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Leiria",
-      "nearestWeatherStationId": 1210718,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210718,
-        "stationLocation": "Leiria (Aeródromo)",
-        "stationDistance": 15.8,
-        "temperatura": 24.3,
-        "humidade": 73,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2474.7,
-        "pressao": 1019.1,
-        "date": "2026-08-12T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786190418
-      },
-      "updated": {
-        "sec": 1786244514
       }
     },
     {
@@ -469,16 +229,16 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 12.8,
-        "temperatura": 31.1,
-        "humidade": 23,
-        "intensidadeVento": 3.6,
-        "intensidadeVentoKM": 13,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 32.1,
+        "humidade": 22,
+        "intensidadeVento": 3.4,
+        "intensidadeVentoKM": 12.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 2836,
+        "radiacao": 3176.1,
         "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786456503
@@ -545,16 +305,16 @@
         "stationId": 1210612,
         "stationLocation": "Vinhais",
         "stationDistance": 19.6,
-        "temperatura": 30.4,
-        "humidade": 35,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 32.2,
+        "humidade": 25,
+        "intensidadeVento": 3.2,
+        "intensidadeVentoKM": 11.5,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786468503
@@ -577,8 +337,8 @@
       "location": "Viseu, Viseu, São Pedro De France",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "São Pedro De France",
@@ -621,22 +381,22 @@
         "stationId": 6213020,
         "stationLocation": "Satão (CIM)",
         "stationDistance": 7.6,
-        "temperatura": 30.4,
-        "humidade": 31,
-        "intensidadeVento": 1.8,
-        "intensidadeVentoKM": 6.5,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
+        "temperatura": 31.7,
+        "humidade": 21,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786527906
       },
       "updated": {
-        "sec": 1786534505
+        "sec": 1786540505
       }
     },
     {
@@ -653,8 +413,8 @@
       "location": "Viseu, Viseu, Campo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 6,
+      "man": 4,
+      "terrain": 1,
       "district": "Viseu",
       "concelho": "Viseu",
       "freguesia": "Campo",
@@ -697,22 +457,22 @@
         "stationId": 1200560,
         "stationLocation": "Viseu (C.Coordenação)",
         "stationDistance": 0.9,
-        "temperatura": 28.3,
-        "humidade": 49,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 29.7,
+        "humidade": 32,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 3096.9,
-        "pressao": 1017.1,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "radiacao": 3447.3,
+        "pressao": 1017,
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786528828
       },
       "updated": {
-        "sec": 1786533904
+        "sec": 1786542303
       }
     },
     {
@@ -729,8 +489,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Rio Frio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 11,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Rio Frio",
@@ -741,9 +501,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Laceiras       Laceiras",
       "active": true,
@@ -788,7 +548,7 @@
         "sec": 1786530005
       },
       "updated": {
-        "sec": 1786535104
+        "sec": 1786539003
       }
     },
     {
@@ -805,8 +565,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Gondoriz",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 5,
+      "terrain": 1,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Gondoriz",
@@ -864,159 +624,7 @@
         "sec": 1786531204
       },
       "updated": {
-        "sec": 1786535404
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261139542"
-      },
-      "id": "20261139542",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786530840
-      },
-      "date": "12-08-2026",
-      "hour": "11:34",
-      "location": "Lisboa, Cadaval, Lamas E Cercal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Cadaval",
-      "freguesia": "Lamas E Cercal",
-      "dico": "1104",
-      "lat": 39.224642,
-      "lng": -9.060963,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Lamas E Cercal Rua 19 De Março - Póvoa",
-      "active": true,
-      "sadoId": "20261139542",
-      "sharepointId": 20261139542,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua 19 de Março - Póvoa (Capela)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210729,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210729,
-        "stationLocation": "Rio Maior",
-        "stationDistance": 17.7,
-        "temperatura": 26.4,
-        "humidade": 61,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 2739.3,
-        "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786531522
-      },
-      "updated": {
-        "sec": 1786533304
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261139614"
-      },
-      "id": "20261139614",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786531440
-      },
-      "date": "12-08-2026",
-      "hour": "11:44",
-      "location": "Setúbal, Barreiro, Barreiro E Lavradio",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Setúbal",
-      "concelho": "Barreiro",
-      "freguesia": "Barreiro E Lavradio",
-      "dico": "1504",
-      "lat": 38.66205,
-      "lng": -9.07849,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Barreiro E Lavradio Mercado 1 De Maio, Rua Doutor Câmara Pestana, 2830-342 Barreiro, Portugal",
-      "active": true,
-      "sadoId": "20261139614",
-      "sharepointId": 20261139614,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Mercado 1 de Maio. Rua Doutor Câmara Pestana. 2830-342 Barreiro. Portugal (BARREIRO)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210766,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210766,
-        "stationLocation": "Barreiro, Lavradio",
-        "stationDistance": 3,
-        "temperatura": 27.6,
-        "humidade": 59,
-        "intensidadeVento": 1.7,
-        "intensidadeVentoKM": 6.1,
-        "idDireccVento": 1,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 2675.2,
-        "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786532103
-      },
-      "updated": {
-        "sec": 1786536303
+        "sec": 1786538703
       }
     },
     {
@@ -1033,8 +641,8 @@
       "location": "Santarém, Tomar, Olalhas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
       "district": "Santarém",
       "concelho": "Tomar",
       "freguesia": "Olalhas",
@@ -1049,7 +657,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Olalhas M530-1",
+      "localidade": "Olalhas  ---",
       "active": true,
       "sadoId": "20261139752",
       "sharepointId": 20261139752,
@@ -1077,22 +685,22 @@
         "stationId": 1210724,
         "stationLocation": "Tomar, Valdonas",
         "stationDistance": 9.8,
-        "temperatura": 27.6,
-        "humidade": 56,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 30.7,
+        "humidade": 45,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 2858.5,
+        "radiacao": 3205.8,
         "pressao": null,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786533304
       },
       "updated": {
-        "sec": 1786536303
+        "sec": 1786538703
       }
     },
     {
@@ -1109,8 +717,8 @@
       "location": "Viana Do Castelo, Arcos de Valdevez, Couto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 0,
+      "terrain": 0,
       "district": "Viana Do Castelo",
       "concelho": "Arcos De Valdevez",
       "freguesia": "Couto",
@@ -1168,7 +776,7 @@
         "sec": 1786533304
       },
       "updated": {
-        "sec": 1786534804
+        "sec": 1786537504
       }
     },
     {
@@ -1183,10 +791,10 @@
       "date": "12-08-2026",
       "hour": "12:38",
       "location": "Vila Real, Chaves, Redondelo",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "Redondelo",
@@ -1197,9 +805,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Pastoria  ---",
       "active": true,
@@ -1229,22 +837,22 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 6.7,
-        "temperatura": 30.6,
-        "humidade": 44,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 33.4,
+        "humidade": 35,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 1934.3,
-        "pressao": 1016,
-        "date": "2026-08-12T11:00:00.000000Z"
+        "radiacao": 2188.9,
+        "pressao": 1015.2,
+        "date": "2026-08-12T12:00:00.000000Z"
       },
       "created": {
         "sec": 1786535105
       },
       "updated": {
-        "sec": 1786536022
+        "sec": 1786539305
       }
     },
     {
@@ -1259,23 +867,23 @@
       "date": "12-08-2026",
       "hour": "12:39",
       "location": "Viana Do Castelo, Ponte da Barca, Oleiros",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 10,
+      "terrain": 4,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
       "freguesia": "Oleiros",
       "dico": "1606",
-      "lat": 41.797925,
-      "lng": -8.432059,
+      "lat": 41.796928,
+      "lng": -8.422863,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Santa Catarina        Santa Catarina",
       "active": true,
@@ -1300,7 +908,7 @@
       "weather": {
         "stationId": 6211216,
         "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "stationDistance": 3.8,
+        "stationDistance": 4.2,
         "temperatura": 25.4,
         "humidade": 63,
         "intensidadeVento": 3,
@@ -1316,7 +924,583 @@
         "sec": 1786535105
       },
       "updated": {
-        "sec": 1786535702
+        "sec": 1786542303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140106"
+      },
+      "id": "20261140106",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786536780
+      },
+      "date": "12-08-2026",
+      "hour": "13:13",
+      "location": "Porto, Maia, Cidade Da Maia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Cidade Da Maia",
+      "dico": "1306",
+      "lat": 41.233962,
+      "lng": -8.612625,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Cidade Da Maia Travessa Da Quinta Nova, Maia, Po, Portugal",
+      "active": true,
+      "sadoId": "20261140106",
+      "sharepointId": 20261140106,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa da Quinta Nova. Maia. PO. Portugal (Travessa da Quinta Nova)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 5.7,
+        "temperatura": 23.8,
+        "humidade": 74,
+        "intensidadeVento": 3.1,
+        "intensidadeVentoKM": 11.2,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 2990.5,
+        "pressao": 1019.1,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786537504
+      },
+      "updated": {
+        "sec": 1786539305
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140207"
+      },
+      "id": "20261140207",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786537860
+      },
+      "date": "12-08-2026",
+      "hour": "13:31",
+      "location": "Viseu, Vila Nova de Paiva, Vila Nova De Paiva, Alhais E Fráguas",
+      "aerial": 3,
+      "meios_aquaticos": 0,
+      "man": 117,
+      "terrain": 30,
+      "district": "Viseu",
+      "concelho": "Vila Nova De Paiva",
+      "freguesia": "Vila Nova De Paiva, Alhais E Fráguas",
+      "dico": "1822",
+      "lat": 40.862559,
+      "lng": -7.714438,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Alhais  ---",
+      "active": true,
+      "sadoId": "20261140207",
+      "sharepointId": 20261140207,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Touro",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213022,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213022,
+        "stationLocation": "Vila Nova de Paiva (CIM)",
+        "stationDistance": 1.3,
+        "temperatura": 31.5,
+        "humidade": 70,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786538404
+      },
+      "updated": {
+        "sec": 1786542004
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140271"
+      },
+      "id": "20261140271",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786538760
+      },
+      "date": "12-08-2026",
+      "hour": "13:46",
+      "location": "Lisboa, Sintra, Colares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 7,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Colares",
+      "dico": "1111",
+      "lat": 38.837492,
+      "lng": -9.453778,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Azenhas Do Mar Travessa Sítio Morgada",
+      "active": true,
+      "sadoId": "20261140271",
+      "sharepointId": 20261140271,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa Sítio Morgada. 2705 Sintra. Portugal (Azenhas do Mar)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210747,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1786539622
+      },
+      "updated": {
+        "sec": 1786541404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140353"
+      },
+      "id": "20261140353",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786539480
+      },
+      "date": "12-08-2026",
+      "hour": "13:58",
+      "location": "Setúbal, Moita, Alhos Vedros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 4,
+      "district": "Setúbal",
+      "concelho": "Moita",
+      "freguesia": "Alhos Vedros",
+      "dico": "1506",
+      "lat": 38.64107,
+      "lng": -9.00752,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alhos Vedros Bairro Jorge Leiteiro Nº1",
+      "active": true,
+      "sadoId": "20261140353",
+      "sharepointId": 20261140353,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Bairro Jorge Leiteiro nº1 (Arroteias)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 5.1,
+        "temperatura": 29.8,
+        "humidade": 51,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 3096.2,
+        "pressao": null,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786540203
+      },
+      "updated": {
+        "sec": 1786541103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140403"
+      },
+      "id": "20261140403",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786540020
+      },
+      "date": "12-08-2026",
+      "hour": "14:07",
+      "location": "Leiria, Leiria, Monte Real E Carvide",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Monte Real E Carvide",
+      "dico": "1009",
+      "lat": 39.86159,
+      "lng": -8.883225,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Monte Real E Carvide Rua João Ferreira Boieiro 150, 2425-340 Leiria, Portugal",
+      "active": true,
+      "sadoId": "20261140403",
+      "sharepointId": 20261140403,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua João Ferreira Boieiro 150. 2425-340 Leiria. Portugal (Cabeça de São Lourenço)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 10.6,
+        "temperatura": 26.3,
+        "humidade": 66,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 3235.1,
+        "pressao": 1019,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786540805
+      },
+      "updated": {
+        "sec": 1786542303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140567"
+      },
+      "id": "20261140567",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786541340
+      },
+      "date": "12-08-2026",
+      "hour": "14:29",
+      "location": "Beja, Mértola, Mértola",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 2,
+      "district": "Beja",
+      "concelho": "Mértola",
+      "freguesia": "Mértola",
+      "dico": "0209",
+      "lat": 37.607192,
+      "lng": -7.658848,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Mértola Rua Principal",
+      "active": true,
+      "sadoId": "20261140567",
+      "sharepointId": 20261140567,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Principal (MÉRTOLA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1210863,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210863,
+        "stationLocation": "Mértola, Vale Formoso",
+        "stationDistance": 18.5,
+        "temperatura": 34.7,
+        "humidade": 26,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786542004
+      },
+      "updated": {
+        "sec": 1786542303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140570"
+      },
+      "id": "20261140570",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786541640
+      },
+      "date": "12-08-2026",
+      "hour": "14:34",
+      "location": "Vila Real, Valpaços, Serapicos",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 29,
+      "terrain": 5,
+      "district": "Vila Real",
+      "concelho": "Valpaços",
+      "freguesia": "Serapicos",
+      "dico": "1712",
+      "lat": 41.61507,
+      "lng": -7.439122,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Serapicos Serapicos",
+      "active": true,
+      "sadoId": "20261140570",
+      "sharepointId": 20261140570,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 12.4,
+        "temperatura": 33.4,
+        "humidade": 35,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 2188.9,
+        "pressao": 1015.2,
+        "date": "2026-08-12T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786542004
+      },
+      "updated": {
+        "sec": 1786542303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261140592"
+      },
+      "id": "20261140592",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786541100
+      },
+      "date": "12-08-2026",
+      "hour": "14:25",
+      "location": "Leiria, Pombal, Albergaria Dos Doze",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Albergaria Dos Doze",
+      "dico": "1015",
+      "lat": 39.785323,
+      "lng": -8.594224,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Albergaria Dos Doze  ---",
+      "active": true,
+      "sadoId": "20261140592",
+      "sharepointId": 20261140592,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "ALBERGARIA DOS DOZE",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": null,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1786542303
+      },
+      "updated": {
+        "sec": 1786542306
       }
     }
   ]
