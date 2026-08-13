@@ -343,8 +343,8 @@
       "location": "Beja, Almodôvar, Almodôvar",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 33,
-      "terrain": 12,
+      "man": 28,
+      "terrain": 11,
       "district": "Beja",
       "concelho": "Almodôvar",
       "freguesia": "Almodôvar",
@@ -402,7 +402,7 @@
         "sec": 1786635905
       },
       "updated": {
-        "sec": 1786662303
+        "sec": 1786665003
       }
     },
     {
@@ -419,8 +419,8 @@
       "location": "Porto, Baião, Teixeira E Teixeiró",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 1,
       "district": "Porto",
       "concelho": "Baião",
       "freguesia": "Teixeira E Teixeiró",
@@ -478,43 +478,43 @@
         "sec": 1786643506
       },
       "updated": {
-        "sec": 1786662118
+        "sec": 1786662904
       }
     },
     {
       "_id": {
-        "$id": "20261148272"
+        "$id": "20261148596"
       },
-      "id": "20261148272",
+      "id": "20261148596",
       "coords": true,
       "dateTime": {
-        "sec": 1786655760
+        "sec": 1786662300
       },
-      "date": "13-08-2026",
-      "hour": "22:16",
-      "location": "Bragança, Vimioso, Argozelo",
+      "date": "14-08-2026",
+      "hour": "00:05",
+      "location": "Faro, Faro, Faro (Sé E São Pedro)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Bragança",
-      "concelho": "Vimioso",
-      "freguesia": "Argozelo",
-      "dico": "0411",
-      "lat": 41.646248,
-      "lng": -6.602652,
+      "man": 21,
+      "terrain": 7,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Faro (Sé E São Pedro)",
+      "dico": "0805",
+      "lat": 37.03067,
+      "lng": -7.92415,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
       "important": false,
-      "localidade": "Argozelo Latlong(41.64636000,-6.60215000) - Rua Adrião Martins Amado 12, 5230-072 Vimioso, Portugal",
+      "localidade": "União Das Freguesias De Faro (Sé E São Pedro) Estrada Da Penha 173, 8005-134 Faro, Portugal",
       "active": true,
-      "sadoId": "20261148272",
-      "sharepointId": 20261148272,
+      "sadoId": "20261148596",
+      "sharepointId": 20261148596,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -522,7 +522,159 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(41.64636000.-6.60215000) - Rua Adrião Martins Amado 12. 5230-072 Vimioso. Portugal (Minas de Argozelo)",
+      "detailLocation": "Estrada da Penha 173. 8005-134 Faro. Portugal (Vale da Amoreira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1200554,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200554,
+        "stationLocation": "Faro (Aeródromo)",
+        "stationDistance": 4.5,
+        "temperatura": 29.3,
+        "humidade": 35,
+        "intensidadeVento": 4.1,
+        "intensidadeVentoKM": 14.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.7,
+        "date": "2026-08-13T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786662904
+      },
+      "updated": {
+        "sec": 1786665003
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261148625"
+      },
+      "id": "20261148625",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786662900
+      },
+      "date": "14-08-2026",
+      "hour": "00:15",
+      "location": "Beja, Moura, Amareleja",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Beja",
+      "concelho": "Moura",
+      "freguesia": "Amareleja",
+      "dico": "0210",
+      "lat": 38.212775,
+      "lng": -7.234476,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Amareleja Amareleja",
+      "active": true,
+      "sadoId": "20261148625",
+      "sharepointId": 20261148625,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Amareleja (ER385 (ER385) Km 24)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1210851,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210851,
+        "stationLocation": "Amareleja",
+        "stationDistance": 1.5,
+        "temperatura": 29.6,
+        "humidade": 37,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.1,
+        "date": "2026-08-13T22:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786663804
+      },
+      "updated": {
+        "sec": 1786663853
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261148663"
+      },
+      "id": "20261148663",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786664160
+      },
+      "date": "14-08-2026",
+      "hour": "00:36",
+      "location": "Viseu, Cinfães, Tendais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 24,
+      "terrain": 6,
+      "district": "Viseu",
+      "concelho": "Cinfães",
+      "freguesia": "Tendais",
+      "dico": "1804",
+      "lat": 41.03521,
+      "lng": -8.068017,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Tendais  Marcelim",
+      "active": true,
+      "sadoId": "20261148663",
+      "sharepointId": 20261148663,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.03520936.-8.06801681) - Sítio Marcelim. 4690 Cinfães. Portugal (Senhora dos Milagres)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -532,105 +684,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "nearestWeatherStationId": 1210633,
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 6213013,
       "isFire": true,
       "weather": {
-        "stationId": 1210633,
-        "stationLocation": "Macedo Cavaleiros, Bagueixe",
-        "stationDistance": 17.4,
-        "temperatura": 26.6,
-        "humidade": 45,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
+        "stationId": 6213013,
+        "stationLocation": "Castro Daire / Mézio (CIM)",
+        "stationDistance": 16.6,
+        "temperatura": 21.3,
+        "humidade": 51,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1016.7,
-        "date": "2026-08-13T22:00:00.000000Z"
+        "pressao": null,
+        "date": "2026-08-13T07:00:00.000000Z"
       },
       "created": {
-        "sec": 1786658421
+        "sec": 1786664705
       },
       "updated": {
-        "sec": 1786658705
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261148552"
-      },
-      "id": "20261148552",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786661220
-      },
-      "date": "13-08-2026",
-      "hour": "23:47",
-      "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Santarém",
-      "concelho": "Santarém",
-      "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
-      "dico": "1416",
-      "lat": 39.23048,
-      "lng": -8.675637,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias Da Cidade De Santarém Rua Da Fábrica, 2000 Santarém, Portugal",
-      "active": true,
-      "sadoId": "20261148552",
-      "sharepointId": 20261148552,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Fábrica. 2000 Santarém. Portugal (Travessa dos Meninos de Alfange)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210734,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210734,
-        "stationLocation": "Santarém, Fonte Boa",
-        "stationDistance": 6.2,
-        "temperatura": 21,
-        "humidade": 84,
-        "intensidadeVento": 2.9,
-        "intensidadeVentoKM": 10.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1020,
-        "date": "2026-08-13T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786661502
-      },
-      "updated": {
-        "sec": 1786661704
+        "sec": 1786665303
       }
     }
   ]
