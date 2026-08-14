@@ -65,16 +65,16 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 26.4,
+        "temperatura": 24.8,
         "humidade": 64,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1013,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "pressao": 1014.1,
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
@@ -141,16 +141,16 @@
         "stationId": 1240566,
         "stationLocation": "Vila Real (Cidade)",
         "stationDistance": 22.4,
-        "temperatura": 23.3,
-        "humidade": 73,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 22,
+        "humidade": 79,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1786717506
@@ -173,8 +173,8 @@
       "location": "Braga, Cabeceiras de Basto, Basto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 32,
-      "terrain": 9,
+      "man": 10,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Basto",
@@ -196,11 +196,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 4,
+          "total": 4
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Tarimbola (Paço)",
+      "detailLocation": "Tarimbola (Redrufe)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -217,22 +223,22 @@
         "stationId": 1210630,
         "stationLocation": "Cabeceiras de Basto",
         "stationDistance": 7.4,
-        "temperatura": 24.9,
-        "humidade": 77,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 24.8,
+        "humidade": 76,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1786730704
       },
       "updated": {
-        "sec": 1786743904
+        "sec": 1786748534
       }
     },
     {
@@ -249,8 +255,8 @@
       "location": "Guarda, Sabugal, Vila Boa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 9,
+      "terrain": 3,
       "district": "Guarda",
       "concelho": "Sabugal",
       "freguesia": "Vila Boa",
@@ -276,7 +282,7 @@
         "fogacho": true,
         "fontealerta": "RNPV"
       },
-      "detailLocation": "VILA BOA (EN233-3 (EN233-3) Km 10)",
+      "detailLocation": "Palhais (Engenho do Inferno)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -293,22 +299,22 @@
         "stationId": 1210800,
         "stationLocation": "Sabugal, Martim Rei",
         "stationDistance": 4.5,
-        "temperatura": 23.5,
-        "humidade": 55,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 22.5,
+        "humidade": 57,
+        "intensidadeVento": 2.9,
+        "intensidadeVentoKM": 10.4,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1786735203
       },
       "updated": {
-        "sec": 1786743605
+        "sec": 1786748539
       }
     },
     {
@@ -352,7 +358,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua Central de Frende (Ladoeiro)",
+      "detailLocation": "Sobreira (Marco)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -384,83 +390,7 @@
         "sec": 1786740744
       },
       "updated": {
-        "sec": 1786746902
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261153697"
-      },
-      "id": "20261153697",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786740420
-      },
-      "date": "14-08-2026",
-      "hour": "21:47",
-      "location": "Braga, Fafe, Ribeiros",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Fafe",
-      "freguesia": "Ribeiros",
-      "dico": "0307",
-      "lat": 41.47438,
-      "lng": -8.135698,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ribeiros Travessa Do Durão",
-      "active": true,
-      "sadoId": "20261153697",
-      "sharepointId": 20261153697,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Travessa do Durão (Passo)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 1210630,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210630,
-        "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 15.5,
-        "temperatura": 24.9,
-        "humidade": 77,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-08-14T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786740746
-      },
-      "updated": {
-        "sec": 1786743904
+        "sec": 1786748545
       }
     },
     {
@@ -504,7 +434,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(39.77858000.-8.85835000) -Rua Vale da Sobreira 257. 2400-767 Leiria. Portugal (Casalito)",
+      "detailLocation": "Rua Vale da Sobreira 257. 2400-767 Leiria. Portugal (Casalito)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -521,22 +451,22 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 3.4,
-        "temperatura": 21.8,
-        "humidade": 89,
-        "intensidadeVento": 3.2,
-        "intensidadeVentoKM": 11.5,
+        "temperatura": 21.6,
+        "humidade": 90,
+        "intensidadeVento": 3.3,
+        "intensidadeVentoKM": 11.9,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1016.7,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "pressao": 1016.8,
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1786741323
       },
       "updated": {
-        "sec": 1786747205
+        "sec": 1786748546
       }
     },
     {
@@ -553,8 +483,8 @@
       "location": "Viana Do Castelo, Monção, Messegães, Valadares E Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 34,
+      "terrain": 10,
       "district": "Viana Do Castelo",
       "concelho": "Monção",
       "freguesia": "Messegães, Valadares E Sá",
@@ -580,7 +510,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Quintela (Pé de Lombo)",
+      "detailLocation": "Senhora da Graça (Monte das Bouças)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -597,22 +527,22 @@
         "stationId": 1210605,
         "stationLocation": "Monção, Valinha",
         "stationDistance": 3.3,
-        "temperatura": 25.7,
-        "humidade": 60,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
+        "temperatura": 24.2,
+        "humidade": 65,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-14T21:00:00.000000Z"
+        "date": "2026-08-14T22:00:00.000000Z"
       },
       "created": {
         "sec": 1786745527
       },
       "updated": {
-        "sec": 1786747205
+        "sec": 1786748702
       }
     },
     {
@@ -651,8 +581,12 @@
       "sharepointId": 20261154049,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Freixeda (TOJAL MAU)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -670,51 +604,47 @@
         "sec": 1786746303
       },
       "updated": {
-        "sec": 1786746902
+        "sec": 1786748546
       }
     },
     {
       "_id": {
-        "$id": "20261154076"
+        "$id": "20261154181"
       },
-      "id": "20261154076",
+      "id": "20261154181",
       "coords": true,
       "dateTime": {
-        "sec": 1786746180
+        "sec": 1786747680
       },
       "date": "14-08-2026",
-      "hour": "23:23",
-      "location": "Aveiro, Santa Maria da Feira, Santa Maria De Lamas",
+      "hour": "23:48",
+      "location": "Porto, Vila Nova de Gaia, Lever",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 5,
       "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Santa Maria Da Feira",
-      "freguesia": "Santa Maria De Lamas",
-      "dico": "0109",
-      "lat": 40.977745,
-      "lng": -8.569181,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Lever",
+      "dico": "1317",
+      "lat": 41.060385,
+      "lng": -8.472136,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 4,
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Lamas Travessa Do Outeirinho",
+      "localidade": "---  Rua Das Costouras",
       "active": true,
-      "sadoId": "20261154076",
-      "sharepointId": 20261154076,
+      "sadoId": "20261154181",
+      "sharepointId": 20261154181,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Travessa do Outeirinho (LAMAS DA FEIRA)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -725,14 +655,28 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6900,
+      "nearestWeatherStationId": 1240546,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 14,
+        "temperatura": 20.4,
+        "humidade": 100,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-08-14T22:00:00.000000Z"
+      },
       "created": {
-        "sec": 1786746746
+        "sec": 1786748702
       },
       "updated": {
-        "sec": 1786746902
+        "sec": 1786748721
       }
     }
   ]
