@@ -65,22 +65,98 @@
         "stationId": 1210616,
         "stationLocation": "Chaves (Aeródromo)",
         "stationDistance": 14.5,
-        "temperatura": 24.8,
-        "humidade": 64,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
+        "temperatura": 21.7,
+        "humidade": 76,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1014.1,
-        "date": "2026-08-14T22:00:00.000000Z"
+        "pressao": 1015,
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
         "sec": 1785247838
       },
       "updated": {
         "sec": 1786743605
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261151884"
+      },
+      "id": "20261151884",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786716840
+      },
+      "date": "14-08-2026",
+      "hour": "15:14",
+      "location": "Vila Real, Murça, Carva E Vilares",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Vila Real",
+      "concelho": "Murça",
+      "freguesia": "Carva E Vilares",
+      "dico": "1707",
+      "lat": 41.436327,
+      "lng": -7.550434,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Cortinhas  ---",
+      "active": true,
+      "sadoId": "20261151884",
+      "sharepointId": 20261151884,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Cortinhas (Cabeça Gorda)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1240566,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240566,
+        "stationLocation": "Vila Real (Cidade)",
+        "stationDistance": 21.3,
+        "temperatura": 20.6,
+        "humidade": 84,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-15T00:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786717205
+      },
+      "updated": {
+        "sec": 1786755902
       }
     },
     {
@@ -97,8 +173,8 @@
       "location": "Vila Real, Vila Pouca de Aguiar, Alfarela De Jales",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 214,
-      "terrain": 66,
+      "man": 197,
+      "terrain": 62,
       "district": "Vila Real",
       "concelho": "Vila Pouca De Aguiar",
       "freguesia": "Alfarela De Jales",
@@ -141,104 +217,22 @@
         "stationId": 1240566,
         "stationLocation": "Vila Real (Cidade)",
         "stationDistance": 22.4,
-        "temperatura": 22,
-        "humidade": 79,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 20.6,
+        "humidade": 84,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-14T22:00:00.000000Z"
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
         "sec": 1786717506
       },
       "updated": {
-        "sec": 1786750505
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261152952"
-      },
-      "id": "20261152952",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786730280
-      },
-      "date": "14-08-2026",
-      "hour": "18:58",
-      "location": "Braga, Cabeceiras de Basto, Basto",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Cabeceiras De Basto",
-      "freguesia": "Basto",
-      "dico": "0304",
-      "lat": 41.471367,
-      "lng": -7.999618,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Tarimbola  ---",
-      "active": true,
-      "sadoId": "20261152952",
-      "sharepointId": 20261152952,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 4,
-          "total": 4
-        },
-        "altitude": 0,
-        "incendio": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Tarimbola (Redrufe)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 1210630,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210630,
-        "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 7.4,
-        "temperatura": 24.8,
-        "humidade": 76,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-08-14T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786730704
-      },
-      "updated": {
-        "sec": 1786748534
+        "sec": 1786755902
       }
     },
     {
@@ -299,16 +293,16 @@
         "stationId": 6213013,
         "stationLocation": "Castro Daire / Mézio (CIM)",
         "stationDistance": 19.7,
-        "temperatura": 20,
-        "humidade": 60,
-        "intensidadeVento": 0.2,
-        "intensidadeVentoKM": 0.7,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 16.7,
+        "humidade": 99,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-14T07:00:00.000000Z"
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
         "sec": 1786740744
@@ -375,16 +369,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 3.4,
-        "temperatura": 21.6,
-        "humidade": 90,
-        "intensidadeVento": 3.3,
-        "intensidadeVentoKM": 11.9,
+        "temperatura": 21.3,
+        "humidade": 92,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1016.8,
-        "date": "2026-08-14T22:00:00.000000Z"
+        "pressao": 1016.4,
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
         "sec": 1786741323
@@ -407,8 +401,8 @@
       "location": "Viana Do Castelo, Monção, Messegães, Valadares E Sá",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 41,
-      "terrain": 11,
+      "man": 49,
+      "terrain": 16,
       "district": "Viana Do Castelo",
       "concelho": "Monção",
       "freguesia": "Messegães, Valadares E Sá",
@@ -423,7 +417,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Senhora Da Graça Senhora Da Graça",
+      "localidade": "Cumieira Cumieira",
       "active": true,
       "sadoId": "20261153964",
       "sharepointId": 20261153964,
@@ -451,22 +445,22 @@
         "stationId": 1210605,
         "stationLocation": "Monção, Valinha",
         "stationDistance": 3.3,
-        "temperatura": 24.2,
-        "humidade": 65,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
+        "temperatura": 23.3,
+        "humidade": 69,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 2,
         "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-14T22:00:00.000000Z"
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
         "sec": 1786745527
       },
       "updated": {
-        "sec": 1786749905
+        "sec": 1786755004
       }
     },
     {
@@ -495,9 +489,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Freixeda  ---",
       "active": true,
@@ -528,43 +522,119 @@
         "sec": 1786746303
       },
       "updated": {
-        "sec": 1786748546
+        "sec": 1786753503
       }
     },
     {
       "_id": {
-        "$id": "20261154181"
+        "$id": "20261154427"
       },
-      "id": "20261154181",
+      "id": "20261154427",
       "coords": true,
       "dateTime": {
-        "sec": 1786747680
+        "sec": 1786753980
       },
-      "date": "14-08-2026",
-      "hour": "23:48",
-      "location": "Porto, Vila Nova de Gaia, Lever",
+      "date": "15-08-2026",
+      "hour": "01:33",
+      "location": "Braga, Esposende, Forjães",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Nova De Gaia",
-      "freguesia": "Lever",
-      "dico": "1317",
-      "lat": 41.060385,
-      "lng": -8.472136,
+      "man": 14,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Esposende",
+      "freguesia": "Forjães",
+      "dico": "0306",
+      "lat": 41.61206,
+      "lng": -8.754902,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "---  Rua Das Costouras",
+      "localidade": "Forjães Rua De Lamoso 64, 4740-443 Esposende, Portugal",
       "active": true,
-      "sadoId": "20261154181",
-      "sharepointId": 20261154181,
+      "sadoId": "20261154427",
+      "sharepointId": 20261154427,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Lamoso 64. 4740-443 Esposende. Portugal (Lamoso)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 1200551,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 5.8,
+        "temperatura": 19,
+        "humidade": 100,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1015.3,
+        "date": "2026-08-15T00:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786755004
+      },
+      "updated": {
+        "sec": 1786755303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261154444"
+      },
+      "id": "20261154444",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786754580
+      },
+      "date": "15-08-2026",
+      "hour": "01:43",
+      "location": "Porto, Amarante, Candemil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Candemil",
+      "dico": "1301",
+      "lat": 41.244993,
+      "lng": -7.972082,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Candemil Gião",
+      "active": true,
+      "sadoId": "20261154444",
+      "sharepointId": 20261154444,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -578,29 +648,29 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1240566,
       "isFire": true,
       "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 14,
-        "temperatura": 20.4,
-        "humidade": 100,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "stationId": 1240566,
+        "stationLocation": "Vila Real (Cidade)",
+        "stationDistance": 20.6,
+        "temperatura": 20.6,
+        "humidade": 84,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-08-14T22:00:00.000000Z"
+        "date": "2026-08-15T00:00:00.000000Z"
       },
       "created": {
-        "sec": 1786748702
+        "sec": 1786755620
       },
       "updated": {
-        "sec": 1786750204
+        "sec": 1786756204
       }
     }
   ]
