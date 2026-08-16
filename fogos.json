@@ -261,8 +261,8 @@
       "location": "Braga, Póvoa de Lanhoso, Travassos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 54,
-      "terrain": 16,
+      "man": 40,
+      "terrain": 11,
       "district": "Braga",
       "concelho": "Póvoa De Lanhoso",
       "freguesia": "Travassos",
@@ -277,7 +277,7 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "---  Vilar",
+      "localidade": "Vilar  ---",
       "active": true,
       "sadoId": "20261156537",
       "sharepointId": 20261156537,
@@ -320,7 +320,7 @@
         "sec": 1786794903
       },
       "updated": {
-        "sec": 1786908904
+        "sec": 1786910106
       }
     },
     {
@@ -481,8 +481,8 @@
       "location": "Bragança, Torre de Moncorvo, Cabeça Boa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 282,
-      "terrain": 94,
+      "man": 287,
+      "terrain": 95,
       "district": "Bragança",
       "concelho": "Torre De Moncorvo",
       "freguesia": "Cabeça Boa",
@@ -546,7 +546,7 @@
         "sec": 1786817104
       },
       "updated": {
-        "sec": 1786908904
+        "sec": 1786910106
       }
     },
     {
@@ -563,8 +563,8 @@
       "location": "Vila Real, Chaves, São Pedro De Agostém",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 148,
-      "terrain": 46,
+      "man": 146,
+      "terrain": 45,
       "district": "Vila Real",
       "concelho": "Chaves",
       "freguesia": "São Pedro De Agostém",
@@ -622,7 +622,7 @@
         "sec": 1786822530
       },
       "updated": {
-        "sec": 1786903503
+        "sec": 1786910106
       }
     },
     {
@@ -1031,8 +1031,8 @@
       "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 55,
-      "terrain": 16,
+      "man": 61,
+      "terrain": 18,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Vila Boa De Quires E Maureles",
@@ -1090,7 +1090,7 @@
         "sec": 1786886105
       },
       "updated": {
-        "sec": 1786908603
+        "sec": 1786910106
       }
     },
     {
@@ -1107,8 +1107,8 @@
       "location": "Viana Do Castelo, Ponte de Lima, Facha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 85,
-      "terrain": 27,
+      "man": 93,
+      "terrain": 30,
       "district": "Viana Do Castelo",
       "concelho": "Ponte De Lima",
       "freguesia": "Facha",
@@ -1166,7 +1166,7 @@
         "sec": 1786887303
       },
       "updated": {
-        "sec": 1786909203
+        "sec": 1786910106
       }
     },
     {
@@ -1243,6 +1243,88 @@
       },
       "updated": {
         "sec": 1786906943
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261162523"
+      },
+      "id": "20261162523",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786888380
+      },
+      "date": "16-08-2026",
+      "hour": "14:53",
+      "location": "Coimbra, Tábua, Espariz E Sinde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Coimbra",
+      "concelho": "Tábua",
+      "freguesia": "Espariz E Sinde",
+      "dico": "0616",
+      "lat": 40.314972,
+      "lng": -8.054315,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Arroteia       ---",
+      "active": true,
+      "sadoId": "20261162523",
+      "sharepointId": 20261162523,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.448,
+          "total": 0.448
+        },
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Arroteia (Ribeira de Sinde)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213611,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213611,
+        "stationLocation": "Arganil / Aeródromo (CIM)",
+        "stationDistance": 8.1,
+        "temperatura": 34.7,
+        "humidade": 31,
+        "intensidadeVento": 3.7,
+        "intensidadeVentoKM": 13.3,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-16T18:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786888822
+      },
+      "updated": {
+        "sec": 1786910106
       }
     },
     {
@@ -1397,8 +1479,8 @@
       "location": "Porto, Vila Nova de Gaia, Lever",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 71,
-      "terrain": 20,
+      "man": 67,
+      "terrain": 19,
       "district": "Porto",
       "concelho": "Vila Nova De Gaia",
       "freguesia": "Lever",
@@ -1462,7 +1544,7 @@
         "sec": 1786892422
       },
       "updated": {
-        "sec": 1786909203
+        "sec": 1786909804
       }
     },
     {
@@ -1479,8 +1561,8 @@
       "location": "Braga, Cabeceiras de Basto, Abadim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 76,
-      "terrain": 23,
+      "man": 77,
+      "terrain": 24,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Abadim",
@@ -1491,9 +1573,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Cos Moinhos Rei Teixugueiras",
       "active": true,
@@ -1538,7 +1620,7 @@
         "sec": 1786892525
       },
       "updated": {
-        "sec": 1786908904
+        "sec": 1786910106
       }
     },
     {
@@ -1695,82 +1777,6 @@
     },
     {
       "_id": {
-        "$id": "20261163102"
-      },
-      "id": "20261163102",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786895400
-      },
-      "date": "16-08-2026",
-      "hour": "16:50",
-      "location": "Setúbal, Almada, Caparica E Trafaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Setúbal",
-      "concelho": "Almada",
-      "freguesia": "Caparica E Trafaria",
-      "dico": "1503",
-      "lat": 38.66528,
-      "lng": -9.201312,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Caparica E Trafaria Rua Da Granja Jto Nº 30",
-      "active": true,
-      "sadoId": "20261163102",
-      "sharepointId": 20261163102,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua da Granja JTO Nº 30 (Torre)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210762,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210762,
-        "stationLocation": "Lisboa, Tapada da Ajuda",
-        "stationDistance": 5.2,
-        "temperatura": 31.9,
-        "humidade": 41,
-        "intensidadeVento": 3.6,
-        "intensidadeVentoKM": 13,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 1200.2,
-        "pressao": null,
-        "date": "2026-08-16T18:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1786896022
-      },
-      "updated": {
-        "sec": 1786907403
-      }
-    },
-    {
-      "_id": {
         "$id": "20261163227"
       },
       "id": "20261163227",
@@ -1871,9 +1877,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
       "localidade": "Vila Nova Da Telha Rua De Lagielas, 4470 Maia, Portugal",
       "active": true,
@@ -1918,7 +1924,7 @@
         "sec": 1786900504
       },
       "updated": {
-        "sec": 1786903804
+        "sec": 1786910106
       }
     },
     {
@@ -1935,8 +1941,8 @@
       "location": "Beja, Serpa, Vila Nova De São Bento",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 5,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Serpa",
       "freguesia": "Vila Nova De São Bento",
@@ -1994,7 +2000,7 @@
         "sec": 1786903504
       },
       "updated": {
-        "sec": 1786907704
+        "sec": 1786910106
       }
     },
     {
@@ -2087,8 +2093,8 @@
       "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 17,
+      "terrain": 4,
       "district": "Lisboa",
       "concelho": "Sintra",
       "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
@@ -2146,7 +2152,7 @@
         "sec": 1786904404
       },
       "updated": {
-        "sec": 1786907106
+        "sec": 1786909804
       }
     },
     {
@@ -2239,8 +2245,8 @@
       "location": "Faro, Silves, Alcantarilha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 3,
       "district": "Faro",
       "concelho": "Silves",
       "freguesia": "Alcantarilha",
@@ -2298,7 +2304,7 @@
         "sec": 1786905303
       },
       "updated": {
-        "sec": 1786908904
+        "sec": 1786909804
       }
     },
     {
@@ -2315,8 +2321,8 @@
       "location": "Faro, Loulé, Salir",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 7,
+      "man": 17,
+      "terrain": 5,
       "district": "Faro",
       "concelho": "Loulé",
       "freguesia": "Salir",
@@ -2374,7 +2380,7 @@
         "sec": 1786905303
       },
       "updated": {
-        "sec": 1786909203
+        "sec": 1786910106
       }
     },
     {
@@ -2391,8 +2397,8 @@
       "location": "Lisboa, Torres Vedras, Silveira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
+      "man": 12,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Silveira",
@@ -2450,7 +2456,7 @@
         "sec": 1786905321
       },
       "updated": {
-        "sec": 1786908305
+        "sec": 1786910106
       }
     },
     {
@@ -2479,9 +2485,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Aldeia Do Bispo  ---",
       "active": true,
@@ -2526,7 +2532,7 @@
         "sec": 1786905605
       },
       "updated": {
-        "sec": 1786906956
+        "sec": 1786909804
       }
     },
     {
@@ -2693,9 +2699,9 @@
       "date": "16-08-2026",
       "hour": "19:48",
       "location": "Leiria, Pombal, Carnide",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 57,
+      "man": 46,
       "terrain": 12,
       "district": "Leiria",
       "concelho": "Pombal",
@@ -2707,9 +2713,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Carnide Latlong(39.89858647,-8.71548467) - Rua Dos Claros 1, 3105-039 Pombal, Portugal",
       "active": true,
@@ -2754,7 +2760,7 @@
         "sec": 1786907106
       },
       "updated": {
-        "sec": 1786909203
+        "sec": 1786909504
       }
     },
     {
@@ -2847,8 +2853,8 @@
       "location": "Coimbra, Vila Nova de Poiares, Arrifana",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 7,
+      "man": 24,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Vila Nova De Poiares",
       "freguesia": "Arrifana",
@@ -2906,7 +2912,7 @@
         "sec": 1786908140
       },
       "updated": {
-        "sec": 1786908905
+        "sec": 1786909804
       }
     }
   ]
