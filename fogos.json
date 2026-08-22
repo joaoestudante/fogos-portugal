@@ -723,88 +723,6 @@
     },
     {
       "_id": {
-        "$id": "20261188826"
-      },
-      "id": "20261188826",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787307660
-      },
-      "date": "21-08-2026",
-      "hour": "11:21",
-      "location": "Beja, Ourique, Santana Da Serra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Beja",
-      "concelho": "Ourique",
-      "freguesia": "Santana Da Serra",
-      "dico": "0212",
-      "lat": 37.442783,
-      "lng": -8.321773,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "Ic1 Km 696.100 S/n Ic1 Km 696.100 S/n",
-      "active": true,
-      "sadoId": "20261188826",
-      "sharepointId": 20261188826,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 2.5,
-          "total": 2.5
-        },
-        "altitude": 186.402,
-        "incendio": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "IC1 Km 696.100 S/N (Monte do Biqueirão)",
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>Ourique— 20261188826.kml</name>\r\n\t<Style id=\"focoPerim\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>4d0000ff</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<name>AOI — 12h18 - ~856ha</name>\r\n\t\t<styleUrl>#focoPerim</styleUrl>\r\n\t\t<ExtendedData>\r\n\t\t\t<Data name=\"fogos_id\">\r\n\t\t\t\t<value>20261188826</value>\r\n\t\t\t</Data>\r\n\t\t\t<Data name=\"generated_at\">\r\n\t\t\t\t<value>2026-08-21T11:14:55Z</value>\r\n\t\t\t</Data>\r\n\t\t\t<Data name=\"mode\">\r\n\t\t\t\t<value>metaball</value>\r\n\t\t\t</Data>\r\n\t\t</ExtendedData>\r\n\t\t<gx:balloonVisibility>1</gx:balloonVisibility>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-8.329945,37.465278,0 -8.329941,37.465713,0 -8.329388,37.465734,0 -8.328811999999999,37.46551,0 -8.328813999999999,37.465272,0 -8.328189999999999,37.465268,0 -8.326558,37.464634,0 -8.326561,37.464358,0 -8.326183,37.464356,0 -8.325435000000001,37.46377,0 -8.325438,37.46345,0 -8.325023,37.463448,0 -8.324358999999999,37.462929,0 -8.324312000000001,37.462862,0 -8.324323,37.461641,0 -8.323456999999999,37.461636,0 -8.323195999999999,37.461261,0 -8.323200999999999,37.460733,0 -8.322825999999999,37.460731,0 -8.32208,37.459661,0 -8.322087,37.458924,0 -8.321564,37.458921,0 -8.320964,37.458061,0 -8.320971999999999,37.457115,0 -8.320301000000001,37.457111,0 -8.320235,37.457016,0 -8.319844,37.456861,0 -8.319850000000001,37.456207,0 -8.318177,37.456197,0 -8.317437999999999,37.455904,0 -8.314292,37.45574,0 -8.314201000000001,37.455697,0 -8.314204999999999,37.455273,0 -8.313281999999999,37.455268,0 -8.311949,37.454645,0 -8.311952,37.454359,0 -8.31133,37.454355,0 -8.310824,37.454118,0 -8.310829999999999,37.453451,0 -8.309379,37.453442,0 -8.308572,37.453065,0 -8.308577,37.452536,0 -8.308066,37.452533,0 -8.307453000000001,37.451802,0 -8.307463,37.450727,0 -8.306547999999999,37.450722,0 -8.306335000000001,37.450467,0 -8.306341,37.449819,0 -8.305896000000001,37.449816,0 -8.305224000000001,37.448276,0 -8.305277,37.442602,0 -8.304703999999999,37.442599,0 -8.304698,37.441969,0 -8.304866000000001,37.441698,0 -8.305285,37.441701,0 -8.305292,37.441007,0 -8.305973,37.439902,0 -8.306431999999999,37.439905,0 -8.306437000000001,37.439425,0 -8.306958,37.439006,0 -8.307570999999999,37.43901,0 -8.307575,37.438512,0 -8.308075000000001,37.438112,0 -8.30871,37.438115,0 -8.308714,37.437599,0 -8.309191,37.437217,0 -8.309848000000001,37.437221,0 -8.309851,37.436909,0 -8.311532,37.436329,0 -8.313247,37.436339,0 -8.313253,37.435736,0 -8.314102999999999,37.435443,0 -8.315516000000001,37.435451,0 -8.315521,37.434954,0 -8.316732,37.434536,0 -8.317283,37.433658,0 -8.317793,37.433661,0 -8.317800999999999,37.432835,0 -8.318412,37.431862,0 -8.31894,37.431865,0 -8.318947,37.43101,0 -8.319540999999999,37.430066,0 -8.320086,37.430069,0 -8.320092000000001,37.429489,0 -8.320494999999999,37.42917,0 -8.321225,37.429174,0 -8.32123,37.428589,0 -8.321626999999999,37.428275,0 -8.326884,37.428305,0 -8.326888,37.427856,0 -8.330026,37.427772,0 -8.330278,37.42795,0 -8.330273999999999,37.428324,0 -8.33081,37.428328,0 -8.331401,37.428746,0 -8.331396,37.429232,0 -8.332093,37.429236,0 -8.332523999999999,37.429542,0 -8.332519,37.43014,0 -8.333375,37.430145,0 -8.333646999999999,37.430337,0 -8.333641,37.431048,0 -8.334301,37.431051,0 -8.334765000000001,37.431751,0 -8.334754999999999,37.432857,0 -8.335394000000001,37.43286,0 -8.33564,37.437999,0 -8.335839,37.438171,0 -8.335838000000001,37.438271,0 -8.335953999999999,37.438272,0 -8.336959999999999,37.439146,0 -8.336952,37.44008,0 -8.338043000000001,37.440086,0 -8.338082,37.44012,0 -8.338075,37.440987,0 -8.338873,37.440992,0 -8.3392,37.441523,0 -8.339188999999999,37.442796,0 -8.339988,37.442801,0 -8.340031,37.44287,0 -8.340066999999999,37.44855,0 -8.339815,37.449109,0 -8.339134,37.449106,0 -8.339119999999999,37.450652,0 -8.3386,37.451807,0 -8.337979000000001,37.451803,0 -8.337967000000001,37.453212,0 -8.33751,37.454226,0 -8.337585000000001,37.461716,0 -8.336760999999999,37.461711,0 -8.336752000000001,37.462795,0 -8.336126999999999,37.463511,0 -8.335614,37.463508,0 -8.335611,37.463932,0 -8.334505,37.464403,0 -8.333345,37.464396,0 -8.333341000000001,37.464898,0 -8.332413000000001,37.465292,0 -8.329945,37.465278,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.7.1155\"></atom:link>\r\n\t</Placemark>\r\n\n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "nearestWeatherStationId": 1210785,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210785,
-        "stationLocation": "Ourique / Santana Da Serra",
-        "stationDistance": 6.9,
-        "temperatura": 23,
-        "humidade": 46,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1014.9,
-        "date": "2026-08-22T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787308324
-      },
-      "updated": {
-        "sec": 1787400905
-      }
-    },
-    {
-      "_id": {
         "$id": "20261190624"
       },
       "id": "20261190624",
@@ -863,88 +781,6 @@
       },
       "updated": {
         "sec": 1787367732
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261191879"
-      },
-      "id": "20261191879",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787344740
-      },
-      "date": "21-08-2026",
-      "hour": "21:39",
-      "location": "Vila Real, Boticas, Vilar E Viveiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Boticas",
-      "freguesia": "Vilar E Viveiro",
-      "dico": "1702",
-      "lat": 41.651823,
-      "lng": -7.801125,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Bostofrio     Bostofrio",
-      "active": true,
-      "sadoId": "20261191879",
-      "sharepointId": 20261191879,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 7,
-          "total": 7
-        },
-        "altitude": 766.111,
-        "incendio": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "BOSTOFRIO (ER311 (ER311) Km 0)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210611,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210611,
-        "stationLocation": "Montalegre",
-        "stationDistance": 19,
-        "temperatura": 20.6,
-        "humidade": 49,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-22T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787345405
-      },
-      "updated": {
-        "sec": 1787394003
       }
     },
     {
@@ -1189,8 +1025,8 @@
       "location": "Braga, Fafe, Freitas E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 5,
+      "terrain": 2,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Freitas E Vila Cova",
@@ -1248,7 +1084,7 @@
         "sec": 1787399403
       },
       "updated": {
-        "sec": 1787410966
+        "sec": 1787413804
       }
     },
     {
@@ -1417,16 +1253,16 @@
       "location": "Porto, Trofa, Alvarelhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Trofa",
       "freguesia": "Alvarelhos",
       "dico": "1318",
       "lat": 41.31054,
       "lng": -8.59867,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 7,
@@ -1462,7 +1298,7 @@
         "sec": 1787402105
       },
       "updated": {
-        "sec": 1787410967
+        "sec": 1787413502
       }
     },
     {
@@ -1781,9 +1617,9 @@
       "date": "22-08-2026",
       "hour": "13:54",
       "location": "Vila Real, Santa Marta de Penaguião, Fontes",
-      "aerial": 4,
+      "aerial": 5,
       "meios_aquaticos": 0,
-      "man": 135,
+      "man": 140,
       "terrain": 33,
       "district": "Vila Real",
       "concelho": "Santa Marta De Penaguião",
@@ -1842,7 +1678,7 @@
         "sec": 1787403725
       },
       "updated": {
-        "sec": 1787412902
+        "sec": 1787414105
       }
     },
     {
@@ -2011,8 +1847,8 @@
       "location": "Porto, Marco de Canaveses, Vila Boa De Quires E Maureles",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Porto",
       "concelho": "Marco De Canaveses",
       "freguesia": "Vila Boa De Quires E Maureles",
@@ -2070,7 +1906,7 @@
         "sec": 1787406306
       },
       "updated": {
-        "sec": 1787411406
+        "sec": 1787413503
       }
     },
     {
@@ -2163,8 +1999,8 @@
       "location": "Lisboa, Torres Vedras, Ramalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 7,
+      "man": 16,
+      "terrain": 5,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Ramalhal",
@@ -2222,7 +2058,7 @@
         "sec": 1787406728
       },
       "updated": {
-        "sec": 1787412004
+        "sec": 1787413503
       }
     },
     {
@@ -2315,8 +2151,8 @@
       "location": "Santarém, Abrantes, Mouriscas",
       "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 257,
-      "terrain": 73,
+      "man": 349,
+      "terrain": 102,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Mouriscas",
@@ -2374,7 +2210,7 @@
         "sec": 1787408104
       },
       "updated": {
-        "sec": 1787412903
+        "sec": 1787414105
       }
     },
     {
@@ -2465,9 +2301,9 @@
       "date": "22-08-2026",
       "hour": "15:58",
       "location": "Braga, Vila Nova de Famalicão, Pedome",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 25,
+      "man": 16,
       "terrain": 4,
       "district": "Braga",
       "concelho": "Vila Nova De Famalicão",
@@ -2479,9 +2315,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "---  Av. S. Pedro",
       "active": true,
@@ -2526,7 +2362,7 @@
         "sec": 1787410967
       },
       "updated": {
-        "sec": 1787412903
+        "sec": 1787414105
       }
     },
     {
@@ -2555,9 +2391,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Bencanta Feira Dos 23",
       "active": true,
@@ -2602,7 +2438,7 @@
         "sec": 1787411703
       },
       "updated": {
-        "sec": 1787412606
+        "sec": 1787414105
       }
     },
     {
@@ -2631,9 +2467,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "---  Picoto",
       "active": true,
@@ -2664,7 +2500,83 @@
         "sec": 1787412142
       },
       "updated": {
-        "sec": 1787412903
+        "sec": 1787414105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261195419"
+      },
+      "id": "20261195419",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787412600
+      },
+      "date": "22-08-2026",
+      "hour": "16:30",
+      "location": "Braga, Terras de Bouro, Moimenta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Moimenta",
+      "dico": "0310",
+      "lat": 41.71839,
+      "lng": -8.300258,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Rua Andrias",
+      "active": true,
+      "sadoId": "20261195419",
+      "sharepointId": 20261195419,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Andreas (Fonte do Toro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212121,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212121,
+        "stationLocation": "Terras de Bouro/Barral (CIM)",
+        "stationDistance": 2.3,
+        "temperatura": 21.2,
+        "humidade": 61,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1014.1,
+        "date": "2026-08-22T11:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787413503
+      },
+      "updated": {
+        "sec": 1787414105
       }
     }
   ]
