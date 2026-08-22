@@ -343,8 +343,8 @@
       "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 141,
-      "terrain": 43,
+      "man": 134,
+      "terrain": 41,
       "district": "Aveiro",
       "concelho": "Arouca",
       "freguesia": "Cabreiros E Albergaria Da Serra",
@@ -355,9 +355,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "---  Bouceguedim",
       "active": true,
@@ -408,7 +408,7 @@
         "sec": 1787000420
       },
       "updated": {
-        "sec": 1787387403
+        "sec": 1787388903
       }
     },
     {
@@ -425,8 +425,8 @@
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 12,
+      "terrain": 3,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
@@ -484,7 +484,7 @@
         "sec": 1787059340
       },
       "updated": {
-        "sec": 1787383803
+        "sec": 1787388303
       }
     },
     {
@@ -1401,6 +1401,78 @@
       },
       "updated": {
         "sec": 1787382145
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261193487"
+      },
+      "id": "20261193487",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787387460
+      },
+      "date": "22-08-2026",
+      "hour": "09:31",
+      "location": "Porto, Vila Nova de Gaia, Lever",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Lever",
+      "dico": "1317",
+      "lat": 41.063601,
+      "lng": -8.476953,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Lever Vales",
+      "active": true,
+      "sadoId": "20261193487",
+      "sharepointId": 20261193487,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 13.4,
+        "temperatura": 14.5,
+        "humidade": 100,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-08-22T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787388004
+      },
+      "updated": {
+        "sec": 1787388904
       }
     }
   ]
