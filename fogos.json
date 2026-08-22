@@ -425,8 +425,8 @@
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
+      "man": 15,
+      "terrain": 4,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
@@ -484,7 +484,7 @@
         "sec": 1787059340
       },
       "updated": {
-        "sec": 1787410505
+        "sec": 1787412004
       }
     },
     {
@@ -1479,8 +1479,8 @@
       "location": "Viseu, Lamego, Bigorne, Magueija E Pretarouca",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 7,
+      "terrain": 2,
       "district": "Viseu",
       "concelho": "Lamego",
       "freguesia": "Bigorne, Magueija E Pretarouca",
@@ -1491,9 +1491,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
       "important": false,
       "localidade": "Vila Lobos Vila Lobos",
       "active": true,
@@ -1538,7 +1538,7 @@
         "sec": 1787402105
       },
       "updated": {
-        "sec": 1787410967
+        "sec": 1787411703
       }
     },
     {
@@ -1567,9 +1567,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Cadorcas Cadorcas",
       "active": true,
@@ -1614,7 +1614,7 @@
         "sec": 1787402703
       },
       "updated": {
-        "sec": 1787410967
+        "sec": 1787412902
       }
     },
     {
@@ -1783,7 +1783,7 @@
       "location": "Vila Real, Santa Marta de Penaguião, Fontes",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 139,
+      "man": 135,
       "terrain": 33,
       "district": "Vila Real",
       "concelho": "Santa Marta De Penaguião",
@@ -1799,7 +1799,7 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Fontes Soutelo, Santa Marta De Penaguião, Portugal",
+      "localidade": "Fontes Soutelo",
       "active": true,
       "sadoId": "20261194697",
       "sharepointId": 20261194697,
@@ -1842,7 +1842,7 @@
         "sec": 1787403725
       },
       "updated": {
-        "sec": 1787411103
+        "sec": 1787412902
       }
     },
     {
@@ -2075,82 +2075,6 @@
     },
     {
       "_id": {
-        "$id": "20261194888"
-      },
-      "id": "20261194888",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787405760
-      },
-      "date": "22-08-2026",
-      "hour": "14:36",
-      "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
-      "dico": "1304",
-      "lat": 41.129255,
-      "lng": -8.535295,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Gondomar (São Cosme) Castro",
-      "active": true,
-      "sadoId": "20261194888",
-      "sharepointId": 20261194888,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "Castro (Alto das Cavadas)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
-      "isFire": true,
-      "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 5.7,
-        "temperatura": 22.2,
-        "humidade": 82,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-22T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787406306
-      },
-      "updated": {
-        "sec": 1787411406
-      }
-    },
-    {
-      "_id": {
         "$id": "20261194916"
       },
       "id": "20261194916",
@@ -2161,10 +2085,10 @@
       "date": "22-08-2026",
       "hour": "14:41",
       "location": "Viana Do Castelo, Valença, São Julião E Silva",
-      "aerial": 3,
+      "aerial": 2,
       "meios_aquaticos": 0,
       "man": 76,
-      "terrain": 18,
+      "terrain": 20,
       "district": "Viana Do Castelo",
       "concelho": "Valença",
       "freguesia": "São Julião E Silva",
@@ -2222,7 +2146,7 @@
         "sec": 1787406604
       },
       "updated": {
-        "sec": 1787411406
+        "sec": 1787412605
       }
     },
     {
@@ -2239,8 +2163,8 @@
       "location": "Lisboa, Torres Vedras, Ramalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 31,
-      "terrain": 8,
+      "man": 26,
+      "terrain": 7,
       "district": "Lisboa",
       "concelho": "Torres Vedras",
       "freguesia": "Ramalhal",
@@ -2298,7 +2222,7 @@
         "sec": 1787406728
       },
       "updated": {
-        "sec": 1787411103
+        "sec": 1787412004
       }
     },
     {
@@ -2315,8 +2239,8 @@
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 11,
+      "man": 29,
+      "terrain": 9,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
@@ -2327,9 +2251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Bobadela Bobadela",
       "active": true,
@@ -2374,7 +2298,7 @@
         "sec": 1787408104
       },
       "updated": {
-        "sec": 1787410968
+        "sec": 1787412605
       }
     },
     {
@@ -2391,8 +2315,8 @@
       "location": "Santarém, Abrantes, Mouriscas",
       "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 222,
-      "terrain": 59,
+      "man": 257,
+      "terrain": 73,
       "district": "Santarém",
       "concelho": "Abrantes",
       "freguesia": "Mouriscas",
@@ -2450,7 +2374,7 @@
         "sec": 1787408104
       },
       "updated": {
-        "sec": 1787411406
+        "sec": 1787412903
       }
     },
     {
@@ -2467,7 +2391,7 @@
       "location": "Leiria, Óbidos, Santa Maria, São Pedro E Sobral Da Lagoa",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
+      "man": 25,
       "terrain": 7,
       "district": "Leiria",
       "concelho": "Óbidos",
@@ -2526,7 +2450,7 @@
         "sec": 1787408704
       },
       "updated": {
-        "sec": 1787411406
+        "sec": 1787411703
       }
     },
     {
@@ -2540,26 +2464,26 @@
       },
       "date": "22-08-2026",
       "hour": "15:58",
-      "location": "Braga, Guimarães, Ronfe",
+      "location": "Braga, Vila Nova de Famalicão, Pedome",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 2,
+      "man": 25,
+      "terrain": 4,
       "district": "Braga",
-      "concelho": "Guimarães",
-      "freguesia": "Ronfe",
-      "dico": "0308",
-      "lat": 41.42385,
-      "lng": -8.38123,
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Pedome",
+      "dico": "0312",
+      "lat": 41.423133,
+      "lng": -8.381368,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Ronfe  Rua Do Ferreiro 71, 4805-410 Guimarães, Portugal",
+      "localidade": "---  Av. S. Pedro",
       "active": true,
       "sadoId": "20261195253",
       "sharepointId": 20261195253,
@@ -2602,7 +2526,145 @@
         "sec": 1787410967
       },
       "updated": {
-        "sec": 1787411103
+        "sec": 1787412903
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261195276"
+      },
+      "id": "20261195276",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787410980
+      },
+      "date": "22-08-2026",
+      "hour": "16:03",
+      "location": "Coimbra, Coimbra, São Martinho Do Bispo E Ribeira De Frades",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Coimbra",
+      "freguesia": "São Martinho Do Bispo E Ribeira De Frades",
+      "dico": "0603",
+      "lat": 40.21358,
+      "lng": -8.456158,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Bencanta Feira Dos 23",
+      "active": true,
+      "sadoId": "20261195276",
+      "sharepointId": 20261195276,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Choupal",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210707,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210707,
+        "stationLocation": "Coimbra, Bencanta",
+        "stationDistance": 0.1,
+        "temperatura": 22.1,
+        "humidade": 69,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-22T11:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787411703
+      },
+      "updated": {
+        "sec": 1787412606
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261195316"
+      },
+      "id": "20261195316",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787411580
+      },
+      "date": "22-08-2026",
+      "hour": "16:13",
+      "location": "Aveiro, Oliveira de Azeméis, Vila De Cucujães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Oliveira De Azeméis",
+      "freguesia": "Vila De Cucujães",
+      "dico": "0113",
+      "lat": 40.873108,
+      "lng": -8.507006,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Picoto",
+      "active": true,
+      "sadoId": "20261195316",
+      "sharepointId": 20261195316,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Picoto (Penedo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6900,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1787412142
+      },
+      "updated": {
+        "sec": 1787412903
       }
     }
   ]
