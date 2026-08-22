@@ -425,8 +425,8 @@
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 6,
+      "man": 7,
+      "terrain": 2,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
@@ -484,7 +484,7 @@
         "sec": 1787059340
       },
       "updated": {
-        "sec": 1787408104
+        "sec": 1787410505
       }
     },
     {
@@ -1189,8 +1189,8 @@
       "location": "Braga, Fafe, Freitas E Vila Cova",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 4,
+      "man": 7,
+      "terrain": 3,
       "district": "Braga",
       "concelho": "Fafe",
       "freguesia": "Freitas E Vila Cova",
@@ -1211,8 +1211,12 @@
       "sharepointId": 20261194396,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Rua do Alto (Casa do Outeiro Alto)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1244,7 +1248,7 @@
         "sec": 1787399403
       },
       "updated": {
-        "sec": 1787409903
+        "sec": 1787410966
       }
     },
     {
@@ -1261,8 +1265,8 @@
       "location": "Braga, Celorico de Basto, Basto (São Clemente)",
       "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 53,
-      "terrain": 15,
+      "man": 54,
+      "terrain": 16,
       "district": "Braga",
       "concelho": "Celorico De Basto",
       "freguesia": "Basto (São Clemente)",
@@ -1320,7 +1324,7 @@
         "sec": 1787400019
       },
       "updated": {
-        "sec": 1787409605
+        "sec": 1787410821
       }
     },
     {
@@ -1361,10 +1365,10 @@
       "disappear": false,
       "icnf": {
         "altitude": 0,
-        "fogacho": true,
+        "agricola": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(39.77493900.-8.82690680) - Rua das Feteiras 25. 2415-328 Leiria. Portugal (Travessa das Feteiras)",
+      "detailLocation": "Rua das Feteiras 25. 2415-328 Leiria. Portugal (Travessa das Feteiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1396,83 +1400,7 @@
         "sec": 1787400607
       },
       "updated": {
-        "sec": 1787405403
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261194476"
-      },
-      "id": "20261194476",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787400360
-      },
-      "date": "22-08-2026",
-      "hour": "13:06",
-      "location": "Porto, Amarante, Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Amarante",
-      "freguesia": "Amarante (São Gonçalo), Madalena, Cepelos E Gatão",
-      "dico": "1301",
-      "lat": 41.281487,
-      "lng": -8.059187,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "União Das Freguesias De Amarante (São Gonçalo), Madalena, Cepelos E Gatão Rua Do Rio Tâmega 477, 4600-635 Amarante, Portugal",
-      "active": true,
-      "sadoId": "20261194476",
-      "sharepointId": 20261194476,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Rio Tâmega 477. 4600-635 Amarante. Portugal (Plana)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210657,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210657,
-        "stationLocation": "Luzim",
-        "stationDistance": 21.9,
-        "temperatura": 22.4,
-        "humidade": 50,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-22T11:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787400906
-      },
-      "updated": {
-        "sec": 1787410204
+        "sec": 1787410966
       }
     },
     {
@@ -1516,7 +1444,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua Senhora da Alegria 660. 4745-033 Trofa. Portugal (Arrabalde)",
+      "detailLocation": "Senhora da Alegria (Arrabalde)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1534,7 +1462,7 @@
         "sec": 1787402105
       },
       "updated": {
-        "sec": 1787409005
+        "sec": 1787410967
       }
     },
     {
@@ -1578,7 +1506,7 @@
         "fogacho": true,
         "fontealerta": "CCO"
       },
-      "detailLocation": "Vila Lobos (Alto de Vila Lobos)",
+      "detailLocation": "Vila Lobos",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1610,7 +1538,7 @@
         "sec": 1787402105
       },
       "updated": {
-        "sec": 1787408404
+        "sec": 1787410967
       }
     },
     {
@@ -1654,7 +1582,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Cadorcas (Cadorças)",
+      "detailLocation": "Cadorcas (Mó da Lomba)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1686,7 +1614,7 @@
         "sec": 1787402703
       },
       "updated": {
-        "sec": 1787405706
+        "sec": 1787410967
       }
     },
     {
@@ -1806,7 +1734,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Lever. Vila Nova de Gaia. Portugal (IC24 (IC24) Km 9)",
+      "detailLocation": "Costouras (Rua das Costouras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1838,7 +1766,7 @@
         "sec": 1787403126
       },
       "updated": {
-        "sec": 1787405706
+        "sec": 1787410967
       }
     },
     {
@@ -1855,8 +1783,8 @@
       "location": "Vila Real, Santa Marta de Penaguião, Fontes",
       "aerial": 4,
       "meios_aquaticos": 0,
-      "man": 104,
-      "terrain": 23,
+      "man": 139,
+      "terrain": 33,
       "district": "Vila Real",
       "concelho": "Santa Marta De Penaguião",
       "freguesia": "Fontes",
@@ -1914,7 +1842,7 @@
         "sec": 1787403725
       },
       "updated": {
-        "sec": 1787409605
+        "sec": 1787411103
       }
     },
     {
@@ -2032,9 +1960,9 @@
       "icnf": {
         "altitude": 0,
         "agricola": true,
-        "fontealerta": "RNPV"
+        "fontealerta": "GNR"
       },
-      "detailLocation": "ABRANTES",
+      "detailLocation": "ABRANTES (São João)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2066,7 +1994,7 @@
         "sec": 1787404934
       },
       "updated": {
-        "sec": 1787406604
+        "sec": 1787410968
       }
     },
     {
@@ -2095,9 +2023,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Vila Boa De Quires E Maureles Rua Da Pena 412, 4635 Marco De Canaveses, Portugal",
       "active": true,
@@ -2110,7 +2038,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua da Pena 412. 4635 Marco de Canaveses. Portugal (Ribeiro de Vilarelho)",
+      "detailLocation": "Rua da Pena 412. 4635 Marco de Canaveses. Portugal (Alminhas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2142,7 +2070,7 @@
         "sec": 1787406306
       },
       "updated": {
-        "sec": 1787409306
+        "sec": 1787411406
       }
     },
     {
@@ -2159,8 +2087,8 @@
       "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Porto",
       "concelho": "Gondomar",
       "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
@@ -2171,18 +2099,22 @@
       "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "---  Castro",
+      "localidade": "Gondomar (São Cosme) Castro",
       "active": true,
       "sadoId": "20261194888",
       "sharepointId": 20261194888,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Castro (Alto das Cavadas)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2214,7 +2146,7 @@
         "sec": 1787406306
       },
       "updated": {
-        "sec": 1787407220
+        "sec": 1787411406
       }
     },
     {
@@ -2231,14 +2163,14 @@
       "location": "Viana Do Castelo, Valença, São Julião E Silva",
       "aerial": 3,
       "meios_aquaticos": 0,
-      "man": 60,
-      "terrain": 13,
+      "man": 76,
+      "terrain": 18,
       "district": "Viana Do Castelo",
       "concelho": "Valença",
       "freguesia": "São Julião E Silva",
       "dico": "1608",
-      "lat": 41.94853,
-      "lng": -8.655315,
+      "lat": 41.940667,
+      "lng": -8.66585,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -2258,7 +2190,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "São Julião",
+      "detailLocation": "São Julião (São Sebastião)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2274,7 +2206,7 @@
       "weather": {
         "stationId": 1210604,
         "stationLocation": "V.N.Cerveira (Aeródromo)",
-        "stationDistance": 2.2,
+        "stationDistance": 2.9,
         "temperatura": 24.2,
         "humidade": 54,
         "intensidadeVento": null,
@@ -2290,7 +2222,7 @@
         "sec": 1787406604
       },
       "updated": {
-        "sec": 1787410204
+        "sec": 1787411406
       }
     },
     {
@@ -2319,9 +2251,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ramalhal  ---",
       "active": true,
@@ -2332,7 +2264,7 @@
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "Outros"
       },
       "detailLocation": "Ramalhal",
       "kml": null,
@@ -2366,7 +2298,7 @@
         "sec": 1787406728
       },
       "updated": {
-        "sec": 1787409903
+        "sec": 1787411103
       }
     },
     {
@@ -2381,16 +2313,16 @@
       "date": "22-08-2026",
       "hour": "15:03",
       "location": "Vila Real, Boticas, Ardãos E Bobadela",
-      "aerial": 2,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 7,
+      "man": 37,
+      "terrain": 11,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Ardãos E Bobadela",
       "dico": "1702",
-      "lat": 41.72136,
-      "lng": -7.624462,
+      "lat": 41.723542,
+      "lng": -7.623847,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -2410,7 +2342,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(41.72136180.-7.62446190) - M527. 5460 Boticas. Portugal (Souto Escuro)",
+      "detailLocation": "Bobadela (Souto Escuro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2442,7 +2374,7 @@
         "sec": 1787408104
       },
       "updated": {
-        "sec": 1787410204
+        "sec": 1787410968
       }
     },
     {
@@ -2456,17 +2388,17 @@
       },
       "date": "22-08-2026",
       "hour": "15:11",
-      "location": "Santarém, Sardoal, Sardoal",
+      "location": "Santarém, Abrantes, Mouriscas",
       "aerial": 10,
       "meios_aquaticos": 0,
-      "man": 171,
-      "terrain": 43,
+      "man": 222,
+      "terrain": 59,
       "district": "Santarém",
-      "concelho": "Sardoal",
-      "freguesia": "Sardoal",
-      "dico": "1417",
-      "lat": 39.533156,
-      "lng": -8.133104,
+      "concelho": "Abrantes",
+      "freguesia": "Mouriscas",
+      "dico": "1401",
+      "lat": 39.502529,
+      "lng": -8.100549,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
@@ -2475,14 +2407,18 @@
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Cabeça Das Mós  ---",
+      "localidade": "Mouriscas  ---",
       "active": true,
       "sadoId": "20261195022",
       "sharepointId": 20261195022,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "MOURISCAS (Tojal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2498,7 +2434,7 @@
       "weather": {
         "stationId": 1210812,
         "stationLocation": "Alvega",
-        "stationDistance": 10.3,
+        "stationDistance": 5.9,
         "temperatura": 23.7,
         "humidade": 55,
         "intensidadeVento": null,
@@ -2514,7 +2450,7 @@
         "sec": 1787408104
       },
       "updated": {
-        "sec": 1787410204
+        "sec": 1787411406
       }
     },
     {
@@ -2529,9 +2465,9 @@
       "date": "22-08-2026",
       "hour": "15:15",
       "location": "Leiria, Óbidos, Santa Maria, São Pedro E Sobral Da Lagoa",
-      "aerial": 1,
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 35,
+      "man": 29,
       "terrain": 7,
       "district": "Leiria",
       "concelho": "Óbidos",
@@ -2553,8 +2489,12 @@
       "sharepointId": 20261195070,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bairro Nossa Senhora da Luz (Casal da Luz)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -2586,7 +2526,83 @@
         "sec": 1787408704
       },
       "updated": {
-        "sec": 1787410204
+        "sec": 1787411406
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261195253"
+      },
+      "id": "20261195253",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787410680
+      },
+      "date": "22-08-2026",
+      "hour": "15:58",
+      "location": "Braga, Guimarães, Ronfe",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Guimarães",
+      "freguesia": "Ronfe",
+      "dico": "0308",
+      "lat": 41.42385,
+      "lng": -8.38123,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ronfe  Rua Do Ferreiro 71, 4805-410 Guimarães, Portugal",
+      "active": true,
+      "sadoId": "20261195253",
+      "sharepointId": 20261195253,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Ferreiro 71. 4805-410 Guimarães. Portugal (Ferreiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 5.3,
+        "temperatura": 24.1,
+        "humidade": 50,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1013.3,
+        "date": "2026-08-22T11:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787410967
+      },
+      "updated": {
+        "sec": 1787411103
       }
     }
   ]
