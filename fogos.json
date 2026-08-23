@@ -261,8 +261,8 @@
       "location": "Porto, Santo Tirso, Rebordões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 40,
-      "terrain": 12,
+      "man": 35,
+      "terrain": 11,
       "district": "Porto",
       "concelho": "Santo Tirso",
       "freguesia": "Rebordões",
@@ -326,89 +326,7 @@
         "sec": 1786985406
       },
       "updated": {
-        "sec": 1787506504
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261170282"
-      },
-      "id": "20261170282",
-      "coords": true,
-      "dateTime": {
-        "sec": 1786999800
-      },
-      "date": "17-08-2026",
-      "hour": "21:50",
-      "location": "Aveiro, Arouca, Cabreiros E Albergaria Da Serra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Aveiro",
-      "concelho": "Arouca",
-      "freguesia": "Cabreiros E Albergaria Da Serra",
-      "dico": "0104",
-      "lat": 40.888903,
-      "lng": -8.188386,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "---  Bouceguedim",
-      "active": true,
-      "sadoId": "20261170282",
-      "sharepointId": 20261170282,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 493.578330912679,
-          "agricola": 11.2782661296308,
-          "mato": 1013.77354031506,
-          "total": 1521.35244014517
-        },
-        "altitude": 329.256,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Bouceguedim (Rio de Frades)",
-      "kml": null,
-      "kmlVost": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<kml xmlns=\"http://www.opengis.net/kml/2.2\" xmlns:gx=\"http://www.google.com/kml/ext/2.2\" xmlns:kml=\"http://www.opengis.net/kml/2.2\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\r\n<Document>\r\n\t<name>Arouca -  20261170282 — 18h15.kml</name>\r\n\t<Style id=\"focoPerim\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>4d0000ff</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<StyleMap id=\"focoPerim0\">\r\n\t\t<Pair>\r\n\t\t\t<key>normal</key>\r\n\t\t\t<styleUrl>#focoPerim</styleUrl>\r\n\t\t</Pair>\r\n\t\t<Pair>\r\n\t\t\t<key>highlight</key>\r\n\t\t\t<styleUrl>#focoPerim1</styleUrl>\r\n\t\t</Pair>\r\n\t</StyleMap>\r\n\t<Style id=\"focoPerim1\">\r\n\t\t<LineStyle>\r\n\t\t\t<color>ff0000ff</color>\r\n\t\t\t<width>2</width>\r\n\t\t</LineStyle>\r\n\t\t<PolyStyle>\r\n\t\t\t<color>4d0000ff</color>\r\n\t\t</PolyStyle>\r\n\t</Style>\r\n\t<Placemark>\r\n\t\t<name>Área de Interesse — 20261170282 — 19/08/2026 18h15 - 5896ha</name>\r\n\t\t<styleUrl>#focoPerim0</styleUrl>\r\n\t\t<ExtendedData>\r\n\t\t\t<Data name=\"fogos_id\">\r\n\t\t\t\t<value>20261170282</value>\r\n\t\t\t</Data>\r\n\t\t\t<Data name=\"generated_at\">\r\n\t\t\t\t<value>2026-08-19T17:13:18Z</value>\r\n\t\t\t</Data>\r\n\t\t\t<Data name=\"mode\">\r\n\t\t\t\t<value>metaball</value>\r\n\t\t\t</Data>\r\n\t\t</ExtendedData>\r\n\t\t<Polygon>\r\n\t\t\t<tessellate>1</tessellate>\r\n\t\t\t<outerBoundaryIs>\r\n\t\t\t\t<LinearRing>\r\n\t\t\t\t\t<coordinates>\r\n\t\t\t\t\t\t-8.222227,40.856334,0 -8.222217000000001,40.857234,0 -8.223344000000001,40.857242,0 -8.223401000000001,40.857407,0 -8.223382000000001,40.859044,0 -8.223966000000001,40.859048,0 -8.224411999999999,40.860342,0 -8.224551,40.860551,0 -8.224537,40.861754,0 -8.225357000000001,40.86176,0 -8.225717,40.8623,0 -8.225702,40.863564,0 -8.226563000000001,40.863569,0 -8.226883000000001,40.86405,0 -8.226877999999999,40.864472,0 -8.227356,40.864476,0 -8.228059,40.86502,0 -8.228054,40.865381,0 -8.228528000000001,40.865384,0 -8.229234999999999,40.865933,0 -8.229231,40.86629,0 -8.229699,40.866293,0 -8.230411,40.866845,0 -8.230407,40.867198,0 -8.230871,40.867202,0 -8.231021,40.867318,0 -8.231584,40.86796,0 -8.231572,40.869008,0 -8.23251,40.869014,0 -8.232756,40.869294,0 -8.232749,40.869917,0 -8.233306000000001,40.86992,0 -8.233578,40.87023,0 -8.233923000000001,40.870992,0 -8.233904000000001,40.872627,0 -8.234665,40.872632,0 -8.234959,40.873283,0 -8.235059,40.875386,0 -8.235039,40.877138,0 -8.235531999999999,40.877142,0 -8.236214,40.878162,0 -8.236205,40.878948,0 -8.236962,40.878953,0 -8.237387999999999,40.879289,0 -8.237380999999999,40.879856,0 -8.238111999999999,40.879861,0 -8.238564,40.880219,0 -8.238557999999999,40.880765,0 -8.239262,40.88077,0 -8.239443,40.880913,0 -8.239737999999999,40.881375,0 -8.239724000000001,40.882574,0 -8.240506,40.88258,0 -8.240904,40.883202,0 -8.24089,40.884384,0 -8.241661000000001,40.884389,0 -8.24207,40.885029,0 -8.241989,40.892148,0 -8.241401,40.893395,0 -8.240786999999999,40.893391,0 -8.240772,40.894729,0 -8.240632,40.895025,0 -8.240418999999999,40.895191,0 -8.23958,40.895185,0 -8.239572000000001,40.895847,0 -8.239266000000001,40.896084,0 -8.238382,40.896078,0 -8.238374,40.896775,0 -8.238113,40.896977,0 -8.237185,40.896971,0 -8.237176,40.897702,0 -8.23696,40.89787,0 -8.235987,40.897864,0 -8.235977999999999,40.89863,0 -8.235806999999999,40.898763,0 -8.23479,40.898757,0 -8.234776,40.899961,0 -8.234373,40.900556,0 -8.233582,40.90055,0 -8.233555000000001,40.902873,0 -8.232842,40.90595,0 -8.232332,40.905947,0 -8.232312,40.907695,0 -8.231781,40.908646,0 -8.231114,40.908641,0 -8.2311,40.909865,0 -8.230276,40.911338,0 -8.229895000000001,40.911336,0 -8.229818,40.917941,0 -8.229143000000001,40.919438,0 -8.228612999999999,40.919435,0 -8.228602,40.92042,0 -8.227895999999999,40.921231,0 -8.227404999999999,40.921228,0 -8.227398000000001,40.921803,0 -8.227116000000001,40.922127,0 -8.226207,40.922121,0 -8.226197000000001,40.922973,0 -8.226044,40.923021,0 -8.225009,40.923014,0 -8.225004999999999,40.923343,0 -8.2232,40.923902,0 -8.221436000000001,40.92389,0 -8.221429000000001,40.924451,0 -8.220356000000001,40.924784,0 -8.213112000000001,40.924735,0 -8.213107000000001,40.92517,0 -8.211916,40.925627,0 -8.203601000000001,40.92557,0 -8.203595,40.926072,0 -8.202633000000001,40.926464,0 -8.197652,40.92643,0 -8.197646000000001,40.926919,0 -8.196649000000001,40.927324,0 -8.190515,40.927281,0 -8.190509,40.927815,0 -8.18962,40.928175,0 -8.185753999999999,40.928148,0 -8.185748,40.928596,0 -8.176303000000001,40.928596,0 -8.176246000000001,40.928582,0 -8.176253000000001,40.928081,0 -8.174124000000001,40.928065,0 -8.172694,40.927717,0 -8.172701,40.927154,0 -8.171023,40.927142,0 -8.170329000000001,40.926873,0 -8.170337,40.926237,0 -8.168654,40.926224,0 -8.167965000000001,40.925957,0 -8.167973,40.925319,0 -8.166655,40.925309,0 -8.165608000000001,40.924517,0 -8.165609,40.924401,0 -8.165452,40.9244,0 -8.164432,40.923628,0 -8.164433000000001,40.923491,0 -8.164249,40.92349,0 -8.163254999999999,40.922738,0 -8.163257,40.922582,0 -8.163046,40.922581,0 -8.162079,40.921849,0 -8.162081000000001,40.921673,0 -8.161842999999999,40.921671,0 -8.161273,40.92124,0 -8.160907,40.920581,0 -8.160916,40.919863,0 -8.160507000000001,40.91986,0 -8.159746,40.918489,0 -8.159763,40.917152,0 -8.159001,40.917146,0 -8.158585,40.916397,0 -8.158598,40.915342,0 -8.157997,40.915337,0 -8.157424000000001,40.914305,0 -8.157434,40.913531,0 -8.156878000000001,40.913527,0 -8.156253,40.91304,0 -8.156257999999999,40.912622,0 -8.155709999999999,40.912618,0 -8.155077,40.912124,0 -8.155082,40.911713,0 -8.154543,40.911709,0 -8.153900999999999,40.911208,0 -8.153905999999999,40.910803,0 -8.153376,40.910799,0 -8.152725,40.910292,0 -8.15273,40.909894,0 -8.152208999999999,40.90989,0 -8.15155,40.909376,0 -8.151555,40.908984,0 -8.151042,40.90898,0 -8.150432,40.908505,0 -8.150375,40.908398,0 -8.15039,40.907174,0 -8.149721,40.907169,0 -8.149215,40.90622,0 -8.149226000000001,40.905364,0 -8.148758000000001,40.90536,0 -8.148056,40.904042,0 -8.148166,40.895447,0 -8.147465,40.895442,0 -8.146993,40.894381,0 -8.147014,40.892736,0 -8.146258,40.89273,0 -8.145839,40.89179,0 -8.145849999999999,40.890926,0 -8.145452000000001,40.890923,0 -8.144685000000001,40.8892,0 -8.144736999999999,40.88518,0 -8.14514,40.884615,0 -8.145930999999999,40.88462,0 -8.145943000000001,40.88372,0 -8.147130000000001,40.883729,0 -8.147118000000001,40.884629,0 -8.150677999999999,40.884656,0 -8.150690000000001,40.883755,0 -8.151877000000001,40.883764,0 -8.151865000000001,40.884664,0 -8.153052000000001,40.884673,0 -8.153086999999999,40.881971,0 -8.147152999999999,40.881927,0 -8.147187000000001,40.879225,0 -8.148374,40.879234,0 -8.148396999999999,40.877432,0 -8.144263,40.877401,0 -8.144199,40.877298,0 -8.14419,40.869958,0 -8.144631,40.869297,0 -8.144940999999999,40.869299,0 -8.144947,40.868821,0 -8.145825,40.867504,0 -8.146151,40.867506,0 -8.146157000000001,40.867004,0 -8.147019,40.865711,0 -8.147361,40.865714,0 -8.147366999999999,40.865188,0 -8.148213,40.863918,0 -8.148569999999999,40.863921,0 -8.148577,40.863371,0 -8.148875,40.862924,0 -8.149100000000001,40.856798,0 -8.149155,40.856719,0 -8.149849,40.856724,0 -8.149862000000001,40.855697,0 -8.150395,40.854926,0 -8.151058000000001,40.854931,0 -8.151066,40.854322,0 -8.151458,40.854033,0 -8.152256,40.854039,0 -8.152264000000001,40.853438,0 -8.152665000000001,40.853141,0 -8.153454,40.853147,0 -8.153461,40.852553,0 -8.153873000000001,40.852249,0 -8.154650999999999,40.852255,0 -8.154657,40.851839,0 -8.15591,40.851363,0 -8.157035,40.851371,0 -8.157041,40.850934,0 -8.158239,40.850479,0 -8.159419,40.850488,0 -8.159425000000001,40.850029,0 -8.160568,40.849596,0 -8.161803000000001,40.849605,0 -8.161809,40.849125,0 -8.162896999999999,40.848712,0 -8.165373000000001,40.84873,0 -8.165379,40.848285,0 -8.167018000000001,40.848214,0 -8.167923999999999,40.847847,0 -8.168943000000001,40.847855,0 -8.168948,40.847432,0 -8.169153,40.847349,0 -8.18024,40.847349,0 -8.180809999999999,40.84755,0 -8.180804999999999,40.847939,0 -8.181931000000001,40.847947,0 -8.182765,40.848243,0 -8.202882000000001,40.84825,0 -8.203339,40.848443,0 -8.203332,40.848998,0 -8.204674000000001,40.849007,0 -8.204851,40.849082,0 -8.207832,40.849171,0 -8.208074,40.849281,0 -8.208066000000001,40.849931,0 -8.209526,40.849941,0 -8.209617,40.849983,0 -8.212599000000001,40.850072,0 -8.213991999999999,40.850426,0 -8.213986999999999,40.850873,0 -8.215797999999999,40.850885,0 -8.216467,40.851055,0 -8.217537,40.851641,0 -8.217535,40.851798,0 -8.217826000000001,40.8518,0 -8.218715,40.852287,0 -8.218711000000001,40.852706,0 -8.219492000000001,40.852712,0 -8.219894,40.852932,0 -8.219886000000001,40.853615,0 -8.2187,40.853607,0 -8.218688999999999,40.854508,0 -8.219875999999999,40.854516,0 -8.219855000000001,40.856318,0 -8.222227,40.856334,0 \r\n\t\t\t\t\t</coordinates>\r\n\t\t\t\t</LinearRing>\r\n\t\t\t</outerBoundaryIs>\r\n\t\t</Polygon>\r\n\t\t<atom:link rel=\"app\" href=\"https://www.google.com/earth/about/versions/#earth-pro\" title=\"Google Earth Pro 7.3.7.1155\"></atom:link>\r\n\t</Placemark>\r\n\n  <ScreenOverlay>\n    <name>VOST Portugal</name>\n    <Icon><href>https://fireye.vost.pt/img/watermark-vostpt.svg</href></Icon>\n    <overlayXY x=\"1\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <screenXY x=\"0.99\" y=\"0.02\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <rotationXY x=\"0\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n    <size x=\"0.18\" y=\"0\" xunits=\"fraction\" yunits=\"fraction\"/>\n  </ScreenOverlay>\n</Document>\r\n</kml>",
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1210669,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210669,
-        "stationLocation": "Arouca",
-        "stationDistance": 7.2,
-        "temperatura": 23.1,
-        "humidade": 77,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0.1,
-        "radiacao": 433.1,
-        "pressao": null,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787000420
-      },
-      "updated": {
-        "sec": 1787508605
+        "sec": 1787510702
       }
     },
     {
@@ -1171,82 +1089,6 @@
     },
     {
       "_id": {
-        "$id": "20261199067"
-      },
-      "id": "20261199067",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787482320
-      },
-      "date": "23-08-2026",
-      "hour": "11:52",
-      "location": "Vila Real, Boticas, Covas Do Barroso",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Boticas",
-      "freguesia": "Covas Do Barroso",
-      "dico": "1702",
-      "lat": 41.666117,
-      "lng": -7.797085,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Vilar E Viveiro Bosto Frio",
-      "active": true,
-      "sadoId": "20261199067",
-      "sharepointId": 20261199067,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "BOSTO FRIO (Ferreiro)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210611,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210611,
-        "stationLocation": "Montalegre",
-        "stationDistance": 17.4,
-        "temperatura": 23.6,
-        "humidade": 32,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 463.2,
-        "pressao": null,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787482917
-      },
-      "updated": {
-        "sec": 1787500202
-      }
-    },
-    {
-      "_id": {
         "$id": "20261199245"
       },
       "id": "20261199245",
@@ -1405,82 +1247,6 @@
     },
     {
       "_id": {
-        "$id": "20261199553"
-      },
-      "id": "20261199553",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787488620
-      },
-      "date": "23-08-2026",
-      "hour": "13:37",
-      "location": "Porto, Lousada, Cernadelo E Lousada (São Miguel E Santa Margarida)",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Porto",
-      "concelho": "Lousada",
-      "freguesia": "Cernadelo E Lousada (São Miguel E Santa Margarida)",
-      "dico": "1305",
-      "lat": 41.30335,
-      "lng": -8.243585,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "São Miguel Lugar Do Monte",
-      "active": true,
-      "sadoId": "20261199553",
-      "sharepointId": 20261199553,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Lugar do Monte (Portela)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210643,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210643,
-        "stationLocation": "Paços Ferreira",
-        "stationDistance": 11.9,
-        "temperatura": 23.9,
-        "humidade": 62,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787489104
-      },
-      "updated": {
-        "sec": 1787497320
-      }
-    },
-    {
-      "_id": {
         "$id": "20261199550"
       },
       "id": "20261199550",
@@ -1633,82 +1399,6 @@
     },
     {
       "_id": {
-        "$id": "20261199664"
-      },
-      "id": "20261199664",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787490000
-      },
-      "date": "23-08-2026",
-      "hour": "14:00",
-      "location": "Vila Real, Chaves, Eiras, São Julião De Montenegro E Cela",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Eiras, São Julião De Montenegro E Cela",
-      "dico": "1703",
-      "lat": 41.705897,
-      "lng": -7.39477,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Mosteiro De Cima       Mosteiro De Cima",
-      "active": true,
-      "sadoId": "20261199664",
-      "sharepointId": 20261199664,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "MOSTEIRO DE CIMA",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "stationDistance": 6.2,
-        "temperatura": 29.8,
-        "humidade": 23,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": 245.1,
-        "pressao": 1008,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787490605
-      },
-      "updated": {
-        "sec": 1787507105
-      }
-    },
-    {
-      "_id": {
         "$id": "20261199785"
       },
       "id": "20261199785",
@@ -1733,9 +1423,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias De Louredo E Fornelos Fornelos",
       "active": true,
@@ -1780,7 +1470,7 @@
         "sec": 1787491922
       },
       "updated": {
-        "sec": 1787506803
+        "sec": 1787509203
       }
     },
     {
@@ -1797,8 +1487,8 @@
       "location": "Castelo Branco, Fundão, Pêro Viseu",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 11,
+      "man": 5,
+      "terrain": 1,
       "district": "Castelo Branco",
       "concelho": "Fundão",
       "freguesia": "Pêro Viseu",
@@ -1856,7 +1546,7 @@
         "sec": 1787496004
       },
       "updated": {
-        "sec": 1787508903
+        "sec": 1787511003
       }
     },
     {
@@ -1873,8 +1563,8 @@
       "location": "Braga, Cabeceiras de Basto, Cabeceiras De Basto",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Braga",
       "concelho": "Cabeceiras De Basto",
       "freguesia": "Cabeceiras De Basto",
@@ -1932,7 +1622,7 @@
         "sec": 1787496606
       },
       "updated": {
-        "sec": 1787508605
+        "sec": 1787511003
       }
     },
     {
@@ -1949,8 +1639,8 @@
       "location": "Aveiro, Aveiro, Eixo E Eirol",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
+      "man": 14,
+      "terrain": 4,
       "district": "Aveiro",
       "concelho": "Aveiro",
       "freguesia": "Eixo E Eirol",
@@ -2008,231 +1698,7 @@
         "sec": 1787500930
       },
       "updated": {
-        "sec": 1787504103
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261200564"
-      },
-      "id": "20261200564",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787502720
-      },
-      "date": "23-08-2026",
-      "hour": "17:32",
-      "location": "Vila Real, Chaves, Calvão E Soutelinho Da Raia",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Vila Real",
-      "concelho": "Chaves",
-      "freguesia": "Calvão E Soutelinho Da Raia",
-      "dico": "1703",
-      "lat": 41.7938,
-      "lng": -7.54307,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "União Das Freguesias De Calvão E Soutelinho Da Raia Calvão",
-      "active": true,
-      "sadoId": "20261200564",
-      "sharepointId": 20261200564,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Calvão (Calvário)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210616,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210616,
-        "stationLocation": "Chaves (Aeródromo)",
-        "stationDistance": 10,
-        "temperatura": 29.8,
-        "humidade": 23,
-        "intensidadeVento": 2,
-        "intensidadeVentoKM": 7.2,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": 245.1,
-        "pressao": 1008,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787503505
-      },
-      "updated": {
-        "sec": 1787505903
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261200799"
-      },
-      "id": "20261200799",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787506440
-      },
-      "date": "23-08-2026",
-      "hour": "18:34",
-      "location": "Santarém, Abrantes, Abrantes (São Vicente E São João) E Alferrarede",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Abrantes",
-      "freguesia": "Abrantes (São Vicente E São João) E Alferrarede",
-      "dico": "1401",
-      "lat": 39.48647,
-      "lng": -8.208038,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Chainça Rua Dos Oleiros",
-      "active": true,
-      "sadoId": "20261200799",
-      "sharepointId": 20261200799,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210812,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210812,
-        "stationLocation": "Alvega",
-        "stationDistance": 13.7,
-        "temperatura": 24.5,
-        "humidade": 72,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 7,
-        "direccVento": "W",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787507105
-      },
-      "updated": {
-        "sec": 1787507703
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261200808"
-      },
-      "id": "20261200808",
-      "coords": true,
-      "dateTime": {
-        "sec": 1787506800
-      },
-      "date": "23-08-2026",
-      "hour": "18:40",
-      "location": "Porto, Paredes, Rebordosa",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Rebordosa",
-      "dico": "1310",
-      "lat": 41.21769,
-      "lng": -8.436025,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Rebordosa Rua Nova Do Serno",
-      "active": true,
-      "sadoId": "20261200808",
-      "sharepointId": 20261200808,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Rua Nova do Serno (Lama)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1210643,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210643,
-        "stationLocation": "Paços Ferreira",
-        "stationDistance": 7.8,
-        "temperatura": 23.9,
-        "humidade": 62,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-08-23T17:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1787507405
-      },
-      "updated": {
-        "sec": 1787507704
+        "sec": 1787509810
       }
     },
     {
@@ -2249,8 +1715,8 @@
       "location": "Aveiro, Águeda, Valongo Do Vouga",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
+      "man": 7,
+      "terrain": 2,
       "district": "Aveiro",
       "concelho": "Águeda",
       "freguesia": "Valongo Do Vouga",
@@ -2304,7 +1770,155 @@
         "sec": 1787507704
       },
       "updated": {
-        "sec": 1787508605
+        "sec": 1787509506
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261200910"
+      },
+      "id": "20261200910",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787508480
+      },
+      "date": "23-08-2026",
+      "hour": "19:08",
+      "location": "Aveiro, Estarreja, Canelas E Fermelã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Estarreja",
+      "freguesia": "Canelas E Fermelã",
+      "dico": "0108",
+      "lat": 40.718595,
+      "lng": -8.559213,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Canelas Rua Das Cavadas",
+      "active": true,
+      "sadoId": "20261200910",
+      "sharepointId": 20261200910,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 12.5,
+        "temperatura": 22.2,
+        "humidade": 86,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 5.6,
+        "radiacao": 360.1,
+        "pressao": 1011.3,
+        "date": "2026-08-23T17:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787509203
+      },
+      "updated": {
+        "sec": 1787510703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261200921"
+      },
+      "id": "20261200921",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787508900
+      },
+      "date": "23-08-2026",
+      "hour": "19:15",
+      "location": "Aveiro, Aveiro, Requeixo, Nossa Senhora De Fátima E Nariz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Requeixo, Nossa Senhora De Fátima E Nariz",
+      "dico": "0105",
+      "lat": 40.573341,
+      "lng": -8.591337,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Póvoa Do Valado Póvoa Do Valado",
+      "active": true,
+      "sadoId": "20261200921",
+      "sharepointId": 20261200921,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Póvoa do Valado",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 9,
+        "temperatura": 22.2,
+        "humidade": 86,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 5.6,
+        "radiacao": 360.1,
+        "pressao": 1011.3,
+        "date": "2026-08-23T17:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787509356
+      },
+      "updated": {
+        "sec": 1787510104
       }
     }
   ]
