@@ -735,9 +735,9 @@
       "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Bocal De Baixo        Bocal De Baixo",
       "active": true,
@@ -782,7 +782,83 @@
         "sec": 1787568305
       },
       "updated": {
-        "sec": 1787569504
+        "sec": 1787570103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261204282"
+      },
+      "id": "20261204282",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787570820
+      },
+      "date": "24-08-2026",
+      "hour": "12:27",
+      "location": "Guarda, Guarda, Maçainhas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Guarda",
+      "freguesia": "Maçainhas",
+      "dico": "0907",
+      "lat": 40.546943,
+      "lng": -7.299692,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Gulifar Reta Gulifar",
+      "active": true,
+      "sadoId": "20261204282",
+      "sharepointId": 20261204282,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Autarquias"
+      },
+      "detailLocation": "Reta Gulifar (Gulifar)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210683,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210683,
+        "stationLocation": "Guarda",
+        "stationDistance": 3.2,
+        "temperatura": 13.8,
+        "humidade": 100,
+        "intensidadeVento": 6.6,
+        "intensidadeVentoKM": 23.8,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 2318.6,
+        "pressao": 1011,
+        "date": "2026-08-24T10:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787571304
+      },
+      "updated": {
+        "sec": 1787571906
       }
     }
   ]
