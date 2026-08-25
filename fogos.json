@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 16.4,
-        "humidade": 84,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
+        "temperatura": 15.8,
+        "humidade": 88,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T03:00:00.000000Z"
+        "date": "2026-08-25T04:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 17.3,
-        "humidade": 81,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 16.9,
+        "humidade": 83,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T03:00:00.000000Z"
+        "date": "2026-08-25T04:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -235,16 +235,16 @@
         "stationId": 1210612,
         "stationLocation": "Vinhais",
         "stationDistance": 11.9,
-        "temperatura": 15.1,
+        "temperatura": 15,
         "humidade": 100,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-25T03:00:00.000000Z"
+        "date": "2026-08-25T04:00:00.000000Z"
       },
       "created": {
         "sec": 1786765902
@@ -317,16 +317,16 @@
         "stationId": 1210812,
         "stationLocation": "Alvega",
         "stationDistance": 6.7,
-        "temperatura": 17.7,
+        "temperatura": 17.3,
         "humidade": 99,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-25T03:00:00.000000Z"
+        "date": "2026-08-25T04:00:00.000000Z"
       },
       "created": {
         "sec": 1787408104
@@ -393,22 +393,94 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 12.2,
-        "temperatura": 19.6,
-        "humidade": 74,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
+        "temperatura": 19.5,
+        "humidade": 75,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T03:00:00.000000Z"
+        "date": "2026-08-25T04:00:00.000000Z"
       },
       "created": {
         "sec": 1787419317
       },
       "updated": {
         "sec": 1787559602
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261207708"
+      },
+      "id": "20261207708",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787633340
+      },
+      "date": "25-08-2026",
+      "hour": "05:49",
+      "location": "Porto, Vila do Conde, Vila Do Conde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Do Conde",
+      "freguesia": "Vila Do Conde",
+      "dico": "1316",
+      "lat": 41.359468,
+      "lng": -8.745714,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Rua Das Mós",
+      "active": true,
+      "sadoId": "20261207708",
+      "sharepointId": 20261207708,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 15,
+        "temperatura": 19.1,
+        "humidade": 97,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": 1014.3,
+        "date": "2026-08-25T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787633703
+      },
+      "updated": {
+        "sec": 1787634617
       }
     }
   ]
