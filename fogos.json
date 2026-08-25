@@ -69,15 +69,15 @@
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
         "temperatura": 16.4,
-        "humidade": 93,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "humidade": 88,
+        "intensidadeVento": 0.3,
+        "intensidadeVentoKM": 1.1,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 2.2,
         "pressao": null,
-        "date": "2026-08-25T05:00:00.000000Z"
+        "date": "2026-08-25T06:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 17.2,
-        "humidade": 79,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
+        "temperatura": 17,
+        "humidade": 81,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 2.4,
         "pressao": null,
-        "date": "2026-08-25T05:00:00.000000Z"
+        "date": "2026-08-25T06:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -235,16 +235,16 @@
         "stationId": 1210612,
         "stationLocation": "Vinhais",
         "stationDistance": 11.9,
-        "temperatura": 14.9,
+        "temperatura": 14.8,
         "humidade": 100,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-25T05:00:00.000000Z"
+        "date": "2026-08-25T06:00:00.000000Z"
       },
       "created": {
         "sec": 1786765902
@@ -317,16 +317,16 @@
         "stationId": 1210812,
         "stationLocation": "Alvega",
         "stationDistance": 6.7,
-        "temperatura": 17.4,
+        "temperatura": 17.9,
         "humidade": 99,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-08-25T05:00:00.000000Z"
+        "date": "2026-08-25T06:00:00.000000Z"
       },
       "created": {
         "sec": 1787408104
@@ -393,22 +393,94 @@
         "stationId": 1210632,
         "stationLocation": "Mirandela",
         "stationDistance": 12.2,
-        "temperatura": 19.3,
+        "temperatura": 19.1,
         "humidade": 76,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 4.5,
         "pressao": null,
-        "date": "2026-08-25T05:00:00.000000Z"
+        "date": "2026-08-25T06:00:00.000000Z"
       },
       "created": {
         "sec": 1787419317
       },
       "updated": {
         "sec": 1787559602
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261207889"
+      },
+      "id": "20261207889",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787640240
+      },
+      "date": "25-08-2026",
+      "hour": "07:44",
+      "location": "Faro, Faro, Estoi",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Faro",
+      "freguesia": "Estoi",
+      "dico": "0805",
+      "lat": 37.1101,
+      "lng": -7.857371,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Conceição E Estoi M1312",
+      "active": true,
+      "sadoId": "20261207889",
+      "sharepointId": 20261207889,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210881,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210881,
+        "stationLocation": "Olhão, EPPO",
+        "stationDistance": 9.2,
+        "temperatura": 17.4,
+        "humidade": 93,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1016.9,
+        "date": "2026-08-25T06:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787640903
+      },
+      "updated": {
+        "sec": 1787642402
       }
     }
   ]
