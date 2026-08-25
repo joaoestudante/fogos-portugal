@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 22.5,
-        "humidade": 49,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 20.4,
+        "humidade": 60,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": 160.6,
+        "radiacao": 2.3,
         "pressao": null,
-        "date": "2026-08-25T19:00:00.000000Z"
+        "date": "2026-08-25T20:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 23.1,
-        "humidade": 49,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 21.4,
+        "humidade": 57,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 230.8,
+        "radiacao": 2.9,
         "pressao": null,
-        "date": "2026-08-25T19:00:00.000000Z"
+        "date": "2026-08-25T20:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -173,42 +173,46 @@
     },
     {
       "_id": {
-        "$id": "20261211594"
+        "$id": "20261211912"
       },
-      "id": "20261211594",
+      "id": "20261211912",
       "coords": true,
       "dateTime": {
-        "sec": 1787684460
+        "sec": 1787691000
       },
       "date": "25-08-2026",
-      "hour": "20:01",
-      "location": "Bragança, Bragança, Coelhoso",
+      "hour": "21:50",
+      "location": "Portalegre, Campo Maior, São João Baptista",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Bragança",
-      "concelho": "Bragança",
-      "freguesia": "Coelhoso",
-      "dico": "0402",
-      "lat": 41.642312,
-      "lng": -6.673932,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 5,
+      "terrain": 1,
+      "district": "Portalegre",
+      "concelho": "Campo Maior",
+      "freguesia": "São João Baptista",
+      "dico": "1204",
+      "lat": 39.057794,
+      "lng": -7.032106,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Coelhoso  ---",
+      "localidade": "Monte Dos Sanguinos  ---",
       "active": true,
-      "sadoId": "20261211594",
-      "sharepointId": 20261211594,
+      "sadoId": "20261211912",
+      "sharepointId": 20261211912,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Monte dos Sanguinos (Ribeiro de Xévora)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -217,30 +221,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "nearestWeatherStationId": 1210633,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "nearestWeatherStationId": 1210835,
       "isFire": true,
       "weather": {
-        "stationId": 1210633,
-        "stationLocation": "Macedo Cavaleiros, Bagueixe",
-        "stationDistance": 12.4,
-        "temperatura": 20.5,
-        "humidade": 64,
-        "intensidadeVento": 3.3,
-        "intensidadeVentoKM": 11.9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "stationId": 1210835,
+        "stationLocation": "Elvas",
+        "stationDistance": 20.8,
+        "temperatura": 25.1,
+        "humidade": 42,
+        "intensidadeVento": 4.3,
+        "intensidadeVentoKM": 15.5,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1012.3,
-        "date": "2026-08-25T19:00:00.000000Z"
+        "radiacao": 0.6,
+        "pressao": null,
+        "date": "2026-08-25T20:00:00.000000Z"
       },
       "created": {
-        "sec": 1787686503
+        "sec": 1787691620
       },
       "updated": {
-        "sec": 1787687405
+        "sec": 1787691675
       }
     }
   ]
