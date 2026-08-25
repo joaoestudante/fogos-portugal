@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 18.3,
-        "humidade": 68,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
+        "temperatura": 17.2,
+        "humidade": 73,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T21:00:00.000000Z"
+        "date": "2026-08-25T22:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 20.1,
-        "humidade": 67,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
+        "temperatura": 19.5,
+        "humidade": 71,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T21:00:00.000000Z"
+        "date": "2026-08-25T22:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -208,6 +208,12 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 4,
+          "mato": 0,
+          "total": 4
+        },
         "altitude": 0,
         "agricola": true,
         "fontealerta": "GNR"
@@ -229,22 +235,22 @@
         "stationId": 1210835,
         "stationLocation": "Elvas",
         "stationDistance": 21.6,
-        "temperatura": 24,
-        "humidade": 46,
-        "intensidadeVento": 4.2,
-        "intensidadeVentoKM": 15.1,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 22.8,
+        "humidade": 53,
+        "intensidadeVento": 4.4,
+        "intensidadeVentoKM": 15.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-25T21:00:00.000000Z"
+        "date": "2026-08-25T22:00:00.000000Z"
       },
       "created": {
         "sec": 1787691620
       },
       "updated": {
-        "sec": 1787697302
+        "sec": 1787698869
       }
     },
     {
@@ -261,21 +267,21 @@
       "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 4,
+      "man": 0,
+      "terrain": 0,
       "district": "Santarém",
       "concelho": "Santarém",
       "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
       "dico": "1416",
-      "lat": 39.19091,
-      "lng": -8.68483,
+      "lat": 39.191575,
+      "lng": -8.685732,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "União Das Freguesias Da Cidade De Santarém Rua De Marvila 25, 2000-476 Santarém, Portugal",
       "active": true,
@@ -283,8 +289,12 @@
       "sharepointId": 20261212191,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Marvila 25. 2000-476 Santarém. Portugal (Caneiras)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -300,23 +310,23 @@
       "weather": {
         "stationId": 1210734,
         "stationLocation": "Santarém, Fonte Boa",
-        "stationDistance": 4.6,
-        "temperatura": 20.7,
-        "humidade": 74,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "stationDistance": 4.5,
+        "temperatura": 19.8,
+        "humidade": 79,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1014.6,
-        "date": "2026-08-25T21:00:00.000000Z"
+        "pressao": 1014.8,
+        "date": "2026-08-25T22:00:00.000000Z"
       },
       "created": {
         "sec": 1787697605
       },
       "updated": {
-        "sec": 1787698205
+        "sec": 1787700003
       }
     }
   ]
