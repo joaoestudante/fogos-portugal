@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 14.3,
-        "humidade": 95,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 14.2,
+        "humidade": 96,
+        "intensidadeVento": 0.3,
+        "intensidadeVentoKM": 1.1,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
-        "radiacao": 1.7,
+        "radiacao": 167,
         "pressao": null,
-        "date": "2026-08-26T06:00:00.000000Z"
+        "date": "2026-08-26T07:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 15.6,
-        "humidade": 88,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
-        "idDireccVento": 7,
-        "direccVento": "W",
+        "temperatura": 15.1,
+        "humidade": 87,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 1.7,
+        "radiacao": 181.1,
         "pressao": null,
-        "date": "2026-08-26T06:00:00.000000Z"
+        "date": "2026-08-26T07:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -185,8 +185,8 @@
       "location": "Beja, Cuba, Faro Do Alentejo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 2,
+      "man": 0,
+      "terrain": 0,
       "district": "Beja",
       "concelho": "Cuba",
       "freguesia": "Faro Do Alentejo",
@@ -229,22 +229,98 @@
         "stationId": 1200562,
         "stationLocation": "Beja",
         "stationDistance": 15.3,
-        "temperatura": 17.9,
-        "humidade": 98,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 18.1,
+        "humidade": 99,
+        "intensidadeVento": 3.4,
+        "intensidadeVentoKM": 12.2,
         "idDireccVento": 5,
         "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 0.6,
-        "pressao": 1012.4,
-        "date": "2026-08-26T06:00:00.000000Z"
+        "radiacao": 204.2,
+        "pressao": 1012.6,
+        "date": "2026-08-26T07:00:00.000000Z"
       },
       "created": {
         "sec": 1787721705
       },
       "updated": {
-        "sec": 1787727679
+        "sec": 1787731222
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261212946"
+      },
+      "id": "20261212946",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787728260
+      },
+      "date": "26-08-2026",
+      "hour": "08:11",
+      "location": "Guarda, Figueira de Castelo Rodrigo, Escalhão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 22,
+      "terrain": 5,
+      "district": "Guarda",
+      "concelho": "Figueira De Castelo Rodrigo",
+      "freguesia": "Escalhão",
+      "dico": "0904",
+      "lat": 40.959785,
+      "lng": -6.910987,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Escalhão Escalhão",
+      "active": true,
+      "sadoId": "20261212946",
+      "sharepointId": 20261212946,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "ESCALHÃO (ER221 (ER221) Km 124)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210671,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210671,
+        "stationLocation": "F. Castelo Rodrigo, V.Torpim",
+        "stationDistance": 23.4,
+        "temperatura": 15.7,
+        "humidade": 89,
+        "intensidadeVento": 3.4,
+        "intensidadeVentoKM": 12.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 186.6,
+        "pressao": null,
+        "date": "2026-08-26T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787728803
+      },
+      "updated": {
+        "sec": 1787730905
       }
     }
   ]
