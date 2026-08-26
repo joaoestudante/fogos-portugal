@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 14.2,
-        "humidade": 96,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 16.1,
+        "humidade": 90,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
-        "radiacao": 167,
+        "radiacao": 504.4,
         "pressao": null,
-        "date": "2026-08-26T07:00:00.000000Z"
+        "date": "2026-08-26T08:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,16 +153,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 15.1,
-        "humidade": 87,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "temperatura": 17.1,
+        "humidade": 76,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 181.1,
+        "radiacao": 326.9,
         "pressao": null,
-        "date": "2026-08-26T07:00:00.000000Z"
+        "date": "2026-08-26T08:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
@@ -229,22 +229,80 @@
         "stationId": 1210671,
         "stationLocation": "F. Castelo Rodrigo, V.Torpim",
         "stationDistance": 23.4,
-        "temperatura": 15.7,
-        "humidade": 89,
-        "intensidadeVento": 3.4,
-        "intensidadeVentoKM": 12.2,
+        "temperatura": 16.6,
+        "humidade": 84,
+        "intensidadeVento": 5.5,
+        "intensidadeVentoKM": 19.8,
         "idDireccVento": 5,
         "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 186.6,
+        "radiacao": 409.4,
         "pressao": null,
-        "date": "2026-08-26T07:00:00.000000Z"
+        "date": "2026-08-26T08:00:00.000000Z"
       },
       "created": {
         "sec": 1787728803
       },
       "updated": {
         "sec": 1787733604
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261213559"
+      },
+      "id": "20261213559",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787734860
+      },
+      "date": "26-08-2026",
+      "hour": "10:01",
+      "location": "Viseu, Vouzela, Vouzela E Paços De Vilharigues",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Vouzela",
+      "freguesia": "Vouzela E Paços De Vilharigues",
+      "dico": "1824",
+      "lat": 40.70432,
+      "lng": -8.111682,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Penoita  ---",
+      "active": true,
+      "sadoId": "20261213559",
+      "sharepointId": 20261213559,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213024,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1787735405
+      },
+      "updated": {
+        "sec": 1787736304
       }
     }
   ]
