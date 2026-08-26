@@ -185,8 +185,8 @@
       "location": "Faro, Albufeira, Guia",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 3,
+      "man": 4,
+      "terrain": 1,
       "district": "Faro",
       "concelho": "Albufeira",
       "freguesia": "Guia",
@@ -197,9 +197,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
       "localidade": "Guia Latlong(37.13038058,-8.30027157) - Rua Do Emigrante 45, 8200-440 Albufeira, Portugal",
       "active": true,
@@ -240,7 +240,137 @@
         "sec": 1787719920
       },
       "updated": {
-        "sec": 1787720106
+        "sec": 1787721905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261212706"
+      },
+      "id": "20261212706",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787721120
+      },
+      "date": "26-08-2026",
+      "hour": "06:12",
+      "location": "Beja, Cuba, Faro Do Alentejo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
+      "district": "Beja",
+      "concelho": "Cuba",
+      "freguesia": "Faro Do Alentejo",
+      "dico": "0207",
+      "lat": 38.144589,
+      "lng": -7.959181,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "En 387 Peroguarda En 387 Peroguarda",
+      "active": true,
+      "sadoId": "20261212706",
+      "sharepointId": 20261212706,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 15.5,
+        "temperatura": 17.9,
+        "humidade": 97,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1012.8,
+        "date": "2026-08-26T04:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787721705
+      },
+      "updated": {
+        "sec": 1787722502
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261212709"
+      },
+      "id": "20261212709",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787721480
+      },
+      "date": "26-08-2026",
+      "hour": "06:18",
+      "location": "Setúbal, Palmela, Pinhal Novo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Pinhal Novo",
+      "dico": "1508",
+      "lat": 38.63844,
+      "lng": -8.89498,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pinhal Novo Rua Do Pinhal Da Salgueirinha, 2955 Palmela, Portugal",
+      "active": true,
+      "sadoId": "20261212709",
+      "sharepointId": 20261212709,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1240929,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1787722336
+      },
+      "updated": {
+        "sec": 1787722502
       }
     }
   ]
