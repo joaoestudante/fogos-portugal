@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 14.9,
-        "humidade": 85,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 14.7,
+        "humidade": 89,
+        "intensidadeVento": 0.3,
+        "intensidadeVentoKM": 1.1,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-26T03:00:00.000000Z"
+        "date": "2026-08-26T04:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,22 +153,94 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 16.5,
-        "humidade": 85,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 16.3,
+        "humidade": 86,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-08-26T03:00:00.000000Z"
+        "date": "2026-08-26T04:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
       },
       "updated": {
         "sec": 1787601305
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261212660"
+      },
+      "id": "20261212660",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787719020
+      },
+      "date": "26-08-2026",
+      "hour": "05:37",
+      "location": "Faro, Albufeira, Guia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Albufeira",
+      "freguesia": "Guia",
+      "dico": "0801",
+      "lat": 37.13038,
+      "lng": -8.300272,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Guia Latlong(37.13038058,-8.30027157) - Rua Do Emigrante 45, 8200-440 Albufeira, Portugal",
+      "active": true,
+      "sadoId": "20261212660",
+      "sharepointId": 20261212660,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210874,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210874,
+        "stationLocation": "Albufeira",
+        "stationDistance": 5.3,
+        "temperatura": 19,
+        "humidade": 82,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-08-26T01:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787719920
+      },
+      "updated": {
+        "sec": 1787720106
       }
     }
   ]
