@@ -68,16 +68,16 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 4.6,
-        "temperatura": 17.7,
-        "humidade": 85,
-        "intensidadeVento": 1.8,
-        "intensidadeVentoKM": 6.5,
+        "temperatura": 17.8,
+        "humidade": 89,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
         "idDireccVento": 5,
         "direccVento": "S",
-        "precAcumulada": 0.4,
-        "radiacao": 787.4,
+        "precAcumulada": 2.8,
+        "radiacao": 561.6,
         "pressao": null,
-        "date": "2026-08-26T12:00:00.000000Z"
+        "date": "2026-08-26T13:00:00.000000Z"
       },
       "created": {
         "sec": 1776951136
@@ -153,22 +153,176 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 4.7,
-        "temperatura": 19.5,
-        "humidade": 78,
-        "intensidadeVento": 3.1,
-        "intensidadeVentoKM": 11.2,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0.3,
-        "radiacao": 1718.9,
+        "temperatura": 20.3,
+        "humidade": 72,
+        "intensidadeVento": 4.5,
+        "intensidadeVentoKM": 16.2,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0.4,
+        "radiacao": 1837.4,
         "pressao": null,
-        "date": "2026-08-26T12:00:00.000000Z"
+        "date": "2026-08-26T13:00:00.000000Z"
       },
       "created": {
         "sec": 1783400489
       },
       "updated": {
         "sec": 1787601305
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261162792"
+      },
+      "id": "20261162792",
+      "coords": true,
+      "dateTime": {
+        "sec": 1786891740
+      },
+      "date": "16-08-2026",
+      "hour": "15:49",
+      "location": "Porto, Vila Nova de Gaia, Lever",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Lever",
+      "dico": "1317",
+      "lat": 41.063601,
+      "lng": -8.476953,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Lever Costouras",
+      "active": true,
+      "sadoId": "20261162792",
+      "sharepointId": 20261162792,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.22,
+          "total": 0.22
+        },
+        "altitude": 73.5856,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Costouras (Rua Aguincheiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 13.4,
+        "temperatura": 20.5,
+        "humidade": 100,
+        "intensidadeVento": 3.7,
+        "intensidadeVentoKM": 13.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-08-26T13:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1786892422
+      },
+      "updated": {
+        "sec": 1787752837
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261214921"
+      },
+      "id": "20261214921",
+      "coords": true,
+      "dateTime": {
+        "sec": 1787751240
+      },
+      "date": "26-08-2026",
+      "hour": "14:34",
+      "location": "Faro, Olhão, Quelfes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Olhão",
+      "freguesia": "Quelfes",
+      "dico": "0810",
+      "lat": 37.04679,
+      "lng": -7.84436,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Quelfes Variante De Olhão",
+      "active": true,
+      "sadoId": "20261214921",
+      "sharepointId": 20261214921,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210881,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210881,
+        "stationLocation": "Olhão, EPPO",
+        "stationDistance": 2.6,
+        "temperatura": 24.7,
+        "humidade": 75,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1014.9,
+        "date": "2026-08-26T11:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1787751905
+      },
+      "updated": {
+        "sec": 1787752837
       }
     }
   ]
