@@ -15,8 +15,8 @@
       "location": "Bragança, Mirandela, Abreiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 13,
-      "terrain": 5,
+      "man": 3,
+      "terrain": 2,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Abreiro",
@@ -38,7 +38,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 234.367,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -59,22 +59,22 @@
         "stationId": 1210644,
         "stationLocation": "Carrazêda de Ansiães",
         "stationDistance": 12.9,
-        "temperatura": 13.5,
-        "humidade": 93,
-        "intensidadeVento": 0.2,
-        "intensidadeVentoKM": 0.7,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 11.2,
+        "humidade": 99,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 176.2,
         "pressao": null,
-        "date": "2026-09-02T03:00:00.000000Z"
+        "date": "2026-09-02T07:00:00.000000Z"
       },
       "created": {
         "sec": 1788257704
       },
       "updated": {
-        "sec": 1788305102
+        "sec": 1788333004
       }
     },
     {
@@ -120,7 +120,7 @@
           "mato": 3,
           "total": 3
         },
-        "altitude": 0,
+        "altitude": 19.4144,
         "incendio": true,
         "fontealerta": "112"
       },
@@ -142,7 +142,7 @@
         "sec": 1788270905
       },
       "updated": {
-        "sec": 1788304203
+        "sec": 1788329655
       }
     },
     {
@@ -159,8 +159,8 @@
       "location": "Coimbra, Penacova, Friúmes E Paradela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 65,
-      "terrain": 17,
+      "man": 58,
+      "terrain": 15,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Friúmes E Paradela",
@@ -182,7 +182,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 135.538,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -204,7 +204,7 @@
         "stationLocation": "Penacova / Hombres (CIM)",
         "stationDistance": 5.3,
         "temperatura": null,
-        "humidade": 96,
+        "humidade": 99,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -212,13 +212,89 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-02T03:00:00.000000Z"
+        "date": "2026-09-02T07:00:00.000000Z"
       },
       "created": {
         "sec": 1788279332
       },
       "updated": {
-        "sec": 1788315604
+        "sec": 1788337505
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261245850"
+      },
+      "id": "20261245850",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788334560
+      },
+      "date": "02-09-2026",
+      "hour": "08:36",
+      "location": "Lisboa, Sintra, Cacém E São Marcos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "Cacém E São Marcos",
+      "dico": "1111",
+      "lat": 38.76506,
+      "lng": -9.299122,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias Do Cacém E São Marcos (Fa) São Marcos",
+      "active": true,
+      "sadoId": "20261245850",
+      "sharepointId": 20261245850,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "São Marcos (IC19 (IC19) Km 10)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 6215360,
+      "isFire": true,
+      "weather": {
+        "stationId": 6215360,
+        "stationLocation": "Oeiras / Vila Fria (CMO)",
+        "stationDistance": 4.6,
+        "temperatura": 17.1,
+        "humidade": 90,
+        "intensidadeVento": 3.6,
+        "intensidadeVentoKM": 13,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 129.2,
+        "pressao": 1019.5,
+        "date": "2026-09-02T07:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788335502
+      },
+      "updated": {
+        "sec": 1788336604
       }
     }
   ]
