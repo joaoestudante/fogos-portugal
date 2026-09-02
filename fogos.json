@@ -15,8 +15,8 @@
       "location": "Bragança, Mirandela, Abreiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 29,
-      "terrain": 12,
+      "man": 13,
+      "terrain": 5,
       "district": "Bragança",
       "concelho": "Mirandela",
       "freguesia": "Abreiro",
@@ -59,22 +59,22 @@
         "stationId": 1210644,
         "stationLocation": "Carrazêda de Ansiães",
         "stationDistance": 12.9,
-        "temperatura": 20.6,
-        "humidade": 64,
-        "intensidadeVento": 2.4,
-        "intensidadeVentoKM": 8.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 17.4,
+        "humidade": 76,
+        "intensidadeVento": 0.2,
+        "intensidadeVentoKM": 0.7,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-01T21:00:00.000000Z"
+        "date": "2026-09-01T23:00:00.000000Z"
       },
       "created": {
         "sec": 1788257704
       },
       "updated": {
-        "sec": 1788300302
+        "sec": 1788305102
       }
     },
     {
@@ -91,8 +91,8 @@
       "location": "Setúbal, Setúbal, Setúbal (São Sebastião)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 8,
+      "man": 7,
+      "terrain": 2,
       "district": "Setúbal",
       "concelho": "Setúbal",
       "freguesia": "Setúbal (São Sebastião)",
@@ -114,8 +114,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 3,
+          "total": 3
+        },
         "altitude": 0,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Avenida Emídio Graça. 2910 Setúbal. Portugal (Cabeço da Bolota)",
@@ -136,7 +142,7 @@
         "sec": 1788270905
       },
       "updated": {
-        "sec": 1788297902
+        "sec": 1788304203
       }
     },
     {
@@ -153,8 +159,8 @@
       "location": "Coimbra, Penacova, Friúmes E Paradela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 172,
-      "terrain": 46,
+      "man": 109,
+      "terrain": 29,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Friúmes E Paradela",
@@ -198,7 +204,7 @@
         "stationLocation": "Penacova / Hombres (CIM)",
         "stationDistance": 5.3,
         "temperatura": null,
-        "humidade": 79,
+        "humidade": 88,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -206,85 +212,13 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-01T21:00:00.000000Z"
+        "date": "2026-09-01T23:00:00.000000Z"
       },
       "created": {
         "sec": 1788279332
       },
       "updated": {
-        "sec": 1788300302
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261244742"
-      },
-      "id": "20261244742",
-      "coords": true,
-      "dateTime": {
-        "sec": 1788296580
-      },
-      "date": "01-09-2026",
-      "hour": "22:03",
-      "location": "Setúbal, Montijo, Canha",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
-      "district": "Setúbal",
-      "concelho": "Montijo",
-      "freguesia": "Canha",
-      "dico": "1507",
-      "lat": 38.780887,
-      "lng": -8.692768,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Bairro De São Gabriel Rua Principal",
-      "active": true,
-      "sadoId": "20261244742",
-      "sharepointId": 20261244742,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 5210758,
-      "isFire": true,
-      "weather": {
-        "stationId": 5210758,
-        "stationLocation": "Alcochete / Campo Tiro",
-        "stationDistance": 8,
-        "temperatura": 18.9,
-        "humidade": 77,
-        "intensidadeVento": 3.5,
-        "intensidadeVentoKM": 12.6,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": 1021.6,
-        "date": "2026-09-01T21:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1788297604
-      },
-      "updated": {
-        "sec": 1788299128
+        "sec": 1788307505
       }
     }
   ]
