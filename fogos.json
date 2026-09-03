@@ -60,7 +60,7 @@
         "stationLocation": "Penacova / Hombres (CIM)",
         "stationDistance": 5.3,
         "temperatura": null,
-        "humidade": 84,
+        "humidade": 97,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -68,89 +68,13 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-02T23:00:00.000000Z"
+        "date": "2026-09-03T03:00:00.000000Z"
       },
       "created": {
         "sec": 1788279332
       },
       "updated": {
         "sec": 1788379808
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261249832"
-      },
-      "id": "20261249832",
-      "coords": true,
-      "dateTime": {
-        "sec": 1788386520
-      },
-      "date": "02-09-2026",
-      "hour": "23:02",
-      "location": "Braga, Guimarães, Atães E Rendufe",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Guimarães",
-      "freguesia": "Atães E Rendufe",
-      "dico": "0308",
-      "lat": 41.477737,
-      "lng": -8.222455,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Rendufe Rua Do Alto - Casas Novas",
-      "active": true,
-      "sadoId": "20261249832",
-      "sharepointId": 20261249832,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "Rua do Alto - Casas Novas (LISTOSO)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Ave",
-      "nearestWeatherStationId": 1210625,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210625,
-        "stationLocation": "Guimarães",
-        "stationDistance": 9.6,
-        "temperatura": 20.1,
-        "humidade": 76,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": 0,
-        "pressao": 1020.5,
-        "date": "2026-09-02T23:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1788386704
-      },
-      "updated": {
-        "sec": 1788393903
       }
     },
     {
@@ -167,8 +91,8 @@
       "location": "Coimbra, Tábua, Covas E Vila Nova De Oliveirinha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 22,
-      "terrain": 5,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Tábua",
       "freguesia": "Covas E Vila Nova De Oliveirinha",
@@ -190,11 +114,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.006,
+          "total": 0.006
+        },
+        "altitude": 349.508,
         "fogacho": true,
         "fontealerta": "Populares"
       },
-      "detailLocation": "Quinta da Barroca",
+      "detailLocation": "Quinta da Barroca (Outeiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -211,22 +141,22 @@
         "stationId": 6213611,
         "stationLocation": "Arganil / Aeródromo (CIM)",
         "stationDistance": 8.6,
-        "temperatura": 18.1,
-        "humidade": 88,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
+        "temperatura": 14.9,
+        "humidade": 97,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-02T23:00:00.000000Z"
+        "date": "2026-09-03T03:00:00.000000Z"
       },
       "created": {
         "sec": 1788391203
       },
       "updated": {
-        "sec": 1788393305
+        "sec": 1788404526
       }
     },
     {
@@ -243,21 +173,21 @@
       "location": "Leiria, Alcobaça, Pataias E Martingança",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 37,
-      "terrain": 13,
+      "man": 5,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Alcobaça",
       "freguesia": "Pataias E Martingança",
       "dico": "1001",
-      "lat": 39.67403,
-      "lng": -8.9861,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "lat": 39.676283,
+      "lng": -8.994773,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ferraria  Avenida Rainha Santa Isabel 30, 2445-205 Alcobaça, Portugal",
       "active": true,
@@ -266,11 +196,17 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "burnArea": {
+          "povoamento": 0.1166,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.1166
+        },
+        "altitude": 122.865,
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Avenida Rainha Santa Isabel 30. 2445-205 Alcobaça. Portugal (Cabrela)",
+      "detailLocation": "Avenida Rainha Santa Isabel 30. 2445-205 Alcobaça. Portugal (Mato Pinheiro)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -286,85 +222,23 @@
       "weather": {
         "stationId": 1210721,
         "stationLocation": "São Pedro de Moel",
-        "stationDistance": 10.7,
-        "temperatura": 17.2,
-        "humidade": 98,
+        "stationDistance": 10.2,
+        "temperatura": 17.8,
+        "humidade": 100,
         "intensidadeVento": 3.1,
         "intensidadeVentoKM": 11.2,
         "idDireccVento": 2,
         "direccVento": "NE",
-        "precAcumulada": 0,
+        "precAcumulada": 0.1,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-02T23:00:00.000000Z"
+        "date": "2026-09-03T03:00:00.000000Z"
       },
       "created": {
         "sec": 1788391312
       },
       "updated": {
-        "sec": 1788394520
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261250010"
-      },
-      "id": "20261250010",
-      "coords": true,
-      "dateTime": {
-        "sec": 1788391380
-      },
-      "date": "03-09-2026",
-      "hour": "00:23",
-      "location": "Lisboa, Amadora, Encosta Do Sol",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Lisboa",
-      "concelho": "Amadora",
-      "freguesia": "Encosta Do Sol",
-      "dico": "1115",
-      "lat": 38.76716,
-      "lng": -9.217491,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Encosta Do Sol R Fernando Pessoa",
-      "active": true,
-      "sadoId": "20261250010",
-      "sharepointId": 20261250010,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "R Fernando Pessoa (Rua Fernando Pessoa)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1240935,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1788391924
-      },
-      "updated": {
-        "sec": 1788394204
+        "sec": 1788404526
       }
     },
     {
@@ -381,8 +255,8 @@
       "location": "Leiria, Porto de Mós, Juncal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 19,
-      "terrain": 5,
+      "man": 5,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "Juncal",
@@ -393,9 +267,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 6,
-      "statusColor": "B81E1F",
-      "status": "Chegada ao TO",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Juncal Rua Do Bogalhal",
       "active": true,
@@ -403,8 +277,12 @@
       "sharepointId": 20261250060,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 142.909,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua do Bogalhal (JUNCAL)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -421,22 +299,22 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 11.4,
-        "temperatura": 17.8,
-        "humidade": 88,
-        "intensidadeVento": 0.4,
-        "intensidadeVentoKM": 1.4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 14.8,
+        "humidade": 91,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-02T23:00:00.000000Z"
+        "date": "2026-09-03T03:00:00.000000Z"
       },
       "created": {
         "sec": 1788393004
       },
       "updated": {
-        "sec": 1788394204
+        "sec": 1788404527
       }
     }
   ]
