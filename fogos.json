@@ -15,8 +15,8 @@
       "location": "Coimbra, Penacova, Friúmes E Paradela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 24,
+      "terrain": 6,
       "district": "Coimbra",
       "concelho": "Penacova",
       "freguesia": "Friúmes E Paradela",
@@ -60,7 +60,7 @@
         "stationLocation": "Penacova / Hombres (CIM)",
         "stationDistance": 5.3,
         "temperatura": null,
-        "humidade": 99,
+        "humidade": 42,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -68,109 +68,37 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-03T08:00:00.000000Z"
+        "date": "2026-09-03T12:00:00.000000Z"
       },
       "created": {
         "sec": 1788279332
       },
       "updated": {
-        "sec": 1788379808
+        "sec": 1788436504
       }
     },
     {
       "_id": {
-        "$id": "20261250769"
+        "$id": "20261251393"
       },
-      "id": "20261250769",
+      "id": "20261251393",
       "coords": true,
       "dateTime": {
-        "sec": 1788420480
+        "sec": 1788423840
       },
       "date": "03-09-2026",
-      "hour": "08:28",
-      "location": "Lisboa, Azambuja, Alcoentre",
+      "hour": "09:24",
+      "location": "Porto, Maia, Águas Santas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Azambuja",
-      "freguesia": "Alcoentre",
-      "dico": "1103",
-      "lat": 39.230412,
-      "lng": -8.984059,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Tagarro (fa) Montejunto",
-      "active": true,
-      "sadoId": "20261250769",
-      "sharepointId": 20261250769,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210729,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210729,
-        "stationLocation": "Rio Maior",
-        "stationDistance": 14,
-        "temperatura": 17.1,
-        "humidade": 89,
-        "intensidadeVento": 0.6,
-        "intensidadeVentoKM": 2.2,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 553.3,
-        "pressao": null,
-        "date": "2026-09-03T08:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1788421503
-      },
-      "updated": {
-        "sec": 1788423605
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261251137"
-      },
-      "id": "20261251137",
-      "coords": true,
-      "dateTime": {
-        "sec": 1788424260
-      },
-      "date": "03-09-2026",
-      "hour": "09:31",
-      "location": "Aveiro, Oliveira de Azeméis, Loureiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Aveiro",
-      "concelho": "Oliveira De Azeméis",
-      "freguesia": "Loureiro",
-      "dico": "0113",
-      "lat": 40.806773,
-      "lng": -8.537244,
+      "man": 0,
+      "terrain": 0,
+      "district": "Porto",
+      "concelho": "Maia",
+      "freguesia": "Águas Santas",
+      "dico": "1306",
+      "lat": 41.20075,
+      "lng": -8.58631,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -179,18 +107,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Loureiro Nova Arroz",
+      "localidade": "Águas Santas Rua Do Souto, 4425 Maia, Portugal",
       "active": true,
-      "sadoId": "20261251137",
-      "sharepointId": 20261251137,
+      "sadoId": "20261251393",
+      "sharepointId": 20261251393,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "CCO"
+        "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Nova Arroz (Chão de Além)",
+      "detailLocation": "Rua do Souto. 4425 Maia. Portugal (Rua das Cruzes)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -201,14 +129,256 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 6900,
+      "nearestWeatherStationId": 1210649,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210649,
+        "stationLocation": "S. Gens",
+        "stationDistance": 5.2,
+        "temperatura": 29.6,
+        "humidade": 50,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 2818.8,
+        "pressao": null,
+        "date": "2026-09-03T12:00:00.000000Z"
+      },
       "created": {
-        "sec": 1788425532
+        "sec": 1788428104
       },
       "updated": {
-        "sec": 1788426019
+        "sec": 1788435303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261252114"
+      },
+      "id": "20261252114",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788435960
+      },
+      "date": "03-09-2026",
+      "hour": "12:46",
+      "location": "Lisboa, Lourinhã, São Bartolomeu Dos Galegos E Moledo",
+      "aerial": 4,
+      "meios_aquaticos": 0,
+      "man": 159,
+      "terrain": 42,
+      "district": "Lisboa",
+      "concelho": "Lourinhã",
+      "freguesia": "São Bartolomeu Dos Galegos E Moledo",
+      "dico": "1108",
+      "lat": 39.315145,
+      "lng": -9.254618,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "São Bartolomeu De Galegos Cezaredas",
+      "active": true,
+      "sadoId": "20261252114",
+      "sharepointId": 20261252114,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "SÃO BARTOLOMEU DE GALEGOS",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1200531,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200531,
+        "stationLocation": "Cabo Carvoeiro",
+        "stationDistance": 15,
+        "temperatura": null,
+        "humidade": 99,
+        "intensidadeVento": 3.9,
+        "intensidadeVentoKM": 14,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1020.9,
+        "date": "2026-09-03T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788436821
+      },
+      "updated": {
+        "sec": 1788442205
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261252454"
+      },
+      "id": "20261252454",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788439140
+      },
+      "date": "03-09-2026",
+      "hour": "13:39",
+      "location": "Leiria, Óbidos, Olho Marinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Olho Marinho",
+      "dico": "1012",
+      "lat": 39.317147,
+      "lng": -9.236985,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Olho Marinho Barrocas",
+      "active": true,
+      "sadoId": "20261252454",
+      "sharepointId": 20261252454,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Barrocas (OLHO MARINHO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1200531,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200531,
+        "stationLocation": "Cabo Carvoeiro",
+        "stationDistance": 16.2,
+        "temperatura": null,
+        "humidade": 99,
+        "intensidadeVento": 3.9,
+        "intensidadeVentoKM": 14,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1020.9,
+        "date": "2026-09-03T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788439803
+      },
+      "updated": {
+        "sec": 1788441903
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261252552"
+      },
+      "id": "20261252552",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788439980
+      },
+      "date": "03-09-2026",
+      "hour": "13:53",
+      "location": "Castelo Branco, Vila de Rei, Fundada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 39,
+      "terrain": 12,
+      "district": "Castelo Branco",
+      "concelho": "Vila De Rei",
+      "freguesia": "Fundada",
+      "dico": "0510",
+      "lat": 39.713483,
+      "lng": -8.17571,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Abrunheiro Pequeno Abrunheiro Pequeno",
+      "active": true,
+      "sadoId": "20261252552",
+      "sharepointId": 20261252552,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "ABRUNHEIRO",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1210724,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210724,
+        "stationLocation": "Tomar, Valdonas",
+        "stationDistance": 20.7,
+        "temperatura": 36.9,
+        "humidade": 28,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 2886.1,
+        "pressao": null,
+        "date": "2026-09-03T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788440418
+      },
+      "updated": {
+        "sec": 1788442505
       }
     }
   ]
