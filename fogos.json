@@ -60,21 +60,103 @@
         "stationLocation": "Penacova / Hombres (CIM)",
         "stationDistance": 5.3,
         "temperatura": null,
-        "humidade": 94,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
+        "humidade": 73,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-04T07:00:00.000000Z"
+        "date": "2026-09-04T09:00:00.000000Z"
       },
       "created": {
         "sec": 1788279332
       },
       "updated": {
         "sec": 1788468905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261252114"
+      },
+      "id": "20261252114",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788435960
+      },
+      "date": "03-09-2026",
+      "hour": "12:46",
+      "location": "Leiria, Óbidos, Olho Marinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Olho Marinho",
+      "dico": "1012",
+      "lat": 39.315145,
+      "lng": -9.254618,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "---  Cezaredas",
+      "active": true,
+      "sadoId": "20261252114",
+      "sharepointId": 20261252114,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 10,
+          "total": 10
+        },
+        "altitude": 113.588,
+        "incendio": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Cezaredas (Vale dos Arneiros)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1200531,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200531,
+        "stationLocation": "Cabo Carvoeiro",
+        "stationDistance": 15,
+        "temperatura": null,
+        "humidade": 95,
+        "intensidadeVento": 3.6,
+        "intensidadeVentoKM": 13,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1021.5,
+        "date": "2026-09-04T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788436821
+      },
+      "updated": {
+        "sec": 1788520202
       }
     },
     {
@@ -91,8 +173,8 @@
       "location": "Leiria, Porto de Mós, Juncal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 27,
-      "terrain": 8,
+      "man": 26,
+      "terrain": 7,
       "district": "Leiria",
       "concelho": "Porto De Mós",
       "freguesia": "Juncal",
@@ -135,62 +217,142 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 13,
-        "temperatura": 20.8,
-        "humidade": 84,
-        "intensidadeVento": 0.1,
-        "intensidadeVentoKM": 0.4,
-        "idDireccVento": 2,
-        "direccVento": "NE",
+        "temperatura": 25.7,
+        "humidade": 65,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 41.7,
+        "radiacao": 1291.2,
         "pressao": null,
-        "date": "2026-09-04T07:00:00.000000Z"
+        "date": "2026-09-04T12:00:00.000000Z"
       },
       "created": {
         "sec": 1788444190
       },
       "updated": {
-        "sec": 1788511503
+        "sec": 1788523219
       }
     },
     {
       "_id": {
-        "$id": "20261255958"
+        "$id": "20261257193"
       },
-      "id": "20261255958",
+      "id": "20261257193",
       "coords": true,
       "dateTime": {
-        "sec": 1788505200
+        "sec": 1788518220
       },
       "date": "04-09-2026",
-      "hour": "08:00",
-      "location": "Coimbra, Montemor-o-Velho, Montemor-o-velho E Gatões",
+      "hour": "11:37",
+      "location": "Lisboa, Torres Vedras, Ramalhal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Coimbra",
-      "concelho": "Montemor-o-velho",
-      "freguesia": "Montemor-o-velho E Gatões",
-      "dico": "0610",
-      "lat": 40.20583,
-      "lng": -8.66528,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
+      "man": 20,
+      "terrain": 6,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Ramalhal",
+      "dico": "1113",
+      "lat": 39.158513,
+      "lng": -9.238553,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Cavalinha  ---",
+      "localidade": "Vila Facaia Cemiterio",
       "active": true,
-      "sadoId": "20261255958",
-      "sharepointId": 20261255958,
+      "sadoId": "20261257193",
+      "sharepointId": 20261257193,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "GNR"
+      },
+      "detailLocation": "Cemiterio (Vila Facaia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210746,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210746,
+        "stationLocation": "Santa Cruz (Aeródromo)",
+        "stationDistance": 12.6,
+        "temperatura": 21.4,
+        "humidade": 85,
+        "intensidadeVento": 3.4,
+        "intensidadeVentoKM": 12.2,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 476,
+        "pressao": 1021,
+        "date": "2026-09-04T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788519003
+      },
+      "updated": {
+        "sec": 1788520804
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261257831"
+      },
+      "id": "20261257831",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788525600
+      },
+      "date": "04-09-2026",
+      "hour": "13:40",
+      "location": "Castelo Branco, Vila Velha de Ródão, Vila Velha De Ródão",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 34,
+      "terrain": 5,
+      "district": "Castelo Branco",
+      "concelho": "Vila Velha De Ródão",
+      "freguesia": "Vila Velha De Ródão",
+      "dico": "0511",
+      "lat": 39.70098,
+      "lng": -7.69527,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Vila Velha De Ródão A23",
+      "active": true,
+      "sadoId": "20261257831",
+      "sharepointId": 20261257831,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.70098000.-7.69527000) - Autoestrada da Beira Interior. 6030 Vila Velha de Ródão. Portugal (Ribeira do Cerejal)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -200,29 +362,257 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "nearestWeatherStationId": 1210713,
+      "sub_regiao": "Beira Baixa",
+      "nearestWeatherStationId": 1210806,
       "isFire": true,
       "weather": {
-        "stationId": 1210713,
-        "stationLocation": "Figueira da Foz, Vila Verde",
-        "stationDistance": 14,
-        "temperatura": 19.4,
-        "humidade": 93,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
+        "stationId": 1210806,
+        "stationLocation": "Proença-a-Nova, P.Moitas",
+        "stationDistance": 15.1,
+        "temperatura": 28.1,
+        "humidade": 37,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 918.9,
+        "pressao": null,
+        "date": "2026-09-04T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788526203
+      },
+      "updated": {
+        "sec": 1788528005
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261257889"
+      },
+      "id": "20261257889",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788526320
+      },
+      "date": "04-09-2026",
+      "hour": "13:52",
+      "location": "Viseu, Viseu, Couto De Baixo E Couto De Cima",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 28,
+      "terrain": 6,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "Couto De Baixo E Couto De Cima",
+      "dico": "1823",
+      "lat": 40.683156,
+      "lng": -8.013651,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "São Cosmado São Cosmado",
+      "active": true,
+      "sadoId": "20261257889",
+      "sharepointId": 20261257889,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "São Cosmado (Portela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 1240675,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240675,
+        "stationLocation": "Viseu (Cidade)",
+        "stationDistance": 9.5,
+        "temperatura": 30.4,
+        "humidade": 46,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-04T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788526827
+      },
+      "updated": {
+        "sec": 1788527105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261257883"
+      },
+      "id": "20261257883",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788526320
+      },
+      "date": "04-09-2026",
+      "hour": "13:52",
+      "location": "Faro, Lagoa, Estômbar E Parchal",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 2,
+      "district": "Faro",
+      "concelho": "Lagoa",
+      "freguesia": "Estômbar E Parchal",
+      "dico": "0806",
+      "lat": 37.134406,
+      "lng": -8.519084,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Bela Vista Bela Vista",
+      "active": true,
+      "sadoId": "20261257883",
+      "sharepointId": 20261257883,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Bela Vista (Parchal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 6210879,
+      "isFire": true,
+      "weather": {
+        "stationId": 6210879,
+        "stationLocation": "Portimão (Praia da Rocha)",
+        "stationDistance": 2.2,
+        "temperatura": 23.2,
+        "humidade": 88,
+        "intensidadeVento": 5,
+        "intensidadeVentoKM": 18,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-04T07:00:00.000000Z"
+        "date": "2026-09-04T12:00:00.000000Z"
       },
       "created": {
-        "sec": 1788505503
+        "sec": 1788526946
       },
       "updated": {
-        "sec": 1788509705
+        "sec": 1788527705
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261257979"
+      },
+      "id": "20261257979",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788527280
+      },
+      "date": "04-09-2026",
+      "hour": "14:08",
+      "location": "Porto, Penafiel, Recezinhos (São Mamede)",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Recezinhos (São Mamede)",
+      "dico": "1311",
+      "lat": 41.23875,
+      "lng": -8.19166,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Recezinhos (São Mamede) Rua 1 De Maio",
+      "active": true,
+      "sadoId": "20261257979",
+      "sharepointId": 20261257979,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua 1 de Maio (Pinheiro da India)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210657,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210657,
+        "stationLocation": "Luzim",
+        "stationDistance": 11.4,
+        "temperatura": 28.2,
+        "humidade": 55,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 1832.2,
+        "pressao": null,
+        "date": "2026-09-04T12:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788527705
+      },
+      "updated": {
+        "sec": 1788528005
       }
     }
   ]
