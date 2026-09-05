@@ -1,5 +1,391 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261252872"
+      },
+      "id": "20261252872",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788443640
+      },
+      "date": "03-09-2026",
+      "hour": "14:54",
+      "location": "Leiria, Porto de Mós, Juncal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Porto De Mós",
+      "freguesia": "Juncal",
+      "dico": "1016",
+      "lat": 39.625577,
+      "lng": -8.909987,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Picamilho Picamilho",
+      "active": true,
+      "sadoId": "20261252872",
+      "sharepointId": 20261252872,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 5.11,
+          "agricola": 0,
+          "mato": 0,
+          "total": 5.11
+        },
+        "altitude": 121.33,
+        "incendio": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Picamilho (Charneca)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210726,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210726,
+        "stationLocation": "Alcobaça",
+        "stationDistance": 13,
+        "temperatura": 24.4,
+        "humidade": 67,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-05T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788444190
+      },
+      "updated": {
+        "sec": 1788566417
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261264639"
+      },
+      "id": "20261264639",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788633600
+      },
+      "date": "05-09-2026",
+      "hour": "19:40",
+      "location": "Évora, Estremoz, Estremoz (Santa Maria E Santo André)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 241,
+      "terrain": 79,
+      "district": "Évora",
+      "concelho": "Estremoz",
+      "freguesia": "Estremoz (Santa Maria E Santo André)",
+      "dico": "0704",
+      "lat": 38.841452,
+      "lng": -7.591151,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Serra Da Ossa Serra Da Ossa",
+      "active": true,
+      "sadoId": "20261264639",
+      "sharepointId": 20261264639,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Serra da Ossa (ESTREMOZ)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "nearestWeatherStationId": 1210837,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210837,
+        "stationLocation": "Estremoz",
+        "stationDistance": 7,
+        "temperatura": 29.2,
+        "humidade": 45,
+        "intensidadeVento": 3.2,
+        "intensidadeVentoKM": 11.5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-05T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788634503
+      },
+      "updated": {
+        "sec": 1788644103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261264683"
+      },
+      "id": "20261264683",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788634560
+      },
+      "date": "05-09-2026",
+      "hour": "19:56",
+      "location": "Setúbal, Alcochete, Alcochete",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Alcochete",
+      "freguesia": "Alcochete",
+      "dico": "1502",
+      "lat": 38.743115,
+      "lng": -8.986893,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Alcochete Salinas Alcochete",
+      "active": true,
+      "sadoId": "20261264683",
+      "sharepointId": 20261264683,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Salinas Alcochete (Marinha de Almada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 9.3,
+        "temperatura": 27.8,
+        "humidade": 45,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0.1,
+        "pressao": null,
+        "date": "2026-09-05T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788634879
+      },
+      "updated": {
+        "sec": 1788639905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261264920"
+      },
+      "id": "20261264920",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788637920
+      },
+      "date": "05-09-2026",
+      "hour": "20:52",
+      "location": "Viana Do Castelo, Viana do Castelo, Darque",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Darque",
+      "dico": "1609",
+      "lat": 41.686543,
+      "lng": -8.790825,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Darque  Rua Do Eiteiro",
+      "active": true,
+      "sadoId": "20261264920",
+      "sharepointId": 20261264920,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Eiteiro (Senhora das Oliveiras)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 1240610,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240610,
+        "stationLocation": "Viana do Castelo",
+        "stationDistance": 3.3,
+        "temperatura": 24.6,
+        "humidade": 57,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-05T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788638571
+      },
+      "updated": {
+        "sec": 1788643804
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261264934"
+      },
+      "id": "20261264934",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788638220
+      },
+      "date": "05-09-2026",
+      "hour": "20:57",
+      "location": "Santarém, Salvaterra de Magos, Salvaterra De Magos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Salvaterra De Magos",
+      "freguesia": "Salvaterra De Magos",
+      "dico": "1415",
+      "lat": 39.025475,
+      "lng": -8.777387,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Salvaterra De Magos E Foros De Salvaterra Estrada Dos Almocreves, 2120 Salvaterra De Magos, Portugal",
+      "active": true,
+      "sadoId": "20261264934",
+      "sharepointId": 20261264934,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(39.02233459.-8.76992349) - Estrada dos Almocreves. 2120 Salvaterra de Magos. Portugal (Fábrica de desidratação de Legumes)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 19.9,
+        "temperatura": 27.2,
+        "humidade": 56,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017.7,
+        "date": "2026-09-05T20:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788638571
+      },
+      "updated": {
+        "sec": 1788643204
+      }
+    }
+  ]
 }
