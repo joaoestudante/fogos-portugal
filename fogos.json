@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 5.11,
+          "agricola": 0,
+          "mato": 0,
+          "total": 5.11
+        },
         "altitude": 121.33,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "Populares"
       },
       "detailLocation": "Picamilho (Charneca)",
@@ -59,22 +65,22 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 13,
-        "temperatura": 22.1,
-        "humidade": 86,
-        "intensidadeVento": 0,
-        "intensidadeVentoKM": 0,
-        "idDireccVento": 0,
-        "direccVento": null,
+        "temperatura": 20.9,
+        "humidade": 82,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 9,
+        "direccVento": "N",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-04T22:00:00.000000Z"
+        "date": "2026-09-05T00:00:00.000000Z"
       },
       "created": {
         "sec": 1788444190
       },
       "updated": {
-        "sec": 1788547803
+        "sec": 1788566417
       }
     },
     {
@@ -91,8 +97,8 @@
       "location": "Braga, Vieira do Minho, Anjos E Vilar Do Chão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
+      "man": 25,
+      "terrain": 8,
       "district": "Braga",
       "concelho": "Vieira Do Minho",
       "freguesia": "Anjos E Vilar Do Chão",
@@ -135,22 +141,22 @@
         "stationId": 1210619,
         "stationLocation": "Cabril",
         "stationDistance": 12.7,
-        "temperatura": 26.1,
-        "humidade": 53,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "temperatura": 25,
+        "humidade": 55,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-04T22:00:00.000000Z"
+        "date": "2026-09-05T00:00:00.000000Z"
       },
       "created": {
         "sec": 1788549725
       },
       "updated": {
-        "sec": 1788562897
+        "sec": 1788566424
       }
     },
     {
@@ -179,9 +185,9 @@
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Travassos Rua De Vilar 411, 4830-785 Póvoa De Lanhoso, Portugal",
       "active": true,
@@ -211,22 +217,22 @@
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
         "stationDistance": 16.2,
-        "temperatura": 25.9,
-        "humidade": 52,
-        "intensidadeVento": 1.1,
-        "intensidadeVentoKM": 4,
+        "temperatura": 26.2,
+        "humidade": 42,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
         "idDireccVento": 5,
         "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1020.8,
-        "date": "2026-09-04T22:00:00.000000Z"
+        "pressao": 1020.1,
+        "date": "2026-09-05T00:00:00.000000Z"
       },
       "created": {
         "sec": 1788552933
       },
       "updated": {
-        "sec": 1788557103
+        "sec": 1788570029
       }
     },
     {
@@ -243,8 +249,8 @@
       "location": "Vila Real, Ribeira de Pena, Canedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 16,
-      "terrain": 4,
+      "man": 4,
+      "terrain": 1,
       "district": "Vila Real",
       "concelho": "Ribeira De Pena",
       "freguesia": "Canedo",
@@ -287,46 +293,118 @@
         "stationId": 1210611,
         "stationLocation": "Montalegre",
         "stationDistance": 20.6,
-        "temperatura": 22,
-        "humidade": 56,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
+        "temperatura": 23.5,
+        "humidade": 41,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-04T22:00:00.000000Z"
+        "date": "2026-09-05T00:00:00.000000Z"
       },
       "created": {
         "sec": 1788555621
       },
       "updated": {
-        "sec": 1788562932
+        "sec": 1788566703
       }
     },
     {
       "_id": {
-        "$id": "20261260268"
+        "$id": "20261260546"
       },
-      "id": "20261260268",
+      "id": "20261260546",
       "coords": true,
       "dateTime": {
-        "sec": 1788557880
+        "sec": 1788564420
       },
-      "date": "04-09-2026",
-      "hour": "22:38",
-      "location": "Braga, Celorico de Basto, Basto (São Clemente)",
+      "date": "05-09-2026",
+      "hour": "00:27",
+      "location": "Setúbal, Moita, Moita",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
+      "man": 2,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Moita",
+      "freguesia": "Moita",
+      "dico": "1506",
+      "lat": 38.643702,
+      "lng": -8.985364,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Moita Rua Dos Agricultores",
+      "active": true,
+      "sadoId": "20261260546",
+      "sharepointId": 20261260546,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 6.4,
+        "temperatura": 24.1,
+        "humidade": 67,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-05T00:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788565204
+      },
+      "updated": {
+        "sec": 1788569404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261260581"
+      },
+      "id": "20261260581",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788565860
+      },
+      "date": "05-09-2026",
+      "hour": "00:51",
+      "location": "Braga, Cabeceiras de Basto, Cabeceiras De Basto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 19,
+      "terrain": 5,
       "district": "Braga",
-      "concelho": "Celorico De Basto",
-      "freguesia": "Basto (São Clemente)",
-      "dico": "0305",
-      "lat": 41.461325,
-      "lng": -8.039695,
+      "concelho": "Cabeceiras De Basto",
+      "freguesia": "Cabeceiras De Basto",
+      "dico": "0304",
+      "lat": 41.539018,
+      "lng": -8.01384,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -335,24 +413,86 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Basto (São Clemente) Rua Das Pias 275, 4890-542 Celorico De Basto, Portugal",
+      "localidade": "---  Queiroal",
       "active": true,
-      "sadoId": "20261260268",
-      "sharepointId": 20261260268,
+      "sadoId": "20261260581",
+      "sharepointId": 20261260581,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 2,
-          "total": 2
-        },
-        "altitude": 0,
-        "incendio": true,
-        "fontealerta": "112"
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210630,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210630,
+        "stationLocation": "Cabeceiras de Basto",
+        "stationDistance": 4,
+        "temperatura": 23.4,
+        "humidade": 68,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-05T00:00:00.000000Z"
       },
-      "detailLocation": "Rua das Pias 275. 4890-542 Celorico de Basto. Portugal (Pia Temporãos)",
+      "created": {
+        "sec": 1788566102
+      },
+      "updated": {
+        "sec": 1788570029
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261260582"
+      },
+      "id": "20261260582",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788565320
+      },
+      "date": "05-09-2026",
+      "hour": "00:42",
+      "location": "Porto, Baião, Loivos Da Ribeira E Tresouras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Loivos Da Ribeira E Tresouras",
+      "dico": "1302",
+      "lat": 41.15191,
+      "lng": -7.912827,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Tresouras Sobreira",
+      "active": true,
+      "sadoId": "20261260582",
+      "sharepointId": 20261260582,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -363,28 +503,28 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210630,
+      "nearestWeatherStationId": 6213013,
       "isFire": true,
       "weather": {
-        "stationId": 1210630,
-        "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 10.1,
-        "temperatura": 26.9,
-        "humidade": 53,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 0,
+        "stationId": 6213013,
+        "stationLocation": "Castro Daire / Mézio (CIM)",
+        "stationDistance": 19.2,
+        "temperatura": 24.5,
+        "humidade": 39,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": null,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-09-04T22:00:00.000000Z"
+        "date": "2026-09-04T08:00:00.000000Z"
       },
       "created": {
-        "sec": 1788558713
+        "sec": 1788566102
       },
       "updated": {
-        "sec": 1788562932
+        "sec": 1788569702
       }
     }
   ]
