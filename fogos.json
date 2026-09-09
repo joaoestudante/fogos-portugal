@@ -61,7 +61,21 @@
       "sub_regiao": "Alto Alentejo",
       "nearestWeatherStationId": 6210817,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 6210817,
+        "stationLocation": "Ponte de Sôr / Aeródromo",
+        "stationDistance": 4.1,
+        "temperatura": 20.8,
+        "humidade": 85,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1017.1,
+        "date": "2026-09-09T04:00:00.000000Z"
+      },
       "created": {
         "sec": 1788644704
       },
@@ -83,8 +97,8 @@
       "location": "Guarda, Guarda, Benespera",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 47,
-      "terrain": 13,
+      "man": 5,
+      "terrain": 1,
       "district": "Guarda",
       "concelho": "Guarda",
       "freguesia": "Benespera",
@@ -127,130 +141,58 @@
         "stationId": 1210683,
         "stationLocation": "Guarda",
         "stationDistance": 10.5,
-        "temperatura": 15.5,
+        "temperatura": 14.8,
         "humidade": 100,
-        "intensidadeVento": 7.3,
-        "intensidadeVentoKM": 26.3,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
         "idDireccVento": 8,
         "direccVento": "NW",
-        "precAcumulada": 0,
+        "precAcumulada": 0.9,
         "radiacao": 0,
-        "pressao": 1018.8,
-        "date": "2026-09-08T23:00:00.000000Z"
+        "pressao": 1017.6,
+        "date": "2026-09-09T04:00:00.000000Z"
       },
       "created": {
         "sec": 1788901805
       },
       "updated": {
-        "sec": 1788911105
+        "sec": 1788918303
       }
     },
     {
       "_id": {
-        "$id": "20261280610"
+        "$id": "20261281120"
       },
-      "id": "20261280610",
+      "id": "20261281120",
       "coords": true,
       "dateTime": {
-        "sec": 1788904800
-      },
-      "date": "08-09-2026",
-      "hour": "23:00",
-      "location": "Braga, Vila Verde, Ponte",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Braga",
-      "concelho": "Vila Verde",
-      "freguesia": "Ponte",
-      "dico": "0313",
-      "lat": 41.688258,
-      "lng": -8.384177,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "---  Rua Do Bairro Novo",
-      "active": true,
-      "sadoId": "20261280610",
-      "sharepointId": 20261280610,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 6212122,
-      "isFire": true,
-      "weather": {
-        "stationId": 6212122,
-        "stationLocation": "Amares Caldelas (CIM)",
-        "stationDistance": 2.3,
-        "temperatura": 17.7,
-        "humidade": 95,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0.1,
-        "radiacao": null,
-        "pressao": 1021.1,
-        "date": "2026-09-08T23:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1788905403
-      },
-      "updated": {
-        "sec": 1788907503
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261280766"
-      },
-      "id": "20261280766",
-      "coords": true,
-      "dateTime": {
-        "sec": 1788909600
+        "sec": 1788928740
       },
       "date": "09-09-2026",
-      "hour": "00:20",
-      "location": "Porto, Gondomar, Baguim Do Monte (rio Tinto)",
+      "hour": "05:39",
+      "location": "Guarda, Vila Nova de Foz Côa, Freixo De Numão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Baguim Do Monte (rio Tinto)",
-      "dico": "1304",
-      "lat": 41.19776,
-      "lng": -8.543127,
+      "man": 17,
+      "terrain": 4,
+      "district": "Guarda",
+      "concelho": "Vila Nova De Foz Côa",
+      "freguesia": "Freixo De Numão",
+      "dico": "0914",
+      "lat": 41.06319,
+      "lng": -7.21992,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Baguim Do Monte (rio Tinto) Rua Da Morena, 4435 Gondomar, Portugal",
+      "localidade": "Freixo De Numão Latlong(41.06319000,-7.21992000) - Avenida Da Cruzinha 9, 5155-228 Vila Nova De Foz Côa, Portugal",
       "active": true,
-      "sadoId": "20261280766",
-      "sharepointId": 20261280766,
+      "sadoId": "20261281120",
+      "sharepointId": 20261281120,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -264,29 +206,15 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1240546,
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210665,
       "isFire": true,
-      "weather": {
-        "stationId": 1240546,
-        "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 8.3,
-        "temperatura": 17.6,
-        "humidade": 100,
-        "intensidadeVento": 4.4,
-        "intensidadeVentoKM": 15.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-09-08T23:00:00.000000Z"
-      },
+      "weather": null,
       "created": {
-        "sec": 1788910503
+        "sec": 1788929127
       },
       "updated": {
-        "sec": 1788912303
+        "sec": 1788930304
       }
     }
   ]
