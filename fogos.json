@@ -65,16 +65,16 @@
         "stationId": 6210817,
         "stationLocation": "Ponte de Sôr / Aeródromo",
         "stationDistance": 4.1,
-        "temperatura": 20.8,
-        "humidade": 85,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
+        "temperatura": 19.6,
+        "humidade": 79,
+        "intensidadeVento": 6,
+        "intensidadeVentoKM": 21.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": null,
         "radiacao": null,
         "pressao": 1017.1,
-        "date": "2026-09-09T04:00:00.000000Z"
+        "date": "2026-09-09T08:00:00.000000Z"
       },
       "created": {
         "sec": 1788644704
@@ -120,8 +120,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
-        "fogacho": true,
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 2.5,
+          "total": 2.5
+        },
+        "altitude": 575.807,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "# M528 - EN 18 - Vela (Lomba)",
@@ -141,62 +147,66 @@
         "stationId": 1210683,
         "stationLocation": "Guarda",
         "stationDistance": 10.5,
-        "temperatura": 14.8,
+        "temperatura": 14.1,
         "humidade": 100,
-        "intensidadeVento": 3,
-        "intensidadeVentoKM": 10.8,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0.9,
-        "radiacao": 0,
-        "pressao": 1017.6,
-        "date": "2026-09-09T04:00:00.000000Z"
+        "intensidadeVento": 3.1,
+        "intensidadeVentoKM": 11.2,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 446.7,
+        "pressao": 1018.2,
+        "date": "2026-09-09T08:00:00.000000Z"
       },
       "created": {
         "sec": 1788901805
       },
       "updated": {
-        "sec": 1788918303
+        "sec": 1788934465
       }
     },
     {
       "_id": {
-        "$id": "20261281120"
+        "$id": "20261282064"
       },
-      "id": "20261281120",
+      "id": "20261282064",
       "coords": true,
       "dateTime": {
-        "sec": 1788928740
+        "sec": 1788945000
       },
       "date": "09-09-2026",
-      "hour": "05:39",
-      "location": "Guarda, Vila Nova de Foz Côa, Freixo De Numão",
+      "hour": "10:10",
+      "location": "Faro, Portimão, Mexilhoeira Grande",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
-      "district": "Guarda",
-      "concelho": "Vila Nova De Foz Côa",
-      "freguesia": "Freixo De Numão",
-      "dico": "0914",
-      "lat": 41.06319,
-      "lng": -7.21992,
+      "man": 12,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Mexilhoeira Grande",
+      "dico": "0811",
+      "lat": 37.241295,
+      "lng": -8.610917,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Freixo De Numão Latlong(41.06319000,-7.21992000) - Avenida Da Cruzinha 9, 5155-228 Vila Nova De Foz Côa, Portugal",
+      "localidade": "Montes De Cima  ---",
       "active": true,
-      "sadoId": "20261281120",
-      "sharepointId": 20261281120,
+      "sadoId": "20261282064",
+      "sharepointId": 20261282064,
       "extra": null,
       "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Montes de Cima",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -205,16 +215,30 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Douro",
-      "nearestWeatherStationId": 1210665,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210790,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210790,
+        "stationLocation": "Fóia",
+        "stationDistance": 8.2,
+        "temperatura": 16.2,
+        "humidade": 100,
+        "intensidadeVento": 12.9,
+        "intensidadeVentoKM": 46.4,
+        "idDireccVento": 9,
+        "direccVento": "N",
+        "precAcumulada": 0.1,
+        "radiacao": 669.6,
+        "pressao": null,
+        "date": "2026-09-09T08:00:00.000000Z"
+      },
       "created": {
-        "sec": 1788929127
+        "sec": 1788945904
       },
       "updated": {
-        "sec": 1788930304
+        "sec": 1788946505
       }
     }
   ]
