@@ -65,16 +65,16 @@
         "stationId": 6210817,
         "stationLocation": "Ponte de Sôr / Aeródromo",
         "stationDistance": 4.1,
-        "temperatura": 21.9,
-        "humidade": 61,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "temperatura": 20.1,
+        "humidade": 68,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1015,
-        "date": "2026-09-09T21:00:00.000000Z"
+        "pressao": 1015.5,
+        "date": "2026-09-09T23:00:00.000000Z"
       },
       "created": {
         "sec": 1788644704
@@ -141,22 +141,246 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 5.6,
-        "temperatura": 17.6,
-        "humidade": 88,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
+        "temperatura": 15.7,
+        "humidade": 94,
+        "intensidadeVento": 0.3,
+        "intensidadeVentoKM": 1.1,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1017.4,
-        "date": "2026-09-09T21:00:00.000000Z"
+        "pressao": 1017.7,
+        "date": "2026-09-09T23:00:00.000000Z"
       },
       "created": {
         "sec": 1788961908
       },
       "updated": {
         "sec": 1788972002
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261285497"
+      },
+      "id": "20261285497",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788994260
+      },
+      "date": "09-09-2026",
+      "hour": "23:51",
+      "location": "Guarda, Pinhel, Lameiras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Guarda",
+      "concelho": "Pinhel",
+      "freguesia": "Lameiras",
+      "dico": "0910",
+      "lat": 40.698778,
+      "lng": -7.090782,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Manigoto Mo Da Ponte Do Pilar",
+      "active": true,
+      "sadoId": "20261285497",
+      "sharepointId": 20261285497,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Albufeira de Vascoveiro. Manigoto. GU. Portugal (Serra do Manigoto)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210671,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210671,
+        "stationLocation": "F. Castelo Rodrigo, V.Torpim",
+        "stationDistance": 18.4,
+        "temperatura": 15.5,
+        "humidade": 59,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-09T23:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788994820
+      },
+      "updated": {
+        "sec": 1788997204
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261285537"
+      },
+      "id": "20261285537",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788995820
+      },
+      "date": "10-09-2026",
+      "hour": "00:17",
+      "location": "Guarda, Pinhel, Lameiras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Pinhel",
+      "freguesia": "Lameiras",
+      "dico": "0910",
+      "lat": 40.69602,
+      "lng": -7.086287,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Freixinho Barrocal",
+      "active": true,
+      "sadoId": "20261285537",
+      "sharepointId": 20261285537,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "Freixinho",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210671,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210671,
+        "stationLocation": "F. Castelo Rodrigo, V.Torpim",
+        "stationDistance": 18.1,
+        "temperatura": 15.5,
+        "humidade": 59,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-09T23:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788996092
+      },
+      "updated": {
+        "sec": 1788999303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261285546"
+      },
+      "id": "20261285546",
+      "coords": true,
+      "dateTime": {
+        "sec": 1788995820
+      },
+      "date": "10-09-2026",
+      "hour": "00:17",
+      "location": "Guarda, Pinhel, Lameiras",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Pinhel",
+      "freguesia": "Lameiras",
+      "dico": "0910",
+      "lat": 40.696165,
+      "lng": -7.083685,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Freixinho Devesas",
+      "active": true,
+      "sadoId": "20261285546",
+      "sharepointId": 20261285546,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210671,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210671,
+        "stationLocation": "F. Castelo Rodrigo, V.Torpim",
+        "stationDistance": 17.9,
+        "temperatura": 15.5,
+        "humidade": 59,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-09T23:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1788996603
+      },
+      "updated": {
+        "sec": 1788998102
       }
     }
   ]
