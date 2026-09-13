@@ -65,16 +65,16 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 13.5,
-        "temperatura": 31.8,
-        "humidade": 32,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "temperatura": 27.4,
+        "humidade": 47,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
         "sec": 1789126324
@@ -147,16 +147,16 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 10.9,
-        "temperatura": 33.1,
-        "humidade": 33,
-        "intensidadeVento": 1.9,
-        "intensidadeVentoKM": 6.8,
+        "temperatura": 31.1,
+        "humidade": 35,
+        "intensidadeVento": 2.8,
+        "intensidadeVentoKM": 10.1,
         "idDireccVento": 8,
         "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 2577.1,
+        "radiacao": 2603.9,
         "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
         "sec": 1789129203
@@ -297,16 +297,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.2,
-        "temperatura": 14.7,
-        "humidade": 91,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 32.1,
+        "humidade": 32,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
         "precAcumulada": 0,
-        "radiacao": 104.5,
+        "radiacao": 2621.4,
         "pressao": 1019.1,
-        "date": "2026-09-13T07:00:00.000000Z"
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
         "sec": 1789209905
@@ -329,8 +329,8 @@
       "location": "Beja, Beja, Salvada E Quintos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 83,
-      "terrain": 29,
+      "man": 55,
+      "terrain": 20,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Salvada E Quintos",
@@ -373,22 +373,22 @@
         "stationId": 1210863,
         "stationLocation": "Mértola, Vale Formoso",
         "stationDistance": 16.2,
-        "temperatura": 31,
-        "humidade": 31,
-        "intensidadeVento": 2.7,
-        "intensidadeVentoKM": 9.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "temperatura": 36.8,
+        "humidade": 20,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
         "sec": 1789234803
       },
       "updated": {
-        "sec": 1789300204
+        "sec": 1789316403
       }
     },
     {
@@ -405,8 +405,8 @@
       "location": "Coimbra, Arganil, Sarzedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
+      "man": 10,
+      "terrain": 3,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Sarzedo",
@@ -428,8 +428,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 3,
+          "agricola": 0,
+          "mato": 0,
+          "total": 3
+        },
         "altitude": 189.905,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "112"
       },
       "detailLocation": "Relvinha (Vareja de Baixo)",
@@ -450,7 +456,7 @@
         "sec": 1789235406
       },
       "updated": {
-        "sec": 1789268485
+        "sec": 1789311650
       }
     },
     {
@@ -467,8 +473,8 @@
       "location": "Guarda, Seia, São Romão",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 77,
-      "terrain": 19,
+      "man": 71,
+      "terrain": 17,
       "district": "Guarda",
       "concelho": "Seia",
       "freguesia": "São Romão",
@@ -526,31 +532,265 @@
         "sec": 1789287905
       },
       "updated": {
-        "sec": 1789302903
+        "sec": 1789317303
       }
     },
     {
       "_id": {
-        "$id": "20261302302"
+        "$id": "20261303007"
       },
-      "id": "20261302302",
+      "id": "20261303007",
       "coords": true,
       "dateTime": {
-        "sec": 1789294200
+        "sec": 1789303080
       },
       "date": "13-09-2026",
-      "hour": "11:10",
+      "hour": "13:38",
+      "location": "Leiria, Leiria, Santa Eufémia E Boa Vista",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 35,
+      "terrain": 10,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Santa Eufémia E Boa Vista",
+      "dico": "1009",
+      "lat": 39.788197,
+      "lng": -8.733655,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Raposeira Raposeira",
+      "active": true,
+      "sadoId": "20261303007",
+      "sharepointId": 20261303007,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.7,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.7
+        },
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Raposeira (Barreira do Sardão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 7.3,
+        "temperatura": 32.1,
+        "humidade": 32,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2621.4,
+        "pressao": 1019.1,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789303805
+      },
+      "updated": {
+        "sec": 1789316703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303128"
+      },
+      "id": "20261303128",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789304580
+      },
+      "date": "13-09-2026",
+      "hour": "14:03",
+      "location": "Vila Real, Alijó, Vale De Mendiz, Casal De Loivos E Vilarinho De Cotas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Alijó",
+      "freguesia": "Vale De Mendiz, Casal De Loivos E Vilarinho De Cotas",
+      "dico": "1701",
+      "lat": 41.198348,
+      "lng": -7.53344,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Casal De Loivos Bairro Camarário",
+      "active": true,
+      "sadoId": "20261303128",
+      "sharepointId": 20261303128,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Bairro Camarário (CASAL DE LOIVOS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210655,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210655,
+        "stationLocation": "Pinhão, Santa Bárbara",
+        "stationDistance": 3.1,
+        "temperatura": 36.1,
+        "humidade": 16,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789305005
+      },
+      "updated": {
+        "sec": 1789313704
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303196"
+      },
+      "id": "20261303196",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789305360
+      },
+      "date": "13-09-2026",
+      "hour": "14:16",
+      "location": "Leiria, Leiria, Milagres",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Milagres",
+      "dico": "1009",
+      "lat": 39.80415,
+      "lng": -8.784815,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Milagres Milagres",
+      "active": true,
+      "sadoId": "20261303196",
+      "sharepointId": 20261303196,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Milagres (Colónia Agrícola dos Milagres)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 3.9,
+        "temperatura": 32.1,
+        "humidade": 32,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2621.4,
+        "pressao": 1019.1,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789306202
+      },
+      "updated": {
+        "sec": 1789313403
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303364"
+      },
+      "id": "20261303364",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789307280
+      },
+      "date": "13-09-2026",
+      "hour": "14:48",
       "location": "Faro, Lagos, Bensafrim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 3,
+      "man": 53,
+      "terrain": 21,
       "district": "Faro",
       "concelho": "Lagos",
       "freguesia": "Bensafrim",
       "dico": "0807",
-      "lat": 37.2082,
-      "lng": -8.75468,
+      "lat": 37.193801,
+      "lng": -8.749149,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -559,10 +799,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Estrada Do Pincho Latlong(37.20820140,-8.75468010) - Caminho Municipal De Pincho, 8600 Lagos, Portugal",
+      "localidade": "Sernada  ---",
       "active": true,
-      "sadoId": "20261302302",
-      "sharepointId": 20261302302,
+      "sadoId": "20261303364",
+      "sharepointId": 20261303364,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -570,7 +810,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "LatLong(37.20820140.-8.75468010) - Caminho Municipal de Pincho. 8600 Lagos. Portugal (MURTA)",
+      "detailLocation": "Sernada",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -586,47 +826,47 @@
       "weather": {
         "stationId": 1210789,
         "stationLocation": "Aljezur",
-        "stationDistance": 12.7,
+        "stationDistance": 14.4,
         "temperatura": 31.5,
         "humidade": 38,
-        "intensidadeVento": 2.3,
-        "intensidadeVentoKM": 8.3,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
         "idDireccVento": 7,
         "direccVento": "W",
         "precAcumulada": 0,
-        "radiacao": 2549.8,
+        "radiacao": 2580,
         "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
-        "sec": 1789294852
+        "sec": 1789308019
       },
       "updated": {
-        "sec": 1789298105
+        "sec": 1789316703
       }
     },
     {
       "_id": {
-        "$id": "20261302745"
+        "$id": "20261303388"
       },
-      "id": "20261302745",
+      "id": "20261303388",
       "coords": true,
       "dateTime": {
-        "sec": 1789299660
+        "sec": 1789307520
       },
       "date": "13-09-2026",
-      "hour": "12:41",
-      "location": "Faro, Albufeira, Paderne",
+      "hour": "14:52",
+      "location": "Braga, Fafe, Agrela E Serafão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 5,
-      "district": "Faro",
-      "concelho": "Albufeira",
-      "freguesia": "Paderne",
-      "dico": "0801",
-      "lat": 37.20961,
-      "lng": -8.227863,
+      "man": 3,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Agrela E Serafão",
+      "dico": "0307",
+      "lat": 41.533722,
+      "lng": -8.205817,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -635,18 +875,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Paderne Largo Carrasqueiro 266h, 8200-462 Albufeira, Portugal",
+      "localidade": "---  Soutelo",
       "active": true,
-      "sadoId": "20261302745",
-      "sharepointId": 20261302745,
+      "sadoId": "20261303388",
+      "sharepointId": 20261303388,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "RNPV"
       },
-      "detailLocation": "Largo Carrasqueiro 266H. 8200-462 Albufeira. Portugal (Carrasqueiro)",
+      "detailLocation": "Soutelo (SERAFÃO)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -655,66 +895,66 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "nearestWeatherStationId": 1210874,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
       "isFire": true,
       "weather": {
-        "stationId": 1210874,
-        "stationLocation": "Albufeira",
-        "stationDistance": 13.3,
-        "temperatura": 26.8,
-        "humidade": 52,
-        "intensidadeVento": 4.1,
-        "intensidadeVentoKM": 14.8,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 14.9,
+        "temperatura": 35.9,
+        "humidade": 21,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 2478.1,
+        "pressao": 1018.4,
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
-        "sec": 1789300292
+        "sec": 1789308019
       },
       "updated": {
-        "sec": 1789302604
+        "sec": 1789315804
       }
     },
     {
       "_id": {
-        "$id": "20261302797"
+        "$id": "20261303461"
       },
-      "id": "20261302797",
+      "id": "20261303461",
       "coords": true,
       "dateTime": {
-        "sec": 1789300380
+        "sec": 1789308600
       },
       "date": "13-09-2026",
-      "hour": "12:53",
-      "location": "Coimbra, Montemor-o-Velho, Montemor-o-velho E Gatões",
+      "hour": "15:10",
+      "location": "Santarém, Santarém, Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 3,
-      "district": "Coimbra",
-      "concelho": "Montemor-o-velho",
-      "freguesia": "Montemor-o-velho E Gatões",
-      "dico": "0610",
-      "lat": 40.19789,
-      "lng": -8.692735,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
+      "man": 0,
+      "terrain": 0,
+      "district": "Santarém",
+      "concelho": "Santarém",
+      "freguesia": "Marvila, Ribeira Santarém, S.Salvador, S.Nicolau",
+      "dico": "1416",
+      "lat": 39.236187,
+      "lng": -8.671483,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Moinho Da Mata Rua Dos Furadouros",
+      "localidade": "União Das Freguesias Da Cidade De Santarém Largo António Faustino",
       "active": true,
-      "sadoId": "20261302797",
-      "sharepointId": 20261302797,
+      "sadoId": "20261303461",
+      "sharepointId": 20261303461,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -722,7 +962,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua dos Furadouros (Casa do Além)",
+      "detailLocation": "Largo António Faustino",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -731,54 +971,206 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Coimbra",
-      "nearestWeatherStationId": 1210713,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
       "isFire": true,
       "weather": {
-        "stationId": 1210713,
-        "stationLocation": "Figueira da Foz, Vila Verde",
-        "stationDistance": 11.6,
-        "temperatura": 31.8,
-        "humidade": 32,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
-        "idDireccVento": 5,
-        "direccVento": "S",
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 6.8,
+        "temperatura": 36.8,
+        "humidade": 20,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 1,
+        "direccVento": "N",
         "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-09-13T11:00:00.000000Z"
+        "radiacao": 2398.3,
+        "pressao": 1018.4,
+        "date": "2026-09-13T15:00:00.000000Z"
       },
       "created": {
-        "sec": 1789300822
+        "sec": 1789309204
       },
       "updated": {
-        "sec": 1789303505
+        "sec": 1789312206
       }
     },
     {
       "_id": {
-        "$id": "20261302947"
+        "$id": "20261303522"
       },
-      "id": "20261302947",
+      "id": "20261303522",
       "coords": true,
       "dateTime": {
-        "sec": 1789302120
+        "sec": 1789309320
       },
       "date": "13-09-2026",
-      "hour": "13:22",
-      "location": "Portalegre, Portalegre, Urra",
+      "hour": "15:22",
+      "location": "Braga, Fafe, Regadas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Regadas",
+      "dico": "0307",
+      "lat": 41.40747,
+      "lng": -8.143287,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Rua José Malhoa",
+      "active": true,
+      "sadoId": "20261303522",
+      "sharepointId": 20261303522,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Sapadores florestais"
+      },
+      "detailLocation": "Rua José Malhoa (Boucinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 14.7,
+        "temperatura": 35.9,
+        "humidade": 21,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 2478.1,
+        "pressao": 1018.4,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789309804
+      },
+      "updated": {
+        "sec": 1789311714
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303566"
+      },
+      "id": "20261303566",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789309740
+      },
+      "date": "13-09-2026",
+      "hour": "15:29",
+      "location": "Porto, Amarante, Salvador Do Monte",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Porto",
+      "concelho": "Amarante",
+      "freguesia": "Salvador Do Monte",
+      "dico": "1301",
+      "lat": 41.235868,
+      "lng": -8.085302,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Lomba  ---",
+      "active": true,
+      "sadoId": "20261303566",
+      "sharepointId": 20261303566,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Lomba (Souto)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210657,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210657,
+        "stationLocation": "Luzim",
+        "stationDistance": 17,
+        "temperatura": 33.1,
+        "humidade": 23,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 2316.7,
+        "pressao": null,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789309922
+      },
+      "updated": {
+        "sec": 1789315227
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303623"
+      },
+      "id": "20261303623",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789310400
+      },
+      "date": "13-09-2026",
+      "hour": "15:40",
+      "location": "Lisboa, Amadora, Falagueira-venda Nova",
       "aerial": 0,
       "meios_aquaticos": 0,
       "man": 7,
       "terrain": 2,
-      "district": "Portalegre",
-      "concelho": "Portalegre",
-      "freguesia": "Urra",
-      "dico": "1214",
-      "lat": 39.221918,
-      "lng": -7.38092,
+      "district": "Lisboa",
+      "concelho": "Amadora",
+      "freguesia": "Falagueira-venda Nova",
+      "dico": "1115",
+      "lat": 38.750788,
+      "lng": -9.223937,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -787,10 +1179,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Urra N246",
+      "localidade": "Falagueira-venda Nova Rua Da Quinta Da Bolacha",
       "active": true,
-      "sadoId": "20261302947",
-      "sharepointId": 20261302947,
+      "sadoId": "20261303623",
+      "sharepointId": 20261303623,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -798,7 +1190,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "N246 (Ribeira da Fadagosa)",
+      "detailLocation": "Rua da Quinta da Bolacha (Rua João Cristóvão China)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -807,16 +1199,316 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "nearestWeatherStationId": 1240820,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1240935,
       "isFire": true,
       "weather": null,
       "created": {
-        "sec": 1789302604
+        "sec": 1789311004
       },
       "updated": {
-        "sec": 1789303505
+        "sec": 1789313403
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303694"
+      },
+      "id": "20261303694",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789311540
+      },
+      "date": "13-09-2026",
+      "hour": "15:59",
+      "location": "Setúbal, Almada, Charneca De Caparica E Sobreda",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 25,
+      "terrain": 7,
+      "district": "Setúbal",
+      "concelho": "Almada",
+      "freguesia": "Charneca De Caparica E Sobreda",
+      "dico": "1503",
+      "lat": 38.606302,
+      "lng": -9.189123,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Charneca De Caparica E Sobreda Rua Dom Manuel Ii",
+      "active": true,
+      "sadoId": "20261303694",
+      "sharepointId": 20261303694,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Dom Manuel II (Marco Cabaço)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210773,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210773,
+        "stationLocation": "Almada, P.Rainha",
+        "stationDistance": 2.4,
+        "temperatura": 27.7,
+        "humidade": 52,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 2628.3,
+        "pressao": null,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789312505
+      },
+      "updated": {
+        "sec": 1789314605
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303785"
+      },
+      "id": "20261303785",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789312440
+      },
+      "date": "13-09-2026",
+      "hour": "16:14",
+      "location": "Porto, Marco de Canaveses, Penha Longa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Penha Longa",
+      "dico": "1307",
+      "lat": 41.110272,
+      "lng": -8.148555,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Penha Longa Rua Poças Do Monte",
+      "active": true,
+      "sadoId": "20261303785",
+      "sharepointId": 20261303785,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua Poças do Monte (PENHA LONGA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210657,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210657,
+        "stationLocation": "Luzim",
+        "stationDistance": 9.3,
+        "temperatura": 33.1,
+        "humidade": 23,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 2316.7,
+        "pressao": null,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789313403
+      },
+      "updated": {
+        "sec": 1789316103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303924"
+      },
+      "id": "20261303924",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789314660
+      },
+      "date": "13-09-2026",
+      "hour": "16:51",
+      "location": "Bragança, Bragança, Samil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Bragança",
+      "concelho": "Bragança",
+      "freguesia": "Samil",
+      "dico": "0402",
+      "lat": 41.776332,
+      "lng": -6.768021,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Samil Rua Francisco Garcia",
+      "active": true,
+      "sadoId": "20261303924",
+      "sharepointId": 20261303924,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "rua Francisco Garcia (Rua de Vale DÁlvaro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1200575,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200575,
+        "stationLocation": "Bragança",
+        "stationDistance": 3.7,
+        "temperatura": 31.9,
+        "humidade": 18,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 2472.3,
+        "pressao": 1019,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789315227
+      },
+      "updated": {
+        "sec": 1789317303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261303963"
+      },
+      "id": "20261303963",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789315260
+      },
+      "date": "13-09-2026",
+      "hour": "17:01",
+      "location": "Porto, Felgueiras, Friande",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 3,
+      "district": "Porto",
+      "concelho": "Felgueiras",
+      "freguesia": "Friande",
+      "dico": "1303",
+      "lat": 41.360763,
+      "lng": -8.162842,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Friande Rua De Vilarinho",
+      "active": true,
+      "sadoId": "20261303963",
+      "sharepointId": 20261303963,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 15,
+        "temperatura": 35.9,
+        "humidade": 21,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": 2478.1,
+        "pressao": 1018.4,
+        "date": "2026-09-13T15:00:00.000000Z"
+      },
+      "created": {
+        "sec": 1789315505
+      },
+      "updated": {
+        "sec": 1789317303
       }
     }
   ]
