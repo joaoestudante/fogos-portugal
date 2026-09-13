@@ -38,8 +38,14 @@
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 160,
+          "total": 160
+        },
         "altitude": 221.338,
-        "fogacho": true,
+        "incendio": true,
         "fontealerta": "RNPV"
       },
       "detailLocation": "Cerro do Entrudo (Barranco dos Martuçais)",
@@ -59,22 +65,22 @@
         "stationId": 1210865,
         "stationLocation": "Alcoutim, Mart.Longo",
         "stationDistance": 9.1,
-        "temperatura": 23.8,
-        "humidade": 46,
-        "intensidadeVento": 2.8,
-        "intensidadeVentoKM": 10.1,
+        "temperatura": 22.5,
+        "humidade": 51,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1018,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "pressao": 1018.3,
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789124534
       },
       "updated": {
-        "sec": 1789233005
+        "sec": 1789257608
       }
     },
     {
@@ -141,16 +147,16 @@
         "stationId": 1210713,
         "stationLocation": "Figueira da Foz, Vila Verde",
         "stationDistance": 13.5,
-        "temperatura": 19.4,
-        "humidade": 77,
-        "intensidadeVento": 0.7,
-        "intensidadeVentoKM": 2.5,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 17.6,
+        "humidade": 83,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789126324
@@ -223,16 +229,16 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 10.9,
-        "temperatura": 18.6,
-        "humidade": 75,
-        "intensidadeVento": 0.1,
-        "intensidadeVentoKM": 0.4,
+        "temperatura": 16.4,
+        "humidade": 83,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789129203
@@ -373,166 +379,22 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 7.2,
-        "temperatura": 18.3,
-        "humidade": 81,
+        "temperatura": 17.4,
+        "humidade": 83,
         "intensidadeVento": 1,
         "intensidadeVentoKM": 3.6,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.1,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "pressao": 1018.8,
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789209905
       },
       "updated": {
         "sec": 1789229403
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261298748"
-      },
-      "id": "20261298748",
-      "coords": true,
-      "dateTime": {
-        "sec": 1789225800
-      },
-      "date": "12-09-2026",
-      "hour": "16:10",
-      "location": "Lisboa, Sintra, Agualva E Mira-sintra",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 12,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "Agualva E Mira-sintra",
-      "dico": "1111",
-      "lat": 38.784675,
-      "lng": -9.298343,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 9,
-      "statusColor": "6ABF59",
-      "status": "Vigilância",
-      "important": false,
-      "localidade": "União Das Freguesias De Agualva E Mira-sintra Mira Sintra",
-      "active": true,
-      "sadoId": "20261298748",
-      "sharepointId": 20261298748,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 14,
-          "total": 14
-        },
-        "altitude": 0,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Mira Sintra (Grajal)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1240935,
-      "isFire": true,
-      "weather": null,
-      "created": {
-        "sec": 1789227136
-      },
-      "updated": {
-        "sec": 1789256103
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261298864"
-      },
-      "id": "20261298864",
-      "coords": true,
-      "dateTime": {
-        "sec": 1789227360
-      },
-      "date": "12-09-2026",
-      "hour": "16:36",
-      "location": "Évora, Portel, Santana",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Évora",
-      "concelho": "Portel",
-      "freguesia": "Santana",
-      "dico": "0709",
-      "lat": 38.278117,
-      "lng": -7.8007,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Monte Da Vanga Monte Da Vanga",
-      "active": true,
-      "sadoId": "20261298864",
-      "sharepointId": 20261298864,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "Monte da Vanga (SANTANA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Central",
-      "nearestWeatherStationId": 1210848,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210848,
-        "stationLocation": "Portel, Oriola",
-        "stationDistance": 7.2,
-        "temperatura": 22.9,
-        "humidade": 42,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1789228206
-      },
-      "updated": {
-        "sec": 1789246502
       }
     },
     {
@@ -611,8 +473,8 @@
       "location": "Beja, Beja, Salvada E Quintos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 99,
-      "terrain": 33,
+      "man": 95,
+      "terrain": 31,
       "district": "Beja",
       "concelho": "Beja",
       "freguesia": "Salvada E Quintos",
@@ -655,22 +517,22 @@
         "stationId": 1210863,
         "stationLocation": "Mértola, Vale Formoso",
         "stationDistance": 16.2,
-        "temperatura": 25.4,
-        "humidade": 46,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 23.8,
+        "humidade": 54,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789234803
       },
       "updated": {
-        "sec": 1789254081
+        "sec": 1789258204
       }
     },
     {
@@ -687,8 +549,8 @@
       "location": "Coimbra, Arganil, Sarzedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 49,
-      "terrain": 16,
+      "man": 29,
+      "terrain": 11,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Sarzedo",
@@ -732,165 +594,7 @@
         "sec": 1789235406
       },
       "updated": {
-        "sec": 1789253704
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261299633"
-      },
-      "id": "20261299633",
-      "coords": true,
-      "dateTime": {
-        "sec": 1789238640
-      },
-      "date": "12-09-2026",
-      "hour": "19:44",
-      "location": "Santarém, Benavente, Benavente",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Benavente",
-      "freguesia": "Benavente",
-      "dico": "1405",
-      "lat": 38.992912,
-      "lng": -8.78744,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Orivarzea Orivarzea",
-      "active": true,
-      "sadoId": "20261299633",
-      "sharepointId": 20261299633,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "burnArea": {
-          "povoamento": 0,
-          "agricola": 0,
-          "mato": 1.8,
-          "total": 1.8
-        },
-        "altitude": 0,
-        "incendio": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Orivarzea (Aconchegado)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210734,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210734,
-        "stationLocation": "Santarém, Fonte Boa",
-        "stationDistance": 23.6,
-        "temperatura": 24.4,
-        "humidade": 46,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 8,
-        "direccVento": "NW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1017.9,
-        "date": "2026-09-12T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1789239005
-      },
-      "updated": {
-        "sec": 1789254093
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261300225"
-      },
-      "id": "20261300225",
-      "coords": true,
-      "dateTime": {
-        "sec": 1789247520
-      },
-      "date": "12-09-2026",
-      "hour": "22:12",
-      "location": "Bragança, Vinhais, Moimenta E Montouto",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Bragança",
-      "concelho": "Vinhais",
-      "freguesia": "Moimenta E Montouto",
-      "dico": "0412",
-      "lat": 41.94459,
-      "lng": -6.93015,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Moimenta Pnm Moimenta Pnm",
-      "active": true,
-      "sadoId": "20261300225",
-      "sharepointId": 20261300225,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "RNPV"
-      },
-      "detailLocation": "MOIMENTA PNM (REDARIA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Terras de Trás-os-Montes",
-      "nearestWeatherStationId": 1210612,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210612,
-        "stationLocation": "Vinhais",
-        "stationDistance": 12.8,
-        "temperatura": 23.6,
-        "humidade": 33,
-        "intensidadeVento": 3.9,
-        "intensidadeVentoKM": 14,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
-      },
-      "created": {
-        "sec": 1789248003
-      },
-      "updated": {
-        "sec": 1789257003
+        "sec": 1789263603
       }
     },
     {
@@ -907,8 +611,8 @@
       "location": "Vila Real, Boticas, Vilar E Viveiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 23,
-      "terrain": 6,
+      "man": 18,
+      "terrain": 5,
       "district": "Vila Real",
       "concelho": "Boticas",
       "freguesia": "Vilar E Viveiro",
@@ -951,22 +655,22 @@
         "stationId": 1210611,
         "stationLocation": "Montalegre",
         "stationDistance": 18.8,
-        "temperatura": 17.6,
-        "humidade": 64,
-        "intensidadeVento": 0.3,
-        "intensidadeVentoKM": 1.1,
+        "temperatura": 15.8,
+        "humidade": 75,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
         "sec": 1789249504
       },
       "updated": {
-        "sec": 1789255205
+        "sec": 1789264515
       }
     },
     {
@@ -983,8 +687,8 @@
       "location": "Coimbra, Tábua, Covas E Vila Nova De Oliveirinha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 49,
-      "terrain": 11,
+      "man": 6,
+      "terrain": 2,
       "district": "Coimbra",
       "concelho": "Tábua",
       "freguesia": "Covas E Vila Nova De Oliveirinha",
@@ -1028,51 +732,47 @@
         "sec": 1789254019
       },
       "updated": {
-        "sec": 1789256403
+        "sec": 1789263304
       }
     },
     {
       "_id": {
-        "$id": "20261300588"
+        "$id": "20261300723"
       },
-      "id": "20261300588",
+      "id": "20261300723",
       "coords": true,
       "dateTime": {
-        "sec": 1789254600
+        "sec": 1789257960
       },
       "date": "13-09-2026",
-      "hour": "00:10",
-      "location": "Lisboa, Sintra, Pêro Pinheiro",
+      "hour": "01:06",
+      "location": "Vila Real, Alijó, Carlão E Amieiro",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "Pêro Pinheiro",
-      "dico": "1111",
-      "lat": 38.841823,
-      "lng": -9.330352,
+      "man": 17,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Alijó",
+      "freguesia": "Carlão E Amieiro",
+      "dico": "1701",
+      "lat": 41.307422,
+      "lng": -7.392473,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "União Das Freguesias De Almargem Do Bispo, Pêro Pinheiro E Montelavar Caminho De Cortegaça",
+      "localidade": "União Das Freguesias De Carlão E Amieiro Franzilhal",
       "active": true,
-      "sadoId": "20261300588",
-      "sharepointId": 20261300588,
+      "sadoId": "20261300723",
+      "sharepointId": 20261300723,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Caminho de Cortegaça (Fação)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1081,30 +781,88 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1210752,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210644,
       "isFire": true,
       "weather": {
-        "stationId": 1210752,
-        "stationLocation": "Sintra/Tapada do Mouco",
-        "stationDistance": 9,
-        "temperatura": 23,
-        "humidade": 38,
-        "intensidadeVento": 3.7,
-        "intensidadeVentoKM": 13.3,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "stationId": 1210644,
+        "stationLocation": "Carrazêda de Ansiães",
+        "stationDistance": 12.3,
+        "temperatura": 13.6,
+        "humidade": 70,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
         "precAcumulada": 0,
-        "radiacao": null,
+        "radiacao": 0,
         "pressao": null,
-        "date": "2026-09-12T22:00:00.000000Z"
+        "date": "2026-09-13T00:00:00.000000Z"
       },
       "created": {
-        "sec": 1789255205
+        "sec": 1789258503
       },
       "updated": {
-        "sec": 1789256103
+        "sec": 1789260303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261300871"
+      },
+      "id": "20261300871",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789262400
+      },
+      "date": "13-09-2026",
+      "hour": "02:20",
+      "location": "Coimbra, Tábua, Midões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 59,
+      "terrain": 13,
+      "district": "Coimbra",
+      "concelho": "Tábua",
+      "freguesia": "Midões",
+      "dico": "0616",
+      "lat": 40.376934,
+      "lng": -7.977684,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Vale De Gaios M1304",
+      "active": true,
+      "sadoId": "20261300871",
+      "sharepointId": 20261300871,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213620,
+      "isFire": true,
+      "weather": null,
+      "created": {
+        "sec": 1789262704
+      },
+      "updated": {
+        "sec": 1789264852
       }
     }
   ]
