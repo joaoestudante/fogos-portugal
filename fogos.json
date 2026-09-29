@@ -1,5 +1,1077 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261328520"
+      },
+      "id": "20261328520",
+      "coords": true,
+      "dateTime": {
+        "sec": 1789731000
+      },
+      "date": "18-09-2026",
+      "hour": "12:30",
+      "location": "Aveiro, Aveiro, Eixo E Eirol",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 3,
+      "district": "Aveiro",
+      "concelho": "Aveiro",
+      "freguesia": "Eixo E Eirol",
+      "dico": "0105",
+      "lat": 40.60797,
+      "lng": -8.557347,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Eirol  ---",
+      "active": true,
+      "sadoId": "20261328520",
+      "sharepointId": 20261328520,
+      "extra": "ℹ️ Trânsito reaberto em ambos os sentidos da A1.\r\nUltima atualização: 20h30m",
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 174.478121221256,
+          "agricola": 6.56491039099693,
+          "mato": 0,
+          "total": 187.026123581028
+        },
+        "altitude": 23.9994,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "EIROL (Vale Ventoso)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Aveiro",
+      "nearestWeatherStationId": 1210702,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210702,
+        "stationLocation": "Aveiro (Universidade)",
+        "stationDistance": 9.1,
+        "temperatura": 22.2,
+        "humidade": 74,
+        "intensidadeVento": 4.7,
+        "intensidadeVentoKM": 16.9,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1011.1,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "AVR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T18:00:00",
+          "endTime": "2026-09-30T03:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1789731606
+      },
+      "updated": {
+        "sec": 1790370905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261349261"
+      },
+      "id": "20261349261",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790073300
+      },
+      "date": "22-09-2026",
+      "hour": "11:35",
+      "location": "Braga, Fafe, Monte E Queimadela",
+      "aerial": 1,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Monte E Queimadela",
+      "dico": "0307",
+      "lat": 41.526647,
+      "lng": -8.159003,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Igreja  ---",
+      "active": true,
+      "sadoId": "20261349261",
+      "sharepointId": 20261349261,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 19.6749947447032,
+          "agricola": 0.0359944214373827,
+          "mato": 37.4546813221574,
+          "total": 57.2107094391763
+        },
+        "altitude": 630.966,
+        "incendio": true,
+        "causa": "54001",
+        "tipocausa": "Intencional",
+        "causafamilia": "Incendiarismo - Imputáveis"
+      },
+      "detailLocation": "Monte de Riba",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210630,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210630,
+        "stationLocation": "Cabeceiras de Basto",
+        "stationDistance": 16,
+        "temperatura": 16.5,
+        "humidade": 96,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790073604
+      },
+      "updated": {
+        "sec": 1790453103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261354693"
+      },
+      "id": "20261354693",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790157840
+      },
+      "date": "23-09-2026",
+      "hour": "11:04",
+      "location": "Beja, Odemira, São Teotónio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "São Teotónio",
+      "dico": "0211",
+      "lat": 37.485668,
+      "lng": -8.722272,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "São Teotónio N120 Vale Juncal",
+      "active": true,
+      "sadoId": "20261354693",
+      "sharepointId": 20261354693,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 158.785,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N120 Vale Juncal (Cabanita)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 1210577,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210577,
+        "stationLocation": "Odemira, S.Teotónio",
+        "stationDistance": 6.9,
+        "temperatura": 21.3,
+        "humidade": 84,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790159405
+      },
+      "updated": {
+        "sec": 1790266802
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261357794"
+      },
+      "id": "20261357794",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790192880
+      },
+      "date": "23-09-2026",
+      "hour": "20:48",
+      "location": "Braga, Fafe, Monte E Queimadela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Monte E Queimadela",
+      "dico": "0307",
+      "lat": 41.53714,
+      "lng": -8.146755,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Monte Luilhas",
+      "active": true,
+      "sadoId": "20261357794",
+      "sharepointId": 20261357794,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 690.992,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Luilhas (Cabreiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210630,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210630,
+        "stationLocation": "Cabeceiras de Basto",
+        "stationDistance": 15,
+        "temperatura": 16.5,
+        "humidade": 96,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790193328
+      },
+      "updated": {
+        "sec": 1790448905
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261362222"
+      },
+      "id": "20261362222",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790265060
+      },
+      "date": "24-09-2026",
+      "hour": "16:51",
+      "location": "Beja, Odemira, Sabóia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 13,
+      "terrain": 2,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "Sabóia",
+      "dico": "0211",
+      "lat": 37.395895,
+      "lng": -8.442622,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Nave Redonda Nave Redonda",
+      "active": true,
+      "sadoId": "20261362222",
+      "sharepointId": 20261362222,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 116.094926856947,
+          "agricola": 0.0530342062473297,
+          "mato": 320.800267007875,
+          "total": 437.96137921586
+        },
+        "altitude": 145.381,
+        "incendio": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Nave Redonda (Malhadal Novo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 6,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790266205
+      },
+      "updated": {
+        "sec": 1790534404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261366245"
+      },
+      "id": "20261366245",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790336340
+      },
+      "date": "25-09-2026",
+      "hour": "12:39",
+      "location": "Leiria, Batalha, Batalha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 5,
+      "district": "Leiria",
+      "concelho": "Batalha",
+      "freguesia": "Batalha",
+      "dico": "1004",
+      "lat": 39.634672,
+      "lng": -8.809045,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Cela De Cima  ---",
+      "active": true,
+      "sadoId": "20261366245",
+      "sharepointId": 20261366245,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 117.836,
+        "agricola": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Cela de Cima (Cela do Meio)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1240916,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T21:00:00",
+          "endTime": "2026-09-30T06:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790337004
+      },
+      "updated": {
+        "sec": 1790391614
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261374533"
+      },
+      "id": "20261374533",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790466000
+      },
+      "date": "27-09-2026",
+      "hour": "00:40",
+      "location": "Braga, Vieira do Minho, Ruivães E Campos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Vieira Do Minho",
+      "freguesia": "Ruivães E Campos",
+      "dico": "0311",
+      "lat": 41.662747,
+      "lng": -8.04946,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Espindo  ---",
+      "active": true,
+      "sadoId": "20261374533",
+      "sharepointId": 20261374533,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 1.2635132945776,
+          "agricola": 0.346742350518703,
+          "mato": 182.362330276012,
+          "total": 183.972585921109
+        },
+        "altitude": 788.664,
+        "incendio": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Espindo (Pontilhão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210619,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210619,
+        "stationLocation": "Cabril",
+        "stationDistance": 6.6,
+        "temperatura": 19.6,
+        "humidade": 75,
+        "intensidadeVento": 4.7,
+        "intensidadeVentoKM": 16.9,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790466303
+      },
+      "updated": {
+        "sec": 1790597404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261376937"
+      },
+      "id": "20261376937",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790512380
+      },
+      "date": "27-09-2026",
+      "hour": "13:33",
+      "location": "Leiria, Marinha Grande, Moita",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Marinha Grande",
+      "freguesia": "Moita",
+      "dico": "1010",
+      "lat": 39.692948,
+      "lng": -8.936062,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Moita      Moita",
+      "active": true,
+      "sadoId": "20261376937",
+      "sharepointId": 20261376937,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.74,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.74
+        },
+        "altitude": 158.205,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Moita (Leirão)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210721,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210721,
+        "stationLocation": "São Pedro de Moel",
+        "stationDistance": 11.3,
+        "temperatura": 21.1,
+        "humidade": 76,
+        "intensidadeVento": 5.9,
+        "intensidadeVentoKM": 21.2,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T21:00:00",
+          "endTime": "2026-09-30T06:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790513106
+      },
+      "updated": {
+        "sec": 1790593229
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261378010"
+      },
+      "id": "20261378010",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790527020
+      },
+      "date": "27-09-2026",
+      "hour": "17:37",
+      "location": "Braga, Fafe, Aboim, Felgueiras, Gontim E Pedraído",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Fafe",
+      "freguesia": "Aboim, Felgueiras, Gontim E Pedraído",
+      "dico": "0307",
+      "lat": 41.560462,
+      "lng": -8.07657,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Aboim  Figueiró",
+      "active": true,
+      "sadoId": "20261378010",
+      "sharepointId": 20261378010,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 2,
+          "agricola": 0,
+          "mato": 5,
+          "total": 7
+        },
+        "altitude": 670.339,
+        "incendio": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Figueiró (Ribeira de Figueiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210630,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210630,
+        "stationLocation": "Cabeceiras de Basto",
+        "stationDistance": 9.6,
+        "temperatura": 16.5,
+        "humidade": 96,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790527505
+      },
+      "updated": {
+        "sec": 1790630704
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261384839"
+      },
+      "id": "20261384839",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790636220
+      },
+      "date": "28-09-2026",
+      "hour": "23:57",
+      "location": "Guarda, Aguiar da Beira, Dornelas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Aguiar Da Beira",
+      "freguesia": "Dornelas",
+      "dico": "0901",
+      "lat": 40.746932,
+      "lng": -7.531507,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Dornelas Dornelas",
+      "active": true,
+      "sadoId": "20261384839",
+      "sharepointId": 20261384839,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 535.05,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Dornelas (Imoreira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213011,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213011,
+        "stationLocation": "Aguiar da Beira (CIM)",
+        "stationDistance": 7.2,
+        "temperatura": 16.4,
+        "humidade": 81,
+        "intensidadeVento": 4,
+        "intensidadeVentoKM": 14.4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "GDA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-30T00:00:00",
+          "endTime": "2026-09-30T06:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790637003
+      },
+      "updated": {
+        "sec": 1790650871
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261385268"
+      },
+      "id": "20261385268",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790656800
+      },
+      "date": "29-09-2026",
+      "hour": "05:40",
+      "location": "Porto, Trofa, Muro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Trofa",
+      "freguesia": "Muro",
+      "dico": "1318",
+      "lat": 41.298628,
+      "lng": -8.59213,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Lugar De Gueidãos",
+      "active": true,
+      "sadoId": "20261385268",
+      "sharepointId": 20261385268,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Lugar de Gueidãos (Gueidãos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 10.4,
+        "temperatura": 22.5,
+        "humidade": 68,
+        "intensidadeVento": 8.6,
+        "intensidadeVentoKM": 31,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1009.8,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790658904
+      },
+      "updated": {
+        "sec": 1790660103
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261385428"
+      },
+      "id": "20261385428",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790663760
+      },
+      "date": "29-09-2026",
+      "hour": "07:36",
+      "location": "Porto, Gondomar, Fânzeres E São Pedro Da Cova",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Gondomar",
+      "freguesia": "Fânzeres E São Pedro Da Cova",
+      "dico": "1304",
+      "lat": 41.15167,
+      "lng": -8.49955,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Fânzeres E São Pedro Da Cova Rua Poço De Ferreirinha, 4510 Gondomar, Portugal",
+      "active": true,
+      "sadoId": "20261385428",
+      "sharepointId": 20261385428,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Poço de Ferreirinha. 4510 Gondomar. Portugal (Passal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 8.7,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 4.5,
+        "intensidadeVentoKM": 16.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": null,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-09-29T06:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "No litoral, vento do quadrante sul, com rajadas até 70/80 km/h.",
+          "awarenessTypeName": "Vento",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T12:00:00",
+          "endTime": "2026-09-29T21:00:00"
+        },
+        {
+          "text": "Períodos de chuva, por vezes forte.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-09-29T15:00:00",
+          "endTime": "2026-09-30T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790664903
+      },
+      "updated": {
+        "sec": 1790664944
+      }
+    }
+  ]
 }
