@@ -1,5 +1,283 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261362222"
+      },
+      "id": "20261362222",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790265060
+      },
+      "date": "24-09-2026",
+      "hour": "16:51",
+      "location": "Beja, Odemira, Sabóia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "Sabóia",
+      "dico": "0211",
+      "lat": 37.395895,
+      "lng": -8.442622,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Nave Redonda Nave Redonda",
+      "active": true,
+      "sadoId": "20261362222",
+      "sharepointId": 20261362222,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 116.094926856947,
+          "agricola": 0.0530342062473297,
+          "mato": 320.800267007875,
+          "total": 437.96137921586
+        },
+        "altitude": 145.381,
+        "incendio": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Nave Redonda (Malhadal Novo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 6,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790266205
+      },
+      "updated": {
+        "sec": 1790687704
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261388128"
+      },
+      "id": "20261388128",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790692380
+      },
+      "date": "29-09-2026",
+      "hour": "15:33",
+      "location": "Leiria, Leiria, Marrazes E Barosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Marrazes E Barosa",
+      "dico": "1009",
+      "lat": 39.75678,
+      "lng": -8.85986,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "União Das Freguesias De Marrazes E Barosa Rua Do Vale Da Arieira 385, 2400-491 Leiria, Portugal",
+      "active": true,
+      "sadoId": "20261388128",
+      "sharepointId": 20261388128,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 1.64,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1.64
+        },
+        "altitude": 68.3869,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Vale da Arieira 385. 2400-491 Leiria. Portugal (Prefabe)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1240916,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790692805
+      },
+      "updated": {
+        "sec": 1790750006
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261393128"
+      },
+      "id": "20261393128",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790776260
+      },
+      "date": "30-09-2026",
+      "hour": "14:51",
+      "location": "Faro, Aljezur, Rogil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 12,
+      "terrain": 3,
+      "district": "Faro",
+      "concelho": "Aljezur",
+      "freguesia": "Rogil",
+      "dico": "0803",
+      "lat": 37.371167,
+      "lng": -8.805,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Rogil  ---",
+      "active": true,
+      "sadoId": "20261393128",
+      "sharepointId": 20261393128,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rogil (Pedras Pretas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 6,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790776868
+      },
+      "updated": {
+        "sec": 1790780523
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261393322"
+      },
+      "id": "20261393322",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790778300
+      },
+      "date": "30-09-2026",
+      "hour": "15:25",
+      "location": "Porto, Vila do Conde, Vairão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Do Conde",
+      "freguesia": "Vairão",
+      "dico": "1316",
+      "lat": 41.327685,
+      "lng": -8.666594,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Rua Da Boca",
+      "active": true,
+      "sadoId": "20261393322",
+      "sharepointId": 20261393322,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Rua da Boca (Senhor do Calvário)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1200545,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200545,
+        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
+        "stationDistance": 10.5,
+        "temperatura": 20.2,
+        "humidade": 75,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 2230.8,
+        "pressao": 1019.8,
+        "date": "2026-09-30T14:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790779203
+      },
+      "updated": {
+        "sec": 1790780523
+      }
+    }
+  ]
 }
