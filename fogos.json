@@ -1,5 +1,539 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261362222"
+      },
+      "id": "20261362222",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790265060
+      },
+      "date": "24-09-2026",
+      "hour": "16:51",
+      "location": "Beja, Odemira, Sabóia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "Sabóia",
+      "dico": "0211",
+      "lat": 37.395895,
+      "lng": -8.442622,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Nave Redonda Nave Redonda",
+      "active": true,
+      "sadoId": "20261362222",
+      "sharepointId": 20261362222,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 116.094926856947,
+          "agricola": 0.0530342062473297,
+          "mato": 320.800267007875,
+          "total": 437.96137921586
+        },
+        "altitude": 145.381,
+        "incendio": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "Nave Redonda (Malhadal Novo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 6,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790266205
+      },
+      "updated": {
+        "sec": 1790687704
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261388128"
+      },
+      "id": "20261388128",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790692380
+      },
+      "date": "29-09-2026",
+      "hour": "15:33",
+      "location": "Leiria, Leiria, Marrazes E Barosa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Marrazes E Barosa",
+      "dico": "1009",
+      "lat": 39.75678,
+      "lng": -8.85986,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "União Das Freguesias De Marrazes E Barosa Rua Do Vale Da Arieira 385, 2400-491 Leiria, Portugal",
+      "active": true,
+      "sadoId": "20261388128",
+      "sharepointId": 20261388128,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 1.64,
+          "agricola": 0,
+          "mato": 0,
+          "total": 1.64
+        },
+        "altitude": 68.3869,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Vale da Arieira 385. 2400-491 Leiria. Portugal (Prefabe)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1240916,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790692805
+      },
+      "updated": {
+        "sec": 1790750006
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261401665"
+      },
+      "id": "20261401665",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790934540
+      },
+      "date": "02-10-2026",
+      "hour": "10:49",
+      "location": "Leiria, Pombal, Pombal",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Pombal",
+      "dico": "1015",
+      "lat": 39.921378,
+      "lng": -8.632888,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Pombal Parque Industrial Da Formiga",
+      "active": true,
+      "sadoId": "20261401665",
+      "sharepointId": 20261401665,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.003,
+          "total": 0.003
+        },
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Parque Industrial da Formiga (Ponte do Aduguete)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 6213621,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213621,
+        "stationLocation": "Soure (CIM)",
+        "stationDistance": 16.2,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-02T11:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790935219
+      },
+      "updated": {
+        "sec": 1790938877
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261402196"
+      },
+      "id": "20261402196",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790941380
+      },
+      "date": "02-10-2026",
+      "hour": "12:43",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Oliveira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Oliveira",
+      "dico": "1601",
+      "lat": 41.821898,
+      "lng": -8.391528,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Oliveira Latlong(41.82251000,-8.39035000) - Rua De Roem, 4970 Arcos De Valdevez, Portugal",
+      "active": true,
+      "sadoId": "20261402196",
+      "sharepointId": 20261402196,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.82251000.-8.39035000) - Rua de Roem. 4970 Arcos de Valdevez. Portugal (Tojeira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211216,
+      "isFire": true,
+      "weather": {
+        "stationId": 6211216,
+        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
+        "stationDistance": 4.4,
+        "temperatura": 21.9,
+        "humidade": 61,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1022.6,
+        "date": "2026-10-02T12:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790942421
+      },
+      "updated": {
+        "sec": 1790946303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261402198"
+      },
+      "id": "20261402198",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790941440
+      },
+      "date": "02-10-2026",
+      "hour": "12:44",
+      "location": "Leiria, Pombal, Guia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Guia",
+      "dico": "1015",
+      "lat": 39.93889,
+      "lng": -8.774652,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "União Das Freguesias De Guia, Ilha E Mata Mourisca Moitas Brancas, Pombal, Portugal",
+      "active": true,
+      "sadoId": "20261402198",
+      "sharepointId": 20261402198,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 18,
+        "temperatura": 25.5,
+        "humidade": 58,
+        "intensidadeVento": 1.9,
+        "intensidadeVentoKM": 6.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 1818.3,
+        "pressao": 1020.5,
+        "date": "2026-10-02T12:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790942704
+      },
+      "updated": {
+        "sec": 1790945105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261402255"
+      },
+      "id": "20261402255",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790942220
+      },
+      "date": "02-10-2026",
+      "hour": "12:57",
+      "location": "Lisboa, Odivelas, Ramada E Caneças",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 15,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Odivelas",
+      "freguesia": "Ramada E Caneças",
+      "dico": "1116",
+      "lat": 38.810577,
+      "lng": -9.232468,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Caneças Rua Major Rosa Bastos 42",
+      "active": true,
+      "sadoId": "20261402255",
+      "sharepointId": 20261402255,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Major Rosa Bastos 42 (Ribeira de Caneças)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 6215302,
+      "isFire": true,
+      "weather": {
+        "stationId": 6215302,
+        "stationLocation": "Lisboa, Carnide (CML)",
+        "stationDistance": 5.7,
+        "temperatura": 25.1,
+        "humidade": 51,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1019.4,
+        "date": "2026-10-02T12:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790942728
+      },
+      "updated": {
+        "sec": 1790946303
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261402391"
+      },
+      "id": "20261402391",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790943720
+      },
+      "date": "02-10-2026",
+      "hour": "13:22",
+      "location": "Santarém, Rio Maior, Azambujeira E Malaqueijo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 23,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Rio Maior",
+      "freguesia": "Azambujeira E Malaqueijo",
+      "dico": "1414",
+      "lat": 39.299057,
+      "lng": -8.833938,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Malaqueijo  ---",
+      "active": true,
+      "sadoId": "20261402391",
+      "sharepointId": 20261402391,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Malaqueijo",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 10.3,
+        "temperatura": 26.7,
+        "humidade": 47,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
+        "radiacao": 1776.8,
+        "pressao": null,
+        "date": "2026-10-02T12:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "STM",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-03T12:00:00",
+          "endTime": "2026-10-03T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1790944204
+      },
+      "updated": {
+        "sec": 1790946303
+      }
+    }
+  ]
 }
