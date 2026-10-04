@@ -62,7 +62,16 @@
       "nearestWeatherStationId": 6,
       "isFire": true,
       "weather": null,
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "BJA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T12:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
       "created": {
         "sec": 1790266205
       },
@@ -182,7 +191,7 @@
           "mato": 0.772,
           "total": 0.772
         },
-        "altitude": 0,
+        "altitude": 188.063,
         "fogacho": true,
         "fontealerta": "Populares"
       },
@@ -200,12 +209,21 @@
       "nearestWeatherStationId": 6,
       "isFire": true,
       "weather": null,
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "BJA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T12:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
       "created": {
         "sec": 1791029704
       },
       "updated": {
-        "sec": 1791048605
+        "sec": 1791082812
       }
     },
     {
@@ -245,7 +263,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 330.974,
         "agricola": true,
         "fontealerta": "112"
       },
@@ -266,8 +284,8 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 8.4,
-        "temperatura": 18.3,
-        "humidade": 84,
+        "temperatura": 14.7,
+        "humidade": 93,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -275,91 +293,14 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-03T23:00:00.000000Z"
+        "date": "2026-10-04T05:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1791039005
       },
       "updated": {
-        "sec": 1791054029
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261408790"
-      },
-      "id": "20261408790",
-      "coords": true,
-      "dateTime": {
-        "sec": 1791049080
-      },
-      "date": "03-10-2026",
-      "hour": "18:38",
-      "location": "Santarém, Chamusca, Ulme",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 4,
-      "district": "Santarém",
-      "concelho": "Chamusca",
-      "freguesia": "Ulme",
-      "dico": "1407",
-      "lat": 39.30254,
-      "lng": -8.468612,
-      "naturezaCode": "3101",
-      "natureza": "Povoamento Florestal",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Ulme Pereiro",
-      "active": true,
-      "sadoId": "20261408790",
-      "sharepointId": 20261408790,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Pereiro (MURTA)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210735,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210735,
-        "stationLocation": "Chamusca / Chouto",
-        "stationDistance": 10.8,
-        "temperatura": 17.2,
-        "humidade": 100,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1019.6,
-        "date": "2026-10-03T23:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1791049503
-      },
-      "updated": {
-        "sec": 1791065704
+        "sec": 1791082828
       }
     },
     {
@@ -376,8 +317,8 @@
       "location": "Santarém, Chamusca, Ulme",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 1,
+      "man": 12,
+      "terrain": 3,
       "district": "Santarém",
       "concelho": "Chamusca",
       "freguesia": "Ulme",
@@ -388,9 +329,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Ulme  ---",
       "active": true,
@@ -399,7 +340,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 51.4719,
         "fogacho": true,
         "fontealerta": "RNPV"
       },
@@ -420,7 +361,7 @@
         "stationId": 1210735,
         "stationLocation": "Chamusca / Chouto",
         "stationDistance": 8.6,
-        "temperatura": 17.2,
+        "temperatura": 16.9,
         "humidade": 100,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
@@ -428,59 +369,64 @@
         "direccVento": null,
         "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1019.6,
-        "date": "2026-10-03T23:00:00.000000Z"
+        "pressao": 1018.1,
+        "date": "2026-10-04T05:00:00.000000Z"
       },
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "STM",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T12:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
       "created": {
         "sec": 1791053706
       },
       "updated": {
-        "sec": 1791055802
+        "sec": 1791094203
       }
     },
     {
       "_id": {
-        "$id": "20261409996"
+        "$id": "20261410517"
       },
-      "id": "20261409996",
+      "id": "20261410517",
       "coords": true,
       "dateTime": {
-        "sec": 1791069780
+        "sec": 1791091680
       },
       "date": "04-10-2026",
-      "hour": "00:23",
-      "location": "Viseu, Resende, Anreade E São Romão De Aregos",
+      "hour": "06:28",
+      "location": "Braga, Barcelos, Martim",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 10,
-      "terrain": 2,
-      "district": "Viseu",
-      "concelho": "Resende",
-      "freguesia": "Anreade E São Romão De Aregos",
-      "dico": "1813",
-      "lat": 41.104695,
-      "lng": -7.988305,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 0,
+      "terrain": 0,
+      "district": "Braga",
+      "concelho": "Barcelos",
+      "freguesia": "Martim",
+      "dico": "0302",
+      "lat": 41.534657,
+      "lng": -8.517396,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
       "important": false,
-      "localidade": "Anreade Anreade",
+      "localidade": "Martim En 103",
       "active": true,
-      "sadoId": "20261409996",
-      "sharepointId": 20261409996,
+      "sadoId": "20261410517",
+      "sharepointId": 20261410517,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Anreade (Anreade/Adega)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -490,107 +436,30 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 6213013,
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 1210622,
       "isFire": true,
       "weather": {
-        "stationId": 6213013,
-        "stationLocation": "Castro Daire / Mézio (CIM)",
-        "stationDistance": 16.3,
-        "temperatura": 13.9,
-        "humidade": 87,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-10-03T23:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1791070505
-      },
-      "updated": {
-        "sec": 1791074104
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261410105"
-      },
-      "id": "20261410105",
-      "coords": true,
-      "dateTime": {
-        "sec": 1791072720
-      },
-      "date": "04-10-2026",
-      "hour": "01:12",
-      "location": "Santarém, Santarém, Azoia De Cima E Tremês",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Santarém",
-      "concelho": "Santarém",
-      "freguesia": "Azoia De Cima E Tremês",
-      "dico": "1416",
-      "lat": 39.354418,
-      "lng": -8.730385,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Azóia De Cima Em 594-3 Advagar",
-      "active": true,
-      "sadoId": "20261410105",
-      "sharepointId": 20261410105,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "EM 594-3 Advagar (Vale Capitão)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Lezíria do Tejo",
-      "nearestWeatherStationId": 1210734,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210734,
-        "stationLocation": "Santarém, Fonte Boa",
-        "stationDistance": 17,
-        "temperatura": 20.6,
-        "humidade": 72,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
+        "stationId": 1210622,
+        "stationLocation": "Braga, Merelim",
+        "stationDistance": 6.6,
+        "temperatura": 15.3,
+        "humidade": 95,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
         "pressao": 1019.4,
-        "date": "2026-10-03T23:00:00.000000Z"
+        "date": "2026-10-04T05:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
-        "sec": 1791073502
+        "sec": 1791092703
       },
       "updated": {
-        "sec": 1791073540
+        "sec": 1791094805
       }
     }
   ]
