@@ -68,7 +68,7 @@
           "awarenessTypeName": "Trovoada",
           "idAreaAviso": "LRA",
           "awarenessLevelID": "yellow",
-          "startTime": "2026-10-04T12:00:00",
+          "startTime": "2026-10-04T17:00:00",
           "endTime": "2026-10-04T21:00:00"
         }
       ],
@@ -137,8 +137,8 @@
         "stationId": 1210726,
         "stationLocation": "Alcobaça",
         "stationDistance": 8.4,
-        "temperatura": 25.2,
-        "humidade": 61,
+        "temperatura": 28.3,
+        "humidade": 48,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -146,7 +146,7 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-04T11:00:00.000000Z"
+        "date": "2026-10-04T16:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -154,7 +154,7 @@
           "awarenessTypeName": "Trovoada",
           "idAreaAviso": "LRA",
           "awarenessLevelID": "yellow",
-          "startTime": "2026-10-04T12:00:00",
+          "startTime": "2026-10-04T17:00:00",
           "endTime": "2026-10-04T21:00:00"
         }
       ],
@@ -167,38 +167,210 @@
     },
     {
       "_id": {
-        "$id": "20261412036"
+        "$id": "20261412748"
       },
-      "id": "20261412036",
+      "id": "20261412748",
       "coords": true,
       "dateTime": {
-        "sec": 1791115020
+        "sec": 1791124200
       },
       "date": "04-10-2026",
-      "hour": "12:57",
-      "location": "Portalegre, Arronches, Assunção",
+      "hour": "15:30",
+      "location": "Leiria, Pombal, Pombal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Portalegre",
-      "concelho": "Arronches",
-      "freguesia": "Assunção",
-      "dico": "1202",
-      "lat": 39.04709,
-      "lng": -7.179123,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
+      "man": 12,
+      "terrain": 3,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Pombal",
+      "dico": "1015",
+      "lat": 39.919638,
+      "lng": -8.633985,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Reguengo  ---",
+      "localidade": "Pombal Zi Formiga",
       "active": true,
-      "sadoId": "20261412036",
-      "sharepointId": 20261412036,
+      "sadoId": "20261412748",
+      "sharepointId": 20261412748,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Sociedade Interbancaria de Serviços S a Sibs. Rua Manuel da Mota. 3100 Pombal. Portugal (Matadouro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 6213621,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213621,
+        "stationLocation": "Soure (CIM)",
+        "stationDistance": 16.4,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 7.1,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-04T15:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T17:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1791125102
+      },
+      "updated": {
+        "sec": 1791128703
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261412805"
+      },
+      "id": "20261412805",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791125280
+      },
+      "date": "04-10-2026",
+      "hour": "15:48",
+      "location": "Viseu, Viseu, Abraveses",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Viseu",
+      "concelho": "Viseu",
+      "freguesia": "Abraveses",
+      "dico": "1823",
+      "lat": 40.691687,
+      "lng": -7.90422,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Moure Da Madalena  ---",
+      "active": true,
+      "sadoId": "20261412805",
+      "sharepointId": 20261412805,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(40.69031104.-7.90511955) - IP5. 3515 Viseu. Portugal (Quinta do Corgo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 1200560,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200560,
+        "stationLocation": "Viseu (C.Coordenação)",
+        "stationDistance": 2.7,
+        "temperatura": 23.6,
+        "humidade": 50,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.4,
+        "date": "2026-10-04T13:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "VIS",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T17:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1791126019
+      },
+      "updated": {
+        "sec": 1791132902
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261412807"
+      },
+      "id": "20261412807",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791125280
+      },
+      "date": "04-10-2026",
+      "hour": "15:48",
+      "location": "Setúbal, Alcácer do Sal, Santa Susana",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 20,
+      "terrain": 6,
+      "district": "Setúbal",
+      "concelho": "Alcácer Do Sal",
+      "freguesia": "Santa Susana",
+      "dico": "1501",
+      "lat": 38.429052,
+      "lng": -8.338267,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Santa Susana Freixial",
+      "active": true,
+      "sadoId": "20261412807",
+      "sharepointId": 20261412807,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -212,23 +384,100 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "nearestWeatherStationId": 1210835,
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 1210776,
       "isFire": true,
       "weather": {
-        "stationId": 1210835,
-        "stationLocation": "Elvas",
-        "stationDistance": 17.7,
-        "temperatura": 18.1,
-        "humidade": 91,
-        "intensidadeVento": 4.2,
-        "intensidadeVentoKM": 15.1,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0.8,
-        "radiacao": 13,
+        "stationId": 1210776,
+        "stationLocation": "Alcácer do Sal, Barrosinha",
+        "stationDistance": 14.4,
+        "temperatura": 28.8,
+        "humidade": 44,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
         "pressao": null,
-        "date": "2026-10-04T11:00:00.000000Z"
+        "date": "2026-10-04T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1791126304
+      },
+      "updated": {
+        "sec": 1791130805
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261412850"
+      },
+      "id": "20261412850",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791125940
+      },
+      "date": "04-10-2026",
+      "hour": "15:59",
+      "location": "Portalegre, Nisa, Alpalhão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 27,
+      "terrain": 9,
+      "district": "Portalegre",
+      "concelho": "Nisa",
+      "freguesia": "Alpalhão",
+      "dico": "1212",
+      "lat": 39.409725,
+      "lng": -7.620422,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ip2 - Variante Alpalhão  ---",
+      "active": true,
+      "sadoId": "20261412850",
+      "sharepointId": 20261412850,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "IP2 - VARIANTE ALPALHÃO (Quinta da Loba)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alto Alentejo",
+      "nearestWeatherStationId": 1200571,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200571,
+        "stationLocation": "Portalegre",
+        "stationDistance": 21.4,
+        "temperatura": 22.7,
+        "humidade": 45,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1017.3,
+        "date": "2026-10-04T16:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -236,51 +485,137 @@
           "awarenessTypeName": "Trovoada",
           "idAreaAviso": "PTG",
           "awarenessLevelID": "yellow",
-          "startTime": "2026-10-04T11:26:00",
+          "startTime": "2026-10-04T14:28:00",
           "endTime": "2026-10-04T21:00:00"
         }
       ],
       "created": {
-        "sec": 1791115505
+        "sec": 1791126603
       },
       "updated": {
-        "sec": 1791116103
+        "sec": 1791133219
       }
     },
     {
       "_id": {
-        "$id": "20261412120"
+        "$id": "20261412854"
       },
-      "id": "20261412120",
+      "id": "20261412854",
       "coords": true,
       "dateTime": {
-        "sec": 1791116340
+        "sec": 1791126000
       },
       "date": "04-10-2026",
-      "hour": "13:19",
-      "location": "Lisboa, Lourinhã, Miragaia E Marteleira",
-      "aerial": 1,
+      "hour": "16:00",
+      "location": "Coimbra, Figueira da Foz, Quiaios",
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 21,
-      "terrain": 3,
-      "district": "Lisboa",
-      "concelho": "Lourinhã",
-      "freguesia": "Miragaia E Marteleira",
-      "dico": "1108",
-      "lat": 39.235841,
-      "lng": -9.262346,
+      "man": 37,
+      "terrain": 11,
+      "district": "Coimbra",
+      "concelho": "Figueira Da Foz",
+      "freguesia": "Quiaios",
+      "dico": "0605",
+      "lat": 40.2046,
+      "lng": -8.89592,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Miragaia Miragaia",
+      "localidade": "Quiaios Rua Do Farol Novo",
       "active": true,
-      "sadoId": "20261412120",
-      "sharepointId": 20261412120,
+      "sadoId": "20261412854",
+      "sharepointId": 20261412854,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Farol Novo (Prazo de Santa Marinha)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210713,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210713,
+        "stationLocation": "Figueira da Foz, Vila Verde",
+        "stationDistance": 10.5,
+        "temperatura": 25.4,
+        "humidade": 54,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-04T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T17:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1791126628
+      },
+      "updated": {
+        "sec": 1791131104
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261412893"
+      },
+      "id": "20261412893",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791126660
+      },
+      "date": "04-10-2026",
+      "hour": "16:11",
+      "location": "Bragança, Macedo de Cavaleiros, Espadanedo, Edroso, Murçós E Soutelo Mourisco",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Bragança",
+      "concelho": "Macedo De Cavaleiros",
+      "freguesia": "Espadanedo, Edroso, Murçós E Soutelo Mourisco",
+      "dico": "0405",
+      "lat": 41.685525,
+      "lng": -6.96051,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Murços  ---",
+      "active": true,
+      "sadoId": "20261412893",
+      "sharepointId": 20261412893,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -288,7 +623,170 @@
         "fogacho": true,
         "fontealerta": "RNPV"
       },
-      "detailLocation": "Miragaia",
+      "detailLocation": "MURÇOS",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1210612,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210612,
+        "stationLocation": "Vinhais",
+        "stationDistance": 17.9,
+        "temperatura": 23.7,
+        "humidade": 45,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-04T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1791127203
+      },
+      "updated": {
+        "sec": 1791133219
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261412894"
+      },
+      "id": "20261412894",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791126720
+      },
+      "date": "04-10-2026",
+      "hour": "16:12",
+      "location": "Coimbra, Penacova, Friúmes E Paradela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 5,
+      "district": "Coimbra",
+      "concelho": "Penacova",
+      "freguesia": "Friúmes E Paradela",
+      "dico": "0613",
+      "lat": 40.25785,
+      "lng": -8.2274,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Moinhos Da Atalhada  ---",
+      "active": true,
+      "sadoId": "20261412894",
+      "sharepointId": 20261412894,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Moinhos da Atalhada. 3360 Penacova. Portugal (Moinhos da Serra da Atalhada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 6213617,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213617,
+        "stationLocation": "Penacova / Hombres (CIM)",
+        "stationDistance": 3.5,
+        "temperatura": null,
+        "humidade": 85,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-04T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T17:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1791127224
+      },
+      "updated": {
+        "sec": 1791129620
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261413071"
+      },
+      "id": "20261413071",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791129240
+      },
+      "date": "04-10-2026",
+      "hour": "16:54",
+      "location": "Santarém, Tomar, Serra",
+      "aerial": 2,
+      "meios_aquaticos": 0,
+      "man": 32,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Tomar",
+      "freguesia": "Serra",
+      "dico": "1418",
+      "lat": 39.608697,
+      "lng": -8.296123,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Barreiras  ---",
+      "active": true,
+      "sadoId": "20261413071",
+      "sharepointId": 20261413071,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Barreiras (Cortes)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -298,75 +796,75 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Oeste",
-      "nearestWeatherStationId": 1210746,
+      "sub_regiao": "Médio Tejo",
+      "nearestWeatherStationId": 1210724,
       "isFire": true,
       "weather": {
-        "stationId": 1210746,
-        "stationLocation": "Santa Cruz (Aeródromo)",
-        "stationDistance": 15.8,
-        "temperatura": 17,
-        "humidade": 93,
-        "intensidadeVento": 2.6,
-        "intensidadeVentoKM": 9.4,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": 679.7,
-        "pressao": 1018.3,
-        "date": "2026-10-04T11:00:00.000000Z"
+        "stationId": 1210724,
+        "stationLocation": "Tomar, Valdonas",
+        "stationDistance": 6.1,
+        "temperatura": 26.6,
+        "humidade": 56,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-04T13:00:00.000000Z"
       },
       "weatherWarnings": [
         {
           "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
           "awarenessTypeName": "Trovoada",
-          "idAreaAviso": "LSB",
+          "idAreaAviso": "STM",
           "awarenessLevelID": "yellow",
-          "startTime": "2026-10-04T12:00:00",
+          "startTime": "2026-10-04T14:28:00",
           "endTime": "2026-10-04T21:00:00"
         }
       ],
       "created": {
-        "sec": 1791117305
+        "sec": 1791129620
       },
       "updated": {
-        "sec": 1791117349
+        "sec": 1791132305
       }
     },
     {
       "_id": {
-        "$id": "20261412163"
+        "$id": "20261413066"
       },
-      "id": "20261412163",
+      "id": "20261413066",
       "coords": true,
       "dateTime": {
-        "sec": 1791117000
+        "sec": 1791129180
       },
       "date": "04-10-2026",
-      "hour": "13:30",
-      "location": "Aveiro, Águeda, Macinhata Do Vouga",
-      "aerial": 1,
+      "hour": "16:53",
+      "location": "Leiria, Marinha Grande, Marinha Grande",
+      "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 0,
-      "district": "Aveiro",
-      "concelho": "Águeda",
-      "freguesia": "Macinhata Do Vouga",
-      "dico": "0101",
-      "lat": 40.67871,
-      "lng": -8.4394,
+      "man": 21,
+      "terrain": 6,
+      "district": "Leiria",
+      "concelho": "Marinha Grande",
+      "freguesia": "Marinha Grande",
+      "dico": "1010",
+      "lat": 39.765008,
+      "lng": -8.918107,
       "naturezaCode": "3101",
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Macinhata Do Vouga Latlong(40.67871000,-8.43940000) - Autoestrada Beiras Litoral E Alta, 3750 Águeda, Portugal",
+      "localidade": "Marinha Grande Cemitério De Casal Galego, M535, 2430-085 Marinha Grande, Portugal",
       "active": true,
-      "sadoId": "20261412163",
-      "sharepointId": 20261412163,
+      "sadoId": "20261413066",
+      "sharepointId": 20261413066,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -380,30 +878,125 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210702,
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
       "isFire": true,
       "weather": {
-        "stationId": 1210702,
-        "stationLocation": "Aveiro (Universidade)",
-        "stationDistance": 19.2,
-        "temperatura": 22.4,
-        "humidade": 71,
-        "intensidadeVento": 2.5,
-        "intensidadeVentoKM": 9,
-        "idDireccVento": 8,
-        "direccVento": "NW",
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 8.7,
+        "temperatura": 27.8,
+        "humidade": 55,
+        "intensidadeVento": 1.6,
+        "intensidadeVentoKM": 5.8,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
-        "radiacao": 2088,
-        "pressao": 1019.4,
-        "date": "2026-10-04T11:00:00.000000Z"
+        "radiacao": 1492,
+        "pressao": 1016.9,
+        "date": "2026-10-04T16:00:00.000000Z"
       },
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T17:00:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
       "created": {
-        "sec": 1791117305
+        "sec": 1791129902
       },
       "updated": {
-        "sec": 1791117351
+        "sec": 1791132902
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261413255"
+      },
+      "id": "20261413255",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791132180
+      },
+      "date": "04-10-2026",
+      "hour": "17:43",
+      "location": "Santarém, Rio Maior, Asseiceira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Santarém",
+      "concelho": "Rio Maior",
+      "freguesia": "Asseiceira",
+      "dico": "1414",
+      "lat": 39.29866,
+      "lng": -8.92477,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Asseiceira Rua De Santo André 30",
+      "active": true,
+      "sadoId": "20261413255",
+      "sharepointId": 20261413255,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua de Santo André 30 (Panasqueira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210729,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210729,
+        "stationLocation": "Rio Maior",
+        "stationDistance": 5.8,
+        "temperatura": 29.7,
+        "humidade": 45,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 1659.7,
+        "pressao": null,
+        "date": "2026-10-04T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Condições favoráveis para ocorrência de fenómenos meteorológicos localizados, como: trovoada; precipitação localmente forte, com acumulação entre 10 a 20 mm em 1 h; granizo com diâmetro inferior a 2 cm; rajadas entre 70 e 90 km/h.",
+          "awarenessTypeName": "Trovoada",
+          "idAreaAviso": "STM",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-04T14:28:00",
+          "endTime": "2026-10-04T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1791132925
+      },
+      "updated": {
+        "sec": 1791133219
       }
     }
   ]
