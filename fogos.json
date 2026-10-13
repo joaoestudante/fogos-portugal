@@ -1,5 +1,82 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261354693"
+      },
+      "id": "20261354693",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790157840
+      },
+      "date": "23-09-2026",
+      "hour": "11:04",
+      "location": "Beja, Odemira, São Teotónio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "São Teotónio",
+      "dico": "0211",
+      "lat": 37.485668,
+      "lng": -8.722272,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "São Teotónio N120 Vale Juncal",
+      "active": true,
+      "sadoId": "20261354693",
+      "sharepointId": 20261354693,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 158.785,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N120 Vale Juncal (Cabanita)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 1210577,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210577,
+        "stationLocation": "Odemira, S.Teotónio",
+        "stationDistance": 6.9,
+        "temperatura": 14.6,
+        "humidade": null,
+        "intensidadeVento": 0,
+        "intensidadeVentoKM": 0,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-10-13T00:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790159405
+      },
+      "updated": {
+        "sec": 1791358802
+      }
+    }
+  ]
 }
