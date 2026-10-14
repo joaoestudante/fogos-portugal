@@ -1,5 +1,159 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261354693"
+      },
+      "id": "20261354693",
+      "coords": true,
+      "dateTime": {
+        "sec": 1790157840
+      },
+      "date": "23-09-2026",
+      "hour": "11:04",
+      "location": "Beja, Odemira, São Teotónio",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Odemira",
+      "freguesia": "São Teotónio",
+      "dico": "0211",
+      "lat": 37.485668,
+      "lng": -8.722272,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "São Teotónio N120 Vale Juncal",
+      "active": true,
+      "sadoId": "20261354693",
+      "sharepointId": 20261354693,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 158.785,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N120 Vale Juncal (Cabanita)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Litoral",
+      "nearestWeatherStationId": 1210577,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210577,
+        "stationLocation": "Odemira, S.Teotónio",
+        "stationDistance": 6.9,
+        "temperatura": 17.1,
+        "humidade": 99,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-10-13T23:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1790159405
+      },
+      "updated": {
+        "sec": 1791358802
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261458796"
+      },
+      "id": "20261458796",
+      "coords": true,
+      "dateTime": {
+        "sec": 1791931200
+      },
+      "date": "13-10-2026",
+      "hour": "23:40",
+      "location": "Porto, Penafiel, Duas Igrejas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Penafiel",
+      "freguesia": "Duas Igrejas",
+      "dico": "1311",
+      "lat": 41.18151,
+      "lng": -8.266798,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Perafita Perafita",
+      "active": true,
+      "sadoId": "20261458796",
+      "sharepointId": 20261458796,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Perafita (Linhares)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210657,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210657,
+        "stationLocation": "Luzim",
+        "stationDistance": 4.2,
+        "temperatura": 15.7,
+        "humidade": 94,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-10-13T23:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1791931803
+      },
+      "updated": {
+        "sec": 1791933003
+      }
+    }
+  ]
 }
