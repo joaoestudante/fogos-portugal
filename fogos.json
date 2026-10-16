@@ -1,5 +1,161 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261466541"
+      },
+      "id": "20261466541",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792067400
+      },
+      "date": "15-10-2026",
+      "hour": "13:30",
+      "location": "Leiria, Leiria, Colmeias E Memória",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Colmeias E Memória",
+      "dico": "1009",
+      "lat": 39.833193,
+      "lng": -8.70138,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Colmeias  Rua Do Val, Casal De Além",
+      "active": true,
+      "sadoId": "20261466541",
+      "sharepointId": 20261466541,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.235,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.235
+        },
+        "altitude": 139.519,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Val. Casal de Além (Estrada de Bouça)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 11.6,
+        "temperatura": 13.4,
+        "humidade": 100,
+        "intensidadeVento": 0.5,
+        "intensidadeVentoKM": 1.8,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 143,
+        "pressao": 1023.4,
+        "date": "2026-10-16T08:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792068004
+      },
+      "updated": {
+        "sec": 1792133105
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261470400"
+      },
+      "id": "20261470400",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792140000
+      },
+      "date": "16-10-2026",
+      "hour": "09:40",
+      "location": "Faro, Portimão, Portimão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Faro",
+      "concelho": "Portimão",
+      "freguesia": "Portimão",
+      "dico": "0811",
+      "lat": 37.226235,
+      "lng": -8.542089,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Rasmalho  ---",
+      "active": true,
+      "sadoId": "20261470400",
+      "sharepointId": 20261470400,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Algarve",
+      "sub_regiao": "Algarve",
+      "nearestWeatherStationId": 1210878,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210878,
+        "stationLocation": "Portimão (Aeródromo)",
+        "stationDistance": 9.2,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 0.4,
+        "intensidadeVentoKM": 1.4,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-16T08:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792140904
+      },
+      "updated": {
+        "sec": 1792141218
+      }
+    }
+  ]
 }
