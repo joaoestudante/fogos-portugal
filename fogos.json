@@ -1,5 +1,311 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261477272"
+      },
+      "id": "20261477272",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792246440
+      },
+      "date": "17-10-2026",
+      "hour": "15:14",
+      "location": "Leiria, Pombal, Vila Cã",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Vila Cã",
+      "dico": "1015",
+      "lat": 39.816141,
+      "lng": -8.541875,
+      "naturezaCode": "3101",
+      "natureza": "Povoamento Florestal",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Viuveiro Dos Lobos Rua Da Mina 24, 3100-836 Pombal, Portugal",
+      "active": true,
+      "sadoId": "20261477272",
+      "sharepointId": 20261477272,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0.21,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.21
+        },
+        "altitude": 250.099,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Mina 24. 3100-836 Pombal. Portugal (Viuveiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210716,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210716,
+        "stationLocation": "Ansião",
+        "stationDistance": 15.3,
+        "temperatura": 10.7,
+        "humidade": 74,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-19T22:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792247103
+      },
+      "updated": {
+        "sec": 1792322403
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261477296"
+      },
+      "id": "20261477296",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792246800
+      },
+      "date": "17-10-2026",
+      "hour": "15:20",
+      "location": "Leiria, Leiria, Santa Catarina Da Serra E Chainça",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Santa Catarina Da Serra E Chainça",
+      "dico": "1009",
+      "lat": 39.683253,
+      "lng": -8.686182,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Santa Catarina Da Serra Rua Do Quintal 7",
+      "active": true,
+      "sadoId": "20261477296",
+      "sharepointId": 20261477296,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.29,
+          "total": 0.29
+        },
+        "altitude": 311.947,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Quintal 7 (A1-N-S Km 121)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210723,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792247705
+      },
+      "updated": {
+        "sec": 1792292426
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261487146"
+      },
+      "id": "20261487146",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792423800
+      },
+      "date": "19-10-2026",
+      "hour": "16:30",
+      "location": "Porto, Baião, Valadares",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Baião",
+      "freguesia": "Valadares",
+      "dico": "1302",
+      "lat": 41.147465,
+      "lng": -7.993532,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Rua De Rossadas",
+      "active": true,
+      "sadoId": "20261487146",
+      "sharepointId": 20261487146,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua de Rossadas (Roçadas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 6213013,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213013,
+        "stationLocation": "Castro Daire / Mézio (CIM)",
+        "stationDistance": 20.7,
+        "temperatura": 12.8,
+        "humidade": 55,
+        "intensidadeVento": 4.1,
+        "intensidadeVentoKM": 14.8,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-19T14:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792425306
+      },
+      "updated": {
+        "sec": 1792436450
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261488434"
+      },
+      "id": "20261488434",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792445580
+      },
+      "date": "19-10-2026",
+      "hour": "22:33",
+      "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 5,
+      "district": "Lisboa",
+      "concelho": "Sintra",
+      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "dico": "1111",
+      "lat": 38.740675,
+      "lng": -9.352708,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Manique De Cima Rua Cabeço De Manique",
+      "active": true,
+      "sadoId": "20261488434",
+      "sharepointId": 20261488434,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Cabeço de Manique (Alto do Clérigo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 6215360,
+      "isFire": true,
+      "weather": {
+        "stationId": 6215360,
+        "stationLocation": "Oeiras / Vila Fria (CMO)",
+        "stationDistance": 5.4,
+        "temperatura": 14.1,
+        "humidade": 68,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1013.2,
+        "date": "2026-10-19T22:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792446302
+      },
+      "updated": {
+        "sec": 1792450845
+      }
+    }
+  ]
 }
