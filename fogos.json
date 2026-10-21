@@ -44,7 +44,7 @@
           "mato": 0.42,
           "total": 0.42
         },
-        "altitude": 0,
+        "altitude": 24.7744,
         "fogacho": true,
         "fontealerta": "RNPV"
       },
@@ -65,23 +65,23 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 4.9,
-        "temperatura": 8.4,
-        "humidade": 99,
-        "intensidadeVento": 1.3,
-        "intensidadeVentoKM": 4.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": 1021.9,
-        "date": "2026-10-21T00:00:00.000000Z"
+        "temperatura": 10.4,
+        "humidade": 100,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0.9,
+        "radiacao": 2.1,
+        "pressao": 1022.9,
+        "date": "2026-10-21T06:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1792503904
       },
       "updated": {
-        "sec": 1792522836
+        "sec": 1792566096
       }
     },
     {
@@ -121,7 +121,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 108.837,
         "agricola": true,
         "fontealerta": "112"
       },
@@ -144,7 +144,80 @@
         "sec": 1792507504
       },
       "updated": {
-        "sec": 1792522843
+        "sec": 1792566097
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261494026"
+      },
+      "id": "20261494026",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792565340
+      },
+      "date": "21-10-2026",
+      "hour": "07:49",
+      "location": "Porto, Marco de Canaveses, Sobretâmega",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Marco De Canaveses",
+      "freguesia": "Sobretâmega",
+      "dico": "1307",
+      "lat": 41.19721,
+      "lng": -8.16503,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Sobretâmega Rua De Vinhas De Cima",
+      "active": true,
+      "sadoId": "20261494026",
+      "sharepointId": 20261494026,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Tâmega e Sousa",
+      "nearestWeatherStationId": 1210657,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210657,
+        "stationLocation": "Luzim",
+        "stationDistance": 9.1,
+        "temperatura": 9.7,
+        "humidade": 95,
+        "intensidadeVento": 0.6,
+        "intensidadeVentoKM": 2.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-10-21T06:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792566903
+      },
+      "updated": {
+        "sec": 1792566944
       }
     }
   ]
