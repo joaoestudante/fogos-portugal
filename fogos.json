@@ -1,5 +1,242 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261491353"
+      },
+      "id": "20261491353",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792503240
+      },
+      "date": "20-10-2026",
+      "hour": "14:34",
+      "location": "Leiria, Leiria, Amor",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Leiria",
+      "freguesia": "Amor",
+      "dico": "1009",
+      "lat": 39.801016,
+      "lng": -8.868723,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Amor  ---",
+      "active": true,
+      "sadoId": "20261491353",
+      "sharepointId": 20261491353,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.42,
+          "total": 0.42
+        },
+        "altitude": 24.7744,
+        "fogacho": true,
+        "fontealerta": "RNPV"
+      },
+      "detailLocation": "AMOR (Artela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 4.9,
+        "temperatura": 4.8,
+        "humidade": 99,
+        "intensidadeVento": 1.5,
+        "intensidadeVentoKM": 5.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 249.5,
+        "pressao": 1026.4,
+        "date": "2026-10-22T08:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Ondas de noroeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-23T09:00:00",
+          "endTime": "2026-10-23T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1792503904
+      },
+      "updated": {
+        "sec": 1792566096
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261491705"
+      },
+      "id": "20261491705",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792506960
+      },
+      "date": "20-10-2026",
+      "hour": "15:36",
+      "location": "Leiria, Batalha, Batalha",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Batalha",
+      "freguesia": "Batalha",
+      "dico": "1004",
+      "lat": 39.668051,
+      "lng": -8.814866,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Rebolaria Rua Do Casal Vieira",
+      "active": true,
+      "sadoId": "20261491705",
+      "sharepointId": 20261491705,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 108.837,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Casal Vieira (Rebolaria)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1240916,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Ondas de noroeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-10-23T09:00:00",
+          "endTime": "2026-10-23T21:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1792507504
+      },
+      "updated": {
+        "sec": 1792566097
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261499675"
+      },
+      "id": "20261499675",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792659360
+      },
+      "date": "22-10-2026",
+      "hour": "09:56",
+      "location": "Lisboa, Vila Franca de Xira, Alverca Do Ribatejo E Sobralinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 3,
+      "district": "Lisboa",
+      "concelho": "Vila Franca De Xira",
+      "freguesia": "Alverca Do Ribatejo E Sobralinho",
+      "dico": "1114",
+      "lat": 38.914898,
+      "lng": -9.028955,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Sobralinho Rua Maxiamiano Oliveira Rego",
+      "active": true,
+      "sadoId": "20261499675",
+      "sharepointId": 20261499675,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Grande Lisboa",
+      "nearestWeatherStationId": 1210580,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210580,
+        "stationLocation": "Lisboa, Relógio",
+        "stationDistance": 19,
+        "temperatura": 12.1,
+        "humidade": 68,
+        "intensidadeVento": 3,
+        "intensidadeVentoKM": 10.8,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-22T08:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792660503
+      },
+      "updated": {
+        "sec": 1792661734
+      }
+    }
+  ]
 }
