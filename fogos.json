@@ -1,5 +1,234 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261510900"
+      },
+      "id": "20261510900",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792849740
+      },
+      "date": "24-10-2026",
+      "hour": "14:49",
+      "location": "Viseu, Mangualde, Tavares (Chãs, Várzea E Travanca)",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Viseu",
+      "concelho": "Mangualde",
+      "freguesia": "Tavares (Chãs, Várzea E Travanca)",
+      "dico": "1806",
+      "lat": 40.591328,
+      "lng": -7.692242,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Vila Cova De Tavares Vila Cova",
+      "active": true,
+      "sadoId": "20261510900",
+      "sharepointId": 20261510900,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 3.5,
+          "total": 3.5
+        },
+        "altitude": 495.746,
+        "incendio": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Vila Cova (Vila Cova de Tavares)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Viseu Dão Lafões",
+      "nearestWeatherStationId": 6213017,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213017,
+        "stationLocation": "Penalva do Castelo (CIM)",
+        "stationDistance": 7.3,
+        "temperatura": 22.4,
+        "humidade": 43,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-10-26T13:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792850419
+      },
+      "updated": {
+        "sec": 1793019618
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261512867"
+      },
+      "id": "20261512867",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792882200
+      },
+      "date": "24-10-2026",
+      "hour": "23:50",
+      "location": "Bragança, Bragança, São Julião De Palácios E Deilão",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Bragança",
+      "concelho": "Bragança",
+      "freguesia": "São Julião De Palácios E Deilão",
+      "dico": "0402",
+      "lat": 41.815017,
+      "lng": -6.593082,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "São Julião  ---",
+      "active": true,
+      "sadoId": "20261512867",
+      "sharepointId": 20261512867,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.25,
+          "total": 0.25
+        },
+        "altitude": 823.903,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "São Julião (Canadas)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Terras de Trás-os-Montes",
+      "nearestWeatherStationId": 1200576,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200576,
+        "stationLocation": "Bragança (Aeródromo)",
+        "stationDistance": 10.6,
+        "temperatura": 18.5,
+        "humidade": 48,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1020.3,
+        "date": "2026-10-26T13:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792883103
+      },
+      "updated": {
+        "sec": 1792900839
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261512887"
+      },
+      "id": "20261512887",
+      "coords": true,
+      "dateTime": {
+        "sec": 1792883100
+      },
+      "date": "25-10-2026",
+      "hour": "00:05",
+      "location": "Aveiro, Espinho, Silvalde",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Aveiro",
+      "concelho": "Espinho",
+      "freguesia": "Silvalde",
+      "dico": "0107",
+      "lat": 40.9863,
+      "lng": -8.63046,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 6,
+      "statusColor": "B81E1F",
+      "status": "Chegada ao TO",
+      "important": false,
+      "localidade": "Silvalde Rua Nova Dos Loureiros",
+      "active": true,
+      "sadoId": "20261512887",
+      "sharepointId": 20261512887,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua José Carvalho 83. 4500-633 Espinho. Portugal (Formal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6900,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1792883705
+      },
+      "updated": {
+        "sec": 1792884903
+      }
+    }
+  ]
 }
