@@ -1,5 +1,82 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261522971"
+      },
+      "id": "20261522971",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793084280
+      },
+      "date": "27-10-2026",
+      "hour": "06:58",
+      "location": "Leiria, Óbidos, Vau",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Vau",
+      "dico": "1012",
+      "lat": 39.39608,
+      "lng": -9.221307,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Vau  Ecovia Da Várzea Da Rainha, 2510 Óbidos, Portugal",
+      "active": true,
+      "sadoId": "20261522971",
+      "sharepointId": 20261522971,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Ecovia da Várzea da Rainha. 2510 Óbidos. Portugal (Caneiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1200531,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200531,
+        "stationLocation": "Cabo Carvoeiro",
+        "stationDistance": 16.1,
+        "temperatura": null,
+        "humidade": 89,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.7,
+        "date": "2026-10-26T17:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793085034
+      },
+      "updated": {
+        "sec": 1793088844
+      }
+    }
+  ]
 }
