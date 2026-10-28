@@ -1,5 +1,78 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261527504"
+      },
+      "id": "20261527504",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793151000
+      },
+      "date": "28-10-2026",
+      "hour": "01:30",
+      "location": "Beja, Ferreira do Alentejo, Figueira Dos Cavaleiros",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 2,
+      "district": "Beja",
+      "concelho": "Ferreira Do Alentejo",
+      "freguesia": "Figueira Dos Cavaleiros",
+      "dico": "0208",
+      "lat": 38.100603,
+      "lng": -8.215495,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Malhada Velha Malhada Velha",
+      "active": true,
+      "sadoId": "20261527504",
+      "sharepointId": 20261527504,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1210783,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210783,
+        "stationLocation": "Alvalade",
+        "stationDistance": 23.2,
+        "temperatura": 12.4,
+        "humidade": 97,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-10-27T23:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793151605
+      },
+      "updated": {
+        "sec": 1793151844
+      }
+    }
+  ]
 }
