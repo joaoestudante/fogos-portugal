@@ -61,14 +61,14 @@
         "stationDistance": 13,
         "temperatura": null,
         "humidade": null,
-        "intensidadeVento": 3.9,
-        "intensidadeVentoKM": 14,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-31T20:00:00.000000Z"
+        "date": "2026-10-31T23:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
@@ -144,14 +144,14 @@
         "stationDistance": 7.3,
         "temperatura": null,
         "humidade": null,
-        "intensidadeVento": 3.9,
-        "intensidadeVentoKM": 14,
-        "idDireccVento": 1,
-        "direccVento": "N",
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-31T20:00:00.000000Z"
+        "date": "2026-10-31T23:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
@@ -159,6 +159,89 @@
       },
       "updated": {
         "sec": 1793476837
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261545543"
+      },
+      "id": "20261545543",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793460660
+      },
+      "date": "31-10-2026",
+      "hour": "15:31",
+      "location": "Beja, Cuba, Faro Do Alentejo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Cuba",
+      "freguesia": "Faro Do Alentejo",
+      "dico": "0207",
+      "lat": 38.115667,
+      "lng": -7.960512,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Cm 1008 Cm 1008",
+      "active": true,
+      "sadoId": "20261545543",
+      "sharepointId": 20261545543,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.003,
+          "mato": 0,
+          "total": 0.003
+        },
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "CM 1008 (Poço do Monte do Gato)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 13,
+        "temperatura": 16.8,
+        "humidade": 45,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1019.4,
+        "date": "2026-10-31T23:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793461214
+      },
+      "updated": {
+        "sec": 1793487364
       }
     },
     {
@@ -175,8 +258,8 @@
       "location": "Beja, Vidigueira, Selmes",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
+      "man": 2,
+      "terrain": 1,
       "district": "Beja",
       "concelho": "Vidigueira",
       "freguesia": "Selmes",
@@ -191,18 +274,24 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "En 258 Km 25 En 258 Km 25",
+      "localidade": "En 258 Km 25.500 En 258 Km 25.500",
       "active": true,
       "sadoId": "20261546890",
       "sharepointId": 20261546890,
       "extra": null,
       "disappear": false,
       "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.025,
+          "total": 0.025
+        },
         "altitude": 0,
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "EN 258 (Poço Novo)",
+      "detailLocation": "EN 258 Km 25.500 (ER258 (ER258) Km 26)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -219,100 +308,23 @@
         "stationId": 1210848,
         "stationLocation": "Portel, Oriola",
         "stationDistance": 17.6,
-        "temperatura": 12.3,
-        "humidade": 57,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
+        "temperatura": 8.5,
+        "humidade": 67,
+        "intensidadeVento": 0.7,
+        "intensidadeVentoKM": 2.5,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-31T21:00:00.000000Z"
+        "date": "2026-11-01T00:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1793481619
       },
       "updated": {
-        "sec": 1793485083
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261546897"
-      },
-      "id": "20261546897",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793481120
-      },
-      "date": "31-10-2026",
-      "hour": "21:12",
-      "location": "Beja, Odemira, São Teotónio",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Beja",
-      "concelho": "Odemira",
-      "freguesia": "São Teotónio",
-      "dico": "0211",
-      "lat": 37.533962,
-      "lng": -8.75531,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "São Teotónio Latlong(37.53022139,-8.75810884) - M502, 7630 Odemira, Portugal",
-      "active": true,
-      "sadoId": "20261546897",
-      "sharepointId": 20261546897,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(37.53022139.-8.75810884) - M502. 7630 Odemira. Portugal (Sardanito)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alentejo Litoral",
-      "nearestWeatherStationId": 1210577,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210577,
-        "stationLocation": "Odemira, S.Teotónio",
-        "stationDistance": 2.7,
-        "temperatura": 16.4,
-        "humidade": 67,
-        "intensidadeVento": 0.9,
-        "intensidadeVentoKM": 3.2,
-        "idDireccVento": 6,
-        "direccVento": "SW",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-10-31T21:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793481915
-      },
-      "updated": {
-        "sec": 1793485324
+        "sec": 1793491228
       }
     },
     {
@@ -329,8 +341,8 @@
       "location": "Coimbra, Arganil, Sarzedo",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 26,
-      "terrain": 9,
+      "man": 2,
+      "terrain": 1,
       "district": "Coimbra",
       "concelho": "Arganil",
       "freguesia": "Sarzedo",
@@ -341,9 +353,9 @@
       "natureza": "Povoamento Florestal",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Sarzedo Estrada Da Malhadinha",
       "active": true,
@@ -353,7 +365,7 @@
       "disappear": false,
       "icnf": {
         "altitude": 0,
-        "agricola": true,
+        "fogacho": true,
         "fontealerta": "112"
       },
       "detailLocation": "Estrada da Malhadinha (Quinta do Cansado)",
@@ -373,67 +385,67 @@
         "stationId": 6213611,
         "stationLocation": "Arganil / Aeródromo (CIM)",
         "stationDistance": 8.2,
-        "temperatura": 11.3,
-        "humidade": 80,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
+        "temperatura": 10.8,
+        "humidade": 79,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 2,
+        "direccVento": "NE",
+        "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-10-31T21:00:00.000000Z"
+        "date": "2026-10-31T23:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1793482822
       },
       "updated": {
-        "sec": 1793485805
+        "sec": 1793494204
       }
     },
     {
       "_id": {
-        "$id": "20261546988"
+        "$id": "20261547330"
       },
-      "id": "20261546988",
+      "id": "20261547330",
       "coords": true,
       "dateTime": {
-        "sec": 1793482440
+        "sec": 1793490600
       },
       "date": "31-10-2026",
-      "hour": "21:34",
-      "location": "Castelo Branco, Castelo Branco, Freixial E Juncal Do Campo",
+      "hour": "23:50",
+      "location": "Beja, Beja, Beja (Santiago Maior E São João Baptista)",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
-      "terrain": 2,
-      "district": "Castelo Branco",
-      "concelho": "Castelo Branco",
-      "freguesia": "Freixial E Juncal Do Campo",
-      "dico": "0502",
-      "lat": 39.92883,
-      "lng": -7.552989,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 0,
+      "terrain": 0,
+      "district": "Beja",
+      "concelho": "Beja",
+      "freguesia": "Beja (Santiago Maior E São João Baptista)",
+      "dico": "0205",
+      "lat": 38.026298,
+      "lng": -7.85324,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Freixial Do Campo  Em 550 - Freixial Do Campo",
+      "localidade": "Beja  Colina Do Carmo",
       "active": true,
-      "sadoId": "20261546988",
-      "sharepointId": 20261546988,
+      "sadoId": "20261547330",
+      "sharepointId": 20261547330,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "Populares"
+        "fontealerta": "112"
       },
-      "detailLocation": "EM 550 - Freixial do Campo (Salgada)",
+      "detailLocation": "Beja. Portugal (Rua Conselheiro Meneses)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -442,104 +454,31 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beira Baixa",
-      "nearestWeatherStationId": 1200570,
+      "regiao": "Alentejo",
+      "sub_regiao": "Baixo Alentejo",
+      "nearestWeatherStationId": 1200562,
       "isFire": true,
       "weather": {
-        "stationId": 1200570,
-        "stationLocation": "Castelo Branco",
-        "stationDistance": 12.9,
-        "temperatura": 16.9,
-        "humidade": 53,
-        "intensidadeVento": 2.2,
-        "intensidadeVentoKM": 7.9,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "stationId": 1200562,
+        "stationLocation": "Beja",
+        "stationDistance": 1.2,
+        "temperatura": 16.8,
+        "humidade": 45,
+        "intensidadeVento": 0.8,
+        "intensidadeVentoKM": 2.9,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1019.3,
-        "date": "2026-10-31T21:00:00.000000Z"
+        "pressao": 1019.4,
+        "date": "2026-10-31T23:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
-        "sec": 1793483117
+        "sec": 1793491220
       },
       "updated": {
-        "sec": 1793484603
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261547104"
-      },
-      "id": "20261547104",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793485080
-      },
-      "date": "31-10-2026",
-      "hour": "22:18",
-      "location": "Porto, Paredes, Paredes",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 2,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Paredes",
-      "freguesia": "Paredes",
-      "dico": "1310",
-      "lat": 41.205322,
-      "lng": -8.32628,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Paredes Rua De Febros",
-      "active": true,
-      "sadoId": "20261547104",
-      "sharepointId": 20261547104,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1210643,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210643,
-        "stationLocation": "Paços Ferreira",
-        "stationDistance": 8.8,
-        "temperatura": 10.2,
-        "humidade": 95,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 2,
-        "direccVento": "NE",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-10-31T21:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793485565
-      },
-      "updated": {
-        "sec": 1793485626
+        "sec": 1793496245
       }
     }
   ]
