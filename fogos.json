@@ -15,8 +15,8 @@
       "location": "Guarda, Fornos de Algodres, Maceira",
       "aerial": 1,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 8,
+      "man": 32,
+      "terrain": 10,
       "district": "Guarda",
       "concelho": "Fornos De Algodres",
       "freguesia": "Maceira",
@@ -65,8 +65,8 @@
         "stationId": 6213011,
         "stationLocation": "Aguiar da Beira (CIM)",
         "stationDistance": 13.2,
-        "temperatura": 1.7,
-        "humidade": 69,
+        "temperatura": 14.7,
+        "humidade": 25,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -74,14 +74,14 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1793660419
       },
       "updated": {
-        "sec": 1793871245
+        "sec": 1793897764
       }
     },
     {
@@ -142,16 +142,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 20.6,
-        "temperatura": 0.9,
-        "humidade": 83,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
+        "temperatura": 18.3,
+        "humidade": 23,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 1118.7,
         "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
@@ -159,215 +159,6 @@
       },
       "updated": {
         "sec": 1793819525
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568285"
-      },
-      "id": "20261568285",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793866500
-      },
-      "date": "05-11-2026",
-      "hour": "08:15",
-      "location": "Vila Real, Boticas, Alturas Do Barroso E Cerdedo",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 14,
-      "terrain": 3,
-      "district": "Vila Real",
-      "concelho": "Boticas",
-      "freguesia": "Alturas Do Barroso E Cerdedo",
-      "dico": "1702",
-      "lat": 41.703983,
-      "lng": -7.80535,
-      "naturezaCode": "3109",
-      "natureza": "Gestão de Combustível",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Alturas Do Barroso  ---",
-      "active": true,
-      "sadoId": "20261568285",
-      "sharepointId": 20261568285,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Tâmega e Barroso",
-      "nearestWeatherStationId": 1210611,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210611,
-        "stationLocation": "Montalegre",
-        "stationDistance": 13.3,
-        "temperatura": -1.5,
-        "humidade": 99,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": 0,
-        "radiacao": 92.4,
-        "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793866924
-      },
-      "updated": {
-        "sec": 1793871245
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568302"
-      },
-      "id": "20261568302",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793866740
-      },
-      "date": "05-11-2026",
-      "hour": "08:19",
-      "location": "Viana Do Castelo, Viana do Castelo, Montaria",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Viana Do Castelo",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Montaria",
-      "dico": "1609",
-      "lat": 41.803774,
-      "lng": -8.727952,
-      "naturezaCode": "3109",
-      "natureza": "Gestão de Combustível",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Senhora Do Minho Senhora Do Minho",
-      "active": true,
-      "sadoId": "20261568302",
-      "sharepointId": 20261568302,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211215,
-      "isFire": true,
-      "weather": null,
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793867164
-      },
-      "updated": {
-        "sec": 1793867181
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568446"
-      },
-      "id": "20261568446",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793868180
-      },
-      "date": "05-11-2026",
-      "hour": "08:43",
-      "location": "Aveiro, Anadia, Tamengos, Aguim E Óis Do Bairro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
-      "district": "Aveiro",
-      "concelho": "Anadia",
-      "freguesia": "Tamengos, Aguim E Óis Do Bairro",
-      "dico": "0103",
-      "lat": 40.424013,
-      "lng": -8.472658,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Curia Rua Principal",
-      "active": true,
-      "sadoId": "20261568446",
-      "sharepointId": 20261568446,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Rua Principal (Curia)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Região de Aveiro",
-      "nearestWeatherStationId": 1210705,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210705,
-        "stationLocation": "Anadia",
-        "stationDistance": 3.2,
-        "temperatura": 2.3,
-        "humidade": 86,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793869083
-      },
-      "updated": {
-        "sec": 1793871484
       }
     },
     {
@@ -381,24 +172,24 @@
       },
       "date": "05-11-2026",
       "hour": "08:43",
-      "location": "Viana Do Castelo, Ponte da Barca, Boivães",
+      "location": "Viana Do Castelo, Ponte da Barca, Crasto, Ruivos E Grovelas",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 18,
-      "terrain": 4,
+      "man": 14,
+      "terrain": 3,
       "district": "Viana Do Castelo",
       "concelho": "Ponte Da Barca",
-      "freguesia": "Boivães",
+      "freguesia": "Crasto, Ruivos E Grovelas",
       "dico": "1606",
-      "lat": 41.757711,
-      "lng": -8.458108,
+      "lat": 41.745738,
+      "lng": -8.454125,
       "naturezaCode": "3109",
       "natureza": "Gestão de Combustível",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
       "localidade": "Boivaes        Boivaes",
       "active": true,
@@ -418,106 +209,38 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211216,
+      "nearestWeatherStationId": 6211218,
       "isFire": true,
       "weather": {
-        "stationId": 6211216,
-        "stationLocation": "Arcos De Valdevez - Heliporto (CIM)",
-        "stationDistance": 8.2,
-        "temperatura": 3.2,
-        "humidade": 88,
+        "stationId": 6211218,
+        "stationLocation": "Ponte De Lima - Anais (CIM)",
+        "stationDistance": 7.8,
+        "temperatura": 14.9,
+        "humidade": 48,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": null,
         "radiacao": null,
-        "pressao": 1019.5,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "pressao": 1017.7,
+        "date": "2026-11-05T16:00:00.000000Z"
       },
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "VCT",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
       "created": {
         "sec": 1793869218
       },
       "updated": {
-        "sec": 1793869444
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568500"
-      },
-      "id": "20261568500",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793868960
-      },
-      "date": "05-11-2026",
-      "hour": "08:56",
-      "location": "Faro, Lagoa, Lagoa E Carvoeiro",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 3,
-      "district": "Faro",
-      "concelho": "Lagoa",
-      "freguesia": "Lagoa E Carvoeiro",
-      "dico": "0806",
-      "lat": 37.115531,
-      "lng": -8.443293,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
-      "important": false,
-      "localidade": "Praia Do Paraiso  ---",
-      "active": true,
-      "sadoId": "20261568500",
-      "sharepointId": 20261568500,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "praia do Paraiso (Salicos)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Algarve",
-      "sub_regiao": "Algarve",
-      "nearestWeatherStationId": 6210879,
-      "isFire": true,
-      "weather": {
-        "stationId": 6210879,
-        "stationLocation": "Portimão (Praia da Rocha)",
-        "stationDistance": 7.6,
-        "temperatura": 8.2,
-        "humidade": 95,
-        "intensidadeVento": 2.9,
-        "intensidadeVentoKM": 10.4,
-        "idDireccVento": 9,
-        "direccVento": "N",
-        "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793869261
-      },
-      "updated": {
-        "sec": 1793871964
+        "sec": 1793895722
       }
     },
     {
@@ -534,8 +257,8 @@
       "location": "Guarda, Guarda, Famalicão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 28,
-      "terrain": 7,
+      "man": 33,
+      "terrain": 9,
       "district": "Guarda",
       "concelho": "Guarda",
       "freguesia": "Famalicão",
@@ -574,246 +297,23 @@
         "stationId": 1210690,
         "stationLocation": "Aldeia Souto (Q. Lageosa)",
         "stationDistance": 10.1,
-        "temperatura": -1,
-        "humidade": 86,
-        "intensidadeVento": 0.5,
-        "intensidadeVentoKM": 1.8,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "temperatura": 17.8,
+        "humidade": 22,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 5,
+        "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 108.2,
+        "radiacao": 1080.1,
         "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1793869444
       },
       "updated": {
-        "sec": 1793872443
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568568"
-      },
-      "id": "20261568568",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793869800
-      },
-      "date": "05-11-2026",
-      "hour": "09:10",
-      "location": "Porto, Vila do Conde, Modivas",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Porto",
-      "concelho": "Vila Do Conde",
-      "freguesia": "Modivas",
-      "dico": "1316",
-      "lat": 41.29445,
-      "lng": -8.707222,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "Modivas Rua Do Fojo",
-      "active": true,
-      "sadoId": "20261568568",
-      "sharepointId": 20261568568,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua do Fojo (IC1 (IC1) Km 329)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Area M. Porto",
-      "nearestWeatherStationId": 1200545,
-      "isFire": true,
-      "weather": {
-        "stationId": 1200545,
-        "stationLocation": "Porto, Pedras Rubras (Aeródromo)",
-        "stationDistance": 7.1,
-        "temperatura": 6.3,
-        "humidade": 72,
-        "intensidadeVento": 3.7,
-        "intensidadeVentoKM": 13.3,
-        "idDireccVento": 3,
-        "direccVento": "E",
-        "precAcumulada": 0,
-        "radiacao": 116.1,
-        "pressao": 1018,
-        "date": "2026-11-05T08:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793870420
-      },
-      "updated": {
-        "sec": 1793871842
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568627"
-      },
-      "id": "20261568627",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793870100
-      },
-      "date": "05-11-2026",
-      "hour": "09:15",
-      "location": "Portalegre, Fronteira, Fronteira",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Portalegre",
-      "concelho": "Fronteira",
-      "freguesia": "Fronteira",
-      "dico": "1208",
-      "lat": 39.071044,
-      "lng": -7.666567,
-      "naturezaCode": "4335",
-      "natureza": "Prevenção a Queimadas",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 5,
-      "statusColor": "B81E1F",
-      "status": "Em Curso",
-      "important": false,
-      "localidade": "Fronteira N245 Quinta De Santo Antônio",
-      "active": true,
-      "sadoId": "20261568627",
-      "sharepointId": 20261568627,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Alto Alentejo",
-      "nearestWeatherStationId": 1210824,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210824,
-        "stationLocation": "Avis, Benavila",
-        "stationDistance": 17.6,
-        "temperatura": 1.5,
-        "humidade": 88,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793870645
-      },
-      "updated": {
-        "sec": 1793870664
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261568642"
-      },
-      "id": "20261568642",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793870280
-      },
-      "date": "05-11-2026",
-      "hour": "09:18",
-      "location": "Braga, Vila Verde, Vade",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 1,
-      "district": "Braga",
-      "concelho": "Vila Verde",
-      "freguesia": "Vade",
-      "dico": "0313",
-      "lat": 41.733615,
-      "lng": -8.428804,
-      "naturezaCode": "3109",
-      "natureza": "Gestão de Combustível",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "---  Oural",
-      "active": true,
-      "sadoId": "20261568642",
-      "sharepointId": 20261568642,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 6212122,
-      "isFire": true,
-      "weather": {
-        "stationId": 6212122,
-        "stationLocation": "Amares Caldelas (CIM)",
-        "stationDistance": 8.4,
-        "temperatura": 2.4,
-        "humidade": 94,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1018.5,
-        "date": "2026-11-05T07:00:00.000000Z"
-      },
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793870883
-      },
-      "updated": {
-        "sec": 1793870901
+        "sec": 1793879643
       }
     },
     {
@@ -889,8 +389,8 @@
       "location": "Viseu, Tondela, Guardão",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 2,
+      "man": 14,
+      "terrain": 3,
       "district": "Viseu",
       "concelho": "Tondela",
       "freguesia": "Guardão",
@@ -905,7 +405,7 @@
       "statusColor": "FF6E02",
       "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Caselho  ---",
+      "localidade": "Caselho/silvares  ---",
       "active": true,
       "sadoId": "20261568654",
       "sharepointId": 20261568654,
@@ -929,8 +429,8 @@
         "stationId": 6213023,
         "stationLocation": "Vouzela (CIM)",
         "stationDistance": 7.2,
-        "temperatura": 5.3,
-        "humidade": 62,
+        "temperatura": 13.7,
+        "humidade": 41,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -938,58 +438,236 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
         "sec": 1793870883
       },
       "updated": {
-        "sec": 1793871005
+        "sec": 1793875085
       }
     },
     {
       "_id": {
-        "$id": "20261568688"
+        "$id": "20261569159"
       },
-      "id": "20261568688",
+      "id": "20261569159",
       "coords": true,
       "dateTime": {
-        "sec": 1793870880
+        "sec": 1793875020
       },
       "date": "05-11-2026",
-      "hour": "09:28",
-      "location": "Setúbal, Seixal, Amora",
+      "hour": "10:37",
+      "location": "Leiria, Pombal, Pombal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 4,
+      "man": 2,
       "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Pombal",
+      "dico": "1015",
+      "lat": 39.94112,
+      "lng": -8.63713,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Pombal Estrada - Rua Dos Cômoros",
+      "active": true,
+      "sadoId": "20261569159",
+      "sharepointId": 20261569159,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0.22,
+          "mato": 0,
+          "total": 0.22
+        },
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Estrada - Rua dos Cômoros (Estrada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 6213621,
+      "isFire": true,
+      "weather": {
+        "stationId": 6213621,
+        "stationLocation": "Soure (CIM)",
+        "stationDistance": 14.9,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": 4.5,
+        "intensidadeVentoKM": 16.2,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T15:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793875822
+      },
+      "updated": {
+        "sec": 1793899803
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261569864"
+      },
+      "id": "20261569864",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793881320
+      },
+      "date": "05-11-2026",
+      "hour": "12:22",
+      "location": "Leiria, Pombal, Vermoil",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 3,
+      "terrain": 1,
+      "district": "Leiria",
+      "concelho": "Pombal",
+      "freguesia": "Vermoil",
+      "dico": "1015",
+      "lat": 39.848927,
+      "lng": -8.680157,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Lagoa  ---",
+      "active": true,
+      "sadoId": "20261569864",
+      "sharepointId": 20261569864,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "Sapadores florestais"
+      },
+      "detailLocation": "Lagoa (Saguinhal)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Leiria",
+      "nearestWeatherStationId": 1210718,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210718,
+        "stationLocation": "Leiria (Aeródromo)",
+        "stationDistance": 14,
+        "temperatura": 17.5,
+        "humidade": 53,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 1098.2,
+        "pressao": 1019.1,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793882044
+      },
+      "updated": {
+        "sec": 1793899803
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570126"
+      },
+      "id": "20261570126",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793884140
+      },
+      "date": "05-11-2026",
+      "hour": "13:09",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
       "district": "Setúbal",
-      "concelho": "Seixal",
-      "freguesia": "Amora",
-      "dico": "1510",
-      "lat": 38.624582,
-      "lng": -9.125227,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.612637,
+      "lng": -8.771449,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
       "statusCode": 8,
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Amora Ponte Da Fraternidade",
+      "localidade": "Lagameças Rua Da Escola Primária",
       "active": true,
-      "sadoId": "20261568688",
-      "sharepointId": 20261568688,
+      "sadoId": "20261570126",
+      "sharepointId": 20261570126,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
+        "agricola": true,
+        "fontealerta": "Populares"
       },
-      "detailLocation": "Ponte da Fraternidade (AMORA)",
+      "detailLocation": "Rua da Escola Primária (Lagameças)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1000,53 +678,588 @@
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Península de Setúbal",
-      "nearestWeatherStationId": 1210773,
+      "nearestWeatherStationId": 1240929,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "STB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793884924
+      },
+      "updated": {
+        "sec": 1793887924
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570143"
+      },
+      "id": "20261570143",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793884020
+      },
+      "date": "05-11-2026",
+      "hour": "13:07",
+      "location": "Porto, Matosinhos, São Mamede De Infesta",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 4,
+      "district": "Porto",
+      "concelho": "Matosinhos",
+      "freguesia": "São Mamede De Infesta",
+      "dico": "1308",
+      "lat": 41.193633,
+      "lng": -8.62502,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Bairro Nossa Senhora Da Conceição",
+      "active": true,
+      "sadoId": "20261570143",
+      "sharepointId": 20261570143,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Bairro Nossa Senhora da Conceição (Rua Dom Frei Martins Fagundes)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210649,
       "isFire": true,
       "weather": {
-        "stationId": 1210773,
-        "stationLocation": "Almada, P.Rainha",
-        "stationDistance": 7.7,
-        "temperatura": 4.2,
-        "humidade": 80,
+        "stationId": 1210649,
+        "stationLocation": "S. Gens",
+        "stationDistance": 1.9,
+        "temperatura": 13.5,
+        "humidade": 61,
+        "intensidadeVento": 1.3,
+        "intensidadeVentoKM": 4.7,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 109.1,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793885163
+      },
+      "updated": {
+        "sec": 1793894461
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570177"
+      },
+      "id": "20261570177",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793884800
+      },
+      "date": "05-11-2026",
+      "hour": "13:20",
+      "location": "Guarda, Mêda, Ranhados",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Ranhados",
+      "dico": "0909",
+      "lat": 40.992876,
+      "lng": -7.327385,
+      "naturezaCode": "3109",
+      "natureza": "Gestão de Combustível",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ranhados Ranahdos",
+      "active": true,
+      "sadoId": "20261570177",
+      "sharepointId": 20261570177,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210665,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793885405
+      },
+      "updated": {
+        "sec": 1793899803
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570194"
+      },
+      "id": "20261570194",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793885100
+      },
+      "date": "05-11-2026",
+      "hour": "13:25",
+      "location": "Viana Do Castelo, Viana do Castelo, Montaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 40,
+      "terrain": 11,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Montaria",
+      "dico": "1609",
+      "lat": 41.80667,
+      "lng": -8.69639,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Chã Chã",
+      "active": true,
+      "sadoId": "20261570194",
+      "sharepointId": 20261570194,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Chã (Serra de Arga)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211215,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "VCT",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793885644
+      },
+      "updated": {
+        "sec": 1793901005
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570246"
+      },
+      "id": "20261570246",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793885580
+      },
+      "date": "05-11-2026",
+      "hour": "13:33",
+      "location": "Santarém, Constância, Santa Margarida Da Coutada",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 1,
+      "terrain": 1,
+      "district": "Santarém",
+      "concelho": "Constância",
+      "freguesia": "Santa Margarida Da Coutada",
+      "dico": "1408",
+      "lat": 39.380698,
+      "lng": -8.302823,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 9,
+      "statusColor": "6ABF59",
+      "status": "Vigilância",
+      "important": false,
+      "localidade": "Campo Militar Santa Margarida  ---",
+      "active": true,
+      "sadoId": "20261570246",
+      "sharepointId": 20261570246,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "burnArea": {
+          "povoamento": 0,
+          "agricola": 0,
+          "mato": 0.04,
+          "total": 0.04
+        },
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Forças armadas"
+      },
+      "detailLocation": "Campo Militar Santa Margarida (Ribeira da Coruja)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Médio Tejo",
+      "nearestWeatherStationId": 1210735,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210735,
+        "stationLocation": "Chamusca / Chouto",
+        "stationDistance": 13,
+        "temperatura": 18.1,
+        "humidade": 39,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
         "direccVento": null,
         "precAcumulada": null,
         "radiacao": null,
-        "pressao": null,
-        "date": "2026-11-04T22:00:00.000000Z"
+        "pressao": 1018.5,
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
-        "sec": 1793871025
+        "sec": 1793886125
       },
       "updated": {
-        "sec": 1793872443
+        "sec": 1793894462
       }
     },
     {
       "_id": {
-        "$id": "20261568679"
+        "$id": "20261570310"
       },
-      "id": "20261568679",
+      "id": "20261570310",
       "coords": true,
       "dateTime": {
-        "sec": 1793870280
+        "sec": 1793886060
       },
       "date": "05-11-2026",
-      "hour": "09:18",
-      "location": "Braga, Barcelos, Viatodos, Grimancelos, Minhotães E Monte De Fralães",
+      "hour": "13:41",
+      "location": "Vila Real, Montalegre, Sarraquinhos",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 3,
+      "man": 7,
+      "terrain": 3,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Sarraquinhos",
+      "dico": "1706",
+      "lat": 41.809447,
+      "lng": -7.689872,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "Cepeda  ---",
+      "active": true,
+      "sadoId": "20261570310",
+      "sharepointId": 20261570310,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Cepeda (Outeiro da Veiga)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210611,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210611,
+        "stationLocation": "Montalegre",
+        "stationDistance": 8.3,
+        "temperatura": 10.6,
+        "humidade": 46,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 960.3,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793886605
+      },
+      "updated": {
+        "sec": 1793899326
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570476"
+      },
+      "id": "20261570476",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793887740
+      },
+      "date": "05-11-2026",
+      "hour": "14:09",
+      "location": "Castelo Branco, Covilhã, Boidobra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 21,
+      "terrain": 7,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Boidobra",
+      "dico": "0503",
+      "lat": 40.244918,
+      "lng": -7.491763,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Boidobra  ---",
+      "active": true,
+      "sadoId": "20261570476",
+      "sharepointId": 20261570476,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Boidobra (MATA MOUROS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210687,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210687,
+        "stationLocation": "Covilhã (Aeródromo)",
+        "stationDistance": 2.3,
+        "temperatura": 17,
+        "humidade": 27,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 1005.4,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793888404
+      },
+      "updated": {
+        "sec": 1793899564
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570631"
+      },
+      "id": "20261570631",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793888820
+      },
+      "date": "05-11-2026",
+      "hour": "14:27",
+      "location": "Viana Do Castelo, Arcos de Valdevez, Gondoriz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
       "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Arcos De Valdevez",
+      "freguesia": "Gondoriz",
+      "dico": "1601",
+      "lat": 41.90467,
+      "lng": -8.404095,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ferreiros       Ferreiros",
+      "active": true,
+      "sadoId": "20261570631",
+      "sharepointId": 20261570631,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Ferreiros (Ribeiro de Torres)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211213,
+      "isFire": true,
+      "weather": {
+        "stationId": 6211213,
+        "stationLocation": "Paredes De Coura - Vascões (CIM)",
+        "stationDistance": 7.3,
+        "temperatura": 11.6,
+        "humidade": 53,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.8,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "VCT",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793889604
+      },
+      "updated": {
+        "sec": 1793900404
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570619"
+      },
+      "id": "20261570619",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793889120
+      },
+      "date": "05-11-2026",
+      "hour": "14:32",
+      "location": "Braga, Braga, Palmeira",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 8,
+      "terrain": 3,
       "district": "Braga",
-      "concelho": "Barcelos",
-      "freguesia": "Viatodos, Grimancelos, Minhotães E Monte De Fralães",
-      "dico": "0302",
-      "lat": 41.444472,
-      "lng": -8.570268,
+      "concelho": "Braga",
+      "freguesia": "Palmeira",
+      "dico": "0303",
+      "lat": 41.59833,
+      "lng": -8.44448,
       "naturezaCode": "3111",
       "natureza": "Queima",
       "especieName": null,
@@ -1055,10 +1268,10 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Monte Fralães Rua Da Fraga",
+      "localidade": "Palmeira N101, 4700 Braga, Portugal",
       "active": true,
-      "sadoId": "20261568679",
-      "sharepointId": 20261568679,
+      "sadoId": "20261570619",
+      "sharepointId": 20261570619,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1073,51 +1286,1233 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 6212410,
+      "nearestWeatherStationId": 1210622,
       "isFire": true,
-      "weather": null,
-      "weatherWarnings": [],
+      "weather": {
+        "stationId": 1210622,
+        "stationLocation": "Braga, Merelim",
+        "stationDistance": 3.5,
+        "temperatura": 17.1,
+        "humidade": 45,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 927.8,
+        "pressao": 1018.8,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
       "created": {
-        "sec": 1793871245
+        "sec": 1793890324
       },
       "updated": {
-        "sec": 1793872205
+        "sec": 1793899803
       }
     },
     {
       "_id": {
-        "$id": "20261568726"
+        "$id": "20261570660"
       },
-      "id": "20261568726",
+      "id": "20261570660",
       "coords": true,
       "dateTime": {
-        "sec": 1793871000
+        "sec": 1793889540
       },
       "date": "05-11-2026",
-      "hour": "09:30",
-      "location": "Viana Do Castelo, Viana do Castelo, Montaria",
+      "hour": "14:39",
+      "location": "Setúbal, Montijo, Pegões",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 24,
-      "terrain": 7,
-      "district": "Viana Do Castelo",
-      "concelho": "Viana Do Castelo",
-      "freguesia": "Montaria",
-      "dico": "1609",
-      "lat": 41.803774,
-      "lng": -8.727952,
-      "naturezaCode": "3109",
-      "natureza": "Gestão de Combustível",
+      "man": 5,
+      "terrain": 1,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Pegões",
+      "dico": "1507",
+      "lat": 38.672566,
+      "lng": -8.677758,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
       "important": false,
-      "localidade": "Chã Chã",
+      "localidade": "Pegões Velhos Rua Dos Herois Ultramar",
       "active": true,
-      "sadoId": "20261568726",
-      "sharepointId": 20261568726,
+      "sadoId": "20261570660",
+      "sharepointId": 20261570660,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua dos Herois Ultramar (Pegões Velhos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210767,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210767,
+        "stationLocation": "Pegões",
+        "stationDistance": 4.4,
+        "temperatura": 18.9,
+        "humidade": 67,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 922.6,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "STB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793890563
+      },
+      "updated": {
+        "sec": 1793894469
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570747"
+      },
+      "id": "20261570747",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890440
+      },
+      "date": "05-11-2026",
+      "hour": "14:54",
+      "location": "Coimbra, Figueira da Foz, Quiaios",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 7,
+      "district": "Coimbra",
+      "concelho": "Figueira Da Foz",
+      "freguesia": "Quiaios",
+      "dico": "0605",
+      "lat": 40.23426,
+      "lng": -8.79045,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Quiaios Rua Da Saibreira 73",
+      "active": true,
+      "sadoId": "20261570747",
+      "sharepointId": 20261570747,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Saibreira 73 (Fanatos)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210713,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210713,
+        "stationLocation": "Figueira da Foz, Vila Verde",
+        "stationDistance": 10.6,
+        "temperatura": 16.9,
+        "humidade": 65,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793890843
+      },
+      "updated": {
+        "sec": 1793894419
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570782"
+      },
+      "id": "20261570782",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890500
+      },
+      "date": "05-11-2026",
+      "hour": "14:55",
+      "location": "Vila Real, Chaves, Calvão E Soutelinho Da Raia",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 11,
+      "terrain": 4,
+      "district": "Vila Real",
+      "concelho": "Chaves",
+      "freguesia": "Calvão E Soutelinho Da Raia",
+      "dico": "1703",
+      "lat": 41.826085,
+      "lng": -7.586418,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Soutelinho Da Raia  ---",
+      "active": true,
+      "sadoId": "20261570782",
+      "sharepointId": 20261570782,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "SOUTELINHO DA RAIA",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210616,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210616,
+        "stationLocation": "Chaves (Aeródromo)",
+        "stationDistance": 15.1,
+        "temperatura": 16.4,
+        "humidade": 31,
+        "intensidadeVento": 2.7,
+        "intensidadeVentoKM": 9.7,
+        "idDireccVento": 4,
+        "direccVento": "SE",
+        "precAcumulada": 0,
+        "radiacao": 722.4,
+        "pressao": 1017.4,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793891284
+      },
+      "updated": {
+        "sec": 1793898965
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570796"
+      },
+      "id": "20261570796",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890980
+      },
+      "date": "05-11-2026",
+      "hour": "15:03",
+      "location": "Lisboa, Azambuja, Aveiras De Cima",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Azambuja",
+      "freguesia": "Aveiras De Cima",
+      "dico": "1103",
+      "lat": 39.127647,
+      "lng": -8.92652,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Aveiras De Cima Travessa Do Tambor",
+      "active": true,
+      "sadoId": "20261570796",
+      "sharepointId": 20261570796,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Travessa do Tambor (Casais do Tambor)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 18.3,
+        "temperatura": 19.6,
+        "humidade": 38,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 1168.6,
+        "pressao": 1018.5,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LSB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793891526
+      },
+      "updated": {
+        "sec": 1793899564
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570820"
+      },
+      "id": "20261570820",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890620
+      },
+      "date": "05-11-2026",
+      "hour": "14:57",
+      "location": "Vila Real, Montalegre, Sarraquinhos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Vila Real",
+      "concelho": "Montalegre",
+      "freguesia": "Sarraquinhos",
+      "dico": "1706",
+      "lat": 41.814883,
+      "lng": -7.633108,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Pedrario  ---",
+      "active": true,
+      "sadoId": "20261570820",
+      "sharepointId": 20261570820,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Pedrario (Fraga do Lamego)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Tâmega e Barroso",
+      "nearestWeatherStationId": 1210611,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210611,
+        "stationLocation": "Montalegre",
+        "stationDistance": 12.9,
+        "temperatura": 10.6,
+        "humidade": 46,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 960.3,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793891526
+      },
+      "updated": {
+        "sec": 1793899326
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570792"
+      },
+      "id": "20261570792",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890920
+      },
+      "date": "05-11-2026",
+      "hour": "15:02",
+      "location": "Porto, Vila Nova de Gaia, Crestuma",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 17,
+      "terrain": 6,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Crestuma",
+      "dico": "1317",
+      "lat": 41.060177,
+      "lng": -8.503133,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Sandim, Olival, Lever E Crestuma Rua Eugénio Paiva Freixo",
+      "active": true,
+      "sadoId": "20261570792",
+      "sharepointId": 20261570792,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Eugénio Paiva Freixo",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 12.1,
+        "temperatura": 15.3,
+        "humidade": 59,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793891719
+      },
+      "updated": {
+        "sec": 1793898485
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570725"
+      },
+      "id": "20261570725",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793890200
+      },
+      "date": "05-11-2026",
+      "hour": "14:50",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.562462,
+      "lng": -8.785013,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "União Das Freguesias De Poceirão E Marateca N10; Km 50",
+      "active": true,
+      "sadoId": "20261570725",
+      "sharepointId": 20261570725,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "N10; km 50 (Vale da Abrunheira)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1240929,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "STB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793892126
+      },
+      "updated": {
+        "sec": 1793897764
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570913"
+      },
+      "id": "20261570913",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793891460
+      },
+      "date": "05-11-2026",
+      "hour": "15:11",
+      "location": "Lisboa, Torres Vedras, S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 0,
+      "terrain": 0,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "S.Pedro E Santiago, S.Maria E S.Miguel E Matacães",
+      "dico": "1113",
+      "lat": 39.08155,
+      "lng": -9.289925,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Casais Da Torre Casais Da Torre",
+      "active": true,
+      "sadoId": "20261570913",
+      "sharepointId": 20261570913,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Casais da Torre (Casal da Senhora da Conceição)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210746,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210746,
+        "stationLocation": "Santa Cruz (Aeródromo)",
+        "stationDistance": 9.1,
+        "temperatura": 16.8,
+        "humidade": 57,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 350.4,
+        "pressao": 1019,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LSB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793892365
+      },
+      "updated": {
+        "sec": 1793901005
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261570926"
+      },
+      "id": "20261570926",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793892120
+      },
+      "date": "05-11-2026",
+      "hour": "15:22",
+      "location": "Coimbra, Figueira da Foz, Lavos",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Figueira Da Foz",
+      "freguesia": "Lavos",
+      "dico": "0605",
+      "lat": 40.08244,
+      "lng": -8.82945,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Lavos Rua Das Flores",
+      "active": true,
+      "sadoId": "20261570926",
+      "sharepointId": 20261570926,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua das Flores (Viso)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210713,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210713,
+        "stationLocation": "Figueira da Foz, Vila Verde",
+        "stationDistance": 6.7,
+        "temperatura": 16.9,
+        "humidade": 65,
+        "intensidadeVento": 3.5,
+        "intensidadeVentoKM": 12.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793892605
+      },
+      "updated": {
+        "sec": 1793894471
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571056"
+      },
+      "id": "20261571056",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793893320
+      },
+      "date": "05-11-2026",
+      "hour": "15:42",
+      "location": "Braga, Vila Nova de Famalicão, Arnoso (Santa Maria E Santa Eulália) E Sezures",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Arnoso (Santa Maria E Santa Eulália) E Sezures",
+      "dico": "0312",
+      "lat": 41.472705,
+      "lng": -8.502035,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "---  Tv De Lordelo",
+      "active": true,
+      "sadoId": "20261571056",
+      "sharepointId": 20261571056,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "TV de Lordelo (Laje)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 6212124,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212124,
+        "stationLocation": "Braga (CIM)",
+        "stationDistance": 9.5,
+        "temperatura": 15.4,
+        "humidade": 44,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.7,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793894109
+      },
+      "updated": {
+        "sec": 1793897048
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571113"
+      },
+      "id": "20261571113",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793894040
+      },
+      "date": "05-11-2026",
+      "hour": "15:54",
+      "location": "Braga, Terras de Bouro, Rio Caldo",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 14,
+      "terrain": 4,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Rio Caldo",
+      "dico": "0310",
+      "lat": 41.663748,
+      "lng": -8.19434,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "---  Casa Do Beiral",
+      "active": true,
+      "sadoId": "20261571113",
+      "sharepointId": 20261571113,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Casa do Beiral (EN304 (EN304) Km 74)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 6212121,
+      "isFire": true,
+      "weather": {
+        "stationId": 6212121,
+        "stationLocation": "Terras de Bouro/Barral (CIM)",
+        "stationDistance": 11.1,
+        "temperatura": 14.7,
+        "humidade": 43,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1019.3,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793894419
+      },
+      "updated": {
+        "sec": 1793900405
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571202"
+      },
+      "id": "20261571202",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793895120
+      },
+      "date": "05-11-2026",
+      "hour": "16:12",
+      "location": "Santarém, Almeirim, Fazendas De Almeirim",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 6,
+      "district": "Santarém",
+      "concelho": "Almeirim",
+      "freguesia": "Fazendas De Almeirim",
+      "dico": "1403",
+      "lat": 39.164607,
+      "lng": -8.553235,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Paço Dos Negros Paço Dos Negros",
+      "active": true,
+      "sadoId": "20261571202",
+      "sharepointId": 20261571202,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "CCO"
+      },
+      "detailLocation": "Paço dos Negros (PAÇOS NEGROS)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 16.3,
+        "temperatura": 19.6,
+        "humidade": 38,
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
+        "radiacao": 1168.6,
+        "pressao": 1018.5,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793896084
+      },
+      "updated": {
+        "sec": 1793900045
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571225"
+      },
+      "id": "20261571225",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793895540
+      },
+      "date": "05-11-2026",
+      "hour": "16:19",
+      "location": "Setúbal, Palmela, Poceirão E Marateca",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Setúbal",
+      "concelho": "Palmela",
+      "freguesia": "Poceirão E Marateca",
+      "dico": "1508",
+      "lat": 38.60715,
+      "lng": -8.706492,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "União Das Freguesias De Poceirão E Marateca R. Joao Loureiro Palhota",
+      "active": true,
+      "sadoId": "20261571225",
+      "sharepointId": 20261571225,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua Pedro Azenha Santos (ER2 (ER5) Km 27)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210767,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210767,
+        "stationLocation": "Pegões",
+        "stationDistance": 7.9,
+        "temperatura": 18.9,
+        "humidade": 67,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 922.6,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "STB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793896219
+      },
+      "updated": {
+        "sec": 1793897764
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571319"
+      },
+      "id": "20261571319",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793896320
+      },
+      "date": "05-11-2026",
+      "hour": "16:32",
+      "location": "Leiria, Caldas da Rainha, Tornada E Salir Do Porto",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Caldas Da Rainha",
+      "freguesia": "Tornada E Salir Do Porto",
+      "dico": "1006",
+      "lat": 39.457558,
+      "lng": -9.14858,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Reguengo Reguengo Da Parada",
+      "active": true,
+      "sadoId": "20261571319",
+      "sharepointId": 20261571319,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210726,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210726,
+        "stationLocation": "Alcobaça",
+        "stationDistance": 16.9,
+        "temperatura": 18.5,
+        "humidade": 42,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793896806
+      },
+      "updated": {
+        "sec": 1793899803
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571345"
+      },
+      "id": "20261571345",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793896320
+      },
+      "date": "05-11-2026",
+      "hour": "16:32",
+      "location": "Viana Do Castelo, Viana do Castelo, Outeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Outeiro",
+      "dico": "1609",
+      "lat": 41.763942,
+      "lng": -8.79447,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Lugar  Da Costa Lugar  Da Costa",
+      "active": true,
+      "sadoId": "20261571345",
+      "sharepointId": 20261571345,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1132,55 +2527,164 @@
       "anepcDirectUpdate": false,
       "regiao": "Norte",
       "sub_regiao": "Alto Minho",
-      "nearestWeatherStationId": 6211215,
+      "nearestWeatherStationId": 6211217,
       "isFire": true,
-      "weather": null,
-      "weatherWarnings": [],
+      "weather": {
+        "stationId": 6211217,
+        "stationLocation": "Viana Do Castelo - Fonte Louçã (CIM)",
+        "stationDistance": 2.7,
+        "temperatura": null,
+        "humidade": null,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.3,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "VCT",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
       "created": {
-        "sec": 1793871964
+        "sec": 1793897284
       },
       "updated": {
-        "sec": 1793872205
+        "sec": 1793900645
       }
     },
     {
       "_id": {
-        "$id": "20261568775"
+        "$id": "20261571358"
       },
-      "id": "20261568775",
+      "id": "20261571358",
       "coords": true,
       "dateTime": {
-        "sec": 1793871000
+        "sec": 1793896920
       },
       "date": "05-11-2026",
-      "hour": "09:30",
-      "location": "Leiria, Peniche, Ferrel",
+      "hour": "16:42",
+      "location": "Braga, Vizela, Santa Eulália",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
+      "man": 6,
       "terrain": 1,
-      "district": "Leiria",
-      "concelho": "Peniche",
-      "freguesia": "Ferrel",
-      "dico": "1014",
-      "lat": 39.368649,
-      "lng": -9.312058,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
+      "district": "Braga",
+      "concelho": "Vizela",
+      "freguesia": "Santa Eulália",
+      "dico": "0314",
+      "lat": 41.345698,
+      "lng": -8.287013,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
       "important": false,
-      "localidade": "Ferrel Atrás Do Baleal Coop",
+      "localidade": "Santa Eulália Ladeira Dos Prados, 4620 Vizela, Portugal",
       "active": true,
-      "sadoId": "20261568775",
-      "sharepointId": 20261568775,
+      "sadoId": "20261571358",
+      "sharepointId": 20261571358,
       "extra": null,
       "disappear": false,
       "icnf": null,
       "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 1210625,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210625,
+        "stationLocation": "Guimarães",
+        "stationDistance": 9.6,
+        "temperatura": 15.3,
+        "humidade": 47,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.4,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793897284
+      },
+      "updated": {
+        "sec": 1793898485
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571391"
+      },
+      "id": "20261571391",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793897280
+      },
+      "date": "05-11-2026",
+      "hour": "16:48",
+      "location": "Leiria, Óbidos, Olho Marinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 10,
+      "terrain": 2,
+      "district": "Leiria",
+      "concelho": "Óbidos",
+      "freguesia": "Olho Marinho",
+      "dico": "1012",
+      "lat": 39.337,
+      "lng": -9.23399,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Olho Marinho Ip6, 2510 Óbidos (Fa)",
+      "active": true,
+      "sadoId": "20261571391",
+      "sharepointId": 20261571391,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "IP6. 2510 Óbidos. Portugal (Casais da Ladeira)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -1196,60 +2700,223 @@
       "weather": {
         "stationId": 1200531,
         "stationLocation": "Cabo Carvoeiro",
-        "stationDistance": 8.3,
+        "stationDistance": 15.7,
         "temperatura": null,
-        "humidade": 87,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
-        "idDireccVento": 4,
-        "direccVento": "SE",
+        "humidade": 61,
+        "intensidadeVento": 1.2,
+        "intensidadeVentoKM": 4.3,
+        "idDireccVento": 6,
+        "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": null,
-        "pressao": 1017.4,
-        "date": "2026-11-05T08:00:00.000000Z"
+        "pressao": 1019.1,
+        "date": "2026-11-05T16:00:00.000000Z"
       },
-      "weatherWarnings": [],
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
       "created": {
-        "sec": 1793871964
+        "sec": 1793897710
       },
       "updated": {
-        "sec": 1793871996
+        "sec": 1793899803
       }
     },
     {
       "_id": {
-        "$id": "20261568822"
+        "$id": "20261571442"
       },
-      "id": "20261568822",
+      "id": "20261571442",
       "coords": true,
       "dateTime": {
-        "sec": 1793871300
+        "sec": 1793897760
       },
       "date": "05-11-2026",
-      "hour": "09:35",
-      "location": "Beja, Aljustrel, Rio De Moinhos",
+      "hour": "16:56",
+      "location": "Vila Real, Vila Real, Folhadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 1,
-      "district": "Beja",
-      "concelho": "Aljustrel",
-      "freguesia": "Rio De Moinhos",
-      "dico": "0201",
-      "lat": 37.897954,
-      "lng": -8.232849,
-      "naturezaCode": "4335",
-      "natureza": "Prevenção a Queimadas",
+      "man": 7,
+      "terrain": 2,
+      "district": "Vila Real",
+      "concelho": "Vila Real",
+      "freguesia": "Folhadela",
+      "dico": "1714",
+      "lat": 41.270532,
+      "lng": -7.724407,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "Folhadela Bustelo",
+      "active": true,
+      "sadoId": "20261571442",
+      "sharepointId": 20261571442,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "LatLong(41.27075250.-7.72513800) - Rua Central 1. 5000-102 Vila Real. Portugal (Lugar Cruz Sobreiro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1200567,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200567,
+        "stationLocation": "Vila Real",
+        "stationDistance": 0.7,
+        "temperatura": 15,
+        "humidade": 33,
+        "intensidadeVento": 0.9,
+        "intensidadeVentoKM": 3.2,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 979.3,
+        "pressao": 1017.7,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793898044
+      },
+      "updated": {
+        "sec": 1793900645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571445"
+      },
+      "id": "20261571445",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793897640
+      },
+      "date": "05-11-2026",
+      "hour": "16:54",
+      "location": "Viseu, Armamar, Queimadela",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 18,
+      "terrain": 5,
+      "district": "Viseu",
+      "concelho": "Armamar",
+      "freguesia": "Queimadela",
+      "dico": "1801",
+      "lat": 41.089573,
+      "lng": -7.742758,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 5,
       "statusColor": "B81E1F",
       "status": "Em Curso",
       "important": false,
-      "localidade": "Rio Moinhos Vale Leitão",
+      "localidade": "Queimadela Queimadela/vila Pouca",
       "active": true,
-      "sadoId": "20261568822",
-      "sharepointId": 20261568822,
+      "sadoId": "20261571445",
+      "sharepointId": 20261571445,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Queimadela/Vila Pouca (Queimadela)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Douro",
+      "nearestWeatherStationId": 1210663,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210663,
+        "stationLocation": "Moimenta da Beira",
+        "stationDistance": 16.8,
+        "temperatura": 14.7,
+        "humidade": 34,
+        "intensidadeVento": 2.4,
+        "intensidadeVentoKM": 8.6,
+        "idDireccVento": 1,
+        "direccVento": "N",
+        "precAcumulada": 0,
+        "radiacao": 1025.9,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793898044
+      },
+      "updated": {
+        "sec": 1793900045
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571456"
+      },
+      "id": "20261571456",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793897820
+      },
+      "date": "05-11-2026",
+      "hour": "16:57",
+      "location": "Castelo Branco, Covilhã, Boidobra",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Castelo Branco",
+      "concelho": "Covilhã",
+      "freguesia": "Boidobra",
+      "dico": "0503",
+      "lat": 40.2402,
+      "lng": -7.495007,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Ponte Pedrinha Ponte Pedrinha",
+      "active": true,
+      "sadoId": "20261571456",
+      "sharepointId": 20261571456,
       "extra": null,
       "disappear": false,
       "icnf": null,
@@ -1262,31 +2929,741 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "nearestWeatherStationId": 1210783,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210687,
       "isFire": true,
       "weather": {
-        "stationId": 1210783,
-        "stationLocation": "Alvalade",
-        "stationDistance": 15.2,
-        "temperatura": 4.3,
-        "humidade": 97,
-        "intensidadeVento": 1.2,
-        "intensidadeVentoKM": 4.3,
+        "stationId": 1210687,
+        "stationLocation": "Covilhã (Aeródromo)",
+        "stationDistance": 2.9,
+        "temperatura": 17,
+        "humidade": 27,
+        "intensidadeVento": 2.5,
+        "intensidadeVentoKM": 9,
         "idDireccVento": 5,
         "direccVento": "S",
         "precAcumulada": 0,
-        "radiacao": 0,
+        "radiacao": 1005.4,
         "pressao": null,
-        "date": "2026-11-05T02:00:00.000000Z"
+        "date": "2026-11-05T16:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
-        "sec": 1793872443
+        "sec": 1793898244
       },
       "updated": {
-        "sec": 1793872464
+        "sec": 1793900645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571507"
+      },
+      "id": "20261571507",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793898540
+      },
+      "date": "05-11-2026",
+      "hour": "17:09",
+      "location": "Porto, Vila Nova de Gaia, Madalena",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Madalena",
+      "dico": "1317",
+      "lat": 41.10683,
+      "lng": -8.65661,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Madalena Rua Do Cerro",
+      "active": true,
+      "sadoId": "20261571507",
+      "sharepointId": 20261571507,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Cerro (Rua Particular do Cerro)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240903,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240903,
+        "stationLocation": "Porto, Massarelos",
+        "stationDistance": 5.7,
+        "temperatura": 16.3,
+        "humidade": 55,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793899217
+      },
+      "updated": {
+        "sec": 1793900645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571539"
+      },
+      "id": "20261571539",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793898000
+      },
+      "date": "05-11-2026",
+      "hour": "17:00",
+      "location": "Viana Do Castelo, Viana do Castelo, Montaria",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 4,
+      "terrain": 1,
+      "district": "Viana Do Castelo",
+      "concelho": "Viana Do Castelo",
+      "freguesia": "Montaria",
+      "dico": "1609",
+      "lat": 41.803774,
+      "lng": -8.727952,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Pousados Pousados",
+      "active": true,
+      "sadoId": "20261571539",
+      "sharepointId": 20261571539,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "Pousados (Fonte Cavada)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Alto Minho",
+      "nearestWeatherStationId": 6211215,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "VCT",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793899326
+      },
+      "updated": {
+        "sec": 1793901006
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571523"
+      },
+      "id": "20261571523",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793898840
+      },
+      "date": "05-11-2026",
+      "hour": "17:14",
+      "location": "Braga, Vila Nova de Famalicão, Castelões",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Vila Nova De Famalicão",
+      "freguesia": "Castelões",
+      "dico": "0312",
+      "lat": 41.4187,
+      "lng": -8.42524,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Castelões Rua Da Trelavinha, 4770 Vila Nova De Famalicão, Portugal",
+      "active": true,
+      "sadoId": "20261571523",
+      "sharepointId": 20261571523,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "agricola": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua da Trelavinha. 4770 Vila Nova de Famalicão. Portugal (Sorrego)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Ave",
+      "nearestWeatherStationId": 6212410,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793899516
+      },
+      "updated": {
+        "sec": 1793900645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571536"
+      },
+      "id": "20261571536",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793899020
+      },
+      "date": "05-11-2026",
+      "hour": "17:17",
+      "location": "Porto, Vila Nova de Gaia, Avintes",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Avintes",
+      "dico": "1317",
+      "lat": 41.12199,
+      "lng": -8.558956,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Avintes Rua Do Areinho 856, 4430-767 Vila Nova De Gaia, Portugal",
+      "active": true,
+      "sadoId": "20261571536",
+      "sharepointId": 20261571536,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rua do Areinho 856. 4430-767 Vila Nova de Gaia. Portugal (Areinho de Avintes)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1240546,
+      "isFire": true,
+      "weather": {
+        "stationId": 1240546,
+        "stationLocation": "Porto, Serra do Pilar",
+        "stationDistance": 4.1,
+        "temperatura": 15.3,
+        "humidade": 59,
+        "intensidadeVento": null,
+        "intensidadeVentoKM": null,
+        "idDireccVento": 0,
+        "direccVento": null,
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "PTO",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793899516
+      },
+      "updated": {
+        "sec": 1793899804
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571594"
+      },
+      "id": "20261571594",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793899860
+      },
+      "date": "05-11-2026",
+      "hour": "17:31",
+      "location": "Guarda, Sabugal, Quadrazais",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 16,
+      "terrain": 4,
+      "district": "Guarda",
+      "concelho": "Sabugal",
+      "freguesia": "Quadrazais",
+      "dico": "0911",
+      "lat": 40.324612,
+      "lng": -6.994166,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Quadrazais  ---",
+      "active": true,
+      "sadoId": "20261571594",
+      "sharepointId": 20261571594,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "QUADRAZAIS (Santa Eufémia)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210800,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210800,
+        "stationLocation": "Sabugal, Martim Rei",
+        "stationDistance": 4,
+        "temperatura": 14,
+        "humidade": 32,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 6,
+        "direccVento": "SW",
+        "precAcumulada": 0,
+        "radiacao": 1088.6,
+        "pressao": null,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793900175
+      },
+      "updated": {
+        "sec": 1793900645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571623"
+      },
+      "id": "20261571623",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793900220
+      },
+      "date": "05-11-2026",
+      "hour": "17:37",
+      "location": "Guarda, Pinhel, Vale Do Côa",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Guarda",
+      "concelho": "Pinhel",
+      "freguesia": "Vale Do Côa",
+      "dico": "0910",
+      "lat": 40.915651,
+      "lng": -7.125344,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Cidadelhe  ---",
+      "active": true,
+      "sadoId": "20261571623",
+      "sharepointId": 20261571623,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "117"
+      },
+      "detailLocation": "CIDADELHE (Vale Trevo)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210665,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793900645
+      },
+      "updated": {
+        "sec": 1793900669
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571626"
+      },
+      "id": "20261571626",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793899980
+      },
+      "date": "05-11-2026",
+      "hour": "17:33",
+      "location": "Aveiro, Santa Maria da Feira, Santa Maria De Lamas",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 1,
+      "district": "Aveiro",
+      "concelho": "Santa Maria Da Feira",
+      "freguesia": "Santa Maria De Lamas",
+      "dico": "0109",
+      "lat": 40.977745,
+      "lng": -8.569181,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Lamas Rua Da Valada",
+      "active": true,
+      "sadoId": "20261571626",
+      "sharepointId": 20261571626,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Bombeiros"
+      },
+      "detailLocation": "rua da valada (LAMAS DA FEIRA)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210659,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210659,
+        "stationLocation": "Espinho/Aeródromo",
+        "stationDistance": 6.2,
+        "temperatura": 14.5,
+        "humidade": 63,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": null,
+        "radiacao": null,
+        "pressao": 1018.8,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "AVR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793900645
+      },
+      "updated": {
+        "sec": 1793900686
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571662"
+      },
+      "id": "20261571662",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793898480
+      },
+      "date": "05-11-2026",
+      "hour": "17:08",
+      "location": "Lisboa, Torres Vedras, Ponte Do Rol",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 7,
+      "terrain": 2,
+      "district": "Lisboa",
+      "concelho": "Torres Vedras",
+      "freguesia": "Ponte Do Rol",
+      "dico": "1113",
+      "lat": 39.093761,
+      "lng": -9.329423,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "Ponte Do Rol Rua Guilherme Maria Da Silva",
+      "active": true,
+      "sadoId": "20261571662",
+      "sharepointId": 20261571662,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "Rua Guilherme Maria da Silva (SOITO)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Oeste",
+      "nearestWeatherStationId": 1210746,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210746,
+        "stationLocation": "Santa Cruz (Aeródromo)",
+        "stationDistance": 5.6,
+        "temperatura": 16.8,
+        "humidade": 57,
+        "intensidadeVento": 2.1,
+        "intensidadeVentoKM": 7.6,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 350.4,
+        "pressao": 1019,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "LSB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793900885
+      },
+      "updated": {
+        "sec": 1793900904
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261571679"
+      },
+      "id": "20261571679",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793900280
+      },
+      "date": "05-11-2026",
+      "hour": "17:38",
+      "location": "Braga, Esposende, Belinho",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 6,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Esposende",
+      "freguesia": "Belinho",
+      "dico": "0306",
+      "lat": 41.591664,
+      "lng": -8.795507,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
+      "important": false,
+      "localidade": "---  Caminho Das Neves",
+      "active": true,
+      "sadoId": "20261571679",
+      "sharepointId": 20261571679,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Norte",
+      "sub_regiao": "Cávado",
+      "nearestWeatherStationId": 1200551,
+      "isFire": true,
+      "weather": {
+        "stationId": 1200551,
+        "stationLocation": "Viana Castelo, Chafé",
+        "stationDistance": 6.4,
+        "temperatura": 14,
+        "humidade": 80,
+        "intensidadeVento": 1.4,
+        "intensidadeVentoKM": 5,
+        "idDireccVento": 7,
+        "direccVento": "W",
+        "precAcumulada": 0,
+        "radiacao": 1018.2,
+        "pressao": 1019.1,
+        "date": "2026-11-05T16:00:00.000000Z"
+      },
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "BRG",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-06T15:00:00",
+          "endTime": "2026-11-07T00:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1793901006
+      },
+      "updated": {
+        "sec": 1793901038
       }
     }
   ]
