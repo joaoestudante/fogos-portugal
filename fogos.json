@@ -65,16 +65,16 @@
         "stationId": 6213011,
         "stationLocation": "Aguiar da Beira (CIM)",
         "stationDistance": 13.2,
-        "temperatura": 4.1,
-        "humidade": 71,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
+        "temperatura": 3.6,
+        "humidade": 73,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 8,
+        "direccVento": "NW",
+        "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T01:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
@@ -142,16 +142,16 @@
         "stationId": 1210698,
         "stationLocation": "Fundão",
         "stationDistance": 20.6,
-        "temperatura": 8.4,
-        "humidade": 59,
-        "intensidadeVento": 0.8,
-        "intensidadeVentoKM": 2.9,
-        "idDireccVento": 6,
-        "direccVento": "SW",
+        "temperatura": 4.3,
+        "humidade": 68,
+        "intensidadeVento": 1.1,
+        "intensidadeVentoKM": 4,
+        "idDireccVento": 7,
+        "direccVento": "W",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
@@ -227,14 +227,14 @@
         "stationDistance": 14.9,
         "temperatura": null,
         "humidade": null,
-        "intensidadeVento": 1,
-        "intensidadeVentoKM": 3.6,
-        "idDireccVento": 9,
-        "direccVento": "N",
+        "intensidadeVento": 2.3,
+        "intensidadeVentoKM": 8.3,
+        "idDireccVento": 4,
+        "direccVento": "SE",
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-11-05T21:00:00.000000Z"
+        "date": "2026-11-06T01:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -317,16 +317,16 @@
         "stationId": 1210718,
         "stationLocation": "Leiria (Aeródromo)",
         "stationDistance": 14,
-        "temperatura": 6.6,
-        "humidade": 95,
-        "intensidadeVento": 2.1,
-        "intensidadeVentoKM": 7.6,
+        "temperatura": 6.1,
+        "humidade": 97,
+        "intensidadeVento": 1.8,
+        "intensidadeVentoKM": 6.5,
         "idDireccVento": 3,
         "direccVento": "E",
         "precAcumulada": 0,
         "radiacao": 0,
-        "pressao": 1021,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "pressao": 1020.7,
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -347,26 +347,26 @@
     },
     {
       "_id": {
-        "$id": "20261571113"
+        "$id": "20261572962"
       },
-      "id": "20261571113",
+      "id": "20261572962",
       "coords": true,
       "dateTime": {
-        "sec": 1793894040
+        "sec": 1793923260
       },
-      "date": "05-11-2026",
-      "hour": "15:54",
-      "location": "Braga, Terras de Bouro, Rio Caldo",
+      "date": "06-11-2026",
+      "hour": "00:01",
+      "location": "Guarda, Mêda, Rabaçal",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 0,
-      "terrain": 0,
-      "district": "Braga",
-      "concelho": "Terras De Bouro",
-      "freguesia": "Rio Caldo",
-      "dico": "0310",
-      "lat": 41.663748,
-      "lng": -8.19434,
+      "man": 5,
+      "terrain": 1,
+      "district": "Guarda",
+      "concelho": "Mêda",
+      "freguesia": "Rabaçal",
+      "dico": "0909",
+      "lat": 40.8506,
+      "lng": -7.24872,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -375,10 +375,87 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "---  Casa Do Beiral",
+      "localidade": "Rabaçal Rabaçal",
       "active": true,
-      "sadoId": "20261571113",
-      "sharepointId": 20261571113,
+      "sadoId": "20261572962",
+      "sharepointId": 20261572962,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "112"
+      },
+      "detailLocation": "Rabaçal (IP2 (EN102) Km 105)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Beiras e Serra da Estrela",
+      "nearestWeatherStationId": 1210666,
+      "isFire": true,
+      "weather": {
+        "stationId": 1210666,
+        "stationLocation": "Trancoso, Bandarra",
+        "stationDistance": 12.4,
+        "temperatura": 7.5,
+        "humidade": 58,
+        "intensidadeVento": 2.6,
+        "intensidadeVentoKM": 9.4,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-11-06T02:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1793924044
+      },
+      "updated": {
+        "sec": 1793927645
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261572985"
+      },
+      "id": "20261572985",
+      "coords": true,
+      "dateTime": {
+        "sec": 1793923800
+      },
+      "date": "06-11-2026",
+      "hour": "00:10",
+      "location": "Braga, Terras de Bouro, Gondoriz",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 5,
+      "terrain": 2,
+      "district": "Braga",
+      "concelho": "Terras De Bouro",
+      "freguesia": "Gondoriz",
+      "dico": "0310",
+      "lat": 41.739053,
+      "lng": -8.310665,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 7,
+      "statusColor": "6ABF59",
+      "status": "Em Resolução",
+      "important": false,
+      "localidade": "---  Mesquita",
+      "active": true,
+      "sadoId": "20261572985",
+      "sharepointId": 20261572985,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -386,7 +463,7 @@
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Casa do Beiral (Pedreirinha)",
+      "detailLocation": "Mesquita (Novo)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -402,9 +479,9 @@
       "weather": {
         "stationId": 6212121,
         "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "stationDistance": 11.1,
-        "temperatura": 7.2,
-        "humidade": 75,
+        "stationDistance": 4.1,
+        "temperatura": 6.7,
+        "humidade": 73,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
         "idDireccVento": 0,
@@ -412,7 +489,7 @@
         "precAcumulada": null,
         "radiacao": null,
         "pressao": 1021.9,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -425,34 +502,34 @@
         }
       ],
       "created": {
-        "sec": 1793894419
+        "sec": 1793924645
       },
       "updated": {
-        "sec": 1793909645
+        "sec": 1793933403
       }
     },
     {
       "_id": {
-        "$id": "20261571445"
+        "$id": "20261573028"
       },
-      "id": "20261571445",
+      "id": "20261573028",
       "coords": true,
       "dateTime": {
-        "sec": 1793897640
+        "sec": 1793925000
       },
-      "date": "05-11-2026",
-      "hour": "16:54",
+      "date": "06-11-2026",
+      "hour": "00:30",
       "location": "Viseu, Armamar, Queimadela",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 30,
-      "terrain": 9,
+      "man": 16,
+      "terrain": 5,
       "district": "Viseu",
       "concelho": "Armamar",
       "freguesia": "Queimadela",
       "dico": "1801",
-      "lat": 41.089573,
-      "lng": -7.742758,
+      "lat": 41.081708,
+      "lng": -7.736027,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -463,16 +540,12 @@
       "important": false,
       "localidade": "Queimadela Queimadela/vila Pouca",
       "active": true,
-      "sadoId": "20261571445",
-      "sharepointId": 20261571445,
+      "sadoId": "20261573028",
+      "sharepointId": 20261573028,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Populares"
-      },
-      "detailLocation": "Queimadela/Vila Pouca (Queimadela)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -488,60 +561,60 @@
       "weather": {
         "stationId": 1210663,
         "stationLocation": "Moimenta da Beira",
-        "stationDistance": 16.8,
-        "temperatura": 5.1,
-        "humidade": 70,
-        "intensidadeVento": 1.6,
-        "intensidadeVentoKM": 5.8,
+        "stationDistance": 15.8,
+        "temperatura": 3.2,
+        "humidade": 80,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
         "idDireccVento": 6,
         "direccVento": "SW",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [],
       "created": {
-        "sec": 1793898044
+        "sec": 1793925844
       },
       "updated": {
-        "sec": 1793910724
+        "sec": 1793934244
       }
     },
     {
       "_id": {
-        "$id": "20261572044"
+        "$id": "20261573147"
       },
-      "id": "20261572044",
+      "id": "20261573147",
       "coords": true,
       "dateTime": {
-        "sec": 1793905260
+        "sec": 1793930460
       },
-      "date": "05-11-2026",
-      "hour": "19:01",
-      "location": "Braga, Celorico de Basto, Vale De Bouro",
+      "date": "06-11-2026",
+      "hour": "02:01",
+      "location": "Porto, Matosinhos, Leça Do Balio",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 6,
-      "terrain": 2,
-      "district": "Braga",
-      "concelho": "Celorico De Basto",
-      "freguesia": "Vale De Bouro",
-      "dico": "0305",
-      "lat": 41.429463,
-      "lng": -8.01559,
+      "man": 4,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Matosinhos",
+      "freguesia": "Leça Do Balio",
+      "dico": "1308",
+      "lat": 41.19637,
+      "lng": -8.62396,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Vale De Bouro Rua Do Sabugueiro",
+      "localidade": "União Das Freguesias De Custóias, Leça Do Balio E Guifões  Rua De Mainça, 4465 Matosinhos, Portugal",
       "active": true,
-      "sadoId": "20261572044",
-      "sharepointId": 20261572044,
+      "sadoId": "20261573147",
+      "sharepointId": 20261573147,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -549,7 +622,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua do Sabugueiro (Sabugueiro)",
+      "detailLocation": "Rua de Mainça. 4465 Matosinhos. Portugal (EN14 (EN14) Km 2)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -559,75 +632,75 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Tâmega e Sousa",
-      "nearestWeatherStationId": 1210630,
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 1210649,
       "isFire": true,
       "weather": {
-        "stationId": 1210630,
-        "stationLocation": "Cabeceiras de Basto",
-        "stationDistance": 12.2,
-        "temperatura": 3.6,
-        "humidade": 96,
-        "intensidadeVento": 0.2,
-        "intensidadeVentoKM": 0.7,
-        "idDireccVento": 3,
-        "direccVento": "E",
+        "stationId": 1210649,
+        "stationLocation": "S. Gens",
+        "stationDistance": 2.2,
+        "temperatura": 6.6,
+        "humidade": 100,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 2,
+        "direccVento": "NE",
         "precAcumulada": 0,
         "radiacao": 0,
         "pressao": null,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [
         {
           "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
           "awarenessTypeName": "Precipitação",
-          "idAreaAviso": "BRG",
+          "idAreaAviso": "PTO",
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-06T15:00:00",
           "endTime": "2026-11-07T00:00:00"
         }
       ],
       "created": {
-        "sec": 1793905812
+        "sec": 1793931844
       },
       "updated": {
-        "sec": 1793916482
+        "sec": 1793931864
       }
     },
     {
       "_id": {
-        "$id": "20261572137"
+        "$id": "20261573198"
       },
-      "id": "20261572137",
+      "id": "20261573198",
       "coords": true,
       "dateTime": {
-        "sec": 1793906580
+        "sec": 1793933040
       },
-      "date": "05-11-2026",
-      "hour": "19:23",
-      "location": "Braga, Terras de Bouro, Chorense E Monte",
+      "date": "06-11-2026",
+      "hour": "02:44",
+      "location": "Porto, Santo Tirso, Areias, Sequeiró, Lama E Palmeira",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 11,
-      "terrain": 4,
-      "district": "Braga",
-      "concelho": "Terras De Bouro",
-      "freguesia": "Chorense E Monte",
-      "dico": "0310",
-      "lat": 41.681143,
-      "lng": -8.227332,
+      "man": 2,
+      "terrain": 1,
+      "district": "Porto",
+      "concelho": "Santo Tirso",
+      "freguesia": "Areias, Sequeiró, Lama E Palmeira",
+      "dico": "1314",
+      "lat": 41.3567,
+      "lng": -8.503776,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Monte Alecrimes",
+      "localidade": "União Das Freguesias De Areias, Sequeiró, Lama E Palmeira Autoestrada Do Minho, 4780 Santo Tirso, Portugal",
       "active": true,
-      "sadoId": "20261572137",
-      "sharepointId": 20261572137,
+      "sadoId": "20261573198",
+      "sharepointId": 20261573198,
       "extra": null,
       "disappear": false,
       "icnf": {
@@ -635,7 +708,7 @@
         "fogacho": true,
         "fontealerta": "112"
       },
-      "detailLocation": "Rua 1. 4845 Terras de Bouro. Portugal (Chamadouro)",
+      "detailLocation": "Autoestrada do Minho. 4780 Santo Tirso. Portugal (Real)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -645,83 +718,65 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Norte",
-      "sub_regiao": "Cávado",
-      "nearestWeatherStationId": 6212121,
+      "sub_regiao": "Area M. Porto",
+      "nearestWeatherStationId": 6212410,
       "isFire": true,
-      "weather": {
-        "stationId": 6212121,
-        "stationLocation": "Terras de Bouro/Barral (CIM)",
-        "stationDistance": 7.9,
-        "temperatura": 7.2,
-        "humidade": 75,
-        "intensidadeVento": null,
-        "intensidadeVentoKM": null,
-        "idDireccVento": 0,
-        "direccVento": null,
-        "precAcumulada": null,
-        "radiacao": null,
-        "pressao": 1021.9,
-        "date": "2026-11-05T22:00:00.000000Z"
-      },
+      "weather": null,
       "weatherWarnings": [
         {
           "text": "Períodos de chuva ou aguaceiros, por vezes fortes e acompanhados de trovoada.",
           "awarenessTypeName": "Precipitação",
-          "idAreaAviso": "BRG",
+          "idAreaAviso": "PTO",
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-06T15:00:00",
           "endTime": "2026-11-07T00:00:00"
         }
       ],
       "created": {
-        "sec": 1793907309
+        "sec": 1793933710
       },
       "updated": {
-        "sec": 1793911205
+        "sec": 1793934244
       }
     },
     {
       "_id": {
-        "$id": "20261572718"
+        "$id": "20261573222"
       },
-      "id": "20261572718",
+      "id": "20261573222",
       "coords": true,
       "dateTime": {
-        "sec": 1793916360
+        "sec": 1793934120
       },
-      "date": "05-11-2026",
-      "hour": "22:06",
-      "location": "Porto, Gondomar, Gondomar (São Cosme), Valbom E Jovim",
+      "date": "06-11-2026",
+      "hour": "03:02",
+      "location": "Porto, Vila Nova de Gaia, Crestuma",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
-      "terrain": 2,
+      "man": 4,
+      "terrain": 1,
       "district": "Porto",
-      "concelho": "Gondomar",
-      "freguesia": "Gondomar (São Cosme), Valbom E Jovim",
-      "dico": "1304",
-      "lat": 41.12332,
-      "lng": -8.544913,
-      "naturezaCode": "3111",
-      "natureza": "Queima",
+      "concelho": "Vila Nova De Gaia",
+      "freguesia": "Crestuma",
+      "dico": "1317",
+      "lat": 41.061517,
+      "lng": -8.503274,
+      "naturezaCode": "3103",
+      "natureza": "Mato",
       "especieName": null,
       "familiaName": null,
       "statusCode": 7,
       "statusColor": "6ABF59",
       "status": "Em Resolução",
       "important": false,
-      "localidade": "União Das Freguesias De Gondomar (São Cosme), Valbom E Jovim  Rua Dona Palmira, 4420 Gondomar, Portugal",
+      "localidade": "---  Rua Do Fioso 140",
       "active": true,
-      "sadoId": "20261572718",
-      "sharepointId": 20261572718,
+      "sadoId": "20261573222",
+      "sharepointId": 20261573222,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "Rua Dona Palmira. 4420 Gondomar. Portugal (Murejães)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -737,8 +792,8 @@
       "weather": {
         "stationId": 1240546,
         "stationLocation": "Porto, Serra do Pilar",
-        "stationDistance": 5.1,
-        "temperatura": 8.2,
+        "stationDistance": 11.9,
+        "temperatura": 6.7,
         "humidade": 100,
         "intensidadeVento": null,
         "intensidadeVentoKM": null,
@@ -747,7 +802,7 @@
         "precAcumulada": 0,
         "radiacao": null,
         "pressao": null,
-        "date": "2026-11-05T22:00:00.000000Z"
+        "date": "2026-11-06T02:00:00.000000Z"
       },
       "weatherWarnings": [
         {
@@ -760,69 +815,10 @@
         }
       ],
       "created": {
-        "sec": 1793917084
+        "sec": 1793934725
       },
       "updated": {
-        "sec": 1793920083
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261572749"
-      },
-      "id": "20261572749",
-      "coords": true,
-      "dateTime": {
-        "sec": 1793916600
-      },
-      "date": "05-11-2026",
-      "hour": "22:10",
-      "location": "Guarda, Pinhel, Valbom/bogalhal",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 17,
-      "terrain": 4,
-      "district": "Guarda",
-      "concelho": "Pinhel",
-      "freguesia": "Valbom/bogalhal",
-      "dico": "0910",
-      "lat": 40.820143,
-      "lng": -7.118492,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
-      "important": false,
-      "localidade": "Bogalhal Bogalhal",
-      "active": true,
-      "sadoId": "20261572749",
-      "sharepointId": 20261572749,
-      "extra": null,
-      "disappear": false,
-      "icnf": null,
-      "detailLocation": null,
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Centro",
-      "sub_regiao": "Beiras e Serra da Estrela",
-      "nearestWeatherStationId": 1210665,
-      "isFire": true,
-      "weather": null,
-      "weatherWarnings": [],
-      "created": {
-        "sec": 1793917563
-      },
-      "updated": {
-        "sec": 1793919844
+        "sec": 1793935205
       }
     }
   ]
