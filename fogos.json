@@ -15,8 +15,8 @@
       "location": "Leiria, Batalha, Batalha",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 9,
-      "terrain": 4,
+      "man": 2,
+      "terrain": 1,
       "district": "Leiria",
       "concelho": "Batalha",
       "freguesia": "Batalha",
@@ -44,7 +44,7 @@
           "mato": 5.6,
           "total": 5.6
         },
-        "altitude": 0,
+        "altitude": 155.133,
         "incendio": true,
         "fontealerta": "112"
       },
@@ -78,13 +78,21 @@
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-09T00:00:00",
           "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
         }
       ],
       "created": {
         "sec": 1794051312
       },
       "updated": {
-        "sec": 1794094685
+        "sec": 1794125042
       }
     },
     {
@@ -130,7 +138,7 @@
           "mato": 0.88,
           "total": 0.88
         },
-        "altitude": 0,
+        "altitude": 172.516,
         "fogacho": true,
         "fontealerta": "Outros"
       },
@@ -164,13 +172,21 @@
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-09T00:00:00",
           "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
         }
       ],
       "created": {
         "sec": 1794060724
       },
       "updated": {
-        "sec": 1794081671
+        "sec": 1794110421
       }
     },
     {
@@ -185,10 +201,10 @@
       "date": "07-11-2026",
       "hour": "14:30",
       "location": "Santarém, Rio Maior, Alcobertas",
-      "aerial": 0,
+      "aerial": 2,
       "meios_aquaticos": 0,
-      "man": 120,
-      "terrain": 35,
+      "man": 226,
+      "terrain": 72,
       "district": "Santarém",
       "concelho": "Rio Maior",
       "freguesia": "Alcobertas",
@@ -210,7 +226,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 402.973,
         "fogacho": true,
         "fontealerta": "Populares"
       },
@@ -256,7 +272,7 @@
         "sec": 1794062413
       },
       "updated": {
-        "sec": 1794102363
+        "sec": 1794128645
       }
     },
     {
@@ -296,7 +312,7 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "altitude": 76.1194,
         "fogacho": true,
         "fontealerta": "Bombeiros"
       },
@@ -344,13 +360,21 @@
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-09T00:00:00",
           "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
         }
       ],
       "created": {
         "sec": 1794065763
       },
       "updated": {
-        "sec": 1794081697
+        "sec": 1794110432
       }
     },
     {
@@ -390,7 +414,13 @@
       "extra": null,
       "disappear": false,
       "icnf": {
-        "altitude": 0,
+        "burnArea": {
+          "povoamento": 0.225,
+          "agricola": 0,
+          "mato": 0,
+          "total": 0.225
+        },
+        "altitude": 128.371,
         "fogacho": true,
         "fontealerta": "112"
       },
@@ -424,37 +454,45 @@
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-09T00:00:00",
           "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LRA",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
         }
       ],
       "created": {
         "sec": 1794083711
       },
       "updated": {
-        "sec": 1794099484
+        "sec": 1794110441
       }
     },
     {
       "_id": {
-        "$id": "20261583380"
+        "$id": "20261583983"
       },
-      "id": "20261583380",
+      "id": "20261583983",
       "coords": true,
       "dateTime": {
-        "sec": 1794099120
+        "sec": 1794123420
       },
       "date": "08-11-2026",
-      "hour": "00:52",
-      "location": "Lisboa, Sintra, S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
+      "hour": "07:37",
+      "location": "Évora, Montemor-o-Novo, Nossa Senhora Da Vila",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 15,
-      "terrain": 5,
-      "district": "Lisboa",
-      "concelho": "Sintra",
-      "freguesia": "S.maria, S.miguel, S.martinho, S.pedro Penaferrim",
-      "dico": "1111",
-      "lat": 38.818095,
-      "lng": -9.41805,
+      "man": 10,
+      "terrain": 4,
+      "district": "Évora",
+      "concelho": "Montemor-o-novo",
+      "freguesia": "Nossa Senhora Da Vila",
+      "dico": "0706",
+      "lat": 38.615688,
+      "lng": -8.204992,
       "naturezaCode": "3103",
       "natureza": "Mato",
       "especieName": null,
@@ -463,18 +501,18 @@
       "statusColor": "BDBDBD",
       "status": "Conclusão",
       "important": false,
-      "localidade": "Morelinho Praceta Do Sapo",
+      "localidade": "Reguengo Reguengo Malhadas Dos Porcos",
       "active": true,
-      "sadoId": "20261583380",
-      "sharepointId": 20261583380,
+      "sadoId": "20261583983",
+      "sharepointId": 20261583983,
       "extra": null,
       "disappear": false,
       "icnf": {
         "altitude": 0,
         "fogacho": true,
-        "fontealerta": "112"
+        "fontealerta": "Bombeiros"
       },
-      "detailLocation": "Praceta do Sapo (Zibreira)",
+      "detailLocation": "Reguengo Malhadas dos Porcos (Rio Almansor)",
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -483,78 +521,156 @@
       "heliCoord": 0,
       "planeFight": 0,
       "anepcDirectUpdate": false,
-      "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1210747,
+      "regiao": "Alentejo",
+      "sub_regiao": "Alentejo Central",
+      "nearestWeatherStationId": 1210846,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210846,
+        "stationLocation": "Montemor-O-Novo",
+        "stationDistance": 3.3,
+        "temperatura": 17.5,
+        "humidade": 59,
+        "intensidadeVento": 1,
+        "intensidadeVentoKM": 3.6,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": null,
+        "pressao": 1018.5,
+        "date": "2026-11-07T19:00:00.000000Z"
+      },
       "weatherWarnings": [
         {
           "text": "Períodos de chuva, por vezes fortes e acompanhados de trovoada.",
           "awarenessTypeName": "Precipitação",
-          "idAreaAviso": "LSB",
-          "awarenessLevelID": "yellow",
-          "startTime": "2026-11-08T18:00:00",
-          "endTime": "2026-11-09T06:00:00"
-        },
-        {
-          "text": "Vento do quadrante sul com rajadas até 75 km/h.",
-          "awarenessTypeName": "Vento",
-          "idAreaAviso": "LSB",
+          "idAreaAviso": "EVR",
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-08T18:00:00",
           "endTime": "2026-11-09T06:00:00"
         }
       ],
       "created": {
-        "sec": 1794100443
+        "sec": 1794124443
       },
       "updated": {
-        "sec": 1794104045
+        "sec": 1794127204
       }
     },
     {
       "_id": {
-        "$id": "20261583470"
+        "$id": "20261584183"
       },
-      "id": "20261583470",
+      "id": "20261584183",
       "coords": true,
       "dateTime": {
-        "sec": 1794102060
+        "sec": 1794126120
       },
       "date": "08-11-2026",
-      "hour": "01:41",
-      "location": "Lisboa, Cascais, Alcabideche",
+      "hour": "08:22",
+      "location": "Coimbra, Lousã, Lousã",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 7,
-      "terrain": 2,
-      "district": "Lisboa",
-      "concelho": "Cascais",
-      "freguesia": "Alcabideche",
-      "dico": "1105",
-      "lat": 38.725335,
-      "lng": -9.376028,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "man": 2,
+      "terrain": 1,
+      "district": "Coimbra",
+      "concelho": "Lousã",
+      "freguesia": "Lousã",
+      "dico": "0607",
+      "lat": 40.110421,
+      "lng": -8.235158,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 8,
-      "statusColor": "BDBDBD",
-      "status": "Conclusão",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Alcabideche Rua Da Guarda, 67",
+      "localidade": "Alfocheira  ---",
       "active": true,
-      "sadoId": "20261583470",
-      "sharepointId": 20261583470,
+      "sadoId": "20261584183",
+      "sharepointId": 20261584183,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "112"
+      "icnf": null,
+      "detailLocation": null,
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Centro",
+      "sub_regiao": "Região de Coimbra",
+      "nearestWeatherStationId": 1210697,
+      "isFire": true,
+      "weather": null,
+      "weatherWarnings": [
+        {
+          "text": "Períodos de chuva, por vezes fortes e acompanhados de trovoada.",
+          "awarenessTypeName": "Precipitação",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T00:00:00",
+          "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "CBR",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
+        }
+      ],
+      "created": {
+        "sec": 1794126724
       },
-      "detailLocation": "Rua da Guarda. 67 (Bairro da Esperança)",
+      "updated": {
+        "sec": 1794126742
+      }
+    },
+    {
+      "_id": {
+        "$id": "20261584250"
+      },
+      "id": "20261584250",
+      "coords": true,
+      "dateTime": {
+        "sec": 1794126600
+      },
+      "date": "08-11-2026",
+      "hour": "08:30",
+      "location": "Lisboa, Oeiras, Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 2,
+      "terrain": 1,
+      "district": "Lisboa",
+      "concelho": "Oeiras",
+      "freguesia": "Oeiras E S. Julião Da Barra, Paço De Arcos E Caxias",
+      "dico": "1110",
+      "lat": 38.699858,
+      "lng": -9.29837,
+      "naturezaCode": "4335",
+      "natureza": "Prevenção a Queimadas",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 5,
+      "statusColor": "B81E1F",
+      "status": "Em Curso",
+      "important": false,
+      "localidade": "União Das Freguesias De Oeiras E São Julião Da Barra, Paço De Arcos E Caxias Praia De Santo Amaro",
+      "active": true,
+      "sadoId": "20261584250",
+      "sharepointId": 20261584250,
+      "extra": null,
+      "disappear": false,
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -565,21 +681,21 @@
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
       "sub_regiao": "Grande Lisboa",
-      "nearestWeatherStationId": 1210752,
+      "nearestWeatherStationId": 6215360,
       "isFire": true,
       "weather": {
-        "stationId": 1210752,
-        "stationLocation": "Sintra/Tapada do Mouco",
-        "stationDistance": 6.6,
-        "temperatura": 14.8,
-        "humidade": 76,
-        "intensidadeVento": 1.5,
-        "intensidadeVentoKM": 5.4,
+        "stationId": 6215360,
+        "stationLocation": "Oeiras / Vila Fria (CMO)",
+        "stationDistance": 2.7,
+        "temperatura": 18.8,
+        "humidade": 59,
+        "intensidadeVento": 1.7,
+        "intensidadeVentoKM": 6.1,
         "idDireccVento": 4,
         "direccVento": "SE",
         "precAcumulada": 0,
-        "radiacao": null,
-        "pressao": null,
+        "radiacao": 0,
+        "pressao": 1016.1,
         "date": "2026-11-07T19:00:00.000000Z"
       },
       "weatherWarnings": [
@@ -598,57 +714,61 @@
           "awarenessLevelID": "yellow",
           "startTime": "2026-11-08T18:00:00",
           "endTime": "2026-11-09T06:00:00"
+        },
+        {
+          "text": "Ondas de sudoeste com 4 a 5 metros.",
+          "awarenessTypeName": "Agitação Marítima",
+          "idAreaAviso": "LSB",
+          "awarenessLevelID": "yellow",
+          "startTime": "2026-11-09T21:00:00",
+          "endTime": "2026-11-10T15:00:00"
         }
       ],
       "created": {
-        "sec": 1794102615
+        "sec": 1794127685
       },
       "updated": {
-        "sec": 1794103804
+        "sec": 1794127706
       }
     },
     {
       "_id": {
-        "$id": "20261583476"
+        "$id": "20261584340"
       },
-      "id": "20261583476",
+      "id": "20261584340",
       "coords": true,
       "dateTime": {
-        "sec": 1794101940
+        "sec": 1794128280
       },
       "date": "08-11-2026",
-      "hour": "01:39",
-      "location": "Santarém, Alcanena, Minde",
+      "hour": "08:58",
+      "location": "Santarém, Alpiarça, Alpiarça",
       "aerial": 0,
       "meios_aquaticos": 0,
-      "man": 5,
+      "man": 6,
       "terrain": 2,
       "district": "Santarém",
-      "concelho": "Alcanena",
-      "freguesia": "Minde",
-      "dico": "1402",
-      "lat": 39.51998,
-      "lng": -8.683748,
-      "naturezaCode": "3103",
-      "natureza": "Mato",
+      "concelho": "Alpiarça",
+      "freguesia": "Alpiarça",
+      "dico": "1404",
+      "lat": 39.262022,
+      "lng": -8.595402,
+      "naturezaCode": "3111",
+      "natureza": "Queima",
       "especieName": null,
       "familiaName": null,
-      "statusCode": 7,
-      "statusColor": "6ABF59",
-      "status": "Em Resolução",
+      "statusCode": 4,
+      "statusColor": "FF6E02",
+      "status": "Despacho de 1º Alerta",
       "important": false,
-      "localidade": "Minde  ---",
+      "localidade": "Alpiarça Alpiarça",
       "active": true,
-      "sadoId": "20261583476",
-      "sharepointId": 20261583476,
+      "sadoId": "20261584340",
+      "sharepointId": 20261584340,
       "extra": null,
       "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "fogacho": true,
-        "fontealerta": "Bombeiros"
-      },
-      "detailLocation": "MINDE (Bairro do Canal)",
+      "icnf": null,
+      "detailLocation": null,
       "kml": null,
       "kmlVost": null,
       "pco": null,
@@ -658,10 +778,24 @@
       "planeFight": 0,
       "anepcDirectUpdate": false,
       "regiao": "Lisboa e Vale do Tejo",
-      "sub_regiao": "Médio Tejo",
-      "nearestWeatherStationId": 1210723,
+      "sub_regiao": "Lezíria do Tejo",
+      "nearestWeatherStationId": 1210734,
       "isFire": true,
-      "weather": null,
+      "weather": {
+        "stationId": 1210734,
+        "stationLocation": "Santarém, Fonte Boa",
+        "stationDistance": 13.9,
+        "temperatura": 19.8,
+        "humidade": 52,
+        "intensidadeVento": 2,
+        "intensidadeVentoKM": 7.2,
+        "idDireccVento": 3,
+        "direccVento": "E",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": 1017,
+        "date": "2026-11-07T19:00:00.000000Z"
+      },
       "weatherWarnings": [
         {
           "text": "Períodos de chuva, por vezes fortes e acompanhados de trovoada.",
@@ -673,104 +807,10 @@
         }
       ],
       "created": {
-        "sec": 1794102724
+        "sec": 1794128645
       },
       "updated": {
-        "sec": 1794102743
-      }
-    },
-    {
-      "_id": {
-        "$id": "20261583483"
-      },
-      "id": "20261583483",
-      "coords": true,
-      "dateTime": {
-        "sec": 1794102540
-      },
-      "date": "08-11-2026",
-      "hour": "01:49",
-      "location": "Beja, Aljustrel, Rio De Moinhos",
-      "aerial": 0,
-      "meios_aquaticos": 0,
-      "man": 3,
-      "terrain": 2,
-      "district": "Beja",
-      "concelho": "Aljustrel",
-      "freguesia": "Rio De Moinhos",
-      "dico": "0201",
-      "lat": 37.90567,
-      "lng": -8.241457,
-      "naturezaCode": "3105",
-      "natureza": "Agrícola",
-      "especieName": null,
-      "familiaName": null,
-      "statusCode": 4,
-      "statusColor": "FF6E02",
-      "status": "Despacho de 1º Alerta",
-      "important": false,
-      "localidade": "União Das Freguesias De Aljustrel E Rio De Moinhos Latlong(37.90567147,-8.24145695) - Autoestrada Do Sul, 7600 Aljustrel, Portugal",
-      "active": true,
-      "sadoId": "20261583483",
-      "sharepointId": 20261583483,
-      "extra": null,
-      "disappear": false,
-      "icnf": {
-        "altitude": 0,
-        "agricola": true,
-        "fontealerta": "112"
-      },
-      "detailLocation": "LatLong(37.90567147.-8.24145695) - Autoestrada do Sul. 7600 Aljustrel. Portugal (Monte de Vila Cortes)",
-      "kml": null,
-      "kmlVost": null,
-      "pco": null,
-      "cos": null,
-      "heliFight": 0,
-      "heliCoord": 0,
-      "planeFight": 0,
-      "anepcDirectUpdate": false,
-      "regiao": "Alentejo",
-      "sub_regiao": "Baixo Alentejo",
-      "nearestWeatherStationId": 1210783,
-      "isFire": true,
-      "weather": {
-        "stationId": 1210783,
-        "stationLocation": "Alvalade",
-        "stationDistance": 14.2,
-        "temperatura": 21,
-        "humidade": 46,
-        "intensidadeVento": 3.6,
-        "intensidadeVentoKM": 13,
-        "idDireccVento": 5,
-        "direccVento": "S",
-        "precAcumulada": 0,
-        "radiacao": 0,
-        "pressao": null,
-        "date": "2026-11-07T19:00:00.000000Z"
-      },
-      "weatherWarnings": [
-        {
-          "text": "Períodos de chuva, por vezes fortes e acompanhados de trovoada.",
-          "awarenessTypeName": "Precipitação",
-          "idAreaAviso": "BJA",
-          "awarenessLevelID": "yellow",
-          "startTime": "2026-11-08T15:00:00",
-          "endTime": "2026-11-09T00:00:00"
-        },
-        {
-          "text": "Vento do quadrante sul com rajadas até 75 km/h.",
-          "awarenessTypeName": "Vento",
-          "idAreaAviso": "BJA",
-          "awarenessLevelID": "yellow",
-          "startTime": "2026-11-08T18:00:00",
-          "endTime": "2026-11-09T06:00:00"
-        }
-      ],
-      "created": {
-        "sec": 1794104284
-      },
-      "updated": {
-        "sec": 1794104301
+        "sec": 1794128663
       }
     }
   ]
