@@ -1,5 +1,83 @@
 {
-  "error": "rate_limit_exceeded",
-  "detail": "Too many requests. Please slow down or authenticate with an API key for higher limits.",
-  "requestAccessUrl": "https://api.fogos.pt/api/request-access"
+  "success": true,
+  "data": [
+    {
+      "_id": {
+        "$id": "20261683240"
+      },
+      "id": "20261683240",
+      "coords": true,
+      "dateTime": {
+        "sec": 1795811820
+      },
+      "date": "27-11-2026",
+      "hour": "20:37",
+      "location": "Setúbal, Montijo, Montijo E Afonsoeiro",
+      "aerial": 0,
+      "meios_aquaticos": 0,
+      "man": 9,
+      "terrain": 3,
+      "district": "Setúbal",
+      "concelho": "Montijo",
+      "freguesia": "Montijo E Afonsoeiro",
+      "dico": "1507",
+      "lat": 38.702323,
+      "lng": -8.975715,
+      "naturezaCode": "3105",
+      "natureza": "Agrícola",
+      "especieName": null,
+      "familiaName": null,
+      "statusCode": 8,
+      "statusColor": "BDBDBD",
+      "status": "Conclusão",
+      "important": false,
+      "localidade": "Montijo En4 Sentido Montijo/atalaia",
+      "active": true,
+      "sadoId": "20261683240",
+      "sharepointId": 20261683240,
+      "extra": null,
+      "disappear": false,
+      "icnf": {
+        "altitude": 0,
+        "fogacho": true,
+        "fontealerta": "Populares"
+      },
+      "detailLocation": "EN4 sentido Montijo/Atalaia (Rua Miguel Pais)",
+      "kml": null,
+      "kmlVost": null,
+      "pco": null,
+      "cos": null,
+      "heliFight": 0,
+      "heliCoord": 0,
+      "planeFight": 0,
+      "anepcDirectUpdate": false,
+      "regiao": "Lisboa e Vale do Tejo",
+      "sub_regiao": "Península de Setúbal",
+      "nearestWeatherStationId": 1210766,
+      "isFire": true,
+      "kind": "fire",
+      "weather": {
+        "stationId": 1210766,
+        "stationLocation": "Barreiro, Lavradio",
+        "stationDistance": 7,
+        "temperatura": 16.1,
+        "humidade": 87,
+        "intensidadeVento": 2.2,
+        "intensidadeVentoKM": 7.9,
+        "idDireccVento": 5,
+        "direccVento": "S",
+        "precAcumulada": 0,
+        "radiacao": 0,
+        "pressao": null,
+        "date": "2026-11-27T20:00:00.000000Z"
+      },
+      "weatherWarnings": [],
+      "created": {
+        "sec": 1795812724
+      },
+      "updated": {
+        "sec": 1795812964
+      }
+    }
+  ]
 }
